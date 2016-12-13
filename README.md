@@ -1,4 +1,7 @@
-# A.W.E.S.O.M.E - O
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lk-geimfari/awesomeo/master/artwork/a.w.e.s.o.m.e_o.png">
+  <br>
+</p>
 
 If you are interested in Open Source and are considering to join the community of Open Source developers, 
 it is possible that in this list you will find the project that will suit you. 
