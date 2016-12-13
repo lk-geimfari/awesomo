@@ -422,3 +422,12 @@ Phoenix  —  Productive. Reliable. Fast. A productive web framework that do
 ### Rust
 ### Scala
 ### Swift
+
+
+### License
+
+`awesomeo` by @lk-geimfari
+
+To the extent possible under law, the person who associated CC0 with awesomeo has waived all copyright and related or neighboring rights to awesomeo.
+
+You should have received a copy of the CC0 legalcode along with this work. If not, see https://creativecommons.org/publicdomain/zero/1.0/.
