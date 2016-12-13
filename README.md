@@ -481,6 +481,27 @@ Kubernetes builds upon a decade and a half of experience at Google running produ
 
 ![tile38](https://github.com/tidwall/tile38/raw/master/doc/logo1500.png)
 
+---
+[**logrus** ](https://github.com/Sirupsen/logrus) —  a structured logger for Golang, completely API compatible with the standard library logger.
+
+![logrus](https://cdn-images-1.medium.com/max/720/0*rj8FuIZS1ecrE3Js.)
+
+---
+[**traefik** ](https://github.com/containous/traefik) —  a modern HTTP reverse proxy and load balancer made to deploy microservices with ease. It supports several backends (Docker, Swarm, Kubernetes, Marathon, Mesos, Consul, Etcd, Zookeeper, BoltDB, Eureka, Rest API, file…) to manage its configuration automatically and dynamically.
+
+![traefik](https://github.com/containous/traefik/raw/master/docs/img/traefik.logo.png)
+
+---
+[**dry**](https://github.com/moncho/dry)  —  a terminal application to manage Docker containers and images. It aims to be an alternative to the official Docker CLI when it is needed to repeatedly execute commands on existing containers and images, and also as a tool to monitor Docker containers from a terminal.
+
+![dry](https://camo.githubusercontent.com/b6f78ecdce46d5f3988dcb338f057af12295e4e3/68747470733a2f2f61736369696e656d612e6f72672f612f33353832352e706e67)
+
+---
+[**pgweb**](https://github.com/sosedoff/pgweb)  —  Web-based PostgreSQL database browser written in Go.
+
+![pgweb](https://cdn-images-1.medium.com/max/720/0*IKNNhkpuX3wAab8y.png)
+
+
 ### Haskell
 ### Java
 ### JavaScript
