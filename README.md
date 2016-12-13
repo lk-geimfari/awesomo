@@ -9,9 +9,11 @@ it is possible that in this list you will find the project that will suit you.
 We don't add to list mammoth's shit. Only active projects every week.
 
 
+### Languages
+
  - [Bash]()
  - [C](#c)
- - [C++](#c++)
+ - [C++](#cpp)
  - [Clojure](#clojure)
  - [Common Lisp](#common-lisp)
  - [Elixir](#elixir)
@@ -32,13 +34,13 @@ We don't add to list mammoth's shit. Only active projects every week.
 
 #### Bash
 #### C
-#### C++
+#### CPP
 #### Clojure
 #### Common Lisp
 #### Elixir
 #### Erlang
 #### Emacs Lisp
-#### Golang
+#### Go
 #### Haskell
 #### Java
 #### JavaScript
