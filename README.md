@@ -9,7 +9,7 @@ it is possible that in this list you will find the project that will suit you.
 We don't add to list mammoth's shit. Only active and interesting projects.
 
 
-### Languages
+## Languages
 
  - [Bash](#bash)
  - [C/C++](#c)
@@ -24,13 +24,15 @@ We don't add to list mammoth's shit. Only active and interesting projects.
  - [OCaml](#ocaml)
  - [Python](#python)
  - [R](#r)
- - [Ruby](#ruby)
  - [Rust](#rust)
  - [Scala](#scala)
  - [Swift](#swift)
 
 
-### Bash
+
+
+
+## Bash
 
 [**git-secret**](https://github.com/sobolevn/git-secret)  —  a bash tool to store your private data inside a git repo. How’s that? Basically, it just encrypts, using gpg, the tracked files with the public keys of all the users that you trust. So everyone of them can decrypt these files using only their personal secret key. Why deal with all this private-public keys stuff? Well, to make it easier for everyone to manage access rights. There are no passwords that change. When someone is out - just delete his public key, re-encrypt the files, and he won’t be able to decrypt secrets anymore.
 
@@ -51,7 +53,7 @@ We don't add to list mammoth's shit. Only active and interesting projects.
 
 ![ohmyzsh](https://camo.githubusercontent.com/5c385f15f3eaedb72cfcfbbaf75355b700ac0757/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6f686d797a73682f6f682d6d792d7a73682d6c6f676f2e706e67)
 
-### C
+## C
 
 [**Torch**](https://github.com/torch/torch7) is a scientific computing framework with wide support for machine learning algorithms that puts GPUs first. It is easy to use and efficient, thanks to an easy and fast scripting language, LuaJIT, and an underlying C/CUDA implementation.
 
@@ -82,8 +84,13 @@ We don't add to list mammoth's shit. Only active and interesting projects.
 
 ![rdm](https://camo.githubusercontent.com/58c1eba58f659057d6db1ed01b0e7d4bd031414a/687474703a2f2f72656469736465736b746f702e636f6d2f7374617469632f696d672f66656174757265732f616c6c2e706e673f7632)
 
+---
+[**Robomongo**](https://github.com/paralect/robomongo) is a shell-centric cross-platform MongoDB management tool. Unlike most other MongoDB admin UI tools, Robomongo embeds the actual mongo shell in a tabbed interface with access to a shell command line as well as GUI interaction.
 
-### Clojure
+![robomongo](https://robomongo.org/static/screens-transparent-6e2a44fd.png)
+
+
+## Clojure
 
 
 [**Metabase**](https://github.com/metabase/metabase) is the easy, open source way for everyone in your company to ask questions and learn from data.
@@ -139,9 +146,8 @@ Typically, yada handlers are created from a configuation expressed in data.
 
 ![hoplon](https://camo.githubusercontent.com/75c776f58649a9aeb79835f37eefef65fc508df9/687474703a2f2f686f706c6f6e2e696f2f696d616765732f6c6f676f732f686f706c6f6e2d6c6f676f2e706e67)
 
----
 
-### Lisp
+## Lisp
 
 [**Magit**](https://github.com/magit/magit) is an interface to the version control system Git, implemented as an Emacs package. Magit aspires to be a complete Git porcelain. While we cannot claim that Magit wraps and improves upon each and every Git command, it is complete enough to allow even experienced Git users to perform almost all of their daily version control tasks directly from within Emacs. While many fine Git clients exist, only Magit and Git itself deserve to be called porcelains.
 
@@ -185,8 +191,13 @@ Example:
 ![alchemist](https://raw.githubusercontent.com/tonini/alchemist.el/master/images/alchemist_logo.png)
 
 
-### Elixir
+## Elixir
 
+Phoenix  —  Productive. Reliable. Fast. A productive web framework that does not compromise speed and maintainability.
+
+![phoenix](https://raw.githubusercontent.com/phoenixframework/phoenix/master/priv/static/phoenix.png)
+
+---
 [**credo**](https://github.com/rrrene/credo)  —  a static code analysis tool for the Elixir language with a focus on teaching and code consistency.
 
 ![credo](https://cdn-images-1.medium.com/max/720/0*wJ4w0yXU-HCsyPdt.)
@@ -385,11 +396,10 @@ false
 
 ![kitto](https://camo.githubusercontent.com/fd5296f52cb944cc4bbec6b62f98bd395488bf84/687474703a2f2f692e696d6775722e636f6d2f59675a696258552e706e67)
 
-### Erlang
+
+## Erlang
 
 [**Cowboy**](https://github.com/ninenines/cowboy)  —  a small, fast and modern HTTP server for Erlang/OTP. I think that everyone who interested in Erlang heard about a cowboy.
-
-![cowboy](http://www.freeiconspng.com/uploads/brown-hat-cowboy-icon-png-5.png)
 
 ---
 [**VerneMQ**](https://github.com/erlio/vernemq)  —  a high-performance, distributed MQTT message broker. It scales horizontally and vertically on commodity hardware to support a high number of concurrent publishers and consumers while maintaining low latency and fault tolerance. VerneMQ is the reliable message hub for your IoT platform or smart products.
@@ -407,14 +417,13 @@ false
 ![emqttd](https://cdn-images-1.medium.com/max/720/0*xfI-U65PaTV1JwQ3.)
 
 ---
-Phoenix  —  Productive. Reliable. Fast. A productive web framework that does not compromise speed and maintainability.
+[**MongooseIM**](https://github.com/esl/MongooseIM) is robust and efficient XMPP platform aimed at large installations. Specifically designed for enterprise purposes, it is fault-tolerant, can utilize resources of multiple clustered machines and easily scale in need of more capacity (by just adding a box/VM). MongooseIM can accept client sessions over vanilla XMPP, Websockets, HTTP long-polling (a.k.a. BOSH), and a REST API.
 
-![phoenix](https://raw.githubusercontent.com/phoenixframework/phoenix/master/priv/static/phoenix.png)
+The MongooseIM platform comes with server-side components and client libraries. We provide a test suite and a monitoring server. We recommand third-party, open source client libraries for XMPP and REST API.
 
----
+![mim](https://github.com/esl/MongooseIM/blob/master/doc/MongooseIM_logo.png)
 
-
-### Go
+## Go
 
 [**Cayley**](https://github.com/cayleygraph/cayley) is an open-source graph inspired by the graph database behind Freebase and Google’s Knowledge Graph.
 
@@ -482,8 +491,6 @@ Kubernetes builds upon a decade and a half of experience at Google running produ
 ---
 [**tile38**](https://github.com/tidwall/tile38)  —  an open source, in-memory geolocation data store, spatial index, and realtime geofence. It supports a variety of object types including lat/lon points, bounding boxes, XYZ tiles, Geohashes, and GeoJSON.
 
-![tile38](https://github.com/tidwall/tile38/raw/master/doc/logo1500.png)
-
 ---
 [**logrus** ](https://github.com/Sirupsen/logrus) —  a structured logger for Golang, completely API compatible with the standard library logger.
 
@@ -505,7 +512,7 @@ Kubernetes builds upon a decade and a half of experience at Google running produ
 ![pgweb](https://cdn-images-1.medium.com/max/720/0*IKNNhkpuX3wAab8y.png)
 
 
-### Haskell
+## Haskell
 
 [**Pandoc**](https://github.com/jgm/pandoc) is a Haskell library for converting from one markup format to another, and a command-line tool that uses this library. It can read Markdown, CommonMark, PHP Markdown Extra, GitHub-Flavored Markdown, MultiMarkdown, and (subsets of) Textile, reStructuredText, HTML, LaTeX, MediaWiki markup, TWiki markup, Haddock markup, OPML, Emacs Org mode, DocBook, txt2tags, EPUB, ODT and Word docx; and it can write plain text, Markdown, CommonMark, PHP Markdown Extra,GitHub-Flavored Markdown, MultiMarkdown, reStructuredText, XHTML, HTML5, LaTeX (including beamer slide shows), ConTeXt, RTF, OPML, DocBook, OpenDocument, ODT, Word docx, GNU Texinfo, MediaWiki markup, DokuWiki markup, ZimWiki markup, Haddock markup, EPUB (v2 or v3), FictionBook2, Textile, groff man pages, Emacs Org mode, AsciiDoc, InDesign ICML, TEI Simple, and Slidy, Slideous, DZSlides, reveal.js or S5 HTML slide shows. It can also produce PDF output on systems where LaTeX, ConTeXt, or wkhtmltopdf is installed.
 
@@ -526,7 +533,8 @@ Kubernetes builds upon a decade and a half of experience at Google running produ
 
 ![postgrest](https://github.com/begriffs/postgrest/raw/master/static/logo.png)
 
-### JavaScript
+
+## JavaScript
 
 [**Chart.js**](https://github.com/chartjs/Chart.js)  —  a simple HTML5 Charts using the canvas element.
 
@@ -583,7 +591,7 @@ Enzyme is unopinionated regarding which test runner or assertion library you use
 ![mongotron](https://cdn-images-1.medium.com/max/720/0*TdQw5EQvFq6vOXX1.)
 
 
-### Lua
+## Lua
 
 [**middleclass **](https://github.com/kikito/middleclass) —  a simple OOP library for Lua. It has inheritance, metamethods (operators), class variables and weak mixin support.
 
@@ -666,13 +674,13 @@ app:run()
 
 ![or](https://cdn-images-1.medium.com/max/720/0*Cfdc37-ND1PhOI70.jpg)
 
-### OCaml
+## OCaml
 
 [**Coq**](https://github.com/coq/coq) is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
 
 ![coq](https://cdn-images-1.medium.com/max/720/0*aPH6qIRV-1xlUZat.png)
 
-### Python
+## Python
 
 [**TensorFlow** ](https://github.com/tensorflow/tensorflow) —  an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) that flow between them. This flexible architecture lets you deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device without rewriting code. TensorFlow also includes TensorBoard, a data visualization toolkit.
 
@@ -884,12 +892,89 @@ Example:
 
 ![bokeh](https://cdn-images-1.medium.com/max/720/0*L6wK5yefN55iBsRx.jpg)
 
-### R
-### Ruby
-### Rust
-### Scala
-### Swift
+## R
 
+[**Shiny**](https://github.com/rstudio/shiny) is a new package from RStudio that makes it incredibly easy to build interactive web applications with R.
+
+![shiny](https://cdn-images-1.medium.com/max/720/0*zbuzdqFqY_qyeB6b.png)
+
+---
+[**plotly**](https://medium.com/@likid.geimfari/the-list-of-interesting-open-source-projects-2daaa2153f7c#.str9sn2ep)  —  an R package for creating interactive web graphics via the open source JavaScript graphing library plotly.js.
+
+![1](https://cdn-images-1.medium.com/max/720/0*qKFhFOHQDC3ilPYB.)
+![2](https://cdn-images-1.medium.com/max/720/0*lgkWbqk4NNUdQUYo.)
+![3](https://cdn-images-1.medium.com/max/720/0*CpPpyI96hTsYRcGr.)
+
+## Rust
+
+[**redox**](https://github.com/redox-os/redox)  —  an operating system written in Rust, a language with focus on safety and high performance. Redox, following the microkernel design, aims to be secure, usable, and free. Redox is inspired by previous kernels and operating systems, such as SeL4, Minix, Plan 9, and BSD.
+
+![redox](https://cdn-images-1.medium.com/max/720/0*pSsCTkAs-n5KOpdz.png)
+
+## Scala
+
+[**GitBucket**](https://github.com/gitbucket/gitbucket)  —  a Git platform powered by Scala with easy installation, high extensibility & github API compatibility.
+
+![gitbucket](https://cdn-images-1.medium.com/max/720/0*UFKKIcu3r-SMWkgP.png)
+
+---
+[**Finatra**](https://github.com/twitter/finatra)  —  a lightweight framework for building fast, testable, scala applications on top of TwitterServer and Finagle. Finatra provides an easy-to-use API for creating and testing Finagle servers and apps as well as powerful JSON support, modern logging via SLF4J, Finagle client utilities, and more.
+
+![finatra](https://cdn-images-1.medium.com/max/720/0*1ettbQZXcoyn7Ay3.png)
+
+---
+[**Scalatra**](https://github.com/scalatra/scalatra) is a tiny, Sinatra-like web framework for Scala.
+
+Example:
+
+```scala
+import org.scalatra._
+
+class ScalatraExample extends ScalatraServlet {
+  get("/") {
+    <h1>Hello, world!</h1>
+  }
+}
+```
+
+---
+[**algebird** ](https://github.com/twitter/algebird) —  an abstract algebra for Scala. This code is targeted at building aggregation systems (via Scalding or Apache Storm). It was originally developed as part of Scalding’s Matrix API, where Matrices had values which are elements of Monoids, Groups, or Rings. Subsequently, it was clear that the code had broader application within Scalding and on other projects within Twitter.
+
+## Swift
+
+[**Eureka**](https://github.com/xmartlabs/Eureka)  is an elegant iOS form builder in Swift.
+
+![eureka](https://cdn-images-1.medium.com/max/720/0*rGunV2H37sBhlJQG.jpg)
+
+---
+[**Alamofire**](https://github.com/Alamofire/Alamofire)  —  an HTTP networking library written in Swift.
+
+![alamofire](https://cdn-images-1.medium.com/max/720/0*43-l81sYoWldjAH6.png)
+
+---
+[**Kingfisher**](https://github.com/onevcat/Kingfisher) is a lightweight, pure-Swift library for downloading and caching images from the web. This project is heavily inspired by the popular SDWebImage. It provides you a chance to use a pure-Swift alternative in your next app.
+
+![kf](https://cdn-images-1.medium.com/max/720/0*lHU8xnXxXuQOZSAB.png)
+
+---
+[**Quick**](https://github.com/Quick/Quick) is a behavior-driven development framework for Swift and Objective-C. Inspired by RSpec, Specta, and Ginkgo.
+
+![quick](https://cdn-images-1.medium.com/max/720/0*ikCHOnueH08gf26M.png)
+
+---
+[**SwiftLint**](https://github.com/realm/SwiftLint)  —  a tool to enforce Swift style and conventions.
+
+![sl](https://cdn-images-1.medium.com/max/720/0*J9saJJAgjFZjMykS.png)
+
+---
+[**Kitura**](https://github.com/IBM-Swift/Kitura) is a web framework and web server that is created for web services written in Swift. For more information, visit www.kitura.io.
+
+![kitura](https://cdn-images-1.medium.com/max/720/0*sSG4Ngh4HbxpByBS.png)
+
+---
+[**Vapor**](https://github.com/vapor/vapor) —  the most used web framework for Swift. It provides a beautifully expressive and easy to use foundation for your next website, API, or cloud project.
+
+![vapor](https://cdn-images-1.medium.com/max/720/0*ARXIYxrCPsWYDGv0.jpg)
 
 ### License
 
