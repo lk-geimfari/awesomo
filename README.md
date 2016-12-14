@@ -19,9 +19,9 @@ We don't add to list mammoth's shit. Only active and interesting projects.
  - [Erlang](#erlang)
  - [Golang](#go)
  - [Haskell](#haskell)
- - [Java](#java)
  - [JavaScript](#javascript)
  - [Lua](#lua)
+ - [OCaml](#ocaml)
  - [Python](#python)
  - [R](#r)
  - [Ruby](#ruby)
@@ -526,9 +526,152 @@ Kubernetes builds upon a decade and a half of experience at Google running produ
 
 ![postgrest](https://github.com/begriffs/postgrest/raw/master/static/logo.png)
 
-### Java
 ### JavaScript
+
+[**Chart.js**](https://github.com/chartjs/Chart.js)  —  a simple HTML5 Charts using the canvas element.
+
+Chart.js provides two different builds that are available for your use. The Chart.js and Chart.min.js files include Chart.js and the accompanying color parsing library. If this version is used and you require the use of the time axis, Moment.js will need to be included before Chart.js.
+
+![chart.js](https://cdn-images-1.medium.com/max/720/0*bFZZQzdNeZkoy3Ov.jpg)
+
+---
+[**Moment.js**](https://github.com/moment/moment)  —  a lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
+
+![moment.js](https://cdn-images-1.medium.com/max/720/0*DP6jZMrfJIt2znNM.png)
+
+---
+[**D3**](https://github.com/d3/d3)  —  a JavaScript library for visualizing data using web standards. D3 helps you bring data to life using SVG, Canvas and HTML. D3 combines powerful visualization and interaction techniques with a data-driven approach to DOM manipulation, giving you the full capabilities of modern browsers and the freedom to design the right visual interface for your data.
+
+![d3](https://cdn-images-1.medium.com/max/720/0*bxHj6VbZ9lApwWyo.jpg)
+
+---
+[**N1 **](https://github.com/nylas/N1) —  an open-source mail client built on the modern web with Electron, React, and Flux. It is designed to be extensible, so it’s easy to create new experiences and workflows around email. N1 is built on the Nylas Sync Engine, which is also open-source free software.
+
+![logo](https://cdn-images-1.medium.com/max/720/0*47dEbQUDUuduqWTQ.)
+![main](https://cdn-images-1.medium.com/max/720/0*-hGOgH1DGkciuud9.)
+
+---
+[**Enzyme**](https://github.com/airbnb/enzyme) is a JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components’ output.
+
+Enzyme’s API is meant to be intuitive and flexible by mimicking jQuery’s API for DOM manipulation and traversal.
+
+Enzyme is unopinionated regarding which test runner or assertion library you use, and should be compatible with all major test runners and assertion libraries out there. The documentation and examples for enzyme use mocha and chai, but you should be able to extrapolate to your framework of choice.
+
+---
+[**sigma.js** ](https://github.com/jacomyal/sigma.js) —  a JavaScript library dedicated to graph drawing.
+
+![sigma](https://cdn-images-1.medium.com/max/720/0*rhhK5CbcRhe1KfDD.jpg)
+
+---
+[**strider**](https://github.com/Strider-CD/strider)  —  an Open Source Continuous Deployment / Continuous Integration platform. It is written in Node.JS / JavaScript and uses MongoDB as a backing store. It is published under the BSD license.
+
+![strider](https://cdn-images-1.medium.com/max/720/0*xth8wmt1O-zAf3Hy.jpg)
+
+---
+[**eme**](https://github.com/egoist/eme)  — an  elegant Markdown editor.
+
+![eme](https://cdn-images-1.medium.com/max/720/0*LJKIQV74HzypsKHl.jpg)
+
+---
+[**async**](https://github.com/caolan/async)  —  a utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript. Although originally designed for use with Node.js and installable via npm install --save async, it can also be used directly in the browser.
+
+![async](https://cdn-images-1.medium.com/max/720/0*MB_a8lRqGYBy276_.jpg)
+
+---
+[**Mongotron **]() —  a MongoDB GUI built using Electron, and Angular JS.
+
+![mongotron](https://cdn-images-1.medium.com/max/720/0*TdQw5EQvFq6vOXX1.)
+
+
 ### Lua
+
+[**middleclass **](https://github.com/kikito/middleclass) —  a simple OOP library for Lua. It has inheritance, metamethods (operators), class variables and weak mixin support.
+
+Quick look:
+
+```lua
+local class = require 'middleclass'
+
+local Fruit = class('Fruit') -- 'Fruit' is the class' name
+
+function Fruit:initialize(sweetness)
+  self.sweetness = sweetness
+end
+
+Fruit.static.sweetness_threshold = 5 -- class variable (also admits methods)
+
+function Fruit:isSweet()
+  return self.sweetness > Fruit.sweetness_threshold
+end
+
+local Lemon = class('Lemon', Fruit) -- subclassing
+
+function Lemon:initialize()
+  Fruit.initialize(self, 1) -- invoking the superclass' initializer
+end
+
+local lemon = Lemon:new()
+
+print(lemon:isSweet()) -- false
+```
+
+---
+[**luarocks**](https://github.com/luarocks/luarocks)  —  a package manager for Lua modules.
+
+![luaricks](https://cdn-images-1.medium.com/max/720/0*sawSUbg8SqRSpEha.)
+
+---
+[**telize **](https://github.com/fcambus/telize) —  a REST API built on Nginx and Lua allowing to get a visitor IP address and to query location information from any IP address. It outputs JSON-encoded IP geolocation data, and supports both JSON and JSONP.
+
+```
+t  e  l  i  z  e
+                       _______________________
+                 ______\                     /_______
+                \\     \\           ___     //      /
+           __    \ ____  \   __    /   \   _____/\ / ____
+       ___/  \____/  _//____/  \___\___/___\__   /__/  _//____
+      \\__    ____  __/  __     __      ____    ____  __/  __///
+        /      \_   |/    \_     /       \/     /_/   |/    \_
+      \\\   ___/\___       /____/\_______/\   ___/\___       /
+  <0(--- \__/ -h7- \______/   \       .    \__/ ---- \______/ --(0>
+                       \      .\     /.      .
+                        \      .\   //      /
+                         \______\\ //______/
+                                  Y
+```
+
+---
+[**lor **]() —  a fast and minimalist web framework based on OpenResty.
+
+Example:
+
+```lua
+local lor = require("lor.index")
+local app = lor()
+
+app:get("/", function(req, res, next)
+    res:send("hello world!")
+end)
+
+app:run()
+```
+
+---
+[**pegasus.lua **](https://github.com/EvandroLG/pegasus.lua) —  a http server to work with web applications written in Lua language.
+
+![pegasus](https://cdn-images-1.medium.com/max/720/1*4W5cLtqAYQDOloeUkAOOxg.png)
+
+---
+[**OpenResty**](https://github.com/openresty/openresty)  —  a full-fledged web platform by integrating the standard Nginx core, LuaJIT, many carefully written Lua libraries, lots of high quality 3rd-party Nginx modules, and most of their external dependencies. It is designed to help developers easily build scalable web applications, web services, and dynamic web gateways.
+
+![or](https://cdn-images-1.medium.com/max/720/0*Cfdc37-ND1PhOI70.jpg)
+
+### OCaml
+
+[**Coq**](https://github.com/coq/coq) is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
+
+![coq](https://cdn-images-1.medium.com/max/720/0*aPH6qIRV-1xlUZat.png)
+
 ### Python
 ### R
 ### Ruby
