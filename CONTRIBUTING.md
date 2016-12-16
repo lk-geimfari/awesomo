@@ -8,7 +8,7 @@ Your contributions are always welcome!
 
 - Add one commit per Pull Request.
 
-- Add the link: `- [project-name](http://example.com/) - The description ends with a period.`
+- Add the link: `- [**project-name**](http://example.com/) - The description ends with a period.`
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 
