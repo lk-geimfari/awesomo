@@ -24,6 +24,7 @@ We don't add to list mammoth's shit. Only active and interesting projects.
  - [OCaml](#ocaml)
  - [Python](#python)
  - [R](#r)
+ - [Ruby](#ruby)
  - [Rust](#rust)
  - [Scala](#scala)
  - [Swift](#swift)
@@ -88,6 +89,37 @@ We don't add to list mammoth's shit. Only active and interesting projects.
 [**Robomongo**](https://github.com/paralect/robomongo) is a shell-centric cross-platform MongoDB management tool. Unlike most other MongoDB admin UI tools, Robomongo embeds the actual mongo shell in a tabbed interface with access to a shell command line as well as GUI interaction.
 
 ![robomongo](https://robomongo.org/static/screens-transparent-6e2a44fd.png)
+
+---
+[**Lwan**](https://github.com/lpereira/lwan/) is a high-performance & scalable web server for glibc/Linux
+platforms.
+
+In development for almost 4 years, Lwan was until now a personal research
+effort that focused mostly on building a **solid infrastructure** for
+a lightweight and speedy web server:
+
+  - Low memory footprint (~500KiB for 10k idle connections)
+  - Minimal memory allocations & copies
+  - Minimal system calls
+  - Hand-crafted HTTP request parser
+  - Files are served using the most efficient way according to their size
+    - No copies between kernel and userland for files larger than 16KiB
+    - Smaller files are sent using vectored I/O of memory-mapped buffers
+    - Header overhead is considered before compressing small files
+  - Mostly wait-free multi-threaded design
+  - Diminute code base with roughly 7200 lines of C code
+
+It is now transitioning into a fully working, capable HTTP server. It is
+not, however, as feature-packed as other popular web servers. But it is
+[free software](http://www.gnu.org/philosophy/free-sw.html), so scratching
+your own itches and making Lwan hum the way you want it to is possible.
+
+---
+[**netdata**](https://github.com/firehol/netdata) is a system for distributed real-time performance and health monitoring. It provides unparalleled insights, in real-time, of everything happening on the system it runs (including applications such as web and database servers), using modern interactive web dashboards.
+
+netdata is fast and efficient, designed to permanently run on all systems (physical & virtual servers, containers, IoT devices), without disrupting their core function.
+
+![g1](https://cloud.githubusercontent.com/assets/2662304/14092712/93b039ea-f551-11e5-822c-beadbf2b2a2e.gif)
 
 
 ## Clojure
@@ -423,6 +455,13 @@ The MongooseIM platform comes with server-side components and client libraries. 
 
 ![mim](https://github.com/esl/MongooseIM/blob/master/doc/MongooseIM_logo.png)
 
+---
+[**RabbitMQ**](https://github.com/rabbitmq/rabbitmq-server) is open source message broker software (sometimes called message-oriented middleware) that implements the Advanced Message Queuing Protocol (AMQP). The RabbitMQ server is written in the Erlang programming language and is built on the Open Telecom Platform framework for clustering and failover. Client libraries to interface with the broker are available for all major programming languages.
+
+![rq](http://www.rabbitmq.com/img/rabbitmq_logo_strap.png)
+
+
+
 ## Go
 
 [**Cayley**](https://github.com/cayleygraph/cayley) is an open-source graph inspired by the graph database behind Freebase and Google’s Knowledge Graph.
@@ -589,6 +628,12 @@ Enzyme is unopinionated regarding which test runner or assertion library you use
 [**Mongotron **]() —  a MongoDB GUI built using Electron, and Angular JS.
 
 ![mongotron](https://cdn-images-1.medium.com/max/720/0*TdQw5EQvFq6vOXX1.)
+
+---
+[**Three.js**](https://github.com/mrdoob/three.js) is a cross-browser JavaScript library/API used to create and display animated 3D computer graphics in a web browser. Three.js uses WebGL.
+
+![three](http://www.awwwards.com/awards/images/2014/09/threejs-img8.jpg)
+
 
 
 ## Lua
@@ -922,6 +967,23 @@ Example:
 
 ![bokeh](https://cdn-images-1.medium.com/max/720/0*L6wK5yefN55iBsRx.jpg)
 
+---
+[**Records**](https://github.com/kennethreitz/records) is a very simple, but powerful, library for making raw SQL queries to most relational databases.
+
+Just write SQL. No bells, no whistles. This common task can be surprisingly difficult with the standard tools available. This library strives to make this workflow as simple as possible, while providing an elegant interface to work with your query results.
+
+Example:
+```python
+import records
+
+db = records.Database('postgres://...')
+rows = db.query('select * from active_users') 
+
+>>> rows[0]
+<Record {"username": "model-t", "active": true, "name": "Henry Ford", "user_email": "model-t@gmail.com", "timezone": "2016-02-06 22:28:23.894202"}>
+```
+
+
 ## R
 
 [**Shiny**](https://github.com/rstudio/shiny) is a new package from RStudio that makes it incredibly easy to build interactive web applications with R.
@@ -934,6 +996,19 @@ Example:
 ![1](https://cdn-images-1.medium.com/max/720/0*qKFhFOHQDC3ilPYB.)
 ![2](https://cdn-images-1.medium.com/max/720/0*lgkWbqk4NNUdQUYo.)
 ![3](https://cdn-images-1.medium.com/max/720/0*CpPpyI96hTsYRcGr.)
+
+
+## Ruby
+
+[**Slim**]() is a template language whose goal is to reduce the view syntax to the essential parts without becoming cryptic. It started as an exercise to see how much could be removed from a standard html template (<, >, closing tags, etc...). As more people took an interest in Slim, the functionality grew and so did the flexibility of the syntax.
+![slim](https://github.com/slim-template/slim)
+
+---
+[**Capybara**](https://github.com/teamcapybara/capybara) helps you test web applications by simulating how a real user would interact with your app. It is agnostic about the driver running your tests and comes with Rack::Test and Selenium support built in. WebKit is supported through an external gem.
+
+![capybara](http://3.bp.blogspot.com/-w0PgkPfQmPQ/U2CmD6r5IOI/AAAAAAAAAuA/Nz3biTN6izE/s1600/capybara-test-automation.png)
+
+
 
 ## Rust
 
