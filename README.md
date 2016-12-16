@@ -744,6 +744,36 @@ or how to generate dummy model of transport:
 ![nupic](https://cdn-images-1.medium.com/max/720/0*iYw1suOWr3weH9xq.)
 
 ---
+[**expynen**](https://github.com/lk-geimfari/expynent) t is a tiny library that provides RegEx patterns. This can be useful if you don't want to write regular expression manually.
+
+![expynent](https://raw.githubusercontent.com/lk-geimfari/expynent/master/other/logo.png)
+
+Examples:
+```python
+import re
+import expynent.patterns as expas
+
+if re.match(expas.ZIP_CODE['RU'], '43134'):
+    print('match')
+else:
+    print('not match')
+
+# Output: 'not match'
+```
+also you can use compiled patterns:
+
+```python
+from expynent.compiled import username
+
+u = input('Enter username: ')
+
+if username.match(u):
+    print('valid')
+else:
+    print('invalid')
+```
+
+---
 [**Universe**](https://github.com/openai/universe) is a software platform for measuring and training an AI’s general intelligence across the world’s supply of games, websites and other applications. This is the universe open-source library, which provides a simple Gym interface to each Universe environment.
 
 ![universe](https://cdn-images-1.medium.com/max/720/0*3gIaeIYFBO2REN_K.jpg)
