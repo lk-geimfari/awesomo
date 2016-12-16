@@ -1,13 +1,10 @@
--module(sorter)
-
+-module(sort)
 
 main() ->
     pass.
 
-
 alphabetically() ->
     pass.
-
 
 sort() ->
     pass.
