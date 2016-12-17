@@ -11,7 +11,7 @@ We don't add to list mammoth's shit. Only active and interesting projects.
 
 ## Languages
 
- - [Bash](#bash)
+ - [Bash/Shell](#shell)
  - [C/C++](#c)
  - [Clojure](#clojure)
  - [Common/Emacs Lisp](#lisp)
@@ -31,9 +31,7 @@ We don't add to list mammoth's shit. Only active and interesting projects.
 
 
 
-
-
-## Bash
+## Shell
 
 [**git-secret**](https://github.com/sobolevn/git-secret)  —  a bash tool to store your private data inside a git repo. How’s that? Basically, it just encrypts, using gpg, the tracked files with the public keys of all the users that you trust. So everyone of them can decrypt these files using only their personal secret key. Why deal with all this private-public keys stuff? Well, to make it easier for everyone to manage access rights. There are no passwords that change. When someone is out - just delete his public key, re-encrypt the files, and he won’t be able to decrypt secrets anymore.
 
@@ -459,6 +457,15 @@ The MongooseIM platform comes with server-side components and client libraries. 
 [**RabbitMQ**](https://github.com/rabbitmq/rabbitmq-server) is open source message broker software (sometimes called message-oriented middleware) that implements the Advanced Message Queuing Protocol (AMQP). The RabbitMQ server is written in the Erlang programming language and is built on the Open Telecom Platform framework for clustering and failover. Client libraries to interface with the broker are available for all major programming languages.
 
 ![rq](http://www.rabbitmq.com/img/rabbitmq_logo_strap.png)
+
+---
+[**Zotonic**](https://github.com/zotonic/zotonic) is the open source, high speed, real-time web framework and content management system, built with Erlang.
+
+It is flexible, extensible and designed from the ground up to support dynamic, interactive websites and mobile solutions.
+
+Zotonic is incredibly fast and wonderfully stable – suited for anything from basic websites to complex distributed applications. It offers an elegant backend for managing content with the flexibility that developers need to build truly amazing applications.
+
+![zotonic](http://zotonic.com/lib/images/logo.png)
 
 
 
