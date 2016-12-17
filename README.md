@@ -8,6 +8,9 @@ it is possible that in this list you will find the project that will suit you.
 
 We don't add to list mammoth's shit. Only active and interesting projects.
 
+Wanna support us? Just share with a this list with your friends.
+
+[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://github.com/lk-geimfari/awesomeo)
 
 ## Languages
 
