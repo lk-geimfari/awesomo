@@ -557,6 +557,20 @@ Kubernetes builds upon a decade and a half of experience at Google running produ
 
 ![pgweb](https://cdn-images-1.medium.com/max/720/0*IKNNhkpuX3wAab8y.png)
 
+---
+[**rkt**](https://github.com/coreos/rkt) (pronounced "rock-it") is a CLI for running app containers on Linux. rkt is designed to be secure, composable, and standards-based.
+
+Some of rkt's key features and goals include:
+
+ - *Security*: rkt is developed with a principle of "secure-by-default", and includes a number of important security features like support for SELinux, TPM measurement, and running app containers in hardware-isolated VMs.
+ - *Composability*: rkt is designed for first-class integration with init systems (systemd, upstart) and cluster orchestration tools (fleet, Kubernetes, Nomad), and supports swappable execution engines.
+ - *Open standards and compatibility*: rkt implements the appc specification, supports the Container Networking Interface specification, can also run Docker images, and OCI images via docker2aci. Native OCI image support is in development.
+
+
+![rkt](https://github.com/coreos/rkt/raw/master/logos/rkt-horizontal-color.png)
+
+
+
 
 ## Haskell
 
@@ -988,6 +1002,37 @@ rows = db.query('select * from active_users')
 
 >>> rows[0]
 <Record {"username": "model-t", "active": true, "name": "Henry Ford", "user_email": "model-t@gmail.com", "timezone": "2016-02-06 22:28:23.894202"}>
+```
+
+---
+[**coala**](https://github.com/coala/coala) provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
+
+With coala, users can create rules and standards to be followed in the source code. coala has an user-friendly interface that is completely customizable. It can be used in any environment and is completely modular.
+
+coala has a set of official bears (plugins) for several languages, including popular languages such as C/C++, Python, JavaScript, CSS, Java and many more, in addition to some generic language independent algorithms. To learn more about the different languages supported and the bears themselves, click here.
+
+![coala](https://cloud.githubusercontent.com/assets/7521600/15992701/ef245fd4-30ef-11e6-992d-275c5ca7c3a0.jpg)
+
+---
+[**Sanic**](https://github.com/channelcat/sanic) is a Flask-like Python 3.5+ web server that's written to go fast. It's based on the work done by the amazing folks at magicstack, and was inspired by this article: https://magic.io/blog/uvloop-blazing-fast-python-networking/.
+
+On top of being Flask-like, Sanic supports async request handlers. This means you can use the new shiny async/await syntax from Python 3.5, making your code non-blocking and speedy.
+
+Example:
+```python
+from sanic import Sanic
+from sanic.response import json
+
+
+app = Sanic()
+
+
+@app.route("/")
+async def test(request):
+    return json({"hello": "world"})
+
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=8000)
 ```
 
 
