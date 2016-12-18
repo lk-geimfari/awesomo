@@ -45,6 +45,11 @@ Wanna support us? Just share with a this list with your friends on Twitter, Face
 ![dokku](https://cdn-images-1.medium.com/max/720/0*2L6kj4dbuMGhKber.)
 
 ---
+[**expose**](https://github.com/Jack000/Expose) is a simple static site generator for photoessays. Expose is a Bash script that turns those images and videos into a photoessay similar to [jack.ventures](https://jack.ventures) or [jack.works](https://jack.works)
+
+![expose](https://camo.githubusercontent.com/93ac68246214694fbcf483c731788635e85c5cda/687474703a2f2f6a61636b2e776f726b732f6578706f7365696d616765732f696d61676573657175656e63652e676966)
+
+---
 [**pyenv**](https://github.com/yyuu/pyenv) lets you easily switch between multiple versions of Python. It’s simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well.
 
 ![pyenv](https://camo.githubusercontent.com/0e35e6235405bbcfcc0541b52c62dbd72094dde3/68747470733a2f2f692e6779617a6f2e636f6d2f36393961353839323762373765343665373163643637346337666337613738642e706e67)
