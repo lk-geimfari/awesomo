@@ -1,4 +1,4 @@
-## Golang
+## Go
 
 [**Cayley**](https://github.com/cayleygraph/cayley) is an open-source graph inspired by the graph database behind Freebase and Google’s Knowledge Graph.
 
@@ -85,3 +85,15 @@ Kubernetes builds upon a decade and a half of experience at Google running produ
 [**pgweb**](https://github.com/sosedoff/pgweb)  —  Web-based PostgreSQL database browser written in Go.
 
 ![pgweb](https://cdn-images-1.medium.com/max/720/0*IKNNhkpuX3wAab8y.png)
+
+---
+[**rkt**](https://github.com/coreos/rkt) (pronounced "rock-it") is a CLI for running app containers on Linux. rkt is designed to be secure, composable, and standards-based.
+
+Some of rkt's key features and goals include:
+
+ - *Security*: rkt is developed with a principle of "secure-by-default", and includes a number of important security features like support for SELinux, TPM measurement, and running app containers in hardware-isolated VMs.
+ - *Composability*: rkt is designed for first-class integration with init systems (systemd, upstart) and cluster orchestration tools (fleet, Kubernetes, Nomad), and supports swappable execution engines.
+ - *Open standards and compatibility*: rkt implements the appc specification, supports the Container Networking Interface specification, can also run Docker images, and OCI images via docker2aci. Native OCI image support is in development.
+
+
+![rkt](https://github.com/coreos/rkt/raw/master/logos/rkt-horizontal-color.png)

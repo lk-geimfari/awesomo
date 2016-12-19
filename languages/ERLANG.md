@@ -23,3 +23,17 @@
 The MongooseIM platform comes with server-side components and client libraries. We provide a test suite and a monitoring server. We recommand third-party, open source client libraries for XMPP and REST API.
 
 ![mim](https://github.com/esl/MongooseIM/blob/master/doc/MongooseIM_logo.png)
+
+---
+[**RabbitMQ**](https://github.com/rabbitmq/rabbitmq-server) is open source message broker software (sometimes called message-oriented middleware) that implements the Advanced Message Queuing Protocol (AMQP). The RabbitMQ server is written in the Erlang programming language and is built on the Open Telecom Platform framework for clustering and failover. Client libraries to interface with the broker are available for all major programming languages.
+
+![rq](http://www.rabbitmq.com/img/rabbitmq_logo_strap.png)
+
+---
+[**Zotonic**](https://github.com/zotonic/zotonic) is the open source, high speed, real-time web framework and content management system, built with Erlang.
+
+It is flexible, extensible and designed from the ground up to support dynamic, interactive websites and mobile solutions.
+
+Zotonic is incredibly fast and wonderfully stable – suited for anything from basic websites to complex distributed applications. It offers an elegant backend for managing content with the flexibility that developers need to build truly amazing applications.
+
+![zotonic](http://zotonic.com/lib/images/logo.png)

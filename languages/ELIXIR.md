@@ -1,5 +1,3 @@
-
-
 ## Elixir
 
 Phoenix  —  Productive. Reliable. Fast. A productive web framework that does not compromise speed and maintainability.

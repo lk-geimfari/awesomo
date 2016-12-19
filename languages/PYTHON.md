@@ -5,7 +5,7 @@
 ![tf](https://cdn-images-1.medium.com/max/720/0*dNVUpWFLoysACE9z.)
 
 ---
-[**Elizabeth**](https://github.com/lk-geimfari/elizabeth) - is a fast and easier to use Python library for generate dummy data. These data are very useful when you need to bootstrap the database in the testing phase of your software. A great example of how you can use the library is a web applications on Flask or Django which need a data, such as users (email, username, name, surname etc.), posts (tags, text, title, publishing date and etc.) asf. The library use the JSON files as a datastore and doesn’t have any dependencies. The library offers more than 18 different data providers (from the personal to transport and not only).
+[**Elizabeth**](https://github.com/lk-geimfari/elizabeth) - is a fast and easier to use Python library for generating dummy data. These data are very useful when you need to bootstrap the database in the testing phase of your software. A great example of how you can use the library are web applications on Flask or Django which need a data, such as users (email, username, name, surname etc.), posts (tags, text, title, publishing date and etc.) and so forth. The library uses the JSON files as a datastore and doesn’t have any dependencies. The library offers more than 18 different data providers (from personal ones to transport and more).
 
 ![elizabeth](https://raw.githubusercontent.com/lk-geimfari/elizabeth/master/other/elizabeth_1.png)
 
@@ -60,6 +60,36 @@ or how to generate dummy model of transport:
 [**The Numenta Platform for Intelligent Computing (NUPIC)**](https://github.com/numenta/nupic) is a machine intelligence platform that implements the HTM learning algorithms. HTM is a detailed computational theory of the neocortex. At the core of HTM are time-based continuous learning algorithms that store and recall spatial and temporal patterns. NuPIC is suited to a variety of problems, particularly anomaly detection and prediction of streaming data sources.
 
 ![nupic](https://cdn-images-1.medium.com/max/720/0*iYw1suOWr3weH9xq.)
+
+---
+[**expynen**](https://github.com/lk-geimfari/expynent) t is a tiny library that provides RegEx patterns. This can be useful if you don't want to write regular expression manually.
+
+![expynent](https://raw.githubusercontent.com/lk-geimfari/expynent/master/other/logo.png)
+
+Examples:
+```python
+import re
+import expynent.patterns as expas
+
+if re.match(expas.ZIP_CODE['RU'], '43134'):
+    print('match')
+else:
+    print('not match')
+
+# Output: 'not match'
+```
+also you can use compiled patterns:
+
+```python
+from expynent.compiled import username
+
+u = input('Enter username: ')
+
+if username.match(u):
+    print('valid')
+else:
+    print('invalid')
+```
 
 ---
 [**Universe**](https://github.com/openai/universe) is a software platform for measuring and training an AI’s general intelligence across the world’s supply of games, websites and other applications. This is the universe open-source library, which provides a simple Gym interface to each Universe environment.
@@ -210,15 +240,76 @@ Example:
 
 ![bokeh](https://cdn-images-1.medium.com/max/720/0*L6wK5yefN55iBsRx.jpg)
 
-## R
+---
+[**Records**](https://github.com/kennethreitz/records) is a very simple, but powerful, library for making raw SQL queries to most relational databases.
 
-[**Shiny**](https://github.com/rstudio/shiny) is a new package from RStudio that makes it incredibly easy to build interactive web applications with R.
+Just write SQL. No bells, no whistles. This common task can be surprisingly difficult with the standard tools available. This library strives to make this workflow as simple as possible, while providing an elegant interface to work with your query results.
 
-![shiny](https://cdn-images-1.medium.com/max/720/0*zbuzdqFqY_qyeB6b.png)
+Example:
+```python
+import records
+
+db = records.Database('postgres://...')
+rows = db.query('select * from active_users') 
+
+>>> rows[0]
+<Record {"username": "model-t", "active": true, "name": "Henry Ford", "user_email": "model-t@gmail.com", "timezone": "2016-02-06 22:28:23.894202"}>
+```
 
 ---
-[**plotly**](https://medium.com/@likid.geimfari/the-list-of-interesting-open-source-projects-2daaa2153f7c#.str9sn2ep)  —  an R package for creating interactive web graphics via the open source JavaScript graphing library plotly.js.
+[**coala**](https://github.com/coala/coala) provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 
-![1](https://cdn-images-1.medium.com/max/720/0*qKFhFOHQDC3ilPYB.)
-![2](https://cdn-images-1.medium.com/max/720/0*lgkWbqk4NNUdQUYo.)
-![3](https://cdn-images-1.medium.com/max/720/0*CpPpyI96hTsYRcGr.)
+With coala, users can create rules and standards to be followed in the source code. coala has an user-friendly interface that is completely customizable. It can be used in any environment and is completely modular.
+
+coala has a set of official bears (plugins) for several languages, including popular languages such as C/C++, Python, JavaScript, CSS, Java and many more, in addition to some generic language independent algorithms. To learn more about the different languages supported and the bears themselves, click here.
+
+![coala](https://cloud.githubusercontent.com/assets/7521600/15992701/ef245fd4-30ef-11e6-992d-275c5ca7c3a0.jpg)
+
+---
+[**Sanic**](https://github.com/channelcat/sanic) is a Flask-like Python 3.5+ web server that's written to go fast. It's based on the work done by the amazing folks at magicstack, and was inspired by this article: https://magic.io/blog/uvloop-blazing-fast-python-networking/.
+
+On top of being Flask-like, Sanic supports async request handlers. This means you can use the new shiny async/await syntax from Python 3.5, making your code non-blocking and speedy.
+
+Example:
+```python
+from sanic import Sanic
+from sanic.response import json
+
+
+app = Sanic()
+
+
+@app.route("/")
+async def test(request):
+    return json({"hello": "world"})
+
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=8000)
+```
+
+---
+[**Locust**](https://github.com/locustio/locust) is an easy-to-use, distributed, user load testing tool. It is intended for load-testing web sites (or other systems) and figuring out how many concurrent users a system can handle.
+
+The idea is that during a test, a swarm of locusts will attack your website. The behavior of each locust (or test user if you will) is defined by you and the swarming process is monitored from a web UI in real-time. This will help you battle test and identify bottlenecks in your code before letting real users in.
+
+Locust is completely event-based, and therefore it's possible to support thousands of concurrent users on a single machine. In contrast to many other event-based apps it doesn't use callbacks. Instead it uses light-weight processes, through gevent. Each locust swarming your site is actually running inside its own process (or greenlet, to be correct). This allows you to write very expressive scenarios in Python without complicating your code with callbacks.
+
+---
+[**py.test**](https://github.com/pytest-dev/pytest) framework makes it easy to write small tests, yet scales to support complex functional testing for applications and libraries.
+
+An example of a simple test:
+```python
+def inc(x):
+    return x + 1
+
+def test_answer():
+    assert inc(3) == 5
+```
+
+![pytest](https://camo.githubusercontent.com/8f3e1fe7073f8b9c4ec927c9af8d8961a74ad9af/687474703a2f2f646f63732e7079746573742e6f72672f656e2f6c61746573742f5f7374617469632f707974657374312e706e67)
+
+
+---
+[**uvloop**](https://github.com/MagicStack/uvloop) is a fast, drop-in replacement of the built-in asyncio event loop. uvloop is implemented in Cython and uses libuv under the hood.
+
+![ubloop](https://github.com/MagicStack/uvloop/raw/master/performance.png)

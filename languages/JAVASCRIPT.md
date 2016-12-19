@@ -1,5 +1,11 @@
 ## JavaScript
 
+[**medium-editor**](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
+
+![me](https://camo.githubusercontent.com/d86c82faf35336867c2b66ed0b931209fe0be224/68747470733a2f2f7261772e6769746875622e636f6d2f79616277652f6d656469756d2d656469746f722f6d61737465722f64656d6f2f696d672f6d656469756d2d656469746f722e6a7067)
+
+
+---
 [**Chart.js**](https://github.com/chartjs/Chart.js)  —  a simple HTML5 Charts using the canvas element.
 
 Chart.js provides two different builds that are available for your use. The Chart.js and Chart.min.js files include Chart.js and the accompanying color parsing library. If this version is used and you require the use of the time axis, Moment.js will need to be included before Chart.js.
@@ -53,3 +59,8 @@ Enzyme is unopinionated regarding which test runner or assertion library you use
 [**Mongotron **]() —  a MongoDB GUI built using Electron, and Angular JS.
 
 ![mongotron](https://cdn-images-1.medium.com/max/720/0*TdQw5EQvFq6vOXX1.)
+
+---
+[**Three.js**](https://github.com/mrdoob/three.js) is a cross-browser JavaScript library/API used to create and display animated 3D computer graphics in a web browser. Three.js uses WebGL.
+
+![three](http://www.awwwards.com/awards/images/2014/09/threejs-img8.jpg)
