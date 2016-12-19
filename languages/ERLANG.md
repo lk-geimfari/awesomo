@@ -1,0 +1,25 @@
+## Erlang
+
+[**Cowboy**](https://github.com/ninenines/cowboy)  —  a small, fast and modern HTTP server for Erlang/OTP. I think that everyone who interested in Erlang heard about a cowboy.
+
+---
+[**VerneMQ**](https://github.com/erlio/vernemq)  —  a high-performance, distributed MQTT message broker. It scales horizontally and vertically on commodity hardware to support a high number of concurrent publishers and consumers while maintaining low latency and fault tolerance. VerneMQ is the reliable message hub for your IoT platform or smart products.
+
+![verne](https://camo.githubusercontent.com/ebf2dcc84974ccec69bd6f66536c1cfba3da0eac/68747470733a2f2f692e696d6775722e636f6d2f626c6e33664b332e6a7067)
+
+---
+[**ejabberd**](https://github.com/processone/ejabberd) is a distributed, fault-tolerant technology that allows the creation of large-scale instant messaging applications. The server can reliably support thousands of simultaneous users on a single node and has been designed to provide exceptional standards of fault tolerance. As an open source technology, based on industry-standards, ejabberd can be used to build bespoke solutions very cost effectively.
+
+![ejabberd](https://cdn-images-1.medium.com/max/720/0*-Fn3L0VxHoCKDRX1.jpg)
+
+---
+[**emqttd** ](https://github.com/emqtt/emqttd) —  a massively scalable and clusterable MQTT V3.1/V3.1.1 broker written in Erlang/OTP.
+
+![emqttd](https://cdn-images-1.medium.com/max/720/0*xfI-U65PaTV1JwQ3.)
+
+---
+[**MongooseIM**](https://github.com/esl/MongooseIM) is robust and efficient XMPP platform aimed at large installations. Specifically designed for enterprise purposes, it is fault-tolerant, can utilize resources of multiple clustered machines and easily scale in need of more capacity (by just adding a box/VM). MongooseIM can accept client sessions over vanilla XMPP, Websockets, HTTP long-polling (a.k.a. BOSH), and a REST API.
+
+The MongooseIM platform comes with server-side components and client libraries. We provide a test suite and a monitoring server. We recommand third-party, open source client libraries for XMPP and REST API.
+
+![mim](https://github.com/esl/MongooseIM/blob/master/doc/MongooseIM_logo.png)
