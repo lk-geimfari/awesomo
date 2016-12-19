@@ -162,7 +162,7 @@ True
 ![pgcli](https://cdn-images-1.medium.com/max/720/0*jFR4zKWP5x7DunCJ.gif)
 
 ---
-[**Pendulum**]()  —  Python datetimes made easy.
+[**Pendulum**](https://github.com/sdispater/pendulum)  —  Python datetimes made easy.
 
 Example:
 
