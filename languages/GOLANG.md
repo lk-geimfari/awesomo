@@ -1,5 +1,10 @@
 ## Go
 
+[**Gitql**](https://github.com/cloudson/gitql) is a Git query language.
+
+![gitql](https://raw.githubusercontent.com/cloudson/gitql/develop/howtouse.gif)
+
+---
 [**Cayley**](https://github.com/cayleygraph/cayley) is an open-source graph inspired by the graph database behind Freebase and Google’s Knowledge Graph.
 
 Its goal is to be a part of the developer’s toolbox where Linked Data and graph-shaped data (semantic webs, social networks, etc) in general are concerned.
