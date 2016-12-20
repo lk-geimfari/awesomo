@@ -313,3 +313,28 @@ def test_answer():
 [**uvloop**](https://github.com/MagicStack/uvloop) is a fast, drop-in replacement of the built-in asyncio event loop. uvloop is implemented in Cython and uses libuv under the hood.
 
 ![ubloop](https://github.com/MagicStack/uvloop/raw/master/performance.png)
+
+
+---
+[**Voltron**](https://github.com/snare/voltron) is an extensible debugger UI toolkit written in Python. It aims to improve the user experience of various debuggers (LLDB, GDB, VDB and WinDbg) by enabling the attachment of utility views that can retrieve and display data from the debugger host. By running these views in other TTYs, you can build a customised debugger user interface to suit your needs.
+
+Voltron does not aim to be everything to everyone. It's not a wholesale replacement for your debugger's CLI. Rather, it aims to complement your existing setup and allow you to extend your CLI debugger as much or as little as you like. If you just want a view of the register contents in a window alongside your debugger, you can do that. If you want to go all out and have something that looks more like OllyDbg, you can do that too.
+
+Built-in views are provided for:
+
+- Registers
+- Disassembly
+- Stack
+- Memory
+- Breakpoints
+- Backtrace
+
+The author's setup looks something like this:
+
+![voltron example LLDB](http://i.imgur.com/9nukztA.png)
+
+Any debugger command can be split off into a view and highlighted with a specified Pygments lexer:
+
+![command views](http://i.imgur.com/RbYQYXp.png)
+
+More screenshots are [here](https://github.com/snare/voltron/wiki/Screenshots).
