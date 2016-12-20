@@ -9,7 +9,29 @@
 
 ![elizabeth](https://raw.githubusercontent.com/lk-geimfari/elizabeth/master/other/elizabeth_1.png)
 
-Below you can see, how to generate fake paths using `Elizabeth`:
+Below you can see, how to generate fake names:
+
+```python
+from elizabeth import Personal
+
+user = Personal('is')
+
+for _ in range(0, 9):
+    print(user.full_name(gender='male'))
+```
+```
+Karl Brynjúlfsson
+Rögnvald Eiðsson
+Vésteinn Ríkharðsson
+Friðleifur Granason
+Fjarki Arngarðsson
+Hafsteinn Þrymsson
+Sívar Kakalason
+Grímnir Unason
+Gýmir Þórðsson
+```
+
+fake paths:
 
 ```python
 >>> from elizabeth import Path
