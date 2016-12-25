@@ -5,6 +5,11 @@ Phoenix  —  Productive. Reliable. Fast. A productive web framework that do
 ![phoenix](https://raw.githubusercontent.com/phoenixframework/phoenix/master/priv/static/phoenix.png)
 
 ---
+[**phoenix-trello**](https://github.com/bigardone/phoenix-trello). Trello tribute done with Elixir, Phoenix Framework, Webpack, React and Redux.
+
+![phoenix-trello](https://camo.githubusercontent.com/9e4bcb76cee6115acc4aa3295cec356ae1d25bef/687474703a2f2f636f64656c6f7665616e64626f617264732e636f6d2f696d616765732f626c6f672f7472656c6c6f5f747269627574655f70745f312f7369676e2d696e2d61386661313964612e6a7067)
+
+---
 [**credo**](https://github.com/rrrene/credo)  —  a static code analysis tool for the Elixir language with a focus on teaching and code consistency.
 
 ![credo](https://cdn-images-1.medium.com/max/720/0*wJ4w0yXU-HCsyPdt.)
