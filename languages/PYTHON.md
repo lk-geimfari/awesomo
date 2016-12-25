@@ -362,7 +362,7 @@ Any debugger command can be split off into a view and highlighted with a specifi
 More screenshots are [here](https://github.com/snare/voltron/wiki/Screenshots).
 
 ---
-[Maya](https://github.com/kennethreitz/maya). Datetimes are very frustrating to work with in Python, especially when dealing with different locales on different systems. This library exists to make the simple things much easier, while admitting that time is an illusion (timezones doubly so).
+[**Maya**](https://github.com/kennethreitz/maya). Datetimes are very frustrating to work with in Python, especially when dealing with different locales on different systems. This library exists to make the simple things much easier, while admitting that time is an illusion (timezones doubly so).
 
 ```python
 >>> now = maya.now()
