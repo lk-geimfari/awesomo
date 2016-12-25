@@ -29,6 +29,40 @@ The MongooseIM platform comes with server-side components and client libraries. 
 
 ![rq](http://www.rabbitmq.com/img/rabbitmq_logo_strap.png)
 
+
+---
+[**Smokkfiskur**](https://github.com/lk-geimfari/smokkfiskur) is a small library for colored (ANSI) output in Erlang. It's can be useful when you need to create a user-friendly command-line applications.
+
+Example:
+
+```erlang
+-import(smokkfiskur, [print/1]).
+
+update_something() ->
+  %% ...
+  %% ...
+  %% ...
+  print({green, "Something has been updated successfully!"}).
+```
+or
+```erlang
+-import(smokkfiskur, [print/1]).
+
+
+%%=========================
+%% Text
+%%=========================
+print({red,    "Text"}).
+print({black,  "Text"}).
+
+%%=========================
+%% Background
+%%=========================
+background({red,    "Text"}).
+background({black,  "Text"}).
+
+```
+
 ---
 [**Zotonic**](https://github.com/zotonic/zotonic) is the open source, high speed, real-time web framework and content management system, built with Erlang.
 
