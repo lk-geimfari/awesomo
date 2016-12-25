@@ -55,3 +55,8 @@ Typically, yada handlers are created from a configuation expressed in data.
 ![hoplon](https://camo.githubusercontent.com/75c776f58649a9aeb79835f37eefef65fc508df9/687474703a2f2f686f706c6f6e2e696f2f696d616765732f6c6f676f732f686f706c6f6e2d6c6f676f2e706e67)
 
 
+---
+[**Pedestal**](https://github.com/pedestal/pedestal) is a set of libraries written in Clojure that aims to bring both the language and its principles (Simplicity, Power and Focus) to server-side development.
+
+[Here](https://github.com/pedestal/pedestal/tree/master/samples) you can find samples.
+
