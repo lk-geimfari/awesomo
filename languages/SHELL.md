@@ -23,3 +23,6 @@
 [**oh-my-zsh**](https://github.com/robbyrussell/oh-my-zsh) - a delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. 
 
 ![ohmyzsh](https://camo.githubusercontent.com/5c385f15f3eaedb72cfcfbbaf75355b700ac0757/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6f686d797a73682f6f682d6d792d7a73682d6c6f676f2e706e67)
+
+---
+[**Kerl**](https://github.com/kerl/kerl). Easy building and installing of Erlang/OTP instances. Kerl aims to be shell agnostic and its only dependencies, excluding what's required to actually build Erlang/OTP, are curl and git. All is done so that, once a specific release has been built, creating a new installation is as fast as possible.
