@@ -2,10 +2,14 @@
 
 [**TensorFlow** ](https://github.com/tensorflow/tensorflow) —  an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) that flow between them. This flexible architecture lets you deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device without rewriting code. TensorFlow also includes TensorBoard, a data visualization toolkit.
 
+Supported: *Python 2/3*
+
 ![tf](https://cdn-images-1.medium.com/max/720/0*dNVUpWFLoysACE9z.)
 
 ---
 [**Elizabeth**](https://github.com/lk-geimfari/elizabeth) - is a fast and easier to use Python library for generating dummy data. These data are very useful when you need to bootstrap the database in the testing phase of your software. A great example of how you can use the library are web applications on Flask or Django which need a data, such as users (email, username, name, surname etc.), posts (tags, text, title, publishing date and etc.) and so forth. The library uses the JSON files as a datastore and doesn’t have any dependencies. The library offers more than 18 different data providers (from personal ones to transport and more).
+
+Supported: *Python 3*
 
 ![elizabeth](https://raw.githubusercontent.com/lk-geimfari/elizabeth/master/other/elizabeth_1.png)
 
@@ -81,6 +85,8 @@ or how to generate dummy model of transport:
 ---
 [**The Numenta Platform for Intelligent Computing (NUPIC)**](https://github.com/numenta/nupic) is a machine intelligence platform that implements the HTM learning algorithms. HTM is a detailed computational theory of the neocortex. At the core of HTM are time-based continuous learning algorithms that store and recall spatial and temporal patterns. NuPIC is suited to a variety of problems, particularly anomaly detection and prediction of streaming data sources.
 
+Supported: *Python 2*
+
 ![nupic](https://cdn-images-1.medium.com/max/720/0*iYw1suOWr3weH9xq.)
 
 ---
@@ -116,25 +122,35 @@ else:
 ---
 [**Universe**](https://github.com/openai/universe) is a software platform for measuring and training an AI’s general intelligence across the world’s supply of games, websites and other applications. This is the universe open-source library, which provides a simple Gym interface to each Universe environment.
 
+Supported: *Python 2/3*
+
 ![universe](https://cdn-images-1.medium.com/max/720/0*3gIaeIYFBO2REN_K.jpg)
 
 ---
 [**Theano **](https://github.com/Theano/Theano) —  a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.
+
+Supported: *Python 2/3*
 
 ![theano](https://cdn-images-1.medium.com/max/720/0*b-nP6iz23vKIVqys.png)
 
 ---
 [http-prompt ](https://github.com/eliangcs/http-prompt) —  an interactive command-line HTTP client featuring autocomplete and syntax highlighting.
 
+Supported: *Python 2/3*
+
 ![hp](https://cdn-images-1.medium.com/max/720/0*Oo5GWcygacE7F9LM.gif)
 
 ---
 [**falcon** ](https://github.com/falconry/falcon) —  is a high-performance Python framework for building cloud APIs. It encourages the REST architectural style, and tries to do as little as possible while remaining highly effective.
 
+Supported: *Python 2/3*
+
 ![falcon](https://cdn-images-1.medium.com/max/720/0*q9KGh0C5nrVelow1.png)
 
 ---
  [**eve**](https://github.com/nicolaiarocci/eve) —  an open source Python REST API framework designed for human beings. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services.
+
+Supported: *Python 2/3*
 
 Eve is powered by Flask, Redis, Cerberus, Events and offers support for both MongoDB and SQL backends.
 
@@ -157,10 +173,14 @@ HTTP/1.1 200 OK
 ---
 [**plotly.py**](https://github.com/plotly/plotly.py) —  an interactive, browser-based charting library for Python.
 
+Supported: *Python 2/3*
+
 ![pp](https://cdn-images-1.medium.com/max/720/0*dV4zYWbHRFlXk4UB.)
 
 ---
 [**cerberus**](https://github.com/nicolaiarocci/cerberus)  —  a lightweight and extensible data validation library for Python.
+
+Supported: *Python 2/3*
 
 ```python
 >>> v = Validator({'name': {'type': 'string'}})
@@ -171,20 +191,28 @@ True
 ---
 [**Rainbow Stream **](https://github.com/DTVD/rainbowstream) —  is a terminal-based Twitter Client. Realtime tweetstream, compose, search, favorite … and much more fun directly from terminal.
 
+Supported: *Python 2/3*
+
 ![main](https://raw.githubusercontent.com/DTVD/rainbowstream/master/screenshot/rs.gif)
 
 ---
 [**the fuck** ](https://github.com/nvbn/thefuck) —  is a magnificent app which corrects your previous console command.
+
+Supported: *Python 2/3*
 
 ![fuck](https://cdn-images-1.medium.com/max/720/0*lzaRCNye94_EIWDH.gif)
 
 ---
 [**pgcli**](https://github.com/dbcli/pgcli)  —  Postgres CLI with autocompletion and syntax highlighting. pgcli written in Python.
 
+Supported: *Python 2/3*
+
 ![pgcli](https://cdn-images-1.medium.com/max/720/0*jFR4zKWP5x7DunCJ.gif)
 
 ---
 [**Pendulum**](https://github.com/sdispater/pendulum)  —  Python datetimes made easy.
+
+Supported: *Python 2/3*
 
 Example:
 
@@ -230,25 +258,35 @@ Example:
 ---
 [**python-prompt-toolkit** ](https://github.com/jonathanslenders/python-prompt-toolkit) —  a library for building powerful interactive command lines and terminal applications in Python.
 
+Supported: *Python 2/3*
+
 ![ppt](https://cdn-images-1.medium.com/max/720/0*1pyfbQd0UNohXpTs.png)
 
 ---
 [**superset** ](https://github.com/airbnb/superset) —  a data exploration platform designed to be visual, intuitive and interactive.
+
+Supported: *Python 2/3*
 
 ![superset](https://cdn-images-1.medium.com/max/720/0*EIcb12FSCzgxLinu.png)
 
 ---
 [**astropy**](https://github.com/astropy/astropy)  —  a package intended to contain much of the core functionality and some common tools needed for performing astronomy and astrophysics with Python.
 
+Supported: *Python 2/3*
+
 ![astropy](https://cdn-images-1.medium.com/max/720/0*rMpYXhi1ZuZnSunq.png)
 
 ---
 [**httpie**](https://github.com/jkbrzt/httpie)  —  a command line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. It provides a simple http command that allows for sending arbitrary HTTP requests using a simple and natural syntax, and displays colorized output. HTTPie can be used for testing, debugging, and generally interacting with HTTP servers.
 
+Supported: *Python 2/3*
+
 ![httpie](https://cdn-images-1.medium.com/max/720/0*_Tq3t5elxAb9-VPD.png)
 
 ---
 [**compose** ](https://github.com/docker/compose) —  a tool for defining and running multi-container Docker applications. With Compose, you use a Compose file to configure your application’s services. Then, using a single command, you create and start all the services from your configuration.
+
+Supported: *Python 2/3*
 
 ![compose](https://cdn-images-1.medium.com/max/720/0*SdJayWyknC_r8Js9.)
 
@@ -260,12 +298,16 @@ Example:
 ---
 [**bokeh**](https://github.com/bokeh/bokeh)  —  a Python interactive visualization library, enables beautiful and meaningful visual presentation of data in modern web browsers. With Bokeh, you can quickly and easily create interactive plots, dashboards, and data applications.
 
+Supported: *Python 2/3*
+
 ![bokeh](https://cdn-images-1.medium.com/max/720/0*L6wK5yefN55iBsRx.jpg)
 
 ---
 [**Records**](https://github.com/kennethreitz/records) is a very simple, but powerful, library for making raw SQL queries to most relational databases.
 
 Just write SQL. No bells, no whistles. This common task can be surprisingly difficult with the standard tools available. This library strives to make this workflow as simple as possible, while providing an elegant interface to work with your query results.
+
+Supported: *Python 2/3*
 
 Example:
 ```python
@@ -285,12 +327,16 @@ With coala, users can create rules and standards to be followed in the source co
 
 coala has a set of official bears (plugins) for several languages, including popular languages such as C/C++, Python, JavaScript, CSS, Java and many more, in addition to some generic language independent algorithms. To learn more about the different languages supported and the bears themselves, click here.
 
+Supported: *Python 2/3*
+
 ![coala](https://cloud.githubusercontent.com/assets/7521600/15992701/ef245fd4-30ef-11e6-992d-275c5ca7c3a0.jpg)
 
 ---
 [**Sanic**](https://github.com/channelcat/sanic) is a Flask-like Python 3.5+ web server that's written to go fast. It's based on the work done by the amazing folks at magicstack, and was inspired by this article: https://magic.io/blog/uvloop-blazing-fast-python-networking/.
 
 On top of being Flask-like, Sanic supports async request handlers. This means you can use the new shiny async/await syntax from Python 3.5, making your code non-blocking and speedy.
+
+Supported: *Python 2/3*
 
 Example:
 ```python
@@ -316,8 +362,12 @@ The idea is that during a test, a swarm of locusts will attack your website. The
 
 Locust is completely event-based, and therefore it's possible to support thousands of concurrent users on a single machine. In contrast to many other event-based apps it doesn't use callbacks. Instead it uses light-weight processes, through gevent. Each locust swarming your site is actually running inside its own process (or greenlet, to be correct). This allows you to write very expressive scenarios in Python without complicating your code with callbacks.
 
+Supported: *Python 2/3*
+
 ---
 [**py.test**](https://github.com/pytest-dev/pytest) framework makes it easy to write small tests, yet scales to support complex functional testing for applications and libraries.
+
+Supported: *Python 2/3*
 
 An example of a simple test:
 ```python
@@ -334,6 +384,8 @@ def test_answer():
 ---
 [**uvloop**](https://github.com/MagicStack/uvloop) is a fast, drop-in replacement of the built-in asyncio event loop. uvloop is implemented in Cython and uses libuv under the hood.
 
+Supported: *Python 2/3*
+
 ![ubloop](https://github.com/MagicStack/uvloop/raw/master/performance.png)
 
 
@@ -341,6 +393,8 @@ def test_answer():
 [**Voltron**](https://github.com/snare/voltron) is an extensible debugger UI toolkit written in Python. It aims to improve the user experience of various debuggers (LLDB, GDB, VDB and WinDbg) by enabling the attachment of utility views that can retrieve and display data from the debugger host. By running these views in other TTYs, you can build a customised debugger user interface to suit your needs.
 
 Voltron does not aim to be everything to everyone. It's not a wholesale replacement for your debugger's CLI. Rather, it aims to complement your existing setup and allow you to extend your CLI debugger as much or as little as you like. If you just want a view of the register contents in a window alongside your debugger, you can do that. If you want to go all out and have something that looks more like OllyDbg, you can do that too.
+
+Supported: *Python 2/3*
 
 Built-in views are provided for:
 
@@ -363,6 +417,8 @@ More screenshots are [here](https://github.com/snare/voltron/wiki/Screenshots).
 
 ---
 [**Maya**](https://github.com/kennethreitz/maya). Datetimes are very frustrating to work with in Python, especially when dealing with different locales on different systems. This library exists to make the simple things much easier, while admitting that time is an illusion (timezones doubly so).
+
+Supported: *Python 3*
 
 ```python
 >>> now = maya.now()
