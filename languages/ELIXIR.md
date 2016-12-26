@@ -207,3 +207,7 @@ false
 [**kitto** ](https://github.com/kittoframework/kitto) —  a framework to help you create dashboards, written in Elixir/React.
 
 ![kitto](https://camo.githubusercontent.com/fd5296f52cb944cc4bbec6b62f98bd395488bf84/687474703a2f2f692e696d6775722e636f6d2f59675a696258552e706e67)
+
+---
+[**Faker**](https://github.com/igas/faker) is a pure Elixir library for generating fake data.
+
