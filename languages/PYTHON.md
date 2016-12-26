@@ -210,6 +210,11 @@ Supported: *Python 2/3*
 ![pgcli](https://cdn-images-1.medium.com/max/720/0*jFR4zKWP5x7DunCJ.gif)
 
 ---
+[**mycli**](https://github.com/dbcli/mycli) - a command line client for MySQL that can do auto-completion and syntax highlighting.
+
+![mycli](https://raw.githubusercontent.com/dbcli/mycli/master/screenshots/main.gif)
+
+---
 [**Pendulum**](https://github.com/sdispater/pendulum)  —  Python datetimes made easy.
 
 Supported: *Python 2/3*
