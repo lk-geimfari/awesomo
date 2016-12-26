@@ -128,3 +128,26 @@ Rack gives you a simple developer-focused API that lets you build, deploy, scale
 As your application grows, the effort required to test it also grows exponentially. GoReplay offers you the simple idea of reusing your existing traffic for testing, which makes it incredibly powerful. Our state of art technique allows to analyze and record your application traffic without affecting it. This eliminates the risks that come with putting a third party component in the critical path.
 
 ![goreplay](https://camo.githubusercontent.com/9f1d7f1303e4362acf347b1671ada86c3b4c3679/687474703a2f2f692e696d6775722e636f6d2f5a47326b69356e2e706e67)
+
+---
+[**Packer**](https://github.com/mitchellh/packer) is a tool for building identical machine images for multiple platforms
+from a single source configuration.
+
+Packer is lightweight, runs on every major operating system, and is highly
+performant, creating machine images for multiple platforms in parallel. Packer
+comes out of the box with support for the following platforms:
+
+* Amazon EC2 (AMI). Both EBS-backed and instance-store AMIs
+* Azure
+* DigitalOcean
+* Docker
+* Google Compute Engine
+* OpenStack
+* Parallels
+* QEMU. Both KVM and Xen images.
+* VirtualBox
+* VMware
+
+Support for other platforms can be added via plugins.
+
+![packer](https://www.packer.io/assets/images/screenshots/vmware_and_virtualbox-7c37c65e.png)
