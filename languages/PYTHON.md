@@ -503,3 +503,16 @@ If you’re using a hosted service and don’t have direct access to your web se
 Certbot is a fully-featured, extensible client for the Let's Encrypt CA (or any other CA that speaks the ACME protocol) that can automate the tasks of obtaining certificates and configuring webservers to use them. This client runs on Unix-based operating systems.
 
 ![cerebot](https://certbot.eff.org/images/certbot-logo-1A.svg)
+
+---
+[**Khal**](https://github.com/pimutils/khal) is a standards based CLI and terminal calendar program, able to synchronize with CalDAV servers through vdirsyncer.
+
+![khal](https://camo.githubusercontent.com/a372d6b085f1f11909094a69f9653b7f5ba56e2b/687474703a2f2f6c6f73747061636b6574732e64652f696d616765732f6b68616c2e706e67)
+
+---
+[**asciinema**](https://github.com/asciinema/asciinema) is a terminal session recorder and the best companion of asciinema.org
+
+![asciinema](https://camo.githubusercontent.com/d04a961654feef41e10eb3174ddf80a480b39eaa/68747470733a2f2f61736369696e656d612e6f72672f612f34323338332e706e67)
+
+
+
