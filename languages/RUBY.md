@@ -18,3 +18,8 @@
 Sidekiq is compatible with Resque. It uses the exact same message format as Resque so it can integrate into an existing Resque processing farm. You can have Sidekiq and Resque run side-by-side at the same time and use the Resque client to enqueue jobs in Redis to be processed by Sidekiq.
 
 ![sidekiq](https://raw.githubusercontent.com/mperham/sidekiq/master/examples/web-ui.png)
+
+---
+Better Errors replaces the standard Rails error page with a much better and more useful error page. It is also usable outside of Rails in any Rack app as Rack middleware.
+
+![image](https://i.imgur.com/6zBGAAb.png)
