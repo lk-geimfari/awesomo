@@ -85,3 +85,28 @@ end
 [**Celluloid**](https://github.com/celluloid/celluloid) provides a simple and natural way to build fault-tolerant concurrent programs in Ruby. With Celluloid, you can build systems out of concurrent objects just as easily as you build sequential programs out of regular objects. Recommended for any developer, including novices, Celluloid should help ease your worries about building multithreaded Ruby programs.
 
 ![celluloid](https://camo.githubusercontent.com/93b2cbcbc8ab71c512eef53f30349f1efa53c567/68747470733a2f2f7261772e6769746875622e636f6d2f63656c6c756c6f69642f63656c6c756c6f69642d6c6f676f732f6d61737465722f63656c6c756c6f69642f63656c6c756c6f69642e706e67)
+
+---
+[**Puma**](https://github.com/puma/puma) is a simple, fast, threaded, and highly concurrent HTTP 1.1 server for Ruby/Rack applications. Puma is intended for use in both development and production environments. In order to get the best throughput, it is highly recommended that you use a Ruby implementation with real threads like Rubinius or JRuby.
+
+---
+[**Pry**](https://github.com/pry/pry) is a powerful alternative to the standard IRB shell for Ruby. It is
+written from scratch to provide a number of advanced features,
+including:
+
+* Source code browsing (including core C source with the pry-doc gem)
+* Documentation browsing
+* Live help system
+* Open methods in editors (`edit Class#method`)
+* Syntax highlighting
+* Command shell integration (start editors, run git, and rake from within Pry)
+* Gist integration
+* Navigation around state (`cd`, `ls` and friends)
+* Runtime invocation (use Pry as a developer console or debugger)
+* Exotic object support (BasicObject instances, IClasses, ...)
+* A Powerful and flexible command system
+* Ability to view and replay history
+* Many convenience commands inspired by IPython, Smalltalk and other advanced REPLs
+* A wide-range number of [plugins](https://github.com/pry/pry/wiki/Available-plugins) that provide remote sessions, full debugging functionality, and more.
+
+![pry](https://camo.githubusercontent.com/c26ae0f28a595b15dc4d135fdcc113366f811853/68747470733a2f2f646c2e64726f70626f782e636f6d2f752f32363532313837352f70727925323073747566662f6c6f676f2f7072795f6c6f676f5f3335302e706e67)
