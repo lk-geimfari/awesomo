@@ -20,6 +20,6 @@ Sidekiq is compatible with Resque. It uses the exact same message format as Resq
 ![sidekiq](https://raw.githubusercontent.com/mperham/sidekiq/master/examples/web-ui.png)
 
 ---
-Better Errors replaces the standard Rails error page with a much better and more useful error page. It is also usable outside of Rails in any Rack app as Rack middleware.
+[**Better Errors**](https://github.com/charliesome/better_errors) replaces the standard Rails error page with a much better and more useful error page. It is also usable outside of Rails in any Rack app as Rack middleware.
 
 ![image](https://i.imgur.com/6zBGAAb.png)
