@@ -23,3 +23,60 @@ Sidekiq is compatible with Resque. It uses the exact same message format as Resq
 [**Better Errors**](https://github.com/charliesome/better_errors) replaces the standard Rails error page with a much better and more useful error page. It is also usable outside of Rails in any Rack app as Rack middleware.
 
 ![image](https://i.imgur.com/6zBGAAb.png)
+
+---
+[**Faraday**](https://github.com/lostisland/faraday) is an HTTP client lib that provides a common interface over many
+adapters (such as Net::HTTP) and embraces the concept of Rack middleware when
+processing the request/response cycle.
+
+Faraday supports these adapters:
+
+* [Net::HTTP][net_http] _(default)_
+* [Net::HTTP::Persistent][persistent]
+* [Excon][]
+* [Typhoeus][]
+* [Patron][]
+* [EventMachine][]
+* [HTTPClient][]
+
+It also includes a Rack adapter for hitting loaded Rack applications through
+Rack::Test, and a Test adapter for stubbing requests by hand.
+
+```ruby
+conn = Faraday.new(:url => 'http://sushi.com') do |faraday|
+  faraday.request  :url_encoded             # form-encode POST params
+  faraday.response :logger                  # log requests to STDOUT
+  faraday.adapter  Faraday.default_adapter  # make requests with Net::HTTP
+end
+
+## GET ##
+
+response = conn.get '/nigiri/sake.json'     # GET http://sushi.com/nigiri/sake.json
+response.body
+
+conn.get '/nigiri', { :name => 'Maguro' }   # GET http://sushi.com/nigiri?name=Maguro
+
+conn.get do |req|                           # GET http://sushi.com/search?page=2&limit=100
+  req.url '/search', :page => 2
+  req.params['limit'] = 100
+end
+
+## POST ##
+
+conn.post '/nigiri', { :name => 'Maguro' }  # POST "name=maguro" to http://sushi.com/nigiri
+
+# post payload as JSON instead of "www-form-urlencoded" encoding:
+conn.post do |req|
+  req.url '/nigiri'
+  req.headers['Content-Type'] = 'application/json'
+  req.body = '{ "name": "Unagi" }'
+end
+
+## Per-request options ##
+
+conn.get do |req|
+  req.url '/search'
+  req.options.timeout = 5           # open/read timeout in seconds
+  req.options.open_timeout = 2      # connection open timeout in seconds
+end
+```
