@@ -121,3 +121,10 @@ Some of rkt's key features and goals include:
 Rack gives you a simple developer-focused API that lets you build, deploy, scale and manage apps on private infrastructure with ease.
 
 ![rack](https://convox.com/assets/img/logo.png)
+
+---
+[**GoReplay**](https://github.com/buger/goreplay) is the simplest and safest way to test your app using real traffic before you put it into production.
+
+As your application grows, the effort required to test it also grows exponentially. GoReplay offers you the simple idea of reusing your existing traffic for testing, which makes it incredibly powerful. Our state of art technique allows to analyze and record your application traffic without affecting it. This eliminates the risks that come with putting a third party component in the critical path.
+
+![goreplay](https://camo.githubusercontent.com/9f1d7f1303e4362acf347b1671ada86c3b4c3679/687474703a2f2f692e696d6775722e636f6d2f5a47326b69356e2e706e67)
