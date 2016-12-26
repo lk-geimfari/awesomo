@@ -483,3 +483,9 @@ Supported: *Python 2/3*
 [**Glances**](https://github.com/nicolargo/glances) is a cross-platform curses-based system monitoring tool written in Python.
 
 ![glences](https://raw.githubusercontent.com/nicolargo/glances/develop/docs/_static/screencast.gif)
+
+
+---
+[**hug**](https://github.com/timothycrosley/hug) aims to make developing Python driven APIs as simple as possible, but no simpler. As a result, it drastically simplifies Python API development.
+
+![hug](https://camo.githubusercontent.com/dc3f611ccdd6289ca11478dcb9ec4f9a1742248a/68747470733a2f2f7261772e6769746875622e636f6d2f74696d6f74687963726f736c65792f6875672f646576656c6f702f617274776f726b2f6578616d706c652e676966)
