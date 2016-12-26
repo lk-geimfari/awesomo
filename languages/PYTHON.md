@@ -90,7 +90,7 @@ Supported: *Python 2*
 ![nupic](https://cdn-images-1.medium.com/max/720/0*iYw1suOWr3weH9xq.)
 
 ---
-[**expynen**](https://github.com/lk-geimfari/expynent) t is a tiny library that provides RegEx patterns. This can be useful if you don't want to write regular expression manually.
+[**expynent**](https://github.com/lk-geimfari/expynent) is a tiny library that provides RegEx patterns. This can be useful if you don't want to write regular expression manually.
 
 ![expynent](https://raw.githubusercontent.com/lk-geimfari/expynent/master/other/logo.png)
 
