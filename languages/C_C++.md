@@ -1,5 +1,10 @@
 ## C and C++
 
+[**Qt**](https://www.qt.io/) is an LGPL application framework supported on most platforms - including embedded -, and covers most of C++ application development needs : GUI widgets, event loop, networking, serialization, reflection, javascript engines, web browser integration... As well as a declarative reactive user-interface programming language based on Javascript, QML that can even be used for 3D content creation.
+
+![qt](http://doc.qt.io/qt-5/images/used-in-examples/gallery/images/qt-logo@2x.png)
+
+---
 [**Torch**](https://github.com/torch/torch7) is a scientific computing framework with wide support for machine learning algorithms that puts GPUs first. It is easy to use and efficient, thanks to an easy and fast scripting language, LuaJIT, and an underlying C/CUDA implementation.
 
 ![torch](https://cdn-images-1.medium.com/max/720/0*6tYC_KkQvSAAL6h3.png)
