@@ -76,3 +76,10 @@ netdata is fast and efficient, designed to permanently run on all systems (physi
 
 ---
 [**Skynet**](https://github.com/cloudwu/skynet) is a lightweight online game framework, and it can be used in many other fields.
+
+---
+[**Nuklear**](https://github.com/vurtun/nuklear) - is a minimal state immediate mode graphical user interface toolkit written in ANSI C and licensed under public domain. It was designed as a simple embeddable user interface for application and does not have any dependencies, a default renderbackend or OS window and input handling but instead provides a very modular library approach by using simple input state for input and draw commands describing primitive shapes as output. So instead of providing a layered library that tries to abstract over a number of platform and render backends it only focuses on the actual UI.
+
+![nuklear](https://cloud.githubusercontent.com/assets/8057201/11761525/ae06f0ca-a0c6-11e5-819d-5610b25f6ef4.gif)
+![nuklear](https://cloud.githubusercontent.com/assets/8057201/13538240/acd96876-e249-11e5-9547-5ac0b19667a0.png)
+![nuklear](https://cloud.githubusercontent.com/assets/8057201/13538243/b04acd4c-e249-11e5-8fd2-ad7744a5b446.png)
