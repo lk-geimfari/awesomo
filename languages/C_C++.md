@@ -105,3 +105,9 @@ netdata is fast and efficient, designed to permanently run on all systems (physi
 
 ![nuklear](https://cloud.githubusercontent.com/assets/8057201/13538240/acd96876-e249-11e5-9547-5ac0b19667a0.png)
 ![nuklear](https://cloud.githubusercontent.com/assets/8057201/13538243/b04acd4c-e249-11e5-8fd2-ad7744a5b446.png)
+
+---
+[**MXNet**](https://github.com/dmlc/mxnet) is a deep learning framework designed for both efficiency and flexibility. It allows you to mix the flavours of symbolic programming and imperative programming to maximize efficiency and productivity. In its core, a dynamic dependency scheduler that automatically parallelizes both symbolic and imperative operations on the fly. A graph optimization layer on top of that makes symbolic execution fast and memory efficient. The library is portable and lightweight, and it scales to multiple GPUs and multiple machines.
+
+![mxnet](https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/mxnet2.png)
+
