@@ -111,3 +111,8 @@ netdata is fast and efficient, designed to permanently run on all systems (physi
 
 ![mxnet](https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/mxnet2.png)
 
+
+---
+[**Kore**](https://github.com/jorisvink/kore) is an easy to use web application framework for writing scalable web APIs in C. Its main goals are security, scalability and allowing rapid development and deployment of such APIs.
+
+![kore](https://kore.io/images/logos/logo-front.png)
