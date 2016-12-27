@@ -15,6 +15,8 @@
 - One-command deploy to GitHub Pages, Heroku, etc.
 - Powerful plugin system
 
+![hexo](http://imgur.com/EpeRsnm.png)
+
 ---
 [**Chart.js**](https://github.com/chartjs/Chart.js)  —  a simple HTML5 Charts using the canvas element.
 

@@ -5,6 +5,14 @@
 ![torch](https://cdn-images-1.medium.com/max/720/0*6tYC_KkQvSAAL6h3.png)
 
 ---
+[**Electron**](https://github.com/electron/electron) lets you write cross-platform desktop applications
+using JavaScript, HTML and CSS. It is based on [Node.js](https://nodejs.org/) and
+[Chromium](http://www.chromium.org) and is used by the [Atom
+editor](https://github.com/atom/atom) and many other [apps](http://electron.atom.io/apps).
+
+![electron](http://imgur.com/wuAM23t.png)
+
+---
 [**Caffe**](https://github.com/BVLC/caffe) is a deep learning framework made with expression, speed, and modularity in mind. It is developed by the Berkeley Vision and Learning Center (BVLC) and community contributors.
 
 ![caffe](https://cdn-images-1.medium.com/max/720/0*PuFfFqw5QvvXMdC7.png)
