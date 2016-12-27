@@ -79,15 +79,6 @@ Ace's goal is to create a browser based editor that matches and extends the feat
 
 ![dragula](https://raw.githubusercontent.com/bevacqua/dragula/master/resources/logo.png)
 
-# Features
-
-- Super easy to set up
-- No bloated dependencies
-- **Figures out sort order** on its own
-- A shadow where the item would be dropped offers **visual feedback**
-- Touch events!
-- Seamlessly handles clicks *without any configuration*
-
 [Check out the live demo](http://bevacqua.github.io/dragula/).
 
 ---
@@ -97,19 +88,20 @@ Ace's goal is to create a browser based editor that matches and extends the feat
 
 It is written in HTML, CSS & JavaScript.
 
-Official Site is [here](https://hyper.is/).
+---
+[**WebTorrent**](https://github.com/feross/webtorrent)  —  :zap: Streaming torrent client for the web.
+
+![webtorrent](https://camo.githubusercontent.com/357343e823b1c8d37418edce5ac401832eda2d27/68747470733a2f2f776562746f7272656e742e696f2f696d672f576562546f7272656e742e706e67)
+
+WebTorrent is a streaming torrent client for node.js and the browser.
+
+---
+[**PhotoSwipe**](https://github.com/dimsemenov/PhotoSwipe)  —  JavaScript image gallery for mobile and desktop, modular, framework independent.
 
 ---
 [**Docsify**](https://github.com/QingWei-Li/docsify)  —  :black_joker: A magical documentation site generator.
 
 ![docsify](https://raw.githubusercontent.com/QingWei-Li/docsify/master/media/docsify.png)
-
-## Features
-- Simple and lightweight (~12kb gzipped)
-- Multiple themes
-- Not build static html files
-
-Official Site is [here](https://docsify.js.org).
 
 ---
 [**N1 **](https://github.com/nylas/N1) —  an open-source mail client built on the modern web with Electron, React, and Flux. It is designed to be extensible, so it’s easy to create new experiences and workflows around email. N1 is built on the Nylas Sync Engine, which is also open-source free software.
