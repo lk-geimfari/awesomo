@@ -1,5 +1,10 @@
 ## C and C++
 
+[**Qt**](https://www.qt.io/) is an LGPL application framework supported on most platforms - including embedded -, and covers most of C++ application development needs : GUI widgets, event loop, networking, serialization, reflection, javascript engines, web browser integration... As well as a declarative reactive user-interface programming language based on Javascript, QML that can even be used for 3D content creation.
+
+![qt](http://doc.qt.io/qt-5/images/used-in-examples/gallery/images/qt-logo@2x.png)
+---
+
 [**NumPy**](https://github.com/numpy/numpy) is the fundamental package needed for scientific computing with Python.
 This package contains:
 
