@@ -100,6 +100,18 @@ It is written in HTML, CSS & JavaScript.
 Official Site is [here](https://hyper.is/).
 
 ---
+[**Docsify**](https://github.com/QingWei-Li/docsify)  —  :black_joker: A magical documentation site generator.
+
+![docsify](https://raw.githubusercontent.com/QingWei-Li/docsify/master/media/docsify.png)
+
+## Features
+- Simple and lightweight (~12kb gzipped)
+- Multiple themes
+- Not build static html files
+
+Official Site is [here](https://docsify.js.org).
+
+---
 [**N1 **](https://github.com/nylas/N1) —  an open-source mail client built on the modern web with Electron, React, and Flux. It is designed to be extensible, so it’s easy to create new experiences and workflows around email. N1 is built on the Nylas Sync Engine, which is also open-source free software.
 
 ![logo](https://cdn-images-1.medium.com/max/720/0*47dEbQUDUuduqWTQ.)
