@@ -13,15 +13,37 @@ Supported: *Python 3*
 
 ![elizabeth](https://raw.githubusercontent.com/lk-geimfari/elizabeth/master/other/elizabeth_1.png)
 
+At this moment a library has 16 supported locales:
+
+| №  | Flag  | Code       | Name                 | Native name |
+|--- |---   |---        |---                |---         |
+| 1  | 🇩🇰   |  `da`      | Danish               | Dansk       |
+| 2  | 🇩🇪   |  `de`      | German               | Deutsch     |
+| 3  | 🇺🇸   |  `en`      | English              | English     |
+| 4  | 🇪🇸   |  `es`      | Spanish              | Español     |
+| 5  | 🇮🇷   |  `fa`      | Farsi                |      فارسی  |
+| 6  | 🇫🇮   |  `fi`      | Finnish              | Suomi       |
+| 7  | 🇫🇷   |  `fr`      | French               | Français    |
+| 8  | 🇮🇸   |  `is`      | Icelandic            | Íslenska    |
+| 9  | 🇮🇹   |  `it`      | Italian              | Italiano    |
+| 10 | 🇳🇱   |  `nl`      | Dutch                | Nederlands  |
+| 11 | 🇳🇴   |  `no`      | Norwegian            | Norsk       |
+| 12 | 🇵🇱   |  `pl`      | Polish               | Polski      |
+| 13 | 🇵🇹   |  `pt`      | Portuguese           | Português   |
+| 14 | 🇧🇷   |  `pt-br`   | Brazilian Portuguese | Português Brasileiro |
+| 15 | 🇷🇺   |  `ru`      | Russian              | Русский     |
+| 16 | 🇸🇪   |  `sv`      | Swedish              | Svenska     |
+
+
 Below you can see, how to generate fake names:
 
 ```python
-from elizabeth import Personal
+>>> from elizabeth import Personal
 
-user = Personal('is')
+>>> user = Personal('is')
 
-for _ in range(0, 9):
-    print(user.full_name(gender='male'))
+>>> for _ in range(0, 9):
+     user.full_name(gender='male')
 ```
 ```
 Karl Brynjúlfsson
