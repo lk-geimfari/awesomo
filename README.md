@@ -1,4 +1,7 @@
+#### A.W.E.S.O.M. O: The really big list of really interesting open source projects
+
 <p align="center">
+  <br>
   <img src="https://raw.githubusercontent.com/lk-geimfari/awesomeo/master/artwork/a.w.e.s.o.m.e_o.png">
   <br>
 </p>
@@ -32,7 +35,7 @@ Wanna support us? Just share with a this list with your friends on Twitter, Face
  - [Swift](https://github.com/lk-geimfari/awesomeo/blob/master/languages/SWIFT.md)
 
 
-### License
+## License
 
 `awesomeo` by @lk-geimfari
 
