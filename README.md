@@ -35,6 +35,9 @@ Wanna support us? Just share with a this list with your friends on Twitter, Face
  - [Swift](https://github.com/lk-geimfari/awesomeo/blob/master/languages/SWIFT.md)
 
 
+## Like it?
+You can say [thanks](https://saythanks.io/to/lk-geimfari)!
+
 ## License
 
 `awesomeo` by @lk-geimfari
