@@ -19,3 +19,7 @@
 
 ![postgrest](https://github.com/begriffs/postgrest/raw/master/static/logo.png)
 
+---
+[**givegif**](https://github.com/passy/givegif) - GIFs on the command line.
+
+![gg](https://github.com/passy/givegif/raw/master/media/usage.gif)
