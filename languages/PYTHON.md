@@ -577,4 +577,34 @@ u'{"type":"User"...'
 
 ![requests](https://camo.githubusercontent.com/5e4574f4d470db274e80e7cb1464e426e643e084/687474703a2f2f646f63732e707974686f6e2d72657175657374732e6f72672f656e2f6d61737465722f5f7374617469632f72657175657374732d736964656261722e706e67)
 
+---
+[**Mail-in-a-Box**](https://github.com/mail-in-a-box/mailinabox) helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 
+---
+[**schema**](https://github.com/keleshev/schema) is a library for validating Python data structures, such as those obtained from config-files, forms, external services or command-line parsing, converted from JSON/YAML (or something else) to Python data-types.
+
+Usage:
+```python
+>>> from schema import Schema, And, Use, Optional
+
+>>> schema = Schema([{'name': And(str, len),
+...                   'age':  And(Use(int), lambda n: 18 <= n <= 99),
+...                   Optional('sex'): And(str, Use(str.lower),
+...                                        lambda s: s in ('male', 'female'))}])
+
+>>> data = [{'name': 'Sue', 'age': '28', 'sex': 'FEMALE'},
+...         {'name': 'Sam', 'age': '42'},
+...         {'name': 'Sacha', 'age': '20', 'sex': 'Male'}]
+
+>>> validated = schema.validate(data)
+
+>>> assert validated == [{'name': 'Sue', 'age': 28, 'sex': 'female'},
+...                      {'name': 'Sam', 'age': 42},
+...                      {'name': 'Sacha', 'age' : 20, 'sex': 'male'}]
+
+```
+
+---
+[**sqlmap**](https://github.com/sqlmapproject/sqlmap) is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers. It comes with a powerful detection engine, many niche features for the ultimate penetration tester and a broad range of switches lasting from database fingerprinting, over data fetching from the database, to accessing the underlying file system and executing commands on the operating system via out-of-band connections.
+
+![sqlmap](https://camo.githubusercontent.com/59311a2d7a509adeee5c722cff84bf6de7a0b695/68747470733a2f2f7261772e6769746875622e636f6d2f77696b692f73716c6d617070726f6a6563742f73716c6d61702f696d616765732f73716c6d61705f73637265656e73686f742e706e67)
