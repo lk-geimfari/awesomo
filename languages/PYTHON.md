@@ -43,7 +43,7 @@ Below you can see, how to generate fake names:
 >>> user = Personal('is')
 
 >>> for _ in range(0, 9):
-     user.full_name(gender='male')
+       user.full_name(gender='male')
 ```
 ```
 Karl Brynjúlfsson
