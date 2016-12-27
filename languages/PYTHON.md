@@ -16,7 +16,7 @@ Supported: *Python 3*
 At this moment a library has 16 supported locales:
 
 | №  | Flag  | Code       | Name                 | Native name |
-|--- |---   |---        |---                |---         |
+|--- |---    |---         |---                   |---         |
 | 1  | 🇩🇰   |  `da`      | Danish               | Dansk       |
 | 2  | 🇩🇪   |  `de`      | German               | Deutsch     |
 | 3  | 🇺🇸   |  `en`      | English              | English     |
@@ -35,15 +35,31 @@ At this moment a library has 16 supported locales:
 | 16 | 🇸🇪   |  `sv`      | Swedish              | Svenska     |
 
 
-Below you can see, how to generate fake names:
+Below you can see, how to generate fake names (Englsih):
+```python
+>>> from elizabeth import Personal
 
+>>> user = Personal('en')
+
+>>> for _ in range(0, 9):
+        user.full_name(gender='female')
+```
+```
+Antonetta Garrison
+Taneka Dickerson
+Jackelyn Stafford
+Tashia Olsen
+Rachal Hartman
+```
+
+For another locales, exactly the same way (Icelandic) :
 ```python
 >>> from elizabeth import Personal
 
 >>> user = Personal('is')
 
 >>> for _ in range(0, 9):
-       user.full_name(gender='male')
+        user.full_name(gender='male')
 ```
 ```
 Karl Brynjúlfsson
