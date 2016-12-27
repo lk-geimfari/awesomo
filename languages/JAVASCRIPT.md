@@ -54,6 +54,52 @@ Impress.js is inspired by the idea behind [Prezi](https://prezi.com/).
 [Check out the live demo](http://impress.github.io/impress.js).
 
 ---
+[**SweetAlert**](https://github.com/t4t5/sweetalert)  —  An awesome replacement for JavaScript's alert.
+
+[Check out the live demo](http://t4t5.github.io/sweetalert).
+
+![sweetalert](https://camo.githubusercontent.com/3144fa643139adee4eb7d01e2e0a63c12d0e0a72/68747470733a2f2f7261772e6769746875622e636f6d2f743474352f7377656574616c6572742f6d61737465722f7377656574616c6572742e676966)
+
+---
+[**Video.js**](https://github.com/videojs/video.js)  —   An Open source HTML5 & Flash video player.
+
+> Video.js is a web video player built from the ground up for an HTML5 world. It supports HTML5 and Flash video, as well as YouTube and Vimeo (through [plugins][plugins]). It supports video playback on desktops and mobile devices. This project was started mid 2010, and the player is now used on over ~~50,000~~ ~~100,000~~ ~~200,000~~ [400,000 websites][builtwith].
+
+[Check out the live demo](http://www.videojs.com/).
+
+---
+[**Ace**](https://github.com/ajaxorg/ace)  —  Ace is a standalone code editor written in JavaScript.
+
+Ace's goal is to create a browser based editor that matches and extends the features, usability and performance of existing native editors such as TextMate, Vim or Eclipse. It can be easily embedded in any web page or JavaScript application. Ace is developed as the primary editor for Cloud9 IDE and the successor of the Mozilla Skywriter (Bespin) Project.
+
+[Check out the live demo](http://ace.c9.io/).
+
+---
+[**Dragula**](https://github.com/bevacqua/dragula)  —  :ok_hand: Drag and drop so simple it hurts.
+
+![dragula](https://raw.githubusercontent.com/bevacqua/dragula/master/resources/logo.png)
+
+# Features
+
+- Super easy to set up
+- No bloated dependencies
+- **Figures out sort order** on its own
+- A shadow where the item would be dropped offers **visual feedback**
+- Touch events!
+- Seamlessly handles clicks *without any configuration*
+
+[Check out the live demo](http://bevacqua.github.io/dragula/).
+
+---
+[**Hyper**](https://github.com/zeit/hyper)  —  A terminal built on web technologies.
+
+![hyper](https://raw.githubusercontent.com/zeit/art/525bd1bb39d97dd3b91c976106a6d5cc5766b678/hyper/repo-banner.png)
+
+It is written in HTML, CSS & JavaScript.
+
+Official Site is [here](https://hyper.is/).
+
+---
 [**N1 **](https://github.com/nylas/N1) —  an open-source mail client built on the modern web with Electron, React, and Flux. It is designed to be extensible, so it’s easy to create new experiences and workflows around email. N1 is built on the Nylas Sync Engine, which is also open-source free software.
 
 ![logo](https://cdn-images-1.medium.com/max/720/0*47dEbQUDUuduqWTQ.)
