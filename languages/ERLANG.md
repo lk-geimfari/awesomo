@@ -33,7 +33,7 @@ The MongooseIM platform comes with server-side components and client libraries. 
 ---
 [**Riak**](https://github.com/basho/riak) is a decentralized datastore from Basho Technologiesis. It designed to deliver maximum data availability by distributing data across multiple servers. There are two version of Riak, Riak Kv and RiakTS. Client libraries to interface with DB are available for all major programming languages.
 
-![rq](http://www.rabbitmq.com/img/rabbitmq_logo_strap.png)
+![rk](http://docs.basho.com/images/index/riak-kv-logo.png)
 
 
 ---
