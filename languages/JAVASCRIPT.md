@@ -6,6 +6,18 @@
 
 
 ---
+[**Hexo**](https://github.com/hexojs/hexo)  —  A fast, simple & powerful blog framework, powered by Node.js.
+
+## Features
+
+- Blazing fast generating
+- Support for GitHub Flavored Markdown and most Octopress plugins
+- One-command deploy to GitHub Pages, Heroku, etc.
+- Powerful plugin system
+
+![hexo](http://imgur.com/EpeRsnm.png)
+
+---
 [**Chart.js**](https://github.com/chartjs/Chart.js)  —  a simple HTML5 Charts using the canvas element.
 
 Chart.js provides two different builds that are available for your use. The Chart.js and Chart.min.js files include Chart.js and the accompanying color parsing library. If this version is used and you require the use of the time axis, Moment.js will need to be included before Chart.js.

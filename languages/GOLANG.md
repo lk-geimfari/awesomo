@@ -12,6 +12,13 @@ Its goal is to be a part of the developer’s toolbox where Linked Data and grap
 ![cayley](https://cdn-images-1.medium.com/max/720/0*LT_0dZDhKD2Mve9r.)
 
 ---
+[**Docker**](https://github.com/docker/docker) is an open source project to pack, ship and run any application as a lightweight container.
+
+Build Once. Ship Anywhere.
+
+![docker](http://imgur.com/Wwo2YFM.png)
+
+---
 [**Kubernetes**]() is an open source system for managing containerized applications across multiple hosts, providing basic mechanisms for deployment, maintenance, and scaling of applications. Kubernetes is hosted by the Cloud Native Computing Foundation.
 
 Kubernetes builds upon a decade and a half of experience at Google running production workloads at scale using a system called Borg, combined with best-of-breed ideas and practices from the community.
