@@ -30,9 +30,28 @@ Chart.js provides two different builds that are available for your use. The Char
 ![moment.js](https://cdn-images-1.medium.com/max/720/0*DP6jZMrfJIt2znNM.png)
 
 ---
+[**Clipboard.js**](https://github.com/zenorocha/clipboard.js)  —  Modern copy to clipboard. No Flash. Just 3kb gzipped.
+
+![clipboard.js](https://cloud.githubusercontent.com/assets/398893/16165747/a0f6fc46-349a-11e6-8c9b-c5fd58d9099c.png)
+
+---
 [**D3**](https://github.com/d3/d3)  —  a JavaScript library for visualizing data using web standards. D3 helps you bring data to life using SVG, Canvas and HTML. D3 combines powerful visualization and interaction techniques with a data-driven approach to DOM manipulation, giving you the full capabilities of modern browsers and the freedom to design the right visual interface for your data.
 
 ![d3](https://cdn-images-1.medium.com/max/720/0*bxHj6VbZ9lApwWyo.jpg)
+
+---
+[**Reveal.js**](https://github.com/hakimel/reveal.js)  — A framework for easily creating beautiful presentations using HTML. 
+
+[Check out the live demo](http://lab.hakim.se/reveal-js/).
+
+reveal.js comes with a broad range of features including [nested slides](https://github.com/hakimel/reveal.js#markup), [Markdown contents](https://github.com/hakimel/reveal.js#markdown), [PDF export](https://github.com/hakimel/reveal.js#pdf-export), [speaker notes](https://github.com/hakimel/reveal.js#speaker-notes) and a [JavaScript API](https://github.com/hakimel/reveal.js#api). There's also a fully featured visual editor and platform for sharing reveal.js presentations at [slides.com](https://slides.com?ref=github).
+
+---
+[**Impress.js**](https://github.com/impress/impress.js)  —  It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers.
+
+Impress.js is inspired by the idea behind [Prezi](https://prezi.com/).
+
+[Check out the live demo](http://impress.github.io/impress.js).
 
 ---
 [**N1 **](https://github.com/nylas/N1) —  an open-source mail client built on the modern web with Electron, React, and Flux. It is designed to be extensible, so it’s easy to create new experiences and workflows around email. N1 is built on the Nylas Sync Engine, which is also open-source free software.
