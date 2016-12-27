@@ -1,5 +1,23 @@
 ## C and C++
 
+[**NumPy**](https://github.com/numpy/numpy) is the fundamental package needed for scientific computing with Python.
+This package contains:
+
+   * a powerful N-dimensional array object
+   * sophisticated (broadcasting) functions
+   * tools for integrating C/C++ and Fortran code
+   * useful linear algebra, Fourier transform, and random number capabilities.
+
+It derives from the old Numeric code base and can be used as a replacement for Numeric. It also adds the features introduced by numarray and can be used to replace numarray.
+
+![numpy](http://www.numpy.org/_static/numpy_logo.png)
+
+---
+[**matplotlib**](https://github.com/matplotlib/matplotlib) is a Python 2D plotting library which produces publication-quality figures in a variety of hardcopy formats and interactive environments across platforms. matplotlib can be used in Python scripts, the Python and IPython shell (ala MATLAB or Mathematica), web application servers, and various graphical user interface toolkits.
+
+![matplotlib](http://matplotlib.org/_static/logo2.svg)
+
+---
 [**Torch**](https://github.com/torch/torch7) is a scientific computing framework with wide support for machine learning algorithms that puts GPUs first. It is easy to use and efficient, thanks to an easy and fast scripting language, LuaJIT, and an underlying C/CUDA implementation.
 
 ![torch](https://cdn-images-1.medium.com/max/720/0*6tYC_KkQvSAAL6h3.png)
