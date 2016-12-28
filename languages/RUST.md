@@ -21,6 +21,6 @@ Be aware that hyper is still actively evolving towards 1.0, and is likely to exp
 [**coreutils**](https://github.com/uutils/coreutils) is an attempt at writing universal (as in cross-platform) CLI utils in Rust. This repo is to aggregate the GNU coreutils rewrites.
 
 ---
-[**xi editor**] is an attempt to build a high quality text editor, using modern software engineering techniques. It is initially built for Mac OS X, using Cocoa for the user interface, but other targets are planned.
+[**xi editor**](https://github.com/google/xi-editor) is an attempt to build a high quality text editor, using modern software engineering techniques. It is initially built for Mac OS X, using Cocoa for the user interface, but other targets are planned.
 
 ![xi](https://raw.githubusercontent.com/google/xi-editor/master/icons/xi-editor.png)
