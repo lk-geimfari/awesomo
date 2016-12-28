@@ -8,7 +8,7 @@
 ---
 [**Hexo**](https://github.com/hexojs/hexo)  —  A fast, simple & powerful blog framework, powered by Node.js.
 
-## Features
+Features
 
 - Blazing fast generating
 - Support for GitHub Flavored Markdown and most Octopress plugins
@@ -29,7 +29,6 @@ Chart.js provides two different builds that are available for your use. The Char
 
 ![countly](https://camo.githubusercontent.com/f60fc1f56ac415bde000defba9c26a8469404866/687474703a2f2f636f756e742e6c792f77702d636f6e74656e742f75706c6f6164732f323031362f31322f636f756e746c795f64617368626f6172645f636f6d6d756e6974795f31365f31322e706e67)
   
-
 ---
 [**Moment.js**](https://github.com/moment/moment)  —  a lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
 
@@ -60,9 +59,9 @@ Impress.js is inspired by the idea behind [Prezi](https://prezi.com/).
 [Check out the live demo](http://impress.github.io/impress.js).
 
 ---
-[**SweetAlert**](https://github.com/t4t5/sweetalert)  —  An awesome replacement for JavaScript's alert.
+[**SweetAlert2**](https://github.com/limonte/sweetalert2)  —  An awesome replacement for JavaScript's alert.
 
-[Check out the live demo](http://t4t5.github.io/sweetalert).
+[Check out the live demo](https://github.com/limonte/sweetalert2).
 
 ![sweetalert](https://camo.githubusercontent.com/3144fa643139adee4eb7d01e2e0a63c12d0e0a72/68747470733a2f2f7261772e6769746875622e636f6d2f743474352f7377656574616c6572742f6d61737465722f7377656574616c6572742e676966)
 
