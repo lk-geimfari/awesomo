@@ -1,5 +1,16 @@
 ## Go
 
+[**Snap**](https://github.com/intelsdi-x/snap) is an open telemetry framework designed to simplify the collection, processing and publishing of system data through a single API. The goals of this project are to:
+
+* Empower systems to expose a consistent set of telemetry data
+* Simplify telemetry ingestion across ubiquitous storage systems
+* Allow flexible processing of telemetry data on agent (e.g. filtering and decoration)
+* Provide powerful clustered control of telemetry workflows across small or large clusters
+
+<img src="https://cloud.githubusercontent.com/assets/1744971/20331694/e07e9148-ab5b-11e6-856a-e4e956540077.png" width="70%">
+
+
+---
 [**Gitql**](https://github.com/cloudson/gitql) is a Git query language.
 
 ![gitql](https://raw.githubusercontent.com/cloudson/gitql/develop/howtouse.gif)
