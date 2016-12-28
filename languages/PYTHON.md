@@ -618,3 +618,9 @@ The SciPy library depends on NumPy, which provides convenient and fast N-dimensi
 [**SymPy**](https://github.com/sympy/sympy) is a Python library for symbolic mathematics. It aims to become a full-featured computer algebra system (CAS) while keeping the code as simple as possible in order to be comprehensible and easily extensible. SymPy is written entirely in Python.
 
 ![sympy](http://www.sympy.org/static/images/logo.png)
+
+---
+[**matplotlib**](https://github.com/matplotlib/matplotlib) is a Python 2D plotting library which produces publication-quality figures in a variety of hardcopy formats and interactive environments across platforms. matplotlib can be used in Python scripts, the Python and IPython shell (ala MATLAB or Mathematica), web application servers, and various graphical user interface toolkits.
+
+![matplotlib](http://matplotlib.org/_static/logo2.svg)
+
