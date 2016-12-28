@@ -118,7 +118,7 @@ netdata is fast and efficient, designed to permanently run on all systems (physi
 ![kore](https://kore.io/images/logos/logo-front.png)
 
 ---
-[**openFrameworks**](http://openframeworks.cc/) is an open source C++ toolkit for creative coding. It includes tools for 2D/3D graphics, audio, and video components along with many addons for integrations with everything from XBOX Kinects to OpenCV.
+[**openFrameworks**](https://github.com/openframeworks/openFrameworks) is an open source C++ toolkit for creative coding. It includes tools for 2D/3D graphics, audio, and video components along with many addons for integrations with everything from XBOX Kinects to OpenCV.
 
 The code is written to be massively cross-compatible. Right now they support five operating systems (Windows, OSX, Linux, iOS, Android) and four IDEs (XCode, Code::Blocks, and Visual Studio and Eclipse). The API is designed to be minimal and easy to grasp.
 
