@@ -116,3 +116,10 @@ netdata is fast and efficient, designed to permanently run on all systems (physi
 [**Kore**](https://github.com/jorisvink/kore) is an easy to use web application framework for writing scalable web APIs in C. Its main goals are security, scalability and allowing rapid development and deployment of such APIs.
 
 ![kore](https://kore.io/images/logos/logo-front.png)
+
+---
+[**openFrameworks**](http://openframeworks.cc/) is an open source C++ toolkit for creative coding. It includes tools for 2D/3D graphics, audio, and video components along with many addons for integrations with everything from XBOX Kinects to OpenCV.
+
+The code is written to be massively cross-compatible. Right now they support five operating systems (Windows, OSX, Linux, iOS, Android) and four IDEs (XCode, Code::Blocks, and Visual Studio and Eclipse). The API is designed to be minimal and easy to grasp.
+
+![openFrameworks](https://y7v4p6k4.ssl.hwcdn.net/52917e5775d841507200025d/52eefbee87b962494e0006e5_openframeworks_logo.jpg)
