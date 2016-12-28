@@ -80,3 +80,6 @@ app:run()
 [**OpenResty**](https://github.com/openresty/openresty)  —  a full-fledged web platform by integrating the standard Nginx core, LuaJIT, many carefully written Lua libraries, lots of high quality 3rd-party Nginx modules, and most of their external dependencies. It is designed to help developers easily build scalable web applications, web services, and dynamic web gateways.
 
 ![or](https://cdn-images-1.medium.com/max/720/0*Cfdc37-ND1PhOI70.jpg)
+
+---
+[**luaposix**](https://github.com/luaposix/luaposix) - wrapper over POSIX function to fill the gaps of lua standard library.  This makes lua capable of implementing everything, only with this single library.
