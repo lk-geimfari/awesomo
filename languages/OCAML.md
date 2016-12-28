@@ -11,3 +11,9 @@
 [**Tezos**](https://github.com/tezos/tezos/) is a distributed consensus platform with meta-consensus capability. Tezos not only comes to consensus about state, like BTC or ETH. It also comes to consensus about how the protocol and the nodes should adapt and upgrade.
 
 ![tezos](https://tezos.com/images/logo-black.png)
+
+
+---
+[**Flow**](https://github.com/facebook/flow) is a static typechecker for JavaScript. To find out more about Flow, check out flowtype.org.
+
+![flow](https://flowtype.org/assets/flow-logo.png)
