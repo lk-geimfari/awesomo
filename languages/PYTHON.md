@@ -13,26 +13,27 @@ Supported: *Python 3*
 
 ![elizabeth](https://raw.githubusercontent.com/lk-geimfari/elizabeth/master/other/elizabeth_1.png)
 
-At this moment a library has 16 supported locales:
+At this moment a library has 17 supported locales:
 
 | №  | Flag  | Code       | Name                 | Native name |
-|--- |---    |---         |---                   |---         |
+|--- |---    |---         |---                   |---          |
 | 1  | 🇩🇰   |  `da`      | Danish               | Dansk       |
 | 2  | 🇩🇪   |  `de`      | German               | Deutsch     |
 | 3  | 🇺🇸   |  `en`      | English              | English     |
-| 4  | 🇪🇸   |  `es`      | Spanish              | Español     |
-| 5  | 🇮🇷   |  `fa`      | Farsi                |      فارسی  |
-| 6  | 🇫🇮   |  `fi`      | Finnish              | Suomi       |
-| 7  | 🇫🇷   |  `fr`      | French               | Français    |
-| 8  | 🇮🇸   |  `is`      | Icelandic            | Íslenska    |
-| 9  | 🇮🇹   |  `it`      | Italian              | Italiano    |
-| 10 | 🇳🇱   |  `nl`      | Dutch                | Nederlands  |
-| 11 | 🇳🇴   |  `no`      | Norwegian            | Norsk       |
-| 12 | 🇵🇱   |  `pl`      | Polish               | Polski      |
-| 13 | 🇵🇹   |  `pt`      | Portuguese           | Português   |
-| 14 | 🇧🇷   |  `pt-br`   | Brazilian Portuguese | Português Brasileiro |
-| 15 | 🇷🇺   |  `ru`      | Russian              | Русский     |
-| 16 | 🇸🇪   |  `sv`      | Swedish              | Svenska     |
+| 4  | 🇬🇧   |  `en-gb`   | British English      | English     |
+| 5  | 🇪🇸   |  `es`      | Spanish              | Español     |
+| 6  | 🇮🇷   |  `fa`      | Farsi                |      فارسی  |
+| 7  | 🇫🇮   |  `fi`      | Finnish              | Suomi       |
+| 8  | 🇫🇷   |  `fr`      | French               | Français    |
+| 9  | 🇮🇸   |  `is`      | Icelandic            | Íslenska    |
+| 10 | 🇮🇹   |  `it`      | Italian              | Italiano    |
+| 11 | 🇳🇱   |  `nl`      | Dutch                | Nederlands  |
+| 12 | 🇳🇴   |  `no`      | Norwegian            | Norsk       |
+| 13 | 🇵🇱   |  `pl`      | Polish               | Polski      |
+| 14 | 🇵🇹   |  `pt`      | Portuguese           | Português   |
+| 15 | 🇧🇷   |  `pt-br`   | Brazilian Portuguese | Português Brasileiro |
+| 16 | 🇷🇺   |  `ru`      | Russian              | Русский     |
+| 17 | 🇸🇪   |  `sv`      | Swedish              | Svenska     |
 
 
 Below you can see, how to generate fake names (Englsih):
