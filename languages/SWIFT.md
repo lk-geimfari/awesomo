@@ -33,3 +33,10 @@
 [**Vapor**](https://github.com/vapor/vapor) —  the most used web framework for Swift. It provides a beautifully expressive and easy to use foundation for your next website, API, or cloud project.
 
 ![vapor](https://cdn-images-1.medium.com/max/720/0*ARXIYxrCPsWYDGv0.jpg)
+
+---
+[**Carthage**](https://github.com/Carthage/Carthage) is intended to be the simplest way to add frameworks to your Cocoa application.
+
+Carthage builds your dependencies and provides you with binary frameworks, but you retain full control over your project structure and setup. Carthage does not automatically modify your project files or your build settings.
+
+![ca](https://raw.githubusercontent.com/Carthage/Carthage/master/Logo/PNG/header.png)
