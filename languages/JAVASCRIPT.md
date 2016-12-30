@@ -150,3 +150,8 @@ Enzyme is unopinionated regarding which test runner or assertion library you use
 [**Three.js**](https://github.com/mrdoob/three.js) is a cross-browser JavaScript library/API used to create and display animated 3D computer graphics in a web browser. Three.js uses WebGL.
 
 ![three](http://www.awwwards.com/awards/images/2014/09/threejs-img8.jpg)
+
+---
+[**A-Frame**](https://github.com/aframevr/aframe) is a web framework for building virtual reality (VR) experiences. A-Frame scenes are built with HTML and an entity-component architecture, that work across mobile, desktop, Vive, and Rift.
+
+![aframe](https://cloud.githubusercontent.com/assets/674727/21375108/2c10b308-c6e0-11e6-945e-2394beb9a8ed.png)
