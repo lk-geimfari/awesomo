@@ -211,3 +211,66 @@ false
 ---
 [**Faker**](https://github.com/igas/faker) is a pure Elixir library for generating fake data.
 
+---
+[**Floki**](https://github.com/philss/floki) is a simple HTML parser that enables search for nodes using CSS selectors.
+
+Take this HTML as an example:
+
+```html
+<!doctype html>
+<html>
+<body>
+  <section id="content">
+    <p class="headline">Floki</p>
+    <span class="headline">Enables search using CSS selectors</span>
+    <a href="http://github.com/philss/floki">Github page</a>
+    <span data-model="user">philss</span>
+  </section>
+  <a href="https://hex.pm/packages/floki">Hex package</a>
+</body>
+</html>
+```
+
+Here are some queries that you can perform (with return examples):
+
+```elixir
+Floki.find(html, "#content")
+# => [{"section", [{"id", "content"}],
+# =>  [{"p", [{"class", "headline"}], ["Floki"]},
+# =>   {"a", [{"href", "http://github.com/philss/floki"}], ["Github page"]}]}]
+
+
+Floki.find(html, "p.headline")
+# => [{"p", [{"class", "headline"}], ["Floki"]}]
+
+Floki.find(html, "p.headline")
+|> Floki.raw_html
+# => <p class="headline">Floki</p>
+
+
+Floki.find(html, "a")
+# => [{"a", [{"href", "http://github.com/philss/floki"}], ["Github page"]},
+# =>  {"a", [{"href", "https://hex.pm/packages/floki"}], ["Hex package"]}]
+
+
+Floki.find(html, "a[href^=https]")
+# => [{"a", [{"href", "http://github.com/philss/floki"}], ["Github page"]},
+# =>  {"a", [{"href", "https://hex.pm/packages/floki"}], ["Hex package"]}]
+
+
+Floki.find(html, "#content a")
+# => [{"a", [{"href", "http://github.com/philss/floki"}], ["Github page"]}]
+
+
+Floki.find(html, "[data-model=user]")
+# => [{"span", [{"data-model", "user"}], ["philss"]}]
+
+
+Floki.find(html, ".headline, a")
+# => [{"p", [{"class", "headline"}], ["Floki"]},
+# =>  {"a", [{"href", "http://github.com/philss/floki"}], ["Github page"]},
+# =>  {"a", [{"href", "https://hex.pm/packages/floki"}], ["Hex package"]}]
+```
+
+
+
