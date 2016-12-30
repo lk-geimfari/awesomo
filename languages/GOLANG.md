@@ -168,3 +168,8 @@ comes out of the box with support for the following platforms:
 Support for other platforms can be added via plugins.
 
 ![packer](https://www.packer.io/assets/images/screenshots/vmware_and_virtualbox-7c37c65e.png)
+
+---
+[**fzf**](https://github.com/junegunn/fzf) - is a general-purpose command-line fuzzy finder.
+
+![fzf](https://camo.githubusercontent.com/0b07def9e05309281212369b118fcf9b9fc7948e/68747470733a2f2f7261772e6769746875622e636f6d2f6a756e6567756e6e2f692f6d61737465722f667a662e676966)
