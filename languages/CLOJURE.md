@@ -60,3 +60,6 @@ Typically, yada handlers are created from a configuation expressed in data.
 
 [Here](https://github.com/pedestal/pedestal/tree/master/samples) you can find samples.
 
+---
+
+[**Jepsen**](https://github.com/jepsen-io/jepsen) is a Clojure library. A test is a Clojure program which uses the Jepsen library to set up a distributed system, run a bunch of operations against that system, and verify that the history of those operations makes sense. Jepsen has been used to verify everything from eventually-consistent commutative databases to linearizable coordination systems to distributed task schedulers. It can also generate graphs of performance and availability, helping you characterize how a system responds to different faults. See aphyr.com for examples of the sorts of analyses you can carry out with Jepsen.
