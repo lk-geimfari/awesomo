@@ -118,3 +118,8 @@ netdata is fast and efficient, designed to permanently run on all systems (physi
 The code is written to be massively cross-compatible. Right now they support five operating systems (Windows, OSX, Linux, iOS, Android) and four IDEs (XCode, Code::Blocks, and Visual Studio and Eclipse). The API is designed to be minimal and easy to grasp.
 
 ![openFrameworks](https://y7v4p6k4.ssl.hwcdn.net/52917e5775d841507200025d/52eefbee87b962494e0006e5_openframeworks_logo.jpg)
+
+---
+[**Godot**](https://github.com/godotengine/godot) Engine is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface. It provides a comprehensive set of common tools, so that users can focus on making games without having to reinvent the wheel. Games can be exported in one click to a number of platforms, including the major desktop platforms (Linux, Mac OSX, Windows) as well as mobile (Android, iOS) and web-based (HTML5) platforms.
+
+![godot](https://raw.githubusercontent.com/godotengine/godot/master/logo.png)
