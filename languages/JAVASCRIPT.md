@@ -155,3 +155,8 @@ Enzyme is unopinionated regarding which test runner or assertion library you use
 [**A-Frame**](https://github.com/aframevr/aframe) is a web framework for building virtual reality (VR) experiences. A-Frame scenes are built with HTML and an entity-component architecture, that work across mobile, desktop, Vive, and Rift.
 
 ![aframe](https://cloud.githubusercontent.com/assets/674727/21375108/2c10b308-c6e0-11e6-945e-2394beb9a8ed.png)
+
+---
+[**Fabric.js**](https://github.com/kangax/fabric.js) is a framework that makes it easy to work with HTML5 canvas element. It is an interactive object model on top of canvas element. It is also an SVG-to-canvas parser.
+
+![fabric](https://raw.githubusercontent.com/kangax/fabric.js/master/lib/screenshot.png)
