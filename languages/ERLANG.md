@@ -81,3 +81,22 @@ It is flexible, extensible and designed from the ground up to support dynamic, i
 Zotonic is incredibly fast and wonderfully stable – suited for anything from basic websites to complex distributed applications. It offers an elegant backend for managing content with the flexibility that developers need to build truly amazing applications.
 
 ![zotonic](http://zotonic.com/lib/images/logo.png)
+
+---
+[**iso8601**](https://github.com/erlsci/iso8601) - an ISO 8601 date formating and parsing library for Erlang
+
+Example:
+
+```erlang
+1> iso8601:format(now()).
+<<"2012-02-16T01:06:19Z">>
+2> iso8601:format(calendar:universal_time()).
+<<"2012-02-16T01:06:48Z">>
+```
+
+![iso](https://raw.githubusercontent.com/erlsci/iso8601/master/priv/images/logo.png)
+
+---
+[**lorawan-server**](https://github.com/gotthardp/lorawan-server) - an Open-source LoRaWAN Server that integrates both the network-server and the application-server. This is useful for application providers that operate their own LoRa network, or for device and application developers.
+
+![lorawan](https://raw.githubusercontent.com/gotthardp/lorawan-server/master/doc/images/server-architecture.png)
