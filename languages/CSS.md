@@ -34,3 +34,19 @@
 [**Bulma**](https://github.com/jgthms/bulma)  —  Bulma is a modern CSS framework based on Flexbox.
 
 ![bulma](http://imgur.com/Mn2mHI8.png)
+
+---
+[**Hack.css**](https://github.com/egoist/hack)  —  :skier: Dead simple CSS framework. Hack.css is perfect for the homepage of your open-source projects!
+
+![hack](http://imgur.com/EmerKkb.png)
+
+---
+[**CSS Icon**](https://github.com/wentin/cssicon)  —  Icon set made with Pure CSS Code. No Dependencies. "Grab and Go" Icons.
+
+---
+[**btn.css**](https://github.com/ganapativs/bttn.css)  —  Awesome buttons for awesome projects!
+
+![btn.css](http://imgur.com/Mxp9xIC.png)
+
+---
+[**aprilFools.css**](https://github.com/wesbos/aprilFools.css)  —  Harmlessly goof up your co-workers browser and chrome dev tools.
