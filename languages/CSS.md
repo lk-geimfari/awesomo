@@ -39,3 +39,6 @@
 [**Hack.css**](https://github.com/egoist/hack)  —  :skier: Dead simple CSS framework. Hack.css is perfect for the homepage of your open-source projects!
 
 ![hack](http://imgur.com/EmerKkb.png)
+
+---
+[**CSS Icon**](https://github.com/wentin/cssicon)  —  Icon set made with Pure CSS Code. No Dependencies. "Grab and Go" Icons.
