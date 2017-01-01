@@ -123,3 +123,9 @@ The code is written to be massively cross-compatible. Right now they support fiv
 [**Godot**](https://github.com/godotengine/godot) Engine is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface. It provides a comprehensive set of common tools, so that users can focus on making games without having to reinvent the wheel. Games can be exported in one click to a number of platforms, including the major desktop platforms (Linux, Mac OSX, Windows) as well as mobile (Android, iOS) and web-based (HTML5) platforms.
 
 ![godot](https://raw.githubusercontent.com/godotengine/godot/master/logo.png)
+
+---
+[**Bitcoin**](https://bitcoin.org/) is an innovative payment network and a new kind of money. Bitcoin uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of bitcoins is carried out collectively by the network. Bitcoin is open-source; its design is public, nobody owns or controls Bitcoin and [everyone can take part](https://bitcoin.org/en/support-bitcoin). Through many of its unique properties, Bitcoin allows exciting uses that could not be covered by any previous payment system.
+
+![bitcoin](https://en.bitcoin.it/w/images/en/c/cb/BC_Logotype.png)
+---
