@@ -19,6 +19,7 @@ Wanna support us? Just share this list with your friends on Twitter, Facebook, M
  - [C/C++](https://github.com/lk-geimfari/awesomeo/blob/master/languages/C_C%2B%2B.md)
  - [Clojure](https://github.com/lk-geimfari/awesomeo/blob/master/languages/CLOJURE.md)
  - [Common/Emacs Lisp](https://github.com/lk-geimfari/awesomeo/blob/master/languages/LISP.md)
+ - [CSS](https://github.com/lk-geimfari/awesomeo/blob/master/languages/CSS.md)
  - [Elixir](https://github.com/lk-geimfari/awesomeo/blob/master/languages/ELIXIR.md)
  - [Erlang](https://github.com/lk-geimfari/awesomeo/blob/master/languages/ERLANG.md)
  - [Golang](https://github.com/lk-geimfari/awesomeo/blob/master/languages/GOLANG.md)
