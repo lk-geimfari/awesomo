@@ -8,13 +8,6 @@
 ---
 [**Hexo**](https://github.com/hexojs/hexo)  —  A fast, simple & powerful blog framework, powered by Node.js.
 
-Features
-
-- Blazing fast generating
-- Support for GitHub Flavored Markdown and most Octopress plugins
-- One-command deploy to GitHub Pages, Heroku, etc.
-- Powerful plugin system
-
 ![hexo](http://imgur.com/EpeRsnm.png)
 
 ---
