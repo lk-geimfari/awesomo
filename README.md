@@ -26,7 +26,6 @@ Wanna support us? Just share this list with your friends on Twitter, Facebook, M
  - [Haskell](languages/HASKELL.md)
  - [JavaScript](languages/JAVASCRIPT.md)
  - [Lua](languages/LUA.md)
- - [NodeJS](languages/NODEJS.md)
  - [OCaml](languages/OCAML.md)
  - [Python](languages/PYTHON.md)
  - [R](languages/R.md)
