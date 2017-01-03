@@ -173,3 +173,18 @@ Support for other platforms can be added via plugins.
 [**fzf**](https://github.com/junegunn/fzf) - is a general-purpose command-line fuzzy finder.
 
 ![fzf](https://camo.githubusercontent.com/0b07def9e05309281212369b118fcf9b9fc7948e/68747470733a2f2f7261772e6769746875622e636f6d2f6a756e6567756e6e2f692f6d61737465722f667a662e676966)
+
+---
+[**InfluxDB**](https://github.com/influxdata/influxdb) is an open source time series database with no external dependencies. It's useful for recording metrics, events, and performing analytics.
+
+Features
+
+* Built-in [HTTP API](https://docs.influxdata.com/influxdb/latest/guides/writing_data/) so you don't have to write any server side code to get up and running.
+* Data can be tagged, allowing very flexible querying.
+* SQL-like query language.
+* Simple to install and manage, and fast to get data in and out.
+* It aims to answer queries in real-time. That means every data point is
+  indexed as it comes in and is immediately available in queries that
+  should return in < 100ms.
+  
+![influxdb](https://upload.wikimedia.org/wikipedia/en/f/f5/InfluxDB_logo.svg)
