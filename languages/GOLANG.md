@@ -216,4 +216,21 @@ func main() {
 }
 ```
 
+---
+[**NSQ**](https://github.com/nsqio/nsq) is a realtime distributed messaging platform designed to operate at scale, handling billions of messages per day.
 
+It promotes distributed and decentralized topologies without single points of failure, enabling fault tolerance and high availability coupled with a reliable message delivery guarantee. See features & guarantees.
+
+Operationally, NSQ is easy to configure and deploy (all parameters are specified on the command line and compiled binaries have no runtime dependencies). For maximum flexibility, it is agnostic to data format (messages can be JSON, MsgPack, Protocol Buffers, or anything else). Official Go and Python libraries are available out of the box (as well as many other client libraries) and, if you're interested in building your own, there's a protocol spec.
+
+![nsq](https://camo.githubusercontent.com/5899f86a964cae96e599de9db4449e3294f104b4/687474703a2f2f6e73712e696f2f7374617469632f696d672f6e73715f626c75652e706e67)
+
+---
+[**Blackfriday**](https://github.com/russross/blackfriday) is a Markdown processor implemented in Go. It is paranoid about its input (so you can safely feed it user-supplied data), it is fast, it supports common extensions (tables, smart punctuation substitutions, etc.), and it is safe for all utf-8 (unicode) input.
+
+HTML output is currently supported, along with Smartypants extensions. An experimental LaTeX output engine is also included.
+
+---
+[**IronFunctions**](https://github.com/iron-io/functions) is an open source serverless platform, or as we like to refer to it, Functions as a Service (FaaS) platform that you can run anywhere.
+
+![if](https://raw.githubusercontent.com/iron-io/functions/master/docs/assets/logo-black-400w.png)
