@@ -102,4 +102,4 @@ Example:
 ![lorawan](https://raw.githubusercontent.com/gotthardp/lorawan-server/master/doc/images/server-architecture.png)
 
 ---
-[**PropEr (PROPerty-based testing tool for ERlang) **](https://github.com/manopapad/proper) is a QuickCheck-inspired open-source property-based testing tool for Erlang, developed by Manolis Papadakis, Eirini Arvaniti and Kostis Sagonas. The base PropEr system was written mainly by Manolis Papadakis, and the stateful code testing subsystem by Eirini Arvaniti. Kostis Sagonas has been actively maintaining its code base since 2012.
+[**PropEr**](https://github.com/manopapad/proper) is a QuickCheck-inspired open-source property-based testing tool for Erlang, developed by Manolis Papadakis, Eirini Arvaniti and Kostis Sagonas. The base PropEr system was written mainly by Manolis Papadakis, and the stateful code testing subsystem by Eirini Arvaniti. Kostis Sagonas has been actively maintaining its code base since 2012.
