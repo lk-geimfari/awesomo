@@ -196,3 +196,26 @@ Enzyme is unopinionated regarding which test runner or assertion library you use
 [**babel**](https://github.com/babel/babel)  — :tropical_fish: Babel is a compiler for writing next generation JavaScript.
 
 ![babel](http://imgur.com/qiB3JcZ.png)
+
+---
+[**PouchDB**](https://github.com/pouchdb/pouchdb) is an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser.
+
+PouchDB was created to help web developers build applications that work as well offline as they do online.
+It enables applications to store data locally while offline, then synchronize it with CouchDB and compatible servers when the application is back online, keeping the user's data in sync no matter where they next login.
+
+Usage:
+```javascript
+var db = new PouchDB('dbname');
+
+db.put({
+  _id: 'dave@gmail.com',
+  name: 'David',
+  age: 69
+});
+
+db.changes().on('change', function() {
+  console.log('Ch-Ch-Changes');
+});
+
+db.replicate.to('http://example.com/mydb');
+```
