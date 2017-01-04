@@ -11,7 +11,7 @@ it is possible that in this list you will find the project that will suit you.
 
 **We don't add to list mammoth's shit. Only active and interesting projects.**
 
-Wanna support us? Just share this list with your friends on Twitter, Facebook, Medium or somewhere else.
+Wanna support us? Just share this list with your friends on [Twitter](https://twitter.com/), [Facebook](https://www.facebook.com/), [Medium](http://medium.com) or somewhere else.
 
 
 ## Languages
