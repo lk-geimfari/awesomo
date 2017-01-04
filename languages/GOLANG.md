@@ -234,3 +234,17 @@ HTML output is currently supported, along with Smartypants extensions. An experi
 [**IronFunctions**](https://github.com/iron-io/functions) is an open source serverless platform, or as we like to refer to it, Functions as a Service (FaaS) platform that you can run anywhere.
 
 ![if](https://raw.githubusercontent.com/iron-io/functions/master/docs/assets/logo-black-400w.png)
+
+---
+[**Gizmo**](https://github.com/NYTimes/gizmo). Microservice Toolkit
+This toolkit provides packages to put together server and pubsub daemons with the following features:
+
+* standardized configuration and logging
+* health check endpoints with configurable strategies
+* configuration for managing pprof endpoints and log levels
+* structured logging containing basic request information
+* useful metrics for endpoints
+* graceful shutdowns
+* basic interfaces to define our expectations and vocabulary
+
+![Gizmo!](http://graphics8.nytimes.com/images/blogs/open/2015/gizmo.png)
