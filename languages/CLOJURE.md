@@ -88,4 +88,9 @@ To render a file we can call `render-file` instead:
 (use 'selmer.parser)
 
 (render-file "home.html" {:name "Yogthos"})
+```
 
+---
+[**Cortex**](https://github.com/thinktopic/cortex). Neural networks, regression and feature learning in Clojure.
+
+Cortex has a 0.3.0 release meaning all libraries are released on clojars. This is very preliminary and I would expect quite a few things to change over time but it should allow you to train some initial classifiers or regressions.
