@@ -63,3 +63,29 @@ Typically, yada handlers are created from a configuation expressed in data.
 ---
 
 [**Jepsen**](https://github.com/jepsen-io/jepsen) is a Clojure library. A test is a Clojure program which uses the Jepsen library to set up a distributed system, run a bunch of operations against that system, and verify that the history of those operations makes sense. Jepsen has been used to verify everything from eventually-consistent commutative databases to linearizable coordination systems to distributed task schedulers. It can also generate graphs of performance and availability, helping you characterize how a system responds to different faults. See aphyr.com for examples of the sorts of analyses you can carry out with Jepsen.
+
+---
+[**Selmer**](https://github.com/yogthos/Selmer). A fast, Django inspired template system for Clojure.
+
+Selmer templates consist of plain text that contains embedded expression and filter tags. While Selmer
+is primarily meant for HTML generation, it can be used for templating any text.
+
+Selmer compiles the template files and replaces any tags with the corresponding functions for handling
+dynamic content. The compiled template can then be rendered given a context map.
+
+For example, if we wanted to render a string containing a name variable we could write the following:
+
+```clojure
+(use 'selmer.parser)
+
+(render "Hello {{name}}!" {:name "Yogthos"})
+=>"Hello Yogthos!"
+```
+
+To render a file we can call `render-file` instead:
+
+```clojure
+(use 'selmer.parser)
+
+(render-file "home.html" {:name "Yogthos"})
+
