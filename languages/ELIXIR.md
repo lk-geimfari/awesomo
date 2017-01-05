@@ -1,6 +1,6 @@
 ## Elixir
 
-Phoenix  —  Productive. Reliable. Fast. A productive web framework that does not compromise speed and maintainability.
+[**Phoenix**](http://www.phoenixframework.org/)  —  Productive. Reliable. Fast. A productive web framework that does not compromise speed and maintainability.
 
 ![phoenix](https://raw.githubusercontent.com/phoenixframework/phoenix/master/priv/static/phoenix.png)
 
