@@ -132,6 +132,16 @@ Supported: *Python 2*
 ![nupic](https://cdn-images-1.medium.com/max/720/0*iYw1suOWr3weH9xq.)
 
 ---
+[**Flask**](https://github.com/pallets/flask) is a microframework for Python based on Werkzeug and Jinja2.  It's intended for getting started very quickly and was developed with best intentions in mind.
+
+![flask](http://flask.pocoo.org/static/logo/flask.png)
+
+---
+[**Django**](https://github.com/django/django) is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
+
+![django](https://www.djangoproject.com/s/img/logos/django-logo-positive.png)
+
+---
 [**expynent**](https://github.com/lk-geimfari/expynent) is a tiny library that provides RegEx patterns. This can be useful if you don't want to write regular expression manually.
 
 ![expynent](https://raw.githubusercontent.com/lk-geimfari/expynent/master/other/logo.png)
