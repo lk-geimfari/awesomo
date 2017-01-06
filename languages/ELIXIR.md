@@ -272,5 +272,48 @@ Floki.find(html, ".headline, a")
 # =>  {"a", [{"href", "https://hex.pm/packages/floki"}], ["Hex package"]}]
 ```
 
+---
+[**Maxwell**](https://github.com/zhongwencool/maxwell) is an HTTP client that provides a common interface over `:httpc`, `:ibrowse`, `:hackney`.
 
+Usage:
 
+Use Maxwell.Builder module to create the API wrappers.
+```elixir
+defmodule GitHubClient do
+  #generate 4 function get/1, get!/1 patch/1 patch!/1 function
+  use Maxwell.Builder, ~w(get patch)a
+
+  middleware Maxwell.Middleware.BaseUrl, "https://api.github.com"
+  middleware Maxwell.Middleware.Headers, %{'Content-Type': "application/vnd.github.v3+json", 'User-Agent': 'zhongwenool'}
+  middleware Maxwell.Middleware.Opts, [connect_timeout: 3000]
+  middleware Maxwell.Middleware.Json
+  middleware Maxwell.Middleware.Logger
+
+  adapter Maxwell.Adapter.Hackney # default adapter is Maxwell.Adapter.Httpc
+
+  #List public repositories for the specified user.
+  #:hackney.request(:get,
+  #                'https://api.github.com/users/zhongwencool/repos',
+  #                ['Content-Type': "application/vnd.github.v3+json", 'User-Agent': 'zhongwenool'],
+  #                [],
+  #                [connect_timeout: 3000])
+  def user_repos(username) do
+    put_path("/users/" <> username <> "/repos") |> get
+  end
+
+  # Edit owner repositories
+  # :hackney.request(:patch,
+  #                  'https://api.github.com/repos/owner/repo',
+  #                  ['Content-Type': "application/vnd.github.v3+json", 'User-Agent': 'zhongwenool'],
+  #                  "{\"name\":\"name\",\"description\":\"desc\"}",
+  #                  [connect_timeout: 3000])
+  def edit_repo_desc(owner, repo, name, desc) do
+    new
+    |> put_path("/repos/#{owner}/#{repo}")
+    |> put_req_body(%{name: name, description: desc})
+    |> patch
+  end
+end
+```
+
+---
