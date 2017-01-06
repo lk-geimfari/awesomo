@@ -317,3 +317,20 @@ end
 ```
 
 ---
+[**ExVCR**](https://github.com/parroty/exvcr). Record and replay HTTP interactions library for elixir. It's inspired by Ruby's VCR (https://github.com/vcr/vcr), and trying to provide similar functionalities.
+
+Basics
+
+- The following HTTP libraries can be applied.
+    - <a href="https://github.com/cmullaparthi/ibrowse" target="_blank">ibrowse</a>-based libraries.
+        - <a href="https://github.com/myfreeweb/httpotion" target="_blank">HTTPotion</a>
+    - <a href="https://github.com/benoitc/hackney" target="_blank">hackney</a>-based libraries.
+        - <a href="https://github.com/edgurgel/httpoison" target="_blank">HTTPoison</a>
+        - support is very limited, and tested only with sync request of HTTPoison yet.
+    - <a href="http://erlang.org/doc/man/httpc.html" target="_blank">httpc</a>-based libraries.
+        - <a href="https://github.com/tim/erlang-oauth/" target="_blank">erlang-oauth</a>
+        - <a href="https://github.com/Zatvobor/tirexs" target="_blank">tirexs</a>
+        - support is very limited, and tested only with :httpc.request/1 and :httpc.request/4
+
+- HTTP interactions are recorded as JSON file.
+    - The JSON file can be recorded automatically (vcr_cassettes) or manually updated (custom_cassettes)
