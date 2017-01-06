@@ -2,6 +2,10 @@
 
 [**Cowboy**](https://github.com/ninenines/cowboy)  —  a small, fast and modern HTTP server for Erlang/OTP. I think that everyone who interested in Erlang heard about a cowboy.
 
+Cowboy aims to provide a complete HTTP stack in a small code base. It is optimized for low latency and low memory usage, in part because it uses binary strings.
+
+![cowboy](https://ninenines.eu/img/projects/cowboy-home.png)
+
 ---
 [**VerneMQ**](https://github.com/erlio/vernemq)  —  a high-performance, distributed MQTT message broker. It scales horizontally and vertically on commodity hardware to support a high number of concurrent publishers and consumers while maintaining low latency and fault tolerance. VerneMQ is the reliable message hub for your IoT platform or smart products.
 
@@ -13,9 +17,9 @@
 ![ejabberd](https://cdn-images-1.medium.com/max/720/0*-Fn3L0VxHoCKDRX1.jpg)
 
 ---
-[**emqttd** ](https://github.com/emqtt/emqttd) —  a massively scalable and clusterable MQTT V3.1/V3.1.1 broker written in Erlang/OTP.
+[**emqttd** ](https://github.com/emqtt/emqttd) — is a distributed, massively scalable, highly extensible MQTT message broker written in Erlang/OTP. EMQ is fully open source and licensed under the Apache Version 2.0. EMQ implements both MQTT V3.1 and V3.1.1 protocol specifications, and supports MQTT-SN, CoAP, WebSocket, STOMP and SockJS at the same time. The 1.0 release of the EMQ broker has scaled to 1.3 million concurrent MQTT connections on a 12 Core, 32G CentOS server.
 
-![emqttd](https://cdn-images-1.medium.com/max/720/0*xfI-U65PaTV1JwQ3.)
+![emqttd](http://emqttd-docs.readthedocs.io/en/latest/_images/emqtt.png)
 
 ---
 [**MongooseIM**](https://github.com/esl/MongooseIM) is robust and efficient XMPP platform aimed at large installations. Specifically designed for enterprise purposes, it is fault-tolerant, can utilize resources of multiple clustered machines and easily scale in need of more capacity (by just adding a box/VM). MongooseIM can accept client sessions over vanilla XMPP, Websockets, HTTP long-polling (a.k.a. BOSH), and a REST API.
@@ -100,3 +104,8 @@ Example:
 [**lorawan-server**](https://github.com/gotthardp/lorawan-server) - an Open-source LoRaWAN Server that integrates both the network-server and the application-server. This is useful for application providers that operate their own LoRa network, or for device and application developers.
 
 ![lorawan](https://raw.githubusercontent.com/gotthardp/lorawan-server/master/doc/images/server-architecture.png)
+
+---
+[**PropEr**](https://github.com/manopapad/proper) is a QuickCheck-inspired open-source property-based testing tool for Erlang, developed by Manolis Papadakis, Eirini Arvaniti and Kostis Sagonas. The base PropEr system was written mainly by Manolis Papadakis, and the stateful code testing subsystem by Eirini Arvaniti. Kostis Sagonas has been actively maintaining its code base since 2012.
+
+![proper](http://proper.softlab.ntua.gr/images/header.png)

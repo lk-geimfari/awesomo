@@ -1,5 +1,12 @@
 ## JavaScript
 
+[**ggraph**](https://github.com/pcbje/ggraph) - Graph visualization for messy data.
+
+This is a library built on top D3 with the goal of improving how we work with large and messy graphs. It extends the notion of nodes and links with groups of nodes. This is useful when multiple nodes are in fact the same thing or belong to the same group.
+
+![ggraph](https://camo.githubusercontent.com/237e6715d16021d83a42a4fa2923e96f7b27f540/68747470733a2f2f6772616e736b2e636f6d2f6767726170682f6767726170682e676966)
+
+---
 [**medium-editor**](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
 
 ![me](https://camo.githubusercontent.com/d86c82faf35336867c2b66ed0b931209fe0be224/68747470733a2f2f7261772e6769746875622e636f6d2f79616277652f6d656469756d2d656469746f722f6d61737465722f64656d6f2f696d672f6d656469756d2d656469746f722e6a7067)
@@ -196,3 +203,31 @@ Enzyme is unopinionated regarding which test runner or assertion library you use
 [**babel**](https://github.com/babel/babel)  — :tropical_fish: Babel is a compiler for writing next generation JavaScript.
 
 ![babel](http://imgur.com/qiB3JcZ.png)
+
+---
+[**PouchDB**](https://github.com/pouchdb/pouchdb) is an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser.
+
+PouchDB was created to help web developers build applications that work as well offline as they do online.
+It enables applications to store data locally while offline, then synchronize it with CouchDB and compatible servers when the application is back online, keeping the user's data in sync no matter where they next login.
+
+Usage:
+```javascript
+var db = new PouchDB('dbname');
+
+db.put({
+  _id: 'dave@gmail.com',
+  name: 'David',
+  age: 69
+});
+
+db.changes().on('change', function() {
+  console.log('Ch-Ch-Changes');
+});
+
+db.replicate.to('http://example.com/mydb');
+```
+
+---
+[**fullPage.js**](https://github.com/alvarotrigo/fullPage.js) - a simple and easy to use plugin to create fullscreen scrolling websites (also known as single page websites or onepage sites). It allows the creation of fullscreen scrolling websites, as well as adding some landscape sliders inside the sections of the site.
+
+![fullpage](https://camo.githubusercontent.com/0a9ce533243ea122eb9fba3f93efb5426cc8b6e1/68747470733a2f2f7261772e6769746875622e636f6d2f616c7661726f747269676f2f66756c6c506167652e6a732f6d61737465722f6578616d706c65732f696d67732f696e74726f2e706e67)

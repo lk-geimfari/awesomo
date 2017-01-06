@@ -1,6 +1,6 @@
 ## Elixir
 
-Phoenix  —  Productive. Reliable. Fast. A productive web framework that does not compromise speed and maintainability.
+[**Phoenix**](http://www.phoenixframework.org/)  —  Productive. Reliable. Fast. A productive web framework that does not compromise speed and maintainability.
 
 ![phoenix](https://raw.githubusercontent.com/phoenixframework/phoenix/master/priv/static/phoenix.png)
 
@@ -272,5 +272,65 @@ Floki.find(html, ".headline, a")
 # =>  {"a", [{"href", "https://hex.pm/packages/floki"}], ["Hex package"]}]
 ```
 
+---
+[**Maxwell**](https://github.com/zhongwencool/maxwell) is an HTTP client that provides a common interface over `:httpc`, `:ibrowse`, `:hackney`.
 
+Usage:
 
+Use Maxwell.Builder module to create the API wrappers.
+```elixir
+defmodule GitHubClient do
+  #generate 4 function get/1, get!/1 patch/1 patch!/1 function
+  use Maxwell.Builder, ~w(get patch)a
+
+  middleware Maxwell.Middleware.BaseUrl, "https://api.github.com"
+  middleware Maxwell.Middleware.Headers, %{'Content-Type': "application/vnd.github.v3+json", 'User-Agent': 'zhongwenool'}
+  middleware Maxwell.Middleware.Opts, [connect_timeout: 3000]
+  middleware Maxwell.Middleware.Json
+  middleware Maxwell.Middleware.Logger
+
+  adapter Maxwell.Adapter.Hackney # default adapter is Maxwell.Adapter.Httpc
+
+  #List public repositories for the specified user.
+  #:hackney.request(:get,
+  #                'https://api.github.com/users/zhongwencool/repos',
+  #                ['Content-Type': "application/vnd.github.v3+json", 'User-Agent': 'zhongwenool'],
+  #                [],
+  #                [connect_timeout: 3000])
+  def user_repos(username) do
+    put_path("/users/" <> username <> "/repos") |> get
+  end
+
+  # Edit owner repositories
+  # :hackney.request(:patch,
+  #                  'https://api.github.com/repos/owner/repo',
+  #                  ['Content-Type': "application/vnd.github.v3+json", 'User-Agent': 'zhongwenool'],
+  #                  "{\"name\":\"name\",\"description\":\"desc\"}",
+  #                  [connect_timeout: 3000])
+  def edit_repo_desc(owner, repo, name, desc) do
+    new
+    |> put_path("/repos/#{owner}/#{repo}")
+    |> put_req_body(%{name: name, description: desc})
+    |> patch
+  end
+end
+```
+
+---
+[**ExVCR**](https://github.com/parroty/exvcr). Record and replay HTTP interactions library for elixir. It's inspired by Ruby's VCR (https://github.com/vcr/vcr), and trying to provide similar functionalities.
+
+Basics
+
+- The following HTTP libraries can be applied.
+    - <a href="https://github.com/cmullaparthi/ibrowse" target="_blank">ibrowse</a>-based libraries.
+        - <a href="https://github.com/myfreeweb/httpotion" target="_blank">HTTPotion</a>
+    - <a href="https://github.com/benoitc/hackney" target="_blank">hackney</a>-based libraries.
+        - <a href="https://github.com/edgurgel/httpoison" target="_blank">HTTPoison</a>
+        - support is very limited, and tested only with sync request of HTTPoison yet.
+    - <a href="http://erlang.org/doc/man/httpc.html" target="_blank">httpc</a>-based libraries.
+        - <a href="https://github.com/tim/erlang-oauth/" target="_blank">erlang-oauth</a>
+        - <a href="https://github.com/Zatvobor/tirexs" target="_blank">tirexs</a>
+        - support is very limited, and tested only with :httpc.request/1 and :httpc.request/4
+
+- HTTP interactions are recorded as JSON file.
+    - The JSON file can be recorded automatically (vcr_cassettes) or manually updated (custom_cassettes)

@@ -40,3 +40,9 @@ Example:
  - Integration with company-mode
 
 ![alchemist](https://raw.githubusercontent.com/tonini/alchemist.el/master/images/alchemist_logo.png)
+
+---
+[**Mezzano**](https://github.com/froggey/Mezzano). An operating system written in Common Lisp
+
+![mezzano](https://camo.githubusercontent.com/1653851081ed45686c80978b12d76c1dff5feae4/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f34363735333031382f53637265656e73686f7425323066726f6d253230323031362d30332d31322532303134253341333625334135352e706e67)
+

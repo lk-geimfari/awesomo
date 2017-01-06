@@ -26,3 +26,9 @@ class ScalatraExample extends ScalatraServlet {
 
 ---
 [**algebird** ](https://github.com/twitter/algebird) —  an abstract algebra for Scala. This code is targeted at building aggregation systems (via Scalding or Apache Storm). It was originally developed as part of Scalding’s Matrix API, where Matrices had values which are elements of Monoids, Groups, or Rings. Subsequently, it was clear that the code had broader application within Scalding and on other projects within Twitter.
+
+
+---
+The [**Play**](https://github.com/playframework/playframework) Framework combines productivity and performance making it easy to build scalable web applications with Java and Scala. Play is developer friendly with a "just hit refresh" workflow and built-in testing support. With Play, applications scale predictably due to a stateless and non-blocking architecture. By being RESTful by default, including assets compilers, JSON & WebSocket support, Play is a perfect fit for modern web & mobile applications.
+
+![](https://playframework.com/assets/images/logos/play_full_color.png)

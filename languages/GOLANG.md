@@ -173,3 +173,78 @@ Support for other platforms can be added via plugins.
 [**fzf**](https://github.com/junegunn/fzf) - is a general-purpose command-line fuzzy finder.
 
 ![fzf](https://camo.githubusercontent.com/0b07def9e05309281212369b118fcf9b9fc7948e/68747470733a2f2f7261772e6769746875622e636f6d2f6a756e6567756e6e2f692f6d61737465722f667a662e676966)
+
+---
+[**InfluxDB**](https://github.com/influxdata/influxdb) is an open source time series database with no external dependencies. It's useful for recording metrics, events, and performing analytics.
+
+Features
+
+* Built-in [HTTP API](https://docs.influxdata.com/influxdb/latest/guides/writing_data/) so you don't have to write any server side code to get up and running.
+* Data can be tagged, allowing very flexible querying.
+* SQL-like query language.
+* Simple to install and manage, and fast to get data in and out.
+* It aims to answer queries in real-time. That means every data point is
+  indexed as it comes in and is immediately available in queries that
+  should return in < 100ms.
+  
+![influxdb](https://upload.wikimedia.org/wikipedia/en/f/f5/InfluxDB_logo.svg)
+
+---
+[**Negroni**](https://github.com/urfave/negroni). Idiomatic HTTP Middleware for Golang
+
+Example:
+```golang
+package main
+
+import (
+  "fmt"
+  "net/http"
+
+  "github.com/urfave/negroni"
+)
+
+func main() {
+  mux := http.NewServeMux()
+  mux.HandleFunc("/", func(w http.ResponseWriter, req *http.Request) {
+    fmt.Fprintf(w, "Welcome to the home page!")
+  })
+
+  n := negroni.Classic() // Includes some default middlewares
+  n.UseHandler(mux)
+
+  http.ListenAndServe(":3000", n)
+}
+```
+
+---
+[**NSQ**](https://github.com/nsqio/nsq) is a realtime distributed messaging platform designed to operate at scale, handling billions of messages per day.
+
+It promotes distributed and decentralized topologies without single points of failure, enabling fault tolerance and high availability coupled with a reliable message delivery guarantee. See features & guarantees.
+
+Operationally, NSQ is easy to configure and deploy (all parameters are specified on the command line and compiled binaries have no runtime dependencies). For maximum flexibility, it is agnostic to data format (messages can be JSON, MsgPack, Protocol Buffers, or anything else). Official Go and Python libraries are available out of the box (as well as many other client libraries) and, if you're interested in building your own, there's a protocol spec.
+
+![nsq](https://camo.githubusercontent.com/5899f86a964cae96e599de9db4449e3294f104b4/687474703a2f2f6e73712e696f2f7374617469632f696d672f6e73715f626c75652e706e67)
+
+---
+[**Blackfriday**](https://github.com/russross/blackfriday) is a Markdown processor implemented in Go. It is paranoid about its input (so you can safely feed it user-supplied data), it is fast, it supports common extensions (tables, smart punctuation substitutions, etc.), and it is safe for all utf-8 (unicode) input.
+
+HTML output is currently supported, along with Smartypants extensions. An experimental LaTeX output engine is also included.
+
+---
+[**IronFunctions**](https://github.com/iron-io/functions) is an open source serverless platform, or as we like to refer to it, Functions as a Service (FaaS) platform that you can run anywhere.
+
+![if](https://raw.githubusercontent.com/iron-io/functions/master/docs/assets/logo-black-400w.png)
+
+---
+[**Gizmo**](https://github.com/NYTimes/gizmo). Microservice Toolkit
+This toolkit provides packages to put together server and pubsub daemons with the following features:
+
+* standardized configuration and logging
+* health check endpoints with configurable strategies
+* configuration for managing pprof endpoints and log levels
+* structured logging containing basic request information
+* useful metrics for endpoints
+* graceful shutdowns
+* basic interfaces to define our expectations and vocabulary
+
+![Gizmo!](http://graphics8.nytimes.com/images/blogs/open/2015/gizmo.png)
