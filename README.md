@@ -24,6 +24,7 @@ Wanna support us? Just share this list with your friends on [Twitter](https://tw
  - [Erlang](languages/ERLANG.md)
  - [Golang](languages/GOLANG.md)
  - [Haskell](languages/HASKELL.md)
+ - [Java](languages/JAVA.md)
  - [JavaScript](languages/JAVASCRIPT.md)
  - [Lua](languages/LUA.md)
  - [OCaml](languages/OCAML.md)
