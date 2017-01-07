@@ -1,0 +1,1 @@
+Lucida is a speech and vision based intelligent personal assistant inspired by Sirius. Visit our website for tutorial, and Lucida-users for help. The project is released under BSD license, except certain submodules contain their own specific licensing information. We would love to have your help on improving Lucida, and see CONTRIBUTING for more details.
