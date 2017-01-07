@@ -40,3 +40,9 @@
 Carthage builds your dependencies and provides you with binary frameworks, but you retain full control over your project structure and setup. Carthage does not automatically modify your project files or your build settings.
 
 ![ca](https://raw.githubusercontent.com/Carthage/Carthage/master/Logo/PNG/header.png)
+
+---
+[**Hero**](https://github.com/lkzhao/Hero) is a library for building iOS view controller transitions. It provides a layer on top of the UIKit's cumbersome transition APIs. Making custom transitions an easy task for developers.
+
+![1](https://camo.githubusercontent.com/c33962467b29e6eeae1744ced0147580677cd2f0/68747470733a2f2f63646e2e7261776769742e636f6d2f6c6b7a68616f2f4865726f2f653663373736323966636632656131633962383532366637346432353061326665613638616535632f5265736f75726365732f62617369632e737667)
+![2](https://camo.githubusercontent.com/b8c5bbc504da5381fb81f1a2076234ee32c07e40/68747470733a2f2f63646e2e7261776769742e636f6d2f6c6b7a68616f2f4865726f2f623866303130353165396538636530636463386562373838386336643766666132333434643936612f5265736f75726365732f656666656374732e737667)
