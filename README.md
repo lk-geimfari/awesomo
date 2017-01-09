@@ -18,9 +18,10 @@ Wanna support us? Just share this list with your friends on [Twitter](https://tw
 
  - [C/C++](languages/C_C%2B%2B.md)
  - [Clojure](languages/CLOJURE.md)
- - [Common/Emacs Lisp](languages/LISP.md)
+ - [Common Lisp](languages/COMMON_LISP.md)
  - [CSS](languages/CSS.md)
  - [Elixir](languages/ELIXIR.md)
+ - [Emacs Lisp](languages/EMACS_LISP.md)
  - [Erlang](languages/ERLANG.md)
  - [Golang](languages/GOLANG.md)
  - [Haskell](languages/HASKELL.md)
