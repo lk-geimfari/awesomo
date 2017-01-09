@@ -109,3 +109,6 @@ Example:
 [**PropEr**](https://github.com/manopapad/proper) is a QuickCheck-inspired open-source property-based testing tool for Erlang, developed by Manolis Papadakis, Eirini Arvaniti and Kostis Sagonas. The base PropEr system was written mainly by Manolis Papadakis, and the stateful code testing subsystem by Eirini Arvaniti. Kostis Sagonas has been actively maintaining its code base since 2012.
 
 ![proper](http://proper.softlab.ntua.gr/images/header.png)
+
+---
+[**Typhoon**](https://github.com/zalando/typhoon) is a stress and load testing tool for distributed systems that simulates traffic from a test cluster toward a system-under-test (SUT) and visualizes infrastructure-, protocol- and application-related latencies. It provides an out-of-the-box, cross-platform solution for investigating protocols and microservice latencies, and is operable as a standalone application. For scalability and accuracy, its runtime environment is Erlang.
