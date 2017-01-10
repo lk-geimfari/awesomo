@@ -7,7 +7,7 @@ Supported: *Python 2/3*
 ![tf](https://cdn-images-1.medium.com/max/720/0*dNVUpWFLoysACE9z.)
 
 ---
-[**Elizabeth**](https://github.com/lk-geimfari/elizabeth) - is a fast and easier to use Python library for generating dummy data. These data are very useful when you need to bootstrap the database in the testing phase of your software. A great example of how you can use the library are web applications on Flask or Django which need a data, such as users (email, username, name, surname etc.), posts (tags, text, title, publishing date and etc.) and so forth. The library uses the JSON files as a datastore and doesn’t have any dependencies. The library offers more than [19 different data providers](https://github.com/lk-geimfari/elizabeth/blob/master/PROVIDERS.md) (from personal ones to transport and more).
+[**Elizabeth**](https://github.com/lk-geimfari/elizabeth) - is a fast and easy to use Python library for generating dummy data for a variety of purposes.  This data can be particularly useful during software development and testing.  For example, it could be used to populate a testing database for a web application with user information such as email addresses, usernames, first names, last names, etc.  Elizabeth uses a JSON-based datastore and does not require any modules that are not in the Python standard library.   There are over eighteen different [data providers](https://github.com/lk-geimfari/elizabeth/blob/master/PROVIDERS.md) available, which can produce data related to food, people, computer hardware, transportation, addresses, and more.
 
 Supported: *Python 3*
 
