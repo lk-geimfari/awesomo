@@ -54,23 +54,6 @@ You can specify a locale when creating providers and they will return data that 
 | 20 | 🇸🇪   |  `sv`      | Swedish              | Svenska     |
 
 
-Below you can see, how to generate fake names (Englsih):
-```python
->>> from elizabeth import Personal
-
->>> user = Personal('en')
-
->>> for _ in range(0, 9):
-        user.full_name(gender='female')
-```
-```
-Antonetta Garrison
-Taneka Dickerson
-Jackelyn Stafford
-Tashia Olsen
-Rachal Hartman
-```
-
 For another locales, exactly the same way (Icelandic) :
 ```python
 >>> from elizabeth import Personal
