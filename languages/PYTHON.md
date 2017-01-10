@@ -7,33 +7,51 @@ Supported: *Python 2/3*
 ![tf](https://cdn-images-1.medium.com/max/720/0*dNVUpWFLoysACE9z.)
 
 ---
-[**Elizabeth**](https://github.com/lk-geimfari/elizabeth) - is a fast and easier to use Python library for generating dummy data. These data are very useful when you need to bootstrap the database in the testing phase of your software. A great example of how you can use the library are web applications on Flask or Django which need a data, such as users (email, username, name, surname etc.), posts (tags, text, title, publishing date and etc.) and so forth. The library uses the JSON files as a datastore and doesn’t have any dependencies. The library offers more than [18 different data providers](https://github.com/lk-geimfari/elizabeth/blob/master/PROVIDERS.md) (from personal ones to transport and more).
+[**Elizabeth**](https://github.com/lk-geimfari/elizabeth) - is a fast and easier to use Python library for generating dummy data. These data are very useful when you need to bootstrap the database in the testing phase of your software. A great example of how you can use the library are web applications on Flask or Django which need a data, such as users (email, username, name, surname etc.), posts (tags, text, title, publishing date and etc.) and so forth. The library uses the JSON files as a datastore and doesn’t have any dependencies. The library offers more than [19 different data providers](https://github.com/lk-geimfari/elizabeth/blob/master/PROVIDERS.md) (from personal ones to transport and more).
 
 Supported: *Python 3*
 
 ![elizabeth](https://raw.githubusercontent.com/lk-geimfari/elizabeth/master/other/elizabeth_1.png)
 
-At this moment a library has 17 supported locales:
+
+Basic Usage
+
+```python
+>>> from elizabeth import Personal
+>>> p = Personal('en')
+>>>
+>>> p.full_name(gender='female')
+'Antonetta Garrison'
+>>> p.blood_type()
+'O-'
+>>> p.occupation()
+'Programmer'
+```
+
+You can specify a locale when creating providers and they will return data that is appropriate for the language or country associated with that locale.  `Elizabeth` currently includes support for 20 different locales:
 
 | №  | Flag  | Code       | Name                 | Native name |
-|--- |---    |---         |---                   |---          |
-| 1  | 🇩🇰   |  `da`      | Danish               | Dansk       |
-| 2  | 🇩🇪   |  `de`      | German               | Deutsch     |
-| 3  | 🇺🇸   |  `en`      | English              | English     |
-| 4  | 🇬🇧   |  `en-gb`   | British English      | English     |
-| 5  | 🇪🇸   |  `es`      | Spanish              | Español     |
-| 6  | 🇮🇷   |  `fa`      | Farsi                |      فارسی  |
-| 7  | 🇫🇮   |  `fi`      | Finnish              | Suomi       |
-| 8  | 🇫🇷   |  `fr`      | French               | Français    |
-| 9  | 🇮🇸   |  `is`      | Icelandic            | Íslenska    |
-| 10 | 🇮🇹   |  `it`      | Italian              | Italiano    |
-| 11 | 🇳🇱   |  `nl`      | Dutch                | Nederlands  |
-| 12 | 🇳🇴   |  `no`      | Norwegian            | Norsk       |
-| 13 | 🇵🇱   |  `pl`      | Polish               | Polski      |
-| 14 | 🇵🇹   |  `pt`      | Portuguese           | Português   |
-| 15 | 🇧🇷   |  `pt-br`   | Brazilian Portuguese | Português Brasileiro |
-| 16 | 🇷🇺   |  `ru`      | Russian              | Русский     |
-| 17 | 🇸🇪   |  `sv`      | Swedish              | Svenska     |
+|--- |---   |---        |---                |---         |
+| 1  | 🇨🇿   |  `cs`      | Czech                | Česky       |
+| 2  | 🇩🇰   |  `da`      | Danish               | Dansk       |
+| 3  | 🇩🇪   |  `de`      | German               | Deutsch     |
+| 4  | 🇺🇸   |  `en`      | English              | English     |
+| 5  | 🇬🇧   |  `en-gb`   | British English      | English     |
+| 6  | 🇪🇸   |  `es`      | Spanish              | Español     |
+| 7  | 🇮🇷   |  `fa`      | Farsi                |      فارسی  |
+| 8  | 🇫🇮   |  `fi`      | Finnish              | Suomi       |
+| 9  | 🇫🇷   |  `fr`      | French               | Français    |
+| 10  | 🇭🇺   |  `hu`      | Hungarian            | Magyar      |
+| 11 | 🇮🇸   |  `is`      | Icelandic            | Íslenska    |
+| 12 | 🇮🇹   |  `it`      | Italian              | Italiano    |
+| 13 | 🇰🇷   |  `ko`      | Korean               | 한국어       |
+| 14 | 🇳🇱   |  `nl`      | Dutch                | Nederlands  |
+| 15 | 🇳🇴   |  `no`      | Norwegian            | Norsk       |
+| 16 | 🇵🇱   |  `pl`      | Polish               | Polski      |
+| 17 | 🇵🇹   |  `pt`      | Portuguese           | Português   |
+| 18 | 🇧🇷   |  `pt-br`   | Brazilian Portuguese | Português Brasileiro |
+| 19 | 🇷🇺   |  `ru`      | Russian              | Русский     |
+| 20 | 🇸🇪   |  `sv`      | Swedish              | Svenska     |
 
 
 Below you can see, how to generate fake names (Englsih):
