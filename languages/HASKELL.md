@@ -23,3 +23,8 @@
 [**givegif**](https://github.com/passy/givegif) - GIFs on the command line.
 
 ![gg](https://github.com/passy/givegif/raw/master/media/usage.gif)
+
+---
+[**Glance**](https://github.com/rgleichman/glance) is a visual syntax for the programming language Haskell. The goal of this project is to increase programmer happiness and productivity by allowing programmers to create and understand programs in new and different ways. Currently, the Glance executable produces a visual representation of your code in the form of an SVG image when given a textual Haskell source file. In the future, I hope to create a visual editor for Haskell. Please scroll down to see some example images.
+
+![](https://camo.githubusercontent.com/9e8609d893c70fa7a1bbe0f18c669de9c549b041/68747470733a2f2f63646e2e7261776769742e636f6d2f72676c656963686d616e2f676c616e63652f373938343636303034633364666531306664316233623235646632336536366436316563316538372f6578616d706c65732f7475746f7269616c2e737667)
