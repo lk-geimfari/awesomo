@@ -117,4 +117,5 @@ including:
 
 ![octobox](https://cloud.githubusercontent.com/assets/1060/21510049/16ad341c-cc87-11e6-9a83-86c6be94535f.png)
 
-
+---
+[**Scientist**](https://github.com/github/scientist) - a Ruby library for carefully refactoring critical paths.
