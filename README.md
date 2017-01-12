@@ -17,6 +17,7 @@ Wanna support us? Just share this list with your friends on [Twitter](https://tw
 ## Languages
 
  - [C/C++](languages/C_C%2B%2B.md)
+ - [C#](languages/C-SHARP.md)
  - [Clojure](languages/CLOJURE.md)
  - [Common Lisp](languages/COMMON_LISP.md)
  - [CSS](languages/CSS.md)
