@@ -23,7 +23,7 @@ Wanna support us? Just share this list with your friends on [Twitter](https://tw
  - [Elixir](languages/ELIXIR.md)
  - [Emacs Lisp](languages/EMACS_LISP.md)
  - [Erlang](languages/ERLANG.md)
- - [Golang](languages/GOLANG.md)
+ - [Go](languages/GOLANG.md)
  - [Haskell](languages/HASKELL.md)
  - [Java](languages/JAVA.md)
  - [JavaScript](languages/JAVASCRIPT.md)
@@ -39,6 +39,7 @@ Wanna support us? Just share this list with your friends on [Twitter](https://tw
 
 
 ## Like it?
+
 You can say [thanks](https://saythanks.io/to/lk-geimfari)!
 
 ## License
