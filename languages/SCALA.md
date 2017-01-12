@@ -37,3 +37,5 @@ The [**Play**](https://github.com/playframework/playframework) Framework combine
 ---
 [**Ammonite**](https://github.com/lihaoyi/ammonite) - Ammonite lets you use the Scala language for scripting purposes: in the REPL, as scripts, as a library to use in existing projects, or as a standalone systems shell.
 
+---
+[**bitcoin-s-core**](https://github.com/bitcoin-s/bitcoin-s-core) - An implementation of the Bitcoin protocol in Scala. 
