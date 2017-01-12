@@ -251,3 +251,43 @@ This toolkit provides packages to put together server and pubsub daemons with th
 
 ---
 [**Grumpy**](https://github.com/google/grumpy) is a Python to Go source code transcompiler and runtime that is intended to be a near drop in replacement for CPython 2.7. The key difference is that it compiles Python source code to Go source code which is then compiled to native code, rather than to bytecode. This means that Grumpy has no VM. The compiled Go source code is a series of calls to the Grumpy runtime, a Go library serving a similar purpose to the Python C API (although the C API is not directly supported).
+
+---
+[**testify**](https://github.com/stretchr/testify) - a sacred extension to the standard go testing package.
+
+Example:
+```golang
+package yours
+
+import (
+  "testing"
+  "github.com/stretchr/testify/assert"
+)
+
+func TestSomething(t *testing.T) {
+
+  // assert equality
+  assert.Equal(t, 123, 123, "they should be equal")
+
+  // assert inequality
+  assert.NotEqual(t, 123, 456, "they should not be equal")
+
+  // assert for nil (good for errors)
+  assert.Nil(t, object)
+
+  // assert for not nil (good when you expect something)
+  if assert.NotNil(t, object) {
+
+    // now we know that object isn't nil, we are safe to make
+    // further assertions without causing any errors
+    assert.Equal(t, "Something", object.Value)
+
+  }
+
+}
+```
+
+---
+[**Chisel**](https://github.com/jpillora/chisel) is a fast TCP tunnel, transported over HTTP. Single executable including both client and server. Written in Go (Golang). Chisel is mainly useful for passing through firewalls, though it can also be used to provide a secure endpoint into your network. Chisel is very similar to crowbar though achieves much higher performance. Warning Chisel is currently beta software.
+
+![](https://camo.githubusercontent.com/aec1bd298ecf50307e67a46f8fbbe44dc4039f84/68747470733a2f2f646f63732e676f6f676c652e636f6d2f64726177696e67732f642f317035335657787a474e667938726a722d6d5738707669734a6d686b6f4c6c383276416763744f5f366631772f7075623f773d39363026683d373230)
