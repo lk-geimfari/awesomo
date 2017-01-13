@@ -6,8 +6,8 @@
   <br>
 </p>
 
-If you are interested in Open Source and are considering to join the community of Open Source developers, 
-it is possible that in this list you will find the project that will suit you. 
+If you are interested in Open Source and are considering to join the community of Open Source developers,
+it is possible that in this list you will find the project that will suit you.
 
 **We don't add to list mammoth's shit. Only active and interesting projects.**
 
@@ -16,8 +16,9 @@ Wanna support us? Just share this list with your friends on [Twitter](https://tw
 
 ## Languages
 
- - [C/C++](languages/C_C%2B%2B.md)
- - [C#](languages/C-SHARP.md)
+ - [C](languages/C.md)
+ - [C#](languages/C%23.md)
+ - [C++](languages/C%2B%2B.md)
  - [Clojure](languages/CLOJURE.md)
  - [Common Lisp](languages/COMMON_LISP.md)
  - [CSS](languages/CSS.md)
