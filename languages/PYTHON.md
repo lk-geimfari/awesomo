@@ -671,3 +671,19 @@ Output:
 ```
 
 ![](https://raw.githubusercontent.com/tqdm/tqdm/master/images/tqdm.gif)
+
+---
+[pycodestyle](https://github.com/PyCQA/pycodestyle) is a tool to check your Python code against some of the style conventions in PEP 8.
+
+Example usage:
+```
+$ pycodestyle --first optparse.py
+optparse.py:69:11: E401 multiple imports on one line
+optparse.py:77:1: E302 expected 2 blank lines, found 1
+optparse.py:88:5: E301 expected 1 blank line, found 0
+optparse.py:222:34: W602 deprecated form of raising exception
+optparse.py:347:31: E211 whitespace before '('
+optparse.py:357:17: E201 whitespace after '{'
+optparse.py:472:29: E221 multiple spaces before operator
+optparse.py:544:21: W601 .has_key() is deprecated, use 'in'
+```
