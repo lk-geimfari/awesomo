@@ -291,3 +291,12 @@ func TestSomething(t *testing.T) {
 [**Chisel**](https://github.com/jpillora/chisel) is a fast TCP tunnel, transported over HTTP. Single executable including both client and server. Written in Go (Golang). Chisel is mainly useful for passing through firewalls, though it can also be used to provide a secure endpoint into your network. Chisel is very similar to crowbar though achieves much higher performance. Warning Chisel is currently beta software.
 
 ![](https://camo.githubusercontent.com/aec1bd298ecf50307e67a46f8fbbe44dc4039f84/68747470733a2f2f646f63732e676f6f676c652e636f6d2f64726177696e67732f642f317035335657787a474e667938726a722d6d5738707669734a6d686b6f4c6c383276416763744f5f366631772f7075623f773d39363026683d373230)
+
+---
+[**chi**](https://github.com/pressly/chi) is a lightweight, idiomatic and composable router for building Go 1.7+ HTTP services. It's especially good at helping you write large REST API services that are kept maintainable as your project grows and changes. chi is built on the new context package introduced in Go 1.7 to handle signaling, cancelation and request-scoped values across a handler chain.
+
+The focus of the project has been to seek out an elegant and comfortable design for writing REST API servers, written during the development of the Pressly API service that powers our public API service, which in turn powers all of our client-side applications.
+
+The key considerations of chi's design are: project structure, maintainability, standard http handlers (stdlib-only), developer productivity, and deconstructing a large system into many small parts. The core router github.com/pressly/chi is quite small (less than 1000 LOC), but we've also included some useful/optional subpackages: middleware, render and docgen. We hope you enjoy it too!
+
+![](https://camo.githubusercontent.com/c395eec91ae31736f68b86dc6cc35e4ef3a24f6b/68747470733a2f2f63646e2e7261776769742e636f6d2f70726573736c792f6368692f6d61737465722f5f6578616d706c65732f6368692e737667)
