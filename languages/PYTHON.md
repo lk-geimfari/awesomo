@@ -655,3 +655,19 @@ Sovereign offers useful cloud services while being reasonably secure and low-mai
 Kivy is written in Python and Cython, based on OpenGL ES 2, supports various input devices and has an extensive widget library. With the same codebase, you can target Windows, OS X, Linux, Android and iOS. All Kivy widgets are built with multitouch support.
 
 ![kivy](https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png)
+
+---
+[**tqdm**](https://github.com/tqdm/tqdm) - a fast, extensible progress bar for Python and CLI 
+
+```
+from tqdm import tqdm
+
+for i in tqdm(range(10000)):
+    ...
+```
+Output:
+```
+76%|████████████████████████████         | 7568/10000 [00:33<00:10, 229.00it/s]
+```
+
+![](https://raw.githubusercontent.com/tqdm/tqdm/master/images/tqdm.gif)
