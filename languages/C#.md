@@ -37,3 +37,27 @@ Use OpenTK to add cross-platform 3d graphics, audio, compute and haptics to your
 
 ---
 [**NUnit**](https://github.com/nunit/nunit) is a unit-testing framework for all .NET languages. Initially ported from JUnit, the current production release, version 3, has been completely rewritten with many new features and support for a wide range of .NET platforms.
+
+---
+[**XUnit**](https://github.com/xunit/xunit)  is a free, open source, community-focused unit testing tool for the .NET Framework. Written by the original inventor of NUnit v2, xUnit.net is the latest technology for unit testing C#, F#, VB.NET and other .NET languages. xUnit.net works with ReSharper, CodeRush, TestDriven.NET and Xamarin.
+
+---
+[**Json.NET**](https://github.com/JamesNK/Newtonsoft.Json) is a personal open source project. Started in 2006, thousands of hours have been invested in refining and tuning Json.NET with the goal of making it not just the best JSON serializer for .NET but the best serializer for any computer language.
+
+---
+[**RabbitMQ .NET client**](https://github.com/rabbitmq/rabbitmq-dotnet-client) for .NET Core and .NET 4.5.1+.
+
+---
+[**Topshelf**](https://github.com/Topshelf/Topshelf) is a framework for hosting services written using the .NET framework. The creation of services is simplified, allowing developers to create a simple console application that can be installed as a service using Topshelf. The reason for this is simple: It is far easier to debug a console application than a service. And once the application is tested and ready for production, Topshelf makes it easy to install the application as a service.
+
+---
+[**MassTransit**](https://github.com/MassTransit/MassTransit) is a free, open-source distributed application framework for .NET. MassTransit makes it easy to create applications and services that leverage message-based, loosely-coupled asynchronous communication for higher availability, reliabililty, and scalability.
+
+---
+[**Quartz Enterprise Scheduler .NET**](https://github.com/quartznet/quartznet) is an opensource project aimed at creating a free-for-commercial use Job Scheduler, with 'enterprise' features.
+
+---
+[**SimpleInjector**](https://github.com/simpleinjector/SimpleInjector) is an open source dependency injection (DI) library for .NET.
+
+---
+[**Dapper **](https://github.com/StackExchange/dapper-dot-net) is a simple object mapper for .Net. Dapper is a NuGet library that you can add in to your project that will extend your IDbConnection interface.
