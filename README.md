@@ -38,6 +38,7 @@ Wanna support us? Just share this list with your friends on [Twitter](https://tw
  - [Scala](languages/SCALA.md)
  - [Shell](languages/SHELL.md)
  - [Swift](languages/SWIFT.md)
+ - [TypeScript](languages/TYPESCRIPT.md)
 
 
 ## Like it?
