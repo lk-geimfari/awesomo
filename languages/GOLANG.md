@@ -66,12 +66,6 @@ Kubernetes builds upon a decade and a half of experience at Google running produ
 ![gin](https://camo.githubusercontent.com/5446861c45a2c71ec83244819c54bffb83c2a2ee/68747470733a2f2f67696e2d676f6e69632e6769746875622e696f2f67696e2f6f746865722f636f6e736f6c652e706e67)
 
 ---
-
-[**Iris**](https://github.com/kataras/iris) the fastest web framework for Go. Provides an easy way to write fast, advanced web applications while it's highly customizable.
-
-![iris](https://github.com/kataras/iris/raw/master/logo.jpg)
-
----
 [**gobot**](https://github.com/hybridgroup/gobot)  —  a framework using the Go programming language for robotics, physical computing, and the Internet of Things.
 
 ![gobot](https://cdn-images-1.medium.com/max/720/0*cd4pZdaXZHsEDjwn.png)
