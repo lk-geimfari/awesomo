@@ -673,7 +673,7 @@ Output:
 ![](https://raw.githubusercontent.com/tqdm/tqdm/master/images/tqdm.gif)
 
 ---
-[pycodestyle](https://github.com/PyCQA/pycodestyle) is a tool to check your Python code against some of the style conventions in PEP 8.
+[**pycodestyle**](https://github.com/PyCQA/pycodestyle) is a tool to check your Python code against some of the style conventions in PEP 8.
 
 Example usage:
 ```
