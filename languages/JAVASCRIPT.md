@@ -174,6 +174,11 @@ Enzyme is unopinionated regarding which test runner or assertion library you use
 ![hexo](http://imgur.com/EpeRsnm.png)
 
 ---
+[**Wintersmith**](https://github.com/jnordberg/wintersmith)  —  A simple yet flexible static site generator. It takes contents (markdown, less, scripts, etc), transforms them using plugins and outputs a static website (html, css, images, etc) that you can host anywhere.
+
+![wintersmith](http://wintersmith.io/images/wintersmith.svg)
+
+---
 [**N1 **](https://github.com/nylas/N1) —  an open-source mail client built on the modern web with Electron, React, and Flux. It is designed to be extensible, so it’s easy to create new experiences and workflows around email. N1 is built on the Nylas Sync Engine, which is also open-source free software.
 
 ![logo](https://cdn-images-1.medium.com/max/720/0*47dEbQUDUuduqWTQ.)
