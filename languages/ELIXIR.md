@@ -22,6 +22,11 @@ Guardian remains a functional system. It integrates with Plug, but can be used o
 The core currency of authentication in Guardian is JSON Web Tokens (JWT). You can use the JWT to authenticate web endpoints, channels, and TCP sockets and it can contain any authenticated assertions that the issuer wants to include.
 
 ---
+[**Beaker**](https://github.com/hahuang65/beaker) is a tool that can be used to keep track of metrics for your Elixir project. It aims to provide an easy way to register statistics as well as an easy way to visualize them.
+
+![](https://raw.githubusercontent.com/hahuang65/beaker/master/beaker_sample.png)
+
+---
 [**httpoison** ](https://github.com/edgurgel/httpoison) —  yet another HTTP client for Elixir powered by hackney.
 
 ![httpoison](https://camo.githubusercontent.com/e7895297ccdfb59b971ea721eb617dc0faa9d94d/687474703a2f2f692e696d6775722e636f6d2f5777714e384a4f2e706e67)

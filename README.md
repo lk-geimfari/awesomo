@@ -6,8 +6,8 @@
   <br>
 </p>
 
-If you are interested in Open Source and are considering to join the community of Open Source developers, 
-it is possible that in this list you will find the project that will suit you. 
+If you are interested in Open Source and are considering to join the community of Open Source developers,
+it is possible that in this list you will find the project that will suit you.
 
 **We don't add to list mammoth's shit. Only active and interesting projects.**
 
@@ -16,14 +16,18 @@ Wanna support us? Just share this list with your friends on [Twitter](https://tw
 
 ## Languages
 
- - [C/C++](languages/C_C%2B%2B.md)
+ - [C](languages/C.md)
+ - [C#](languages/C%23.md)
+ - [C++](languages/C%2B%2B.md)
  - [Clojure](languages/CLOJURE.md)
- - [Common/Emacs Lisp](languages/LISP.md)
+ - [Common Lisp](languages/COMMON_LISP.md)
  - [CSS](languages/CSS.md)
  - [Elixir](languages/ELIXIR.md)
+ - [Emacs Lisp](languages/EMACS_LISP.md)
  - [Erlang](languages/ERLANG.md)
- - [Golang](languages/GOLANG.md)
+ - [Go](languages/GOLANG.md)
  - [Haskell](languages/HASKELL.md)
+ - [Java](languages/JAVA.md)
  - [JavaScript](languages/JAVASCRIPT.md)
  - [Lua](languages/LUA.md)
  - [OCaml](languages/OCAML.md)
@@ -34,9 +38,11 @@ Wanna support us? Just share this list with your friends on [Twitter](https://tw
  - [Scala](languages/SCALA.md)
  - [Shell](languages/SHELL.md)
  - [Swift](languages/SWIFT.md)
+ - [TypeScript](languages/TYPESCRIPT.md)
 
 
 ## Like it?
+
 You can say [thanks](https://saythanks.io/to/lk-geimfari)!
 
 ## License

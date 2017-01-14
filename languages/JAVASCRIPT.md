@@ -236,3 +236,8 @@ db.replicate.to('http://example.com/mydb');
 [**fullPage.js**](https://github.com/alvarotrigo/fullPage.js) - a simple and easy to use plugin to create fullscreen scrolling websites (also known as single page websites or onepage sites). It allows the creation of fullscreen scrolling websites, as well as adding some landscape sliders inside the sections of the site.
 
 ![fullpage](https://camo.githubusercontent.com/0a9ce533243ea122eb9fba3f93efb5426cc8b6e1/68747470733a2f2f7261772e6769746875622e636f6d2f616c7661726f747269676f2f66756c6c506167652e6a732f6d61737465722f6578616d706c65732f696d67732f696e74726f2e706e67)
+
+---
+[**PM2**](http://github.com/Unitech/pm2) is a production process manager for Node.js applications with a built-in load balancer. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.
+
+![Process listing](https://github.com/unitech/pm2/raw/master/pres/pm2-list.png)

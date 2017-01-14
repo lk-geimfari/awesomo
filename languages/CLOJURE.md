@@ -94,3 +94,32 @@ To render a file we can call `render-file` instead:
 [**Cortex**](https://github.com/thinktopic/cortex). Neural networks, regression and feature learning in Clojure.
 
 Cortex has a 0.3.0 release meaning all libraries are released on clojars. This is very preliminary and I would expect quite a few things to change over time but it should allow you to train some initial classifiers or regressions.
+
+---
+[**http-kit**](https://github.com/http-kit/http-kit) is a minimalist, event-driven, high-performance Clojure HTTP server/client library with WebSocket and asynchronous support.
+
+Server:
+```clojure
+(defn async-handler [ring-request]
+  ;; unified API for WebSocket and HTTP long polling/streaming
+  (with-channel ring-request channel    ; get the channel
+    (if (websocket? channel)            ; if you want to distinguish them
+      (on-receive channel (fn [data]     ; two way communication
+                            (send! channel data)))
+      (send! channel {:status 200
+                      :headers {"Content-Type" "text/plain"}
+                      :body    "Long polling?"}))))
+
+(run-server async-handler {:port 8080}) ; Ring server
+```
+
+Client:
+```clojure
+;; start concurrent requests, get promise, half the waiting time
+(let [response1 (http-kit/get "http://http-kit.org/")
+      response2 (http-kit/get "http://clojure.org/")]
+  ;; Handle responses one-by-one, blocking as necessary
+  ;; Other keys :headers :body :error :opts
+  (println "response1's status: " (:status @response1))
+  (println "response2's status: " (:status @response2)))
+```

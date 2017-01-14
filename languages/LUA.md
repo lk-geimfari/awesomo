@@ -83,3 +83,6 @@ app:run()
 
 ---
 [**luaposix**](https://github.com/luaposix/luaposix) - wrapper over POSIX function to fill the gaps of lua standard library.  This makes lua capable of implementing everything, only with this single library.
+
+---
+[**KOReader**](https://github.com/koreader/koreader) is a document viewer application, originally created for Kindle e-ink readers. It currently runs on Kindle, Kobo, PocketBook, Ubuntu Touch and Android (2.3+) devices. Developers can also run KOReader emulator for development purpose on desktop PC with Linux and Windows and Mac OSX (experimental for now).

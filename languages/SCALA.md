@@ -32,3 +32,10 @@ class ScalatraExample extends ScalatraServlet {
 The [**Play**](https://github.com/playframework/playframework) Framework combines productivity and performance making it easy to build scalable web applications with Java and Scala. Play is developer friendly with a "just hit refresh" workflow and built-in testing support. With Play, applications scale predictably due to a stateless and non-blocking architecture. By being RESTful by default, including assets compilers, JSON & WebSocket support, Play is a perfect fit for modern web & mobile applications.
 
 ![](https://playframework.com/assets/images/logos/play_full_color.png)
+
+
+---
+[**Ammonite**](https://github.com/lihaoyi/ammonite) - Ammonite lets you use the Scala language for scripting purposes: in the REPL, as scripts, as a library to use in existing projects, or as a standalone systems shell.
+
+---
+[**bitcoin-s-core**](https://github.com/bitcoin-s/bitcoin-s-core) - An implementation of the Bitcoin protocol in Scala. 

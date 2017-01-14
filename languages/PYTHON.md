@@ -7,51 +7,50 @@ Supported: *Python 2/3*
 ![tf](https://cdn-images-1.medium.com/max/720/0*dNVUpWFLoysACE9z.)
 
 ---
-[**Elizabeth**](https://github.com/lk-geimfari/elizabeth) - is a fast and easier to use Python library for generating dummy data. These data are very useful when you need to bootstrap the database in the testing phase of your software. A great example of how you can use the library are web applications on Flask or Django which need a data, such as users (email, username, name, surname etc.), posts (tags, text, title, publishing date and etc.) and so forth. The library uses the JSON files as a datastore and doesn’t have any dependencies. The library offers more than [18 different data providers](https://github.com/lk-geimfari/elizabeth/blob/master/PROVIDERS.md) (from personal ones to transport and more).
-
-Supported: *Python 3*
+[**Elizabeth**](https://github.com/lk-geimfari/elizabeth) - is a fast and easy to use Python library for generating dummy data for a variety of purposes.  This data can be particularly useful during software development and testing.  For example, it could be used to populate a testing database for a web application with user information such as email addresses, usernames, first names, last names, etc.  Elizabeth uses a JSON-based datastore and does not require any modules that are not in the Python standard library.   There are over eighteen different [data providers](https://github.com/lk-geimfari/elizabeth/blob/master/PROVIDERS.md) available, which can produce data related to food, people, computer hardware, transportation, addresses, and more.
 
 ![elizabeth](https://raw.githubusercontent.com/lk-geimfari/elizabeth/master/other/elizabeth_1.png)
 
-At this moment a library has 17 supported locales:
 
-| №  | Flag  | Code       | Name                 | Native name |
-|--- |---    |---         |---                   |---          |
-| 1  | 🇩🇰   |  `da`      | Danish               | Dansk       |
-| 2  | 🇩🇪   |  `de`      | German               | Deutsch     |
-| 3  | 🇺🇸   |  `en`      | English              | English     |
-| 4  | 🇬🇧   |  `en-gb`   | British English      | English     |
-| 5  | 🇪🇸   |  `es`      | Spanish              | Español     |
-| 6  | 🇮🇷   |  `fa`      | Farsi                |      فارسی  |
-| 7  | 🇫🇮   |  `fi`      | Finnish              | Suomi       |
-| 8  | 🇫🇷   |  `fr`      | French               | Français    |
-| 9  | 🇮🇸   |  `is`      | Icelandic            | Íslenska    |
-| 10 | 🇮🇹   |  `it`      | Italian              | Italiano    |
-| 11 | 🇳🇱   |  `nl`      | Dutch                | Nederlands  |
-| 12 | 🇳🇴   |  `no`      | Norwegian            | Norsk       |
-| 13 | 🇵🇱   |  `pl`      | Polish               | Polski      |
-| 14 | 🇵🇹   |  `pt`      | Portuguese           | Português   |
-| 15 | 🇧🇷   |  `pt-br`   | Brazilian Portuguese | Português Brasileiro |
-| 16 | 🇷🇺   |  `ru`      | Russian              | Русский     |
-| 17 | 🇸🇪   |  `sv`      | Swedish              | Svenska     |
+Basic Usage
 
-
-Below you can see, how to generate fake names (Englsih):
 ```python
 >>> from elizabeth import Personal
+>>> p = Personal('en')
+>>>
+>>> p.full_name(gender='female')
+'Antonetta Garrison'
+>>> p.blood_type()
+'O-'
+>>> p.occupation()
+'Programmer'
+```
 
->>> user = Personal('en')
+You can specify a locale when creating providers and they will return data that is appropriate for the language or country associated with that locale.  `Elizabeth` currently includes support for 20 different locales:
 
->>> for _ in range(0, 9):
-        user.full_name(gender='female')
-```
-```
-Antonetta Garrison
-Taneka Dickerson
-Jackelyn Stafford
-Tashia Olsen
-Rachal Hartman
-```
+| №  | Flag  | Code       | Name                 | Native name |
+|--- |---   |---        |---                |---         |
+| 1  | 🇨🇿   |  `cs`      | Czech                | Česky       |
+| 2  | 🇩🇰   |  `da`      | Danish               | Dansk       |
+| 3  | 🇩🇪   |  `de`      | German               | Deutsch     |
+| 4  | 🇺🇸   |  `en`      | English              | English     |
+| 5  | 🇬🇧   |  `en-gb`   | British English      | English     |
+| 6  | 🇪🇸   |  `es`      | Spanish              | Español     |
+| 7  | 🇮🇷   |  `fa`      | Farsi                |      فارسی  |
+| 8  | 🇫🇮   |  `fi`      | Finnish              | Suomi       |
+| 9  | 🇫🇷   |  `fr`      | French               | Français    |
+| 10  | 🇭🇺   |  `hu`      | Hungarian            | Magyar      |
+| 11 | 🇮🇸   |  `is`      | Icelandic            | Íslenska    |
+| 12 | 🇮🇹   |  `it`      | Italian              | Italiano    |
+| 13 | 🇰🇷   |  `ko`      | Korean               | 한국어       |
+| 14 | 🇳🇱   |  `nl`      | Dutch                | Nederlands  |
+| 15 | 🇳🇴   |  `no`      | Norwegian            | Norsk       |
+| 16 | 🇵🇱   |  `pl`      | Polish               | Polski      |
+| 17 | 🇵🇹   |  `pt`      | Portuguese           | Português   |
+| 18 | 🇧🇷   |  `pt-br`   | Brazilian Portuguese | Português Brasileiro |
+| 19 | 🇷🇺   |  `ru`      | Russian              | Русский     |
+| 20 | 🇸🇪   |  `sv`      | Swedish              | Svenska     |
+
 
 For another locales, exactly the same way (Icelandic) :
 ```python
@@ -656,3 +655,35 @@ Sovereign offers useful cloud services while being reasonably secure and low-mai
 Kivy is written in Python and Cython, based on OpenGL ES 2, supports various input devices and has an extensive widget library. With the same codebase, you can target Windows, OS X, Linux, Android and iOS. All Kivy widgets are built with multitouch support.
 
 ![kivy](https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png)
+
+---
+[**tqdm**](https://github.com/tqdm/tqdm) - a fast, extensible progress bar for Python and CLI 
+
+```
+from tqdm import tqdm
+
+for i in tqdm(range(10000)):
+    ...
+```
+Output:
+```
+76%|████████████████████████████         | 7568/10000 [00:33<00:10, 229.00it/s]
+```
+
+![](https://raw.githubusercontent.com/tqdm/tqdm/master/images/tqdm.gif)
+
+---
+[**pycodestyle**](https://github.com/PyCQA/pycodestyle) is a tool to check your Python code against some of the style conventions in PEP 8.
+
+Example usage:
+```
+$ pycodestyle --first optparse.py
+optparse.py:69:11: E401 multiple imports on one line
+optparse.py:77:1: E302 expected 2 blank lines, found 1
+optparse.py:88:5: E301 expected 1 blank line, found 0
+optparse.py:222:34: W602 deprecated form of raising exception
+optparse.py:347:31: E211 whitespace before '('
+optparse.py:357:17: E201 whitespace after '{'
+optparse.py:472:29: E221 multiple spaces before operator
+optparse.py:544:21: W601 .has_key() is deprecated, use 'in'
+```
