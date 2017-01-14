@@ -687,3 +687,19 @@ optparse.py:357:17: E201 whitespace after '{'
 optparse.py:472:29: E221 multiple spaces before operator
 optparse.py:544:21: W601 .has_key() is deprecated, use 'in'
 ```
+
+---
+[**BossSensor**](https://github.com/Hironsan/BossSensor) - Hide screen when boss is approaching.
+
+## Demo
+Boss stands up. He is approaching.
+
+![standup](https://github.com/Hironsan/BossSensor/blob/master/resource_for_readme/standup.jpg)
+
+When he is approaching, fetch face images and classify image.
+ 
+![approaching](https://github.com/Hironsan/BossSensor/blob/master/resource_for_readme/approach.jpg)
+
+If image is classified as the Boss, monitor changes.
+
+![editor](https://github.com/Hironsan/BossSensor/blob/master/resource_for_readme/editor.jpg)
