@@ -73,54 +73,7 @@ Grímnir Unason
 Gýmir Þórðsson
 ```
 
-fake paths:
-
-```python
->>> from elizabeth import Path
->>> path = Path()
-
->>> path.root
-'/'
-
->>> path.home
-'/home/'
-
->>> path.user(gender='female')
-'/home/chieko'
-
->>> path.users_folder(user_gender='male')
-'/home/lyndon/Documents'
-
->>> path.dev_dir(user_gender='female')
-'/home/edra/Development/Ruby'
-
->>> path.project_dir(user_gender='female')
-'/home/katharina/Development/C Shell/litany'
-```
-
-or how to generate dummy model of transport:
-
-```python
->>> from elizabeth import Transport
->>> transport = Transport()
-
->>> transport.truck()
-'Union-0632 FX'
-
->>> transport.truck(model_mask="##/@")
-'Jiaotong-78/P'
-
->>> transport.car()
-'Pontiac Grand Am'
-
->>> transport.airplane()
-'Boeing 575'
-
->>> transport.airplane(model_mask="7##")
-'Airbus 778'
-```
-
-Screenshot (using with Flask):
+Screenshot (integration with Flask):
 ![eliz](https://raw.githubusercontent.com/lk-geimfari/elizabeth/master/other/screenshots/en_bootstrap.png)
 
 ---
