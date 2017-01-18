@@ -664,4 +664,5 @@ If image is classified as the Boss, monitor changes.
 
 ![](https://www.yhat.com/img/rodeo-plots.gif)
 
-![](https://www.yhat.com/img/rodeo-plots.gif)
+
+![](https://www.yhat.com/img/multi_line.gif)
