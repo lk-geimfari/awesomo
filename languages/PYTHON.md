@@ -658,11 +658,7 @@ If image is classified as the Boss, monitor changes.
 ![editor](https://github.com/Hironsan/BossSensor/blob/master/resource_for_readme/editor.jpg)
 
 ---
-[**rodeo**](https://github.com/yhat/) - a Python IDE built for analyzing data.
+[**rodeo**](https://github.com/yhat/rodeo) - a Python IDE built for analyzing data.
 
 ![](https://camo.githubusercontent.com/6951f81624599db71c34138cb73ed42968597b48/687474703a2f2f626c6f672e7968617468712e636f6d2f7374617469632f696d672f726f64656f2d6f766572766965772e706e67)
 
-![](https://www.yhat.com/img/rodeo-plots.gif)
-
-
-![](https://www.yhat.com/img/multi_line.gif)
