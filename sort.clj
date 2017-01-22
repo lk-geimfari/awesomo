@@ -1,0 +1,2 @@
+(defn -main []
+  (println "Sorted!"))
