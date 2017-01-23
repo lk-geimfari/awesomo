@@ -119,6 +119,12 @@ end
 ```
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lk-geimfari/unittest/master/logo.png">
+  <br>
+</p>
+
 The [**unittest**](https://github.com/lk-geimfari/unittest) unit testing library was originally inspired by Python standard testing framework. It supports test automation, sharing of setup and shutdown code for tests, aggregation of tests into collections.
 
 Example:
@@ -133,11 +139,7 @@ Example:
     assert Unittest.greater([:atom, "list"], %{"one" => :one, 2 => :two})
     assert Unittest.greater(<<1 :: size(1)>>, [:atom, "list"])
   end
-
 ```
-
-![](https://raw.githubusercontent.com/lk-geimfari/unittest/master/logo.png)
-
 ---
 [**hound**](https://github.com/HashNuke/hound)  — an  Elixir library for writing integration tests and browser automation.
 
