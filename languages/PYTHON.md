@@ -77,6 +77,16 @@ Screenshot (integration with Flask):
 ![eliz](https://raw.githubusercontent.com/lk-geimfari/elizabeth/master/other/screenshots/en_bootstrap.png)
 
 ---
+<p align="center">
+  <img src="https://camo.githubusercontent.com/8539e8f5a32e427445e80669fbba317e3a823d9d/687474703a2f2f6d656469612e6b656e6e657468726569747a2e636f6d2e73332e616d617a6f6e6177732e636f6d2f73382e676966">
+  <br>
+</p>
+
+[**Pipenv**](https://github.com/kennethreitz/pipenv) is an experimental project that aims to bring the best of all packaging worlds to the Python world. It harnesses Pipfile, pip, and virtualenv into one single toolchain. It features very pretty terminal colors.
+
+It automatically creates and manages a virtualenv for your projects, as well as adds/removes packages from your Pipfile as you install/uninstall packages. The lock command generates a lockfile (Pipfile.lock).
+
+---
 [**The Numenta Platform for Intelligent Computing (NUPIC)**](https://github.com/numenta/nupic) is a machine intelligence platform that implements the HTM learning algorithms. HTM is a detailed computational theory of the neocortex. At the core of HTM are time-based continuous learning algorithms that store and recall spatial and temporal patterns. NuPIC is suited to a variety of problems, particularly anomaly detection and prediction of streaming data sources.
 
 Supported: *Python 2*
