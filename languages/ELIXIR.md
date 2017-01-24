@@ -129,16 +129,37 @@ The [**unittest**](https://github.com/lk-geimfari/unittest) unit testing library
 
 Example:
 ```elixir
-  test "greater" do
-    assert Unittest.greater(22, 21)
-    assert Unittest.greater(:atom, 22)
-    assert Unittest.greater(fn() -> :ok end, :atom)
-    assert Unittest.greater(spawn(fn -> :ok end), fn() -> :ok end)
-    assert Unittest.greater({:tuple, "tuple"}, spawn(fn -> :ok end))
-    assert Unittest.greater(%{"one" => :one, 2 => :two}, {:tuple, "tuple"})
-    assert Unittest.greater([:atom, "list"], %{"one" => :one, 2 => :two})
-    assert Unittest.greater(<<1 :: size(1)>>, [:atom, "list"])
+defmodule UnittestTest do
+  use ExUnit.Case
+  import Unittest
+
+  test "is" do
+    assert is(:atom, :atom)
+    assert is(666, :int)
+    assert is("String", :str)
+    assert is(3.14159265359, :float)
+    assert is(<<60, 33, 68, 79, 67>>, :bin)
+    assert is(<<1 :: size(1)>>, :bitstring)
+    assert is(%{"one" => :one, 2 => :two}, :map)
+    assert is(nil, :nil)
+    assert is(344, :number)
+    assert is(3.44, :number)
+    assert is({:ok, "OK"}, :tuple)
+    assert is(true, :bool)
+    assert is([:one, :two], :list)
+
+    pid = spawn(fn -> :ok end)
+    assert is(pid, :pid)
+
+    function = fn() -> :something end
+    assert is(function, :function)
+
+    # Returns true if term is a function that can be applied
+    # with arity number of arguments; otherwise returns false.
+    function = fn(_, _) -> :something end
+    assert is(function, 2, :function)
   end
+end
 ```
 ---
 [**hound**](https://github.com/HashNuke/hound)  — an  Elixir library for writing integration tests and browser automation.
