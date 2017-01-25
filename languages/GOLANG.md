@@ -300,3 +300,10 @@ The focus of the project has been to seek out an elegant and comfortable design 
 The key considerations of chi's design are: project structure, maintainability, standard http handlers (stdlib-only), developer productivity, and deconstructing a large system into many small parts. The core router github.com/pressly/chi is quite small (less than 1000 LOC), but we've also included some useful/optional subpackages: middleware, render and docgen. We hope you enjoy it too!
 
 ![](https://camo.githubusercontent.com/c395eec91ae31736f68b86dc6cc35e4ef3a24f6b/68747470733a2f2f63646e2e7261776769742e636f6d2f70726573736c792f6368692f6d61737465722f5f6578616d706c65732f6368692e737667)
+
+---
+[**go-callvis**](https://github.com/TrueFurby/go-callvis)  — a development tool to help visualize call graph of your Go program using Graphviz's dot format.
+
+Purpose of this tool is to provide a visual overview of your program by using the data from call graph and its relations with packages and types. This is especially useful in larger projects where the complexity of the code rises or when you are just simply trying to understand code structure of somebody else.
+
+![](https://github.com/TrueFurby/go-callvis/raw/master/images/main.png)
