@@ -123,3 +123,7 @@ Client:
   (println "response1's status: " (:status @response1))
   (println "response2's status: " (:status @response2)))
 ```
+---
+[**Klipse**](https://github.com/viebel/klipse) is a simple client-side code evaluator pluggable on any web page: clojure, ruby, javascript, python, scheme, es2017, jsx, brainfuck, c++, reagent and a clojure[script] web repl. 
+
+Checkout [Klipse blog with interactive code snippets](http://blog.klipse.tech/) and the [KLIPSE clojure web repl](http://app.klipse.tech/).
