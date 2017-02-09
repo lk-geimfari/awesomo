@@ -31,6 +31,7 @@ Wanna support us? Just share this list with your friends on [Twitter](https://tw
  - [JavaScript](languages/JAVASCRIPT.md)
  - [Lua](languages/LUA.md)
  - [OCaml](languages/OCAML.md)
+ - [PHP](languages/PHP.md)
  - [Python](languages/PYTHON.md)
  - [R](languages/R.md)
  - [Ruby](languages/RUBY.md)
