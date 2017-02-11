@@ -104,11 +104,6 @@ Supported: *Python 2*
 
 ![](https://raw.githubusercontent.com/hack4impact/flask-base/master/readme_media/logo%402x.png)
 
-Screenshots:
-
-![](https://raw.githubusercontent.com/hack4impact/flask-base/master/readme_media/home.gif)
-![](https://raw.githubusercontent.com/hack4impact/flask-base/master/readme_media/admin.gif)
-
 ---
 [**Django**](https://github.com/django/django) is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
 
