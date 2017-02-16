@@ -241,3 +241,8 @@ db.replicate.to('http://example.com/mydb');
 [**PM2**](http://github.com/Unitech/pm2) is a production process manager for Node.js applications with a built-in load balancer. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.
 
 ![Process listing](https://github.com/unitech/pm2/raw/master/pres/pm2-list.png)
+
+---
+[**TestCafe**](https://github.com/DevExpress/testcafe) is a pure node.js end-to-end solution for testing web apps. It takes care of all the stages: starting browsers, running tests, gathering test results and generating reports. TestCafe doesn’t need browser plugins - it works in all popular modern browsers out-of-the-box.
+
+![](https://raw.githubusercontent.com/DevExpress/testcafe/master/media/install-and-run-test.gif)
