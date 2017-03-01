@@ -69,7 +69,7 @@ netdata is fast and efficient, designed to permanently run on all systems (physi
 ![kore](https://kore.io/images/logos/logo-front.png)
 
 ---
-[VeraCrypt](https://veracrypt.codeplex.com/) is an open-source utility used for on-the-fly encryption (OTFE).[5] It can create a virtual encrypted disk within a file or encrypt a partition[6] or (under Microsoft Windows except Windows 8 or GPT) the entire storage device with pre-boot authentication.
+[VeraCrypt](https://veracrypt.codeplex.com/) is an open-source utility used for on-the-fly encryption (OTFE). It can create a virtual encrypted disk within a file or encrypt a partition or the entire storage device with pre-boot authentication.
 
 ![veracrypt](https://download-codeplex.sec.s-msft.com/Download?ProjectName=veracrypt&DownloadId=1527687&Build=21040)
 
