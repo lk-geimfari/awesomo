@@ -127,3 +127,8 @@ Client:
 [**Klipse**](https://github.com/viebel/klipse) is a simple client-side code evaluator pluggable on any web page: clojure, ruby, javascript, python, scheme, es2017, jsx, brainfuck, c++, reagent and a clojure[script] web repl. 
 
 Checkout [Klipse blog with interactive code snippets](http://blog.klipse.tech/) and the [KLIPSE clojure web repl](http://app.klipse.tech/).
+
+[**Clojure News**](https://github.com/ertugrulcetin/ClojureNews) is Hacker News clone for Clojurists.Entirely written in Clojure & ClojureScript.
+
+![Clojure News Demo](/github-img-clojure-news.png)
+
