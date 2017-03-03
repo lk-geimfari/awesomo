@@ -130,5 +130,5 @@ Checkout [Klipse blog with interactive code snippets](http://blog.klipse.tech/) 
 
 [**Clojure News**](https://github.com/ertugrulcetin/ClojureNews) is Hacker News clone for Clojurists.Entirely written in Clojure & ClojureScript.
 
-![Clojure News Demo](/github-img-clojure-news.png)
+![Clojure News Demo](https://github.com/ertugrulcetin/ClojureNews/raw/master/github-img-clojure-news.png)
 
