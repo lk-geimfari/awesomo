@@ -41,40 +41,21 @@ The MongooseIM platform comes with server-side components and client libraries. 
 
 
 ---
-[**Smokkfiskur**](https://github.com/lk-geimfari/smokkfiskur) is a small library for colored (ANSI) output in Erlang. It's can be useful when you need to create a user-friendly command-line applications.
+[**Nebula**](https://github.com/lk-geimfari/nebula) is a small library for colored (ANSI) output in Erlang. It's can be useful when you need to create a user-friendly command-line applications.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lk-geimfari/smokkfiskur/master/other/logo2.png">
+  <img src="https://raw.githubusercontent.com/lk-geimfari/nebula/master/other/logo.png">
 </p>
 
 Example:
-
 ```erlang
--import(smokkfiskur, [print/1]).
+-import(nebula, [print/1]).
 
 update_something() ->
   %% ...
   %% ...
   %% ...
   print({green, "Something has been updated successfully!"}).
-```
-or
-```erlang
--import(smokkfiskur, [print/1]).
-
-
-%%=========================
-%% Text
-%%=========================
-print({red,    "Text"}).
-print({black,  "Text"}).
-
-%%=========================
-%% Background
-%%=========================
-background({red,    "Text"}).
-background({black,  "Text"}).
-
 ```
 
 ---
@@ -114,3 +95,8 @@ Example:
 [**Typhoon**](https://github.com/zalando/typhoon) is a stress and load testing tool for distributed systems that simulates traffic from a test cluster toward a system-under-test (SUT) and visualizes infrastructure-, protocol- and application-related latencies. It provides an out-of-the-box, cross-platform solution for investigating protocols and microservice latencies, and is operable as a standalone application. For scalability and accuracy, its runtime environment is Erlang.
 
 ![](https://raw.githubusercontent.com/zalando/typhoon/master/screenshot.png)
+
+---
+[**LeoFS**](https://github.com/leo-project/leofs) is a highly available, distributed, eventually consistent object/blob store. If you are searching a storage system that is able to store huge amount and various kind of files such as photo, movie, log data and so on, LeoFS is suitable for that.
+
+![](https://camo.githubusercontent.com/a3103d39ef3924d6d1e2b8837f8f1cc9dde87ba6/687474703a2f2f6c656f2d70726f6a6563742e6e65742f6c656f66732f646f63732f5f7374617469632f6c656f66732d6c6f676f2d736d616c6c2e706e67)
