@@ -79,7 +79,7 @@ Example:
 <<"2012-02-16T01:06:48Z">>
 ```
 
-![iso](https://raw.githubusercontent.com/erlsci/iso8601/master/resources/images/logo-large.png)
+![iso](https://raw.githubusercontent.com/erlsci/iso8601/master/resources/images/logo.png)
 
 ---
 [**lorawan-server**](https://github.com/gotthardp/lorawan-server) - an Open-source LoRaWAN Server that integrates both the network-server and the application-server. This is useful for application providers that operate their own LoRa network, or for device and application developers.
