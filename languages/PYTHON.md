@@ -60,6 +60,9 @@ You can specify a locale when creating providers and they will return data that 
 | 22 | 🇷🇺   |  `ru`      | Russian              | Русский     |
 | 23 | 🇸🇪   |  `sv`      | Swedish              | Svenska     |
 | 24 | 🇹🇷   |  `tr`      | Turkish              | Türkçe      |
+<!-- tocstop -->
+
+</details>
 
 Using locales:
 
