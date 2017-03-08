@@ -9,7 +9,7 @@ Supported: *Python 2/3*
 ---
 [**Elizabeth**](https://github.com/lk-geimfari/elizabeth) - is a fast and easy to use Python library for generating dummy data for a variety of purposes.  This data can be particularly useful during software development and testing.  For example, it could be used to populate a testing database for a web application with user information such as email addresses, usernames, first names, last names, etc.  Elizabeth uses a JSON-based datastore and does not require any modules that are not in the Python standard library.   There are over eighteen different [data providers](https://github.com/lk-geimfari/elizabeth/blob/master/PROVIDERS.md) available, which can produce data related to food, people, computer hardware, transportation, addresses, and more.
 
-![elizabeth](https://raw.githubusercontent.com/lk-geimfari/elizabeth/master/other/elizabeth_1.png)
+![elizabeth](https://raw.githubusercontent.com/lk-geimfari/elizabeth/master/other/logo_2.png)
 
 
 Basic Usage
@@ -17,64 +17,68 @@ Basic Usage
 ```python
 >>> from elizabeth import Personal
 >>> p = Personal('en')
->>>
+
 >>> p.full_name(gender='female')
 'Antonetta Garrison'
+
 >>> p.blood_type()
 'O-'
 >>> p.occupation()
 'Programmer'
 ```
 
-You can specify a locale when creating providers and they will return data that is appropriate for the language or country associated with that locale.  `Elizabeth` currently includes support for 20 different locales:
+You can specify a locale when creating providers and they will return data that is appropriate for the language or country associated with that locale. Elizabeth currently includes support for 20 different locales. See details for more information.
 
+<details>
+<!-- toc -->
 | №  | Flag  | Code       | Name                 | Native name |
-|--- |---   |---        |---                |---         |
+|--- |---    |---         |---                   |---          |
 | 1  | 🇨🇿   |  `cs`      | Czech                | Česky       |
 | 2  | 🇩🇰   |  `da`      | Danish               | Dansk       |
 | 3  | 🇩🇪   |  `de`      | German               | Deutsch     |
-| 4  | 🇺🇸   |  `en`      | English              | English     |
-| 5  | 🇬🇧   |  `en-gb`   | British English      | English     |
-| 6  | 🇪🇸   |  `es`      | Spanish              | Español     |
-| 7  | 🇮🇷   |  `fa`      | Farsi                |      فارسی  |
-| 8  | 🇫🇮   |  `fi`      | Finnish              | Suomi       |
-| 9  | 🇫🇷   |  `fr`      | French               | Français    |
-| 10  | 🇭🇺   |  `hu`      | Hungarian            | Magyar      |
-| 11 | 🇮🇸   |  `is`      | Icelandic            | Íslenska    |
-| 12 | 🇮🇹   |  `it`      | Italian              | Italiano    |
-| 13 | 🇰🇷   |  `ko`      | Korean               | 한국어       |
-| 14 | 🇳🇱   |  `nl`      | Dutch                | Nederlands  |
-| 15 | 🇳🇴   |  `no`      | Norwegian            | Norsk       |
-| 16 | 🇵🇱   |  `pl`      | Polish               | Polski      |
-| 17 | 🇵🇹   |  `pt`      | Portuguese           | Português   |
-| 18 | 🇧🇷   |  `pt-br`   | Brazilian Portuguese | Português Brasileiro |
-| 19 | 🇷🇺   |  `ru`      | Russian              | Русский     |
-| 20 | 🇸🇪   |  `sv`      | Swedish              | Svenska     |
+| 4  | 🇦🇹   |  `de-at`   | Austrian german      | Deutsch     |
+| 5  | 🇺🇸   |  `en`      | English              | English     |
+| 6  | 🇦🇺   |  `en-au`   | Australian English   | English     |
+| 7  | 🇬🇧   |  `en-gb`   | British English      | English     |
+| 8  | 🇪🇸   |  `es`      | Spanish              | Español     |
+| 9  | 🇮🇷   |  `fa`      | Farsi                |      فارسی  |
+| 10 | 🇫🇮   |  `fi`      | Finnish              | Suomi       |
+| 11 | 🇫🇷   |  `fr`      | French               | Français    |
+| 12 | 🇭🇺   |  `hu`      | Hungarian            | Magyar      |
+| 13 | 🇮🇸   |  `is`      | Icelandic            | Íslenska    |
+| 14 | 🇮🇹   |  `it`      | Italian              | Italiano    |
+| 15 | 🇯🇵   |  `jp`      | Japanese             | 日本語       |
+| 16 | 🇰🇷   |  `ko`      | Korean               | 한국어       |
+| 17 | 🇳🇱   |  `nl`      | Dutch                | Nederlands  |
+| 18 | 🇳🇴   |  `no`      | Norwegian            | Norsk       |
+| 19 | 🇵🇱   |  `pl`      | Polish               | Polski      |
+| 20 | 🇵🇹   |  `pt`      | Portuguese           | Português   |
+| 21 | 🇧🇷   |  `pt-br`   | Brazilian Portuguese | Português Brasileiro |
+| 22 | 🇷🇺   |  `ru`      | Russian              | Русский     |
+| 23 | 🇸🇪   |  `sv`      | Swedish              | Svenska     |
+| 24 | 🇹🇷   |  `tr`      | Turkish              | Türkçe      |
 
+Using locales:
 
-For another locales, exactly the same way (Icelandic) :
 ```python
 >>> from elizabeth import Personal
 
->>> user = Personal('is')
+>>> en = Personal('en')
+>>> de = Personal('de')
+>>> ic = Personal('is')
 
->>> for _ in range(0, 9):
-        user.full_name(gender='male')
-```
-```
-Karl Brynjúlfsson
-Rögnvald Eiðsson
-Vésteinn Ríkharðsson
-Friðleifur Granason
-Fjarki Arngarðsson
-Hafsteinn Þrymsson
-Sívar Kakalason
-Grímnir Unason
-Gýmir Þórðsson
+>>> en.full_name()
+'Carolin Brady'
+
+>>> de.full_name()
+'Sabrina Gutermuth'
+
+>>> ic.full_name()
+'Rósa Þórlindsdóttir'
+
 ```
 
-Screenshot (integration with Flask):
-![eliz](https://raw.githubusercontent.com/lk-geimfari/elizabeth/master/other/screenshots/en_bootstrap.png)
+Screenshot (integration with Flask): [here](https://raw.githubusercontent.com/lk-geimfari/elizabeth/master/other/screenshots/en_bootstrap.png)
 
 ---
 <p align="center">
