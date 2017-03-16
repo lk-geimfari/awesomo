@@ -52,6 +52,13 @@ Kubernetes builds upon a decade and a half of experience at Google running produ
 ![kubernetes](https://www.mirantis.com/wp-content/uploads/2016/02/Kubernetes.png)
 
 ---
+[**Nanobox**](https://nanobox.io) is a cross-platform micro-PaaS (μPaaS) that allows developers to focus on application development, rather than the complexities of infrastructure configuration and management.
+
+Nanobox creates isolated development environments (using Docker) which are staged locally, and deployed anywhere. This guarantees parity of application environments across entire teams throughout the development lifecycle (dev, staging, production, etc.).
+
+[![nanoboxdesktop logo](http://nano-assets.gopagoda.io/readme-headers/nanoboxdesktop.png)](https://github.com/nanobox-io/nanobox)
+
+---
 [**cobra**](https://github.com/spf13/cobra)  —  a library for creating powerful modern CLI applications as well as a program to generate applications and command files.
 
 ![cobra](https://cdn-images-1.medium.com/max/720/0*ZPG-FROnGxX9lIfN.png)
