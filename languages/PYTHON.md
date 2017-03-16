@@ -689,3 +689,28 @@ If image is classified as the Boss, monitor changes.
 
 ![](https://camo.githubusercontent.com/6951f81624599db71c34138cb73ed42968597b48/687474703a2f2f626c6f672e7968617468712e636f6d2f7374617469632f696d672f726f64656f2d6f766572766965772e706e67)
 
+
+---
+[**Japronto**](https://github.com/squeaky-pl/japronto) (from Portuguese "já pronto" /ˈʒa pɾõtu/ meaning "already done") is a screaming-fast, scalable, asynchronous Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser. It's targeted at speed enthusiasts, people who like plumbing and early adopters.
+
+![](https://raw.githubusercontent.com/squeaky-pl/japronto/master/benchmarks/results.png)
+
+
+---
+[**python-fire**](https://github.com/google/python-fire) is a library for creating command line interfaces (CLIs) from
+absolutely any Python object.
+
+Here's a simple example.
+
+```python
+import fire
+
+class Calculator(object):
+  """A simple calculator class."""
+
+  def double(self, number):
+    return 2 * number
+
+if __name__ == '__main__':
+  fire.Fire(Calculator)
+```
