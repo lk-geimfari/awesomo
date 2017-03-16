@@ -1,5 +1,21 @@
 ## Go
 
+[**Nanopack**](http://nanopack.io/) is a collection of libraries aimed at improving infrastructure development and management through a fundamentally different approach to building infrastructure components and services.
+
+![nanopack](http://nanopack.io/images/nanopack.png)
+
+Libraries include:
+
+* [Yoke](https://github.com/nanopack/yoke) - Postgres high-availability cluster with auto-failover and automated cluster recovery.
+* [Redundis](https://github.com/nanopack/redundis) - Redis high-availability cluster using Sentinel to transparently proxy connections to the active primary member.
+* [Portal](https://github.com/nanopack/portal) - An api-driven, in-kernel layer 2/3 load balancer.
+* [Logvac](https://github.com/nanopack/logvac) - Simple, lightweight, api-driven log aggregation service with realtime push capabilities and historical persistence.
+* [Hoarder](https://github.com/nanopack/hoarder) - A simple, api-driven storage system for storing code builds and cached libraries for cloud-based deployment services.
+* [Shaman](https://github.com/nanopack/shaman) - Small, lightweight, api-driven dns server.
+* [Mist](https://github.com/nanopack/mist) - A distributed, tag-based pub-sub service for modern web applications and container-driven cloud.
+* [more...](https://github.com/nanopack)
+
+---
 [**Snap**](https://github.com/intelsdi-x/snap) is an open telemetry framework designed to simplify the collection, processing and publishing of system data through a single API. The goals of this project are to:
 
 * Empower systems to expose a consistent set of telemetry data
@@ -186,7 +202,7 @@ Features
 * It aims to answer queries in real-time. That means every data point is
   indexed as it comes in and is immediately available in queries that
   should return in < 100ms.
-  
+
 ![influxdb](https://upload.wikimedia.org/wikipedia/en/f/f5/InfluxDB_logo.svg)
 
 ---
