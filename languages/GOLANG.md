@@ -307,3 +307,6 @@ The key considerations of chi's design are: project structure, maintainability, 
 Purpose of this tool is to provide a visual overview of your program by using the data from call graph and its relations with packages and types. This is especially useful in larger projects where the complexity of the code rises or when you are just simply trying to understand code structure of somebody else.
 
 ![](https://github.com/TrueFurby/go-callvis/raw/master/images/main.png)
+
+---
+[**fasthttp**](https://github.com/valyala/fasthttp) - is a fast HTTP implementation for Go.
