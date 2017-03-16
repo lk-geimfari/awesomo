@@ -79,3 +79,7 @@ The supported data models can be mixed in queries and allow ArangoDB to be the a
 
 ![arangodb](https://docs.arangodb.com/assets/arangodb_logo_2016_inverted.png)
 ---
+
+
+---
+[**Proxygen**](https://github.com/facebook/proxygen). This project comprises the core C++ HTTP abstractions used at Facebook. Internally, it is used as the basis for building many HTTP servers, proxies, and clients. This release focuses on the common HTTP abstractions and our simple HTTPServer framework. Future releases will provide simple client APIs as well. The framework supports HTTP/1.1, SPDY/3, SPDY/3.1, and HTTP/2. The goal is to provide a simple, performant, and modern C++ HTTP library.
