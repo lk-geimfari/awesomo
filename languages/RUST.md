@@ -31,3 +31,13 @@ Be aware that hyper is still actively evolving towards 1.0, and is likely to exp
 [**xi editor**](https://github.com/google/xi-editor) is an attempt to build a high quality text editor, using modern software engineering techniques. It is initially built for Mac OS X, using Cocoa for the user interface, but other targets are planned.
 
 ![xi](https://raw.githubusercontent.com/google/xi-editor/master/icons/xi-editor.png)
+
+---
+[**Rustful**](https://github.com/Ogeon/rustful) - A light HTTP framework for Rust, with REST-like features. The main purpose of Rustful is to create a simple, modular and non-intrusive foundation for HTTP applications. It has a mainly stateless structure, which naturally allows it to run both as one single server and as multiple instances in a cluster.
+
+Some of the features are:
+
+* Generic response handlers. Just use a function or implement the Handler trait.
+* Some handy macros reduces the risk for typos and makes life easier.
+* Variables in routes, that can capture parts of the requested path.
+* Pluggable request and response filtering.
