@@ -1,8 +1,8 @@
 ## Go
 
-![nanopack](http://nanopack.io/images/nanopack.png)
-
 [**Nanopack**](http://nanopack.io/) is a collection of libraries aimed at improving infrastructure development and management through a fundamentally different approach to building infrastructure components and services.
+
+![nanopack](http://nanopack.io/images/nanopack.png)
 
 Libraries include:
 
