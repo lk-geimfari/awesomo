@@ -16,6 +16,7 @@ Wanna support us? Just share this list with your friends on [Twitter](https://tw
 
 ## Languages
 
+ - [Assembly](languages/ASSEMBLY.md)
  - [C](languages/C.md)
  - [C#](languages/C%23.md)
  - [C++](languages/C%2B%2B.md)
