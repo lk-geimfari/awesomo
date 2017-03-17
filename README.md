@@ -1,18 +1,12 @@
-#### A.W.E.S.O.M. O: The really big list of really interesting open source projects
+<p align="center"><img src="https://raw.githubusercontent.com/lk-geimfari/awesomeo/master/artwork/a.w.e.s.o.m.e_o.png"></p>
+
+# <div align="center">A.W.E.S.O.M. O</div>
 
 <p align="center">
-  <br>
-  <img src="https://raw.githubusercontent.com/lk-geimfari/awesomeo/master/artwork/a.w.e.s.o.m.e_o.png">
-  <br>
+  <b>A.W.E.S.O.M. O</b> is an extensive list of interesting open source projects written in various languages.
 </p>
 
-If you are interested in Open Source and are considering to join the community of Open Source developers,
-it is possible that in this list you will find the project that will suit you.
-
-**We don't add to list mammoth's shit. Only active and interesting projects.**
-
-Wanna support us? Just share this list with your friends on [Twitter](https://twitter.com/), [Facebook](https://www.facebook.com/), [Medium](http://medium.com) or somewhere else.
-
+If you are interested in [Open Source](https://en.wikipedia.org/wiki/Open-source_software) and are considering to join the community of Open Source developers, then here you might find a project that will suit you.
 
 ## Languages
 
@@ -41,9 +35,20 @@ Wanna support us? Just share this list with your friends on [Twitter](https://tw
  - [Shell](languages/SHELL.md)
  - [Swift](languages/SWIFT.md)
  - [TypeScript](languages/TYPESCRIPT.md)
+ 
+## Want to add an interesting project?
 
+- Simply [fork](https://github.com/lk-geimfari/awesomo/) this repository.
+- Add the project to the list using similar formatting of other projects.
+- Open [new pull request](https://github.com/lk-geimfari/awesomo/compare).
 
-## Like it?
+:point_up: However, keep in mind that we don't accept *mammoth's shit*. Only active and interesting projects with good documentation are added. Dead and abandoned projects will be removed.
+
+## Want to support us? 
+
+Just share this list with your friends on [Twitter](https://twitter.com/), [Facebook](https://www.facebook.com/), [Medium](http://medium.com) or somewhere else.
+
+### Like this project?
 
 You can say [thanks](https://saythanks.io/to/lk-geimfari)!
 
