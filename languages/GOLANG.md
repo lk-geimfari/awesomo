@@ -387,3 +387,9 @@ Purpose of this tool is to provide a visual overview of your program by using th
 SQLBoiler currently supports Postgres, MySQL and MSSQL, with plans for SQLite3 in the pipeline.
 
 <p align="center"><img src="https://camo.githubusercontent.com/50ae2d52914a24439bb6f217852d60a79b4782a0/687474703a2f2f692e696d6775722e636f6d2f4e4a74435437792e706e67"></p>
+
+## <div align="center">Tyk</div>
+
+[**Tyk**](https://github.com/TykTechnologies/tyk) — is an open source, fast and scalable API management platform featuring an API gateway, API analytics, developer portal and API management dashboard.
+
+<p align="center"><img src="https://tyk.io//wp-content/uploads/2016/03/TYK_FullLogo.png"></p>
