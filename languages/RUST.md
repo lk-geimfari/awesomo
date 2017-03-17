@@ -41,3 +41,10 @@ Some of the features are:
 * Some handy macros reduces the risk for typos and makes life easier.
 * Variables in routes, that can capture parts of the requested path.
 * Pluggable request and response filtering.
+
+---
+[**ripgrep**](https://github.com/BurntSushi/ripgrep) — a line oriented search tool that combines the usability of The Silver Searcher (similar to ack) with the raw speed of GNU grep. ripgrep works by recursively searching your current directory for a regex pattern. ripgrep has first class support on Windows, Mac and Linux, with binary downloads available for every release.
+
+Detailed benchmarks [show](http://blog.burntsushi.net/ripgrep/) that it is the fastest avaiable tool of this kind.
+
+![ripgrep](http://burntsushi.net/stuff/ripgrep1.png)
