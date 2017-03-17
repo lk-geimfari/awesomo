@@ -119,49 +119,6 @@ end
 ```
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lk-geimfari/unittest/master/logo.png">
-  <br>
-</p>
-
-The [**unittest**](https://github.com/lk-geimfari/unittest) unit testing library was originally inspired by Python standard testing framework. It supports test automation, sharing of setup and shutdown code for tests, aggregation of tests into collections.
-
-Example:
-```elixir
-defmodule UnittestTest do
-  use ExUnit.Case
-  import Unittest
-
-  test "is" do
-    assert is(:atom, :atom)
-    assert is(666, :int)
-    assert is("String", :str)
-    assert is(3.14159265359, :float)
-    assert is(<<60, 33, 68, 79, 67>>, :bin)
-    assert is(<<1 :: size(1)>>, :bitstring)
-    assert is(%{"one" => :one, 2 => :two}, :map)
-    assert is(nil, :nil)
-    assert is(344, :number)
-    assert is(3.44, :number)
-    assert is({:ok, "OK"}, :tuple)
-    assert is(true, :bool)
-    assert is([:one, :two], :list)
-
-    pid = spawn(fn -> :ok end)
-    assert is(pid, :pid)
-
-    function = fn() -> :something end
-    assert is(function, :function)
-
-    # Returns true if term is a function that can be applied
-    # with arity number of arguments; otherwise returns false.
-    function = fn(_, _) -> :something end
-    assert is(function, 2, :function)
-  end
-end
-```
----
 [**hound**](https://github.com/HashNuke/hound)  — an  Elixir library for writing integration tests and browser automation.
 
 ExUnit example:
@@ -223,27 +180,6 @@ Here’s a few simple examples:
 
 > Timex.parse!(strftime_str, "%FT%T%:z", :strftime)
 #<DateTime(2016-02-29T12:30:30.120+00:00 Etc/Utc)
-
-> Duration.diff(Duration.now, Duration.zero, :days)
-16850
-
-> Timex.shift(date, days: 3)
-~D[2016-03-03]
-
-> Timex.shift(datetime, hours: 2, minutes: 13)
-#<DateTime(2016-02-29T14:43:30.120Z Etc/UTC)>
-
-> timezone = Timezone.get("America/Chicago", Timex.now)
-#<TimezoneInfo(America/Chicago - CDT (-06:00:00))>
-
-> Timezone.convert(datetime, timezone)
-#<DateTime(2016-02-29T06:30:30.120-06:00 America/Chicago)>
-
-> Timex.before?(Timex.today, Timex.shift(Timex.today, days: 1))
-true
-
-> Timex.before?(Timex.shift(Timex.today, days: 1), Timex.today)
-false
 ```
 
 ---
