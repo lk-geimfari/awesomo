@@ -1,7 +1,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/lk-geimfari/awesomeo/master/artwork/a.w.e.s.o.m.e_o.png"></p>
 
-# <div align="center">A.W.E.S.O.M. O</div>
-
 <p align="center">
   <b>A.W.E.S.O.M. O</b> is an extensive list of interesting open source projects written in various languages.
 </p>
