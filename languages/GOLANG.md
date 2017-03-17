@@ -333,3 +333,17 @@ Purpose of this tool is to provide a visual overview of your program by using th
 
 ---
 [**fasthttp**](https://github.com/valyala/fasthttp) - is a fast HTTP implementation for Go.
+
+---
+[**SQLBoiler**](https://github.com/vattle/sqlboiler)  — SQLBoiler is a tool to generate a featureful and blazing-fast Go ORM with extensive relationship support, tailored specifically to your database schema. The SQLBoiler approach has conferred the following benefits, and more:
+
+* ActiveRecord-like productivity: Eliminate all sql boilerplate, have relationships as a first-class concept.
+* Go-like feel: Work with normal structs, call functions, no hyper-magical struct tags, small interfaces.
+* Go-like performance: Benchmark and optimize the hot-paths, perform like hand-rolled sql.DB code.
+* Type-safety: The models package is type safe. This means no chance of random panics due to passing in the wrong type. No need for interface{}.
+* A system that is easy to debug. Your ORM is tailored to your schema, the code paths should be easy to trace since it's not all buried in reflect.
+* Auto-completion provides work-flow efficiency gains.
+
+SQLBoiler currently supports Postgres, MySQL and MSSQL, with plans for SQLite3 in the pipeline.
+
+![](https://camo.githubusercontent.com/50ae2d52914a24439bb6f217852d60a79b4782a0/687474703a2f2f692e696d6775722e636f6d2f4e4a74435437792e706e67)
