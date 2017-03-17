@@ -5,7 +5,7 @@ Go
 
 [**Nanopack**](http://nanopack.io/) is a collection of libraries aimed at improving infrastructure development and management through a fundamentally different approach to building infrastructure components and services.
 
-![nanopack](http://nanopack.io/images/nanopack.png)
+<p align="center"><img src="http://nanopack.io/images/nanopack.png"></p>
 
 Libraries include:
 
@@ -27,13 +27,13 @@ Libraries include:
 * Allow flexible processing of telemetry data on agent (e.g. filtering and decoration)
 * Provide powerful clustered control of telemetry workflows across small or large clusters
 
-![snap](http://snap-telemetry.io/assets/img/snappy-frontpage-banner.png)
+<p align="center"><img src="http://snap-telemetry.io/assets/img/snappy-frontpage-banner.png"></p>
 
 ## <div align="center">Gitql</div>
 
 [**Gitql**](https://github.com/cloudson/gitql) — is a Git query language.
 
-![gitql](https://raw.githubusercontent.com/cloudson/gitql/develop/howtouse.gif)
+<p align="center"><img src="https://raw.githubusercontent.com/cloudson/gitql/develop/howtouse.gif"></p>
 
 ## <div align="center">Cayley</div>
 
@@ -41,7 +41,7 @@ Libraries include:
 
 Its goal is to be a part of the developer’s toolbox where Linked Data and graph-shaped data (semantic webs, social networks, etc) in general are concerned.
 
-![cayley](https://cdn-images-1.medium.com/max/720/0*LT_0dZDhKD2Mve9r.)
+<p align="center"><img src="https://cdn-images-1.medium.com/max/720/0*LT_0dZDhKD2Mve9r."></p>
 
 ## <div align="center">Docker</div>
 
@@ -49,7 +49,7 @@ Its goal is to be a part of the developer’s toolbox where Linked Data and grap
 
 Build Once. Ship Anywhere.
 
-![docker](http://imgur.com/Wwo2YFM.png)
+<p align="center"><img src="http://imgur.com/Wwo2YFM.png"></p>
 
 ## <div align="center">Kubernetes</div>
 
@@ -57,7 +57,7 @@ Build Once. Ship Anywhere.
 
 Kubernetes builds upon a decade and a half of experience at Google running production workloads at scale using a system called Borg, combined with best-of-breed ideas and practices from the community.
 
-![kubernetes](https://www.mirantis.com/wp-content/uploads/2016/02/Kubernetes.png)
+<p align="center"><img src="https://www.mirantis.com/wp-content/uploads/2016/02/Kubernetes.png"></p>
 
 ## <div align="center">Nanobox</div>
 
@@ -65,67 +65,67 @@ Kubernetes builds upon a decade and a half of experience at Google running produ
 
 Nanobox creates isolated development environments (using Docker) which are staged locally, and deployed anywhere. This guarantees parity of application environments across entire teams throughout the development lifecycle (dev, staging, production, etc.).
 
-[![nanoboxdesktop logo](http://nano-assets.gopagoda.io/readme-headers/nanoboxdesktop.png)](https://github.com/nanobox-io/nanobox)
+[<p align="center"><img src="https://github.com/nanobox-io/nanobox"></p>
 
 ## <div align="center">cobra</div>
 
 [**cobra**](https://github.com/spf13/cobra) — a library for creating powerful modern CLI applications as well as a program to generate applications and command files.
 
-![cobra](https://cdn-images-1.medium.com/max/720/0*ZPG-FROnGxX9lIfN.png)
+<p align="center"><img src="https://cdn-images-1.medium.com/max/720/0*ZPG-FROnGxX9lIfN.png"></p>
 
 ## <div align="center">Hyperd</div>
 
 [**Hyperd**](https://github.com/hyperhq/hyperd) — is a hypervisor-agnostic technology that allows you to run Docker images on plain hypervisor.
 
-![hyperd](https://cdn-images-1.medium.com/max/720/0*_BKyRdNq1vIu-l-p.)
+<p align="center"><img src="https://cdn-images-1.medium.com/max/720/0*_BKyRdNq1vIu-l-p."></p>
 
 ## <div align="center">Terraform</div>
 
 [**Terraform**](https://github.com/hashicorp/terraform) — is a tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions.
 
-![terraform](https://cdn-images-1.medium.com/max/720/0*GcgyCyAseB52AkYh.png)
+<p align="center"><img src="https://cdn-images-1.medium.com/max/720/0*GcgyCyAseB52AkYh.png"></p>
 
 ## <div align="center">gago</div>
 
 [**gago**](https://github.com/MaxHalford/gago) — genetic algorithm toolkit written in Go. The following example attempts to minimize the Drop-Wave function.
 
-![gago](https://github.com/MaxHalford/gago/raw/master/examples/drop_wave/chart.png)
+<p align="center"><img src="https://github.com/MaxHalford/gago/raw/master/examples/drop_wave/chart.png"></p>
 
 ## <div align="center">Hugo</div>
 
 [**Hugo**](https://github.com/spf13/hugo) — a static HTML and CSS website generator written in Go. It is optimized for speed, easy use and configurability. Hugo takes a directory with content and templates and renders them into a full HTML website.
 
-![hugo](https://raw.githubusercontent.com/spf13/hugo/master/docs/static/img/hugo-logo.png)
+<p align="center"><img src="https://raw.githubusercontent.com/spf13/hugo/master/docs/static/img/hugo-logo.png"></p>
 
 ## <div align="center">Gin</div>
 
 [**Gin**](https://github.com/gin-gonic/gin) — is a web framework written in Go. It features a martini-like API with much better performance, up to 40 times faster thanks to httprouter. If you need performance and good productivity, you will love Gin.
 
-![gin](https://camo.githubusercontent.com/5446861c45a2c71ec83244819c54bffb83c2a2ee/68747470733a2f2f67696e2d676f6e69632e6769746875622e696f2f67696e2f6f746865722f636f6e736f6c652e706e67)
+<p align="center"><img src="https://camo.githubusercontent.com/5446861c45a2c71ec83244819c54bffb83c2a2ee/68747470733a2f2f67696e2d676f6e69632e6769746875622e696f2f67696e2f6f746865722f636f6e736f6c652e706e67"></p>
 
 ## <div align="center">gobot</div>
 
 [**gobot**](https://github.com/hybridgroup/gobot) — a framework using the Go programming language for robotics, physical computing, and the Internet of Things.
 
-![gobot](https://cdn-images-1.medium.com/max/720/0*cd4pZdaXZHsEDjwn.png)
+<p align="center"><img src="https://cdn-images-1.medium.com/max/720/0*cd4pZdaXZHsEDjwn.png"></p>
 
 ## <div align="center">utron</div>
 
 [**utron**](https://github.com/gernest/utron) — is a lightweight MVC framework in Go (Golang) for building fast, scalable and robust database-driven web applications.
 
-![utron](https://github.com/gernest/utron/raw/master/utron.png)
+<p align="center"><img src="https://github.com/gernest/utron/raw/master/utron.png"></p>
 
 ## <div align="center">Caddy</div>
 
 [**Caddy**](https://github.com/mholt/caddy) — a general-purpose web server for Windows, Mac, Linux, BSD, and Android. It is a capable but easier alternative to other popular web servers.
 
-![caddy](https://camo.githubusercontent.com/50e89931a5fb9bdd98b9f40bde700df721969ea3/68747470733a2f2f63616464797365727665722e636f6d2f7265736f75726365732f696d616765732f63616464792d6c6f7765722e706e67)
+<p align="center"><img src="https://camo.githubusercontent.com/50e89931a5fb9bdd98b9f40bde700df721969ea3/68747470733a2f2f63616464797365727665722e636f6d2f7265736f75726365732f696d616765732f63616464792d6c6f7765722e706e67"></p>
 
 ## <div align="center">gogs</div>
 
 [**gogs**](https://github.com/gogits/gogs) — Gogs (Go Git Service) is a painless self-hosted Git service.
 
-![gogs](https://github.com/gogits/gogs/raw/master/public/img/gogs-large-resize.png?raw=true)
+<p align="center"><img src="https://github.com/gogits/gogs/raw/master/public/img/gogs-large-resize.png?raw=true"></p>
 
 ## <div align="center">tile38</div>
 
@@ -135,25 +135,25 @@ Nanobox creates isolated development environments (using Docker) which are stage
 
 [**logrus**](https://github.com/Sirupsen/logrus) — a structured logger for Golang, completely API compatible with the standard library logger.
 
-![logrus](https://cdn-images-1.medium.com/max/720/0*rj8FuIZS1ecrE3Js.)
+<p align="center"><img src="https://cdn-images-1.medium.com/max/720/0*rj8FuIZS1ecrE3Js."></p>
 
 ## <div align="center">traefik</div>
 
 [**traefik**](https://github.com/containous/traefik) — a modern HTTP reverse proxy and load balancer made to deploy microservices with ease. It supports several backends (Docker, Swarm, Kubernetes, Marathon, Mesos, Consul, Etcd, Zookeeper, BoltDB, Eureka, Rest API, file…) to manage its configuration automatically and dynamically.
 
-![traefik](https://github.com/containous/traefik/raw/master/docs/img/traefik.logo.png)
+<p align="center"><img src="https://github.com/containous/traefik/raw/master/docs/img/traefik.logo.png"></p>
 
 ## <div align="center">dry</div>
 
 [**dry**](https://github.com/moncho/dry) — a terminal application to manage Docker containers and images. It aims to be an alternative to the official Docker CLI when it is needed to repeatedly execute commands on existing containers and images, and also as a tool to monitor Docker containers from a terminal.
 
-![dry](https://camo.githubusercontent.com/b6f78ecdce46d5f3988dcb338f057af12295e4e3/68747470733a2f2f61736369696e656d612e6f72672f612f33353832352e706e67)
+<p align="center"><img src="https://camo.githubusercontent.com/b6f78ecdce46d5f3988dcb338f057af12295e4e3/68747470733a2f2f61736369696e656d612e6f72672f612f33353832352e706e67"></p>
 
 ## <div align="center">pgweb</div>
 
 [**pgweb**](https://github.com/sosedoff/pgweb) — Web-based PostgreSQL database browser written in Go.
 
-![pgweb](https://cdn-images-1.medium.com/max/720/0*IKNNhkpuX3wAab8y.png)
+<p align="center"><img src="https://cdn-images-1.medium.com/max/720/0*IKNNhkpuX3wAab8y.png"></p>
 
 ## <div align="center">rkt</div>
 
@@ -166,19 +166,19 @@ Some of rkt's key features and goals include:
  - *Open standards and compatibility*: rkt implements the appc specification, supports the Container Networking Interface specification, can also run Docker images, and OCI images via docker2aci. Native OCI image support is in development.
 
 
-![rkt](https://github.com/coreos/rkt/raw/master/logos/rkt-horizontal-color.png)
+<p align="center"><img src="https://github.com/coreos/rkt/raw/master/logos/rkt-horizontal-color.png"></p>
 
 ## <div align="center">Distribution</div>
 
 [**Distribution**](https://github.com/docker/distribution) — The Docker toolset to pack, ship, store, and deliver content.
 
-![distribution](https://camo.githubusercontent.com/1e11d429705bf6695b79d24966cb1267c00b7df6/68747470733a2f2f7777772e646f636b65722e636f6d2f73697465732f64656661756c742f66696c65732f6f79737465722d72656769737472792d332e706e67)
+<p align="center"><img src="https://camo.githubusercontent.com/1e11d429705bf6695b79d24966cb1267c00b7df6/68747470733a2f2f7777772e646f636b65722e636f6d2f73697465732f64656661756c742f66696c65732f6f79737465722d72656769737472792d332e706e67"></p>
 
 ## <div align="center">Flynn</div>
 
 [**Flynn**](https://github.com/flynn/flynn) — is an open source Platform as a Service. Flynn is designed to run anything that can run on Linux, not just stateless web apps. Flynn comes with highly available database appliances, including PostgreSQL, MySQL, and MongoDB.
 
-![flynn](https://camo.githubusercontent.com/001ca5e21f9c770f89f79a1060f79fe2a0022a58/68747470733a2f2f666c796e6e2e696f2f696d616765732f666c796e6e2d61636166393530392e737667)
+<p align="center"><img src="https://camo.githubusercontent.com/001ca5e21f9c770f89f79a1060f79fe2a0022a58/68747470733a2f2f666c796e6e2e696f2f696d616765732f666c796e6e2d61636166393530392e737667"></p>
 
 ## <div align="center">Convox Rack</div>
 
@@ -186,7 +186,7 @@ Some of rkt's key features and goals include:
 
 Rack gives you a simple developer-focused API that lets you build, deploy, scale and manage apps on private infrastructure with ease.
 
-![rack](https://convox.com/assets/img/logo.png)
+<p align="center"><img src="https://convox.com/assets/img/logo.png"></p>
 
 ## <div align="center">GoReplay</div>
 
@@ -194,7 +194,7 @@ Rack gives you a simple developer-focused API that lets you build, deploy, scale
 
 As your application grows, the effort required to test it also grows exponentially. GoReplay offers you the simple idea of reusing your existing traffic for testing, which makes it incredibly powerful. Our state of art technique allows to analyze and record your application traffic without affecting it. This eliminates the risks that come with putting a third party component in the critical path.
 
-![goreplay](https://camo.githubusercontent.com/9f1d7f1303e4362acf347b1671ada86c3b4c3679/687474703a2f2f692e696d6775722e636f6d2f5a47326b69356e2e706e67)
+<p align="center"><img src="https://camo.githubusercontent.com/9f1d7f1303e4362acf347b1671ada86c3b4c3679/687474703a2f2f692e696d6775722e636f6d2f5a47326b69356e2e706e67"></p>
 
 ## <div align="center">Packer</div>
 
@@ -218,13 +218,13 @@ comes out of the box with support for the following platforms:
 
 Support for other platforms can be added via plugins.
 
-![packer](https://www.packer.io/assets/images/screenshots/vmware_and_virtualbox-7c37c65e.png)
+<p align="center"><img src="https://www.packer.io/assets/images/screenshots/vmware_and_virtualbox-7c37c65e.png"></p>
 
 ## <div align="center">fzf</div>
 
 [**fzf**](https://github.com/junegunn/fzf) — is a general-purpose command-line fuzzy finder.
 
-![fzf](https://camo.githubusercontent.com/0b07def9e05309281212369b118fcf9b9fc7948e/68747470733a2f2f7261772e6769746875622e636f6d2f6a756e6567756e6e2f692f6d61737465722f667a662e676966)
+<p align="center"><img src="https://camo.githubusercontent.com/0b07def9e05309281212369b118fcf9b9fc7948e/68747470733a2f2f7261772e6769746875622e636f6d2f6a756e6567756e6e2f692f6d61737465722f667a662e676966"></p>
 
 ## <div align="center">InfluxDB</div>
 
@@ -240,7 +240,7 @@ Features
   indexed as it comes in and is immediately available in queries that
   should return in < 100ms.
 
-![influxdb](https://upload.wikimedia.org/wikipedia/en/f/f5/InfluxDB_logo.svg)
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/en/f/f5/InfluxDB_logo.svg"></p>
 
 ---
 [**Negroni**](https://github.com/urfave/negroni). Idiomatic HTTP Middleware for Golang
@@ -277,7 +277,7 @@ It promotes distributed and decentralized topologies without single points of fa
 
 Operationally, NSQ is easy to configure and deploy (all parameters are specified on the command line and compiled binaries have no runtime dependencies). For maximum flexibility, it is agnostic to data format (messages can be JSON, MsgPack, Protocol Buffers, or anything else). Official Go and Python libraries are available out of the box (as well as many other client libraries) and, if you're interested in building your own, there's a protocol spec.
 
-![nsq](https://camo.githubusercontent.com/5899f86a964cae96e599de9db4449e3294f104b4/687474703a2f2f6e73712e696f2f7374617469632f696d672f6e73715f626c75652e706e67)
+<p align="center"><img src="https://camo.githubusercontent.com/5899f86a964cae96e599de9db4449e3294f104b4/687474703a2f2f6e73712e696f2f7374617469632f696d672f6e73715f626c75652e706e67"></p>
 
 ## <div align="center">Blackfriday</div>
 
@@ -289,7 +289,7 @@ HTML output is currently supported, along with Smartypants extensions. An experi
 
 [**IronFunctions**](https://github.com/iron-io/functions) — is an open source serverless platform, or as we like to refer to it, Functions as a Service (FaaS) platform that you can run anywhere.
 
-![if](https://raw.githubusercontent.com/iron-io/functions/master/docs/assets/logo-black-400w.png)
+<p align="center"><img src="https://raw.githubusercontent.com/iron-io/functions/master/docs/assets/logo-black-400w.png"></p>
 
 ---
 [**Gizmo**](https://github.com/NYTimes/gizmo). Microservice Toolkit
@@ -303,7 +303,7 @@ This toolkit provides packages to put together server and pubsub daemons with th
 * graceful shutdowns
 * basic interfaces to define our expectations and vocabulary
 
-![Gizmo!](http://graphics8.nytimes.com/images/blogs/open/2015/gizmo.png)
+<p align="center"><img src="http://graphics8.nytimes.com/images/blogs/open/2015/gizmo.png"></p>
 
 ## <div align="center">Grumpy</div>
 
@@ -349,7 +349,7 @@ func TestSomething(t *testing.T) {
 
 [**Chisel**](https://github.com/jpillora/chisel) — is a fast TCP tunnel, transported over HTTP. Single executable including both client and server. Written in Go (Golang). Chisel is mainly useful for passing through firewalls, though it can also be used to provide a secure endpoint into your network. Chisel is very similar to crowbar though achieves much higher performance. Warning Chisel is currently beta software.
 
-![](https://camo.githubusercontent.com/aec1bd298ecf50307e67a46f8fbbe44dc4039f84/68747470733a2f2f646f63732e676f6f676c652e636f6d2f64726177696e67732f642f317035335657787a474e667938726a722d6d5738707669734a6d686b6f4c6c383276416763744f5f366631772f7075623f773d39363026683d373230)
+<p align="center"><img src="https://camo.githubusercontent.com/aec1bd298ecf50307e67a46f8fbbe44dc4039f84/68747470733a2f2f646f63732e676f6f676c652e636f6d2f64726177696e67732f642f317035335657787a474e667938726a722d6d5738707669734a6d686b6f4c6c383276416763744f5f366631772f7075623f773d39363026683d373230"></p>
 
 ## <div align="center">chi</div>
 
@@ -359,7 +359,7 @@ The focus of the project has been to seek out an elegant and comfortable design 
 
 The key considerations of chi's design are: project structure, maintainability, standard http handlers (stdlib-only), developer productivity, and deconstructing a large system into many small parts. The core router github.com/pressly/chi is quite small (less than 1000 LOC), but we've also included some useful/optional subpackages: middleware, render and docgen. We hope you enjoy it too!
 
-![](https://camo.githubusercontent.com/c395eec91ae31736f68b86dc6cc35e4ef3a24f6b/68747470733a2f2f63646e2e7261776769742e636f6d2f70726573736c792f6368692f6d61737465722f5f6578616d706c65732f6368692e737667)
+<p align="center"><img src="https://camo.githubusercontent.com/c395eec91ae31736f68b86dc6cc35e4ef3a24f6b/68747470733a2f2f63646e2e7261776769742e636f6d2f70726573736c792f6368692f6d61737465722f5f6578616d706c65732f6368692e737667"></p>
 
 ## <div align="center">go-callvis</div>
 
@@ -367,7 +367,7 @@ The key considerations of chi's design are: project structure, maintainability, 
 
 Purpose of this tool is to provide a visual overview of your program by using the data from call graph and its relations with packages and types. This is especially useful in larger projects where the complexity of the code rises or when you are just simply trying to understand code structure of somebody else.
 
-![](https://github.com/TrueFurby/go-callvis/raw/master/images/main.png)
+<p align="center"><img src="https://github.com/TrueFurby/go-callvis/raw/master/images/main.png"></p>
 
 ## <div align="center">fasthttp</div>
 
@@ -386,4 +386,4 @@ Purpose of this tool is to provide a visual overview of your program by using th
 
 SQLBoiler currently supports Postgres, MySQL and MSSQL, with plans for SQLite3 in the pipeline.
 
-![](https://camo.githubusercontent.com/50ae2d52914a24439bb6f217852d60a79b4782a0/687474703a2f2f692e696d6775722e636f6d2f4e4a74435437792e706e67)
+<p align="center"><img src="https://camo.githubusercontent.com/50ae2d52914a24439bb6f217852d60a79b4782a0/687474703a2f2f692e696d6775722e636f6d2f4e4a74435437792e706e67"></p>
