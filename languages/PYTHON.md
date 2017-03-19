@@ -35,35 +35,41 @@ You can specify a locale when creating providers and they will return data that 
 
 <details>
 <!-- toc -->
+
 | №  | Flag  | Code       | Name                 | Native name |
-|--- |---    |---         |---                   |---          |
+|--- |---   |---       |---                 |---         |
 | 1  | 🇨🇿   |  `cs`      | Czech                | Česky       |
 | 2  | 🇩🇰   |  `da`      | Danish               | Dansk       |
 | 3  | 🇩🇪   |  `de`      | German               | Deutsch     |
-| 4  | 🇦🇹   |  `de-at`   | Austrian german      | Deutsch     |
-| 5  | 🇺🇸   |  `en`      | English              | English     |
-| 6  | 🇦🇺   |  `en-au`   | Australian English   | English     |
-| 7  | 🇬🇧   |  `en-gb`   | British English      | English     |
-| 8  | 🇪🇸   |  `es`      | Spanish              | Español     |
-| 9  | 🇮🇷   |  `fa`      | Farsi                |      فارسی  |
-| 10 | 🇫🇮   |  `fi`      | Finnish              | Suomi       |
-| 11 | 🇫🇷   |  `fr`      | French               | Français    |
-| 12 | 🇭🇺   |  `hu`      | Hungarian            | Magyar      |
-| 13 | 🇮🇸   |  `is`      | Icelandic            | Íslenska    |
-| 14 | 🇮🇹   |  `it`      | Italian              | Italiano    |
-| 15 | 🇯🇵   |  `jp`      | Japanese             | 日本語       |
-| 16 | 🇰🇷   |  `ko`      | Korean               | 한국어       |
-| 17 | 🇳🇱   |  `nl`      | Dutch                | Nederlands  |
-| 18 | 🇳🇴   |  `no`      | Norwegian            | Norsk       |
-| 19 | 🇵🇱   |  `pl`      | Polish               | Polski      |
-| 20 | 🇵🇹   |  `pt`      | Portuguese           | Português   |
-| 21 | 🇧🇷   |  `pt-br`   | Brazilian Portuguese | Português Brasileiro |
-| 22 | 🇷🇺   |  `ru`      | Russian              | Русский     |
-| 23 | 🇸🇪   |  `sv`      | Swedish              | Svenska     |
-| 24 | 🇹🇷   |  `tr`      | Turkish              | Türkçe      |
-<!-- tocstop -->
+| 4  | 🇦🇹   |  `de-at`   | Austrian German      | Deutsch     |
+| 5  | 🇨🇭   |  `de-ch`   | Swiss German         | Deutsch     |
+| 6  | 🇺🇸   |  `en`      | English              | English     |
+| 7  | 🇦🇺   |  `en-au`   | Australian English   | English     |
+| 8  | 🇨🇦   |  `en-ca`   | Canadian English     | English     |
+| 9  | 🇬🇧   |  `en-gb`   | British English      | English     |
+| 10 | 🇪🇸   |  `es`      | Spanish              | Español     |
+| 11 | 🇮🇷   |  `fa`      | Farsi                |      فارسی  |
+| 12 | 🇫🇮   |  `fi`      | Finnish              | Suomi       |
+| 13 | 🇫🇷   |  `fr`      | French               | Français    |
+| 14 | 🇭🇺   |  `hu`      | Hungarian            | Magyar      |
+| 15 | 🇮🇸   |  `is`      | Icelandic            | Íslenska    |
+| 16 | 🇮🇹   |  `it`      | Italian              | Italiano    |
+| 17 | 🇯🇵   |  `ja`      | Japanese             | 日本語       |
+| 18 | 🇰🇷   |  `ko`      | Korean               | 한국어       |
+| 19 | 🇳🇱   |  `nl`      | Dutch                | Nederlands  |
+| 20 | 🇳🇴   |  `no`      | Norwegian            | Norsk       |
+| 21 | 🇵🇱   |  `pl`      | Polish               | Polski      |
+| 22 | 🇵🇹   |  `pt`      | Portuguese           | Português   |
+| 23 | 🇧🇷   |  `pt-br`   | Brazilian Portuguese | Português Brasileiro |
+| 24 | 🇷🇺   |  `ru`      | Russian              | Русский     |
+| 25 | 🇸🇪   |  `sv`      | Swedish              | Svenska     |
+| 26 | 🇹🇷   |  `tr`      | Turkish              | Türkçe      |
+| 27 | 🇺🇦   |  `uk`      | Ukrainian            | Український |
+| 28 | 🇨🇳   |  `zh`      | Chinese              | 汉语         |
 
+<!-- tocstop -->
 </details>
+
 
 Using locales:
 
