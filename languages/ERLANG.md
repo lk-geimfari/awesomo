@@ -37,9 +37,6 @@ The MongooseIM platform comes with server-side components and client libraries. 
 ---
 [**Riak**](https://github.com/basho/riak) is a decentralized datastore from Basho Technologiesis. It designed to deliver maximum data availability by distributing data across multiple servers. There are two version of Riak, Riak Kv and RiakTS. Client libraries to interface with DB are available for all major programming languages.
 
-![rk](http://basho.com/wp-content/uploads/2015/06/riak-kv.png)
-
-
 ---
 [**Nebula**](https://github.com/lk-geimfari/nebula) is a small library for colored (ANSI) output in Erlang. It's can be useful when you need to create a user-friendly command-line applications.
 
