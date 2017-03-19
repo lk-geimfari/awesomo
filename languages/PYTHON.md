@@ -31,7 +31,7 @@ Basic Usage
 'Programmer'
 ```
 
-You can specify a locale when creating providers and they will return data that is appropriate for the language or country associated with that locale. Elizabeth currently includes support for 20 different locales. See details for more information.
+You can specify a locale when creating providers and they will return data that is appropriate for the language or country associated with that locale. Elizabeth currently includes support for 28 different locales. See details for more information.
 
 <details>
 <!-- toc -->
