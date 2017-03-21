@@ -4,7 +4,12 @@
 
 Supported: *Python 2/3*
 
-![tf](https://cdn-images-1.medium.com/max/720/0*dNVUpWFLoysACE9z.)
+<a href="https://github.com/tensorflow/tensorflow">
+    <p align="center">
+      <img src="https://cdn-images-1.medium.com/max/720/0*dNVUpWFLoysACE9z." alt="TenserFlow">
+    </p>
+</a>
+
 
 ---
 [**Elizabeth**](https://github.com/lk-geimfari/elizabeth) - is a fast and easy to use Python library for generating dummy data for a variety of purposes.  This data can be particularly useful during software development and testing.  For example, it could be used to populate a testing database for a web application with user information such as email addresses, usernames, first names, last names, etc.  Elizabeth uses a JSON-based datastore and does not require any modules that are not in the Python standard library.   There are over eighteen different [data providers](https://github.com/lk-geimfari/elizabeth/blob/master/PROVIDERS.md) available, which can produce data related to food, people, computer hardware, transportation, addresses, and more.
