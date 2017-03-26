@@ -7,9 +7,5 @@ defmodule Awesomo do
   def check_style(file) do
     # ...
   end
-
-  def sort(file) do
-    # ...
-  end
   
 end
