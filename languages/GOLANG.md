@@ -65,8 +65,6 @@ Kubernetes builds upon a decade and a half of experience at Google running produ
 
 Nanobox creates isolated development environments (using Docker) which are staged locally, and deployed anywhere. This guarantees parity of application environments across entire teams throughout the development lifecycle (dev, staging, production, etc.).
 
-[<p align="center"><img src="https://github.com/nanobox-io/nanobox"></p>
-
 ## <div align="center">cobra</div>
 
 [**cobra**](https://github.com/spf13/cobra) — a library for creating powerful modern CLI applications as well as a program to generate applications and command files.
