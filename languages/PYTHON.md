@@ -138,7 +138,7 @@ Organize Django settings into multiple files and directories. Easily override an
 
 <a href="https://github.com/sobolevn/django-split-settings">
     <p align="center">
-      <img src="https://i.imgur.com/oFHcQdC.png">
+      <img src="https://raw.githubusercontent.com/sobolevn/django-split-settings/master/media/logo-black.png">
     </p>
 </a>
 
