@@ -132,6 +132,17 @@ Supported: *Python 2*
 ![django](https://www.djangoproject.com/s/img/logos/django-logo-positive.png)
 
 ---
+[**django-split-settings**](https://github.com/sobolevn/django-split-settings)
+
+Organize Django settings into multiple files and directories. Easily override and modify settings. Use wildcards in settings file paths and mark settings files as optional.
+
+<a href="https://github.com/sobolevn/django-split-settings">
+    <p align="center">
+      <img src="https://i.imgur.com/oFHcQdC.png">
+    </p>
+</a>
+
+---
 [**expynent**](https://github.com/lk-geimfari/expynent) is a tiny library that provides RegEx patterns. This can be useful if you don't want to write regular expression manually.
 
 ![expynent](https://raw.githubusercontent.com/lk-geimfari/expynent/master/other/logo.png)
@@ -211,30 +222,6 @@ The API is now live, ready to be consumed:
 $ curl -i http://example.com/people
 HTTP/1.1 200 OK
 ```
-
----
-[**django-split-settings**](https://github.com/sobolevn/django-split-settings)
-
-Organize Django settings into multiple files and directories. Easily override and modify settings. Use wildcards in settings file paths and mark settings files as optional.
-
-Here's a minimal example:
-```python
-from split_settings.tools import optional, include
-
-include(
-    'components/base.py',
-    'components/database.py',
-    optional('local_settings.py')
-)
-```
-
-<a href="https://github.com/sobolevn/django-split-settings">
-    <p align="center">
-      <img src="http://i.imgur.com/s8tlD2R.png">
-    </p>
-</a>
-
-
 
 ---
 [**plotly.py**](https://github.com/plotly/plotly.py) —  an interactive, browser-based charting library for Python.
