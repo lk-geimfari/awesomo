@@ -14,6 +14,7 @@ If you are interested in [Open Source](https://en.wikipedia.org/wiki/Open-source
  - [C++](languages/C%2B%2B.md)
  - [Clojure](languages/CLOJURE.md)
  - [Common Lisp](languages/COMMON_LISP.md)
+ - [Crystal](languages/CRYSTAL.md)
  - [CSS](languages/CSS.md)
  - [Elixir](languages/ELIXIR.md)
  - [Elm](languages/ELM.md)
