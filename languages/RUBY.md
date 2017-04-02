@@ -119,3 +119,28 @@ including:
 
 ---
 [**Scientist**](https://github.com/github/scientist) - a Ruby library for carefully refactoring critical paths.
+
+---
+[**vcr**](https://github.com/vcr/vcr). Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
+
+Usage:
+```ruby
+require 'rubygems'
+require 'test/unit'
+require 'vcr'
+
+VCR.configure do |config|
+  config.cassette_library_dir = "fixtures/vcr_cassettes"
+  config.hook_into :webmock
+end
+
+class VCRTest < Test::Unit::TestCase
+  def test_example_dot_com
+    VCR.use_cassette("synopsis") do
+      response = Net::HTTP.get_response(URI('http://www.iana.org/domains/reserved'))
+      assert_match /Example domains/, response.body
+    end
+  end
+end
+```
+
