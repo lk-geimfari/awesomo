@@ -21,3 +21,11 @@
  - Integration with company-mode
 
 ![alchemist](https://raw.githubusercontent.com/tonini/alchemist.el/master/images/alchemist_logo.png)
+
+---
+The [**use-package**](https://github.com/jwiegley/use-package) macro allows you to isolate package configuration in your .emacs file in a way that is both performance-oriented and, well, tidy. I created it because I have over 80 packages that I use in Emacs, and things were getting difficult to manage. Yet with this utility my total load time is around 2 seconds, with no loss of functionality!
+
+Here is the simplest use-package declaration:
+```
+(use-package foo)
+```
