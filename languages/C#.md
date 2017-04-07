@@ -73,3 +73,72 @@ Use OpenTK to add cross-platform 3d graphics, audio, compute and haptics to your
 
 ---
 [**SharpDevelop**](https://github.com/icsharpcode/SharpDevelop) is a free Integrated Development Environment (IDE) for C#, VB.NET, Boo, IronPython, IronRuby and F# projects on Microsoft's .NET platform. It is written (almost) entirely in C#, and comes with features you would expect in an IDE plus a few more.
+
+---
+[**PostProcessing**](https://github.com/Unity-Technologies/PostProcessing) is a new unity post-processing stack is an über effect that combines a complete set of image effects into a single post-process pipeline.
+
+---
+[**eShopOnContainers**](https://github.com/dotnet/eShopOnContainers) is a sample .NET Core reference application, powered by Microsoft, based on a simplified microservices architecture and Docker containers.
+
+---
+[**Shadowsocks for Windows**](https://github.com/shadowsocks/shadowsocks-windows) is a secure socks5 proxy, designed to protect your Internet traffic.
+
+---
+[**PowerShell**](https://github.com/PowerShell/PowerShell) is a cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language and a framework for processing cmdlets.
+
+---
+[**zipkin4net**](https://github.com/criteo/zipkin4net) is a .NET client library for Zipkin
+
+---
+[**eShopOnWeb**](https://github.com/dotnet/eShopOnWeb) is a sample ASP.NET Core reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model
+
+---
+[**EventFlow**](https://github.com/eventflow/EventFlow) is a basic CQRS+ES framework designed to be easy to use.
+
+---
+[**Docs**](https://github.com/aspnet/Docs) is a documentation for ASP.NET and ASP.NET Core https://docs.microsoft.com/aspnet
+
+---
+[**Wox**](https://github.com/Wox-launcher/Wox) is a launcher for Windows, an alternative to Alfred and Launchy.
+
+---
+[**Ocelot**](https://github.com/TomPallister/Ocelot) is an API Gateway created using .NET core.
+
+---
+[**MaterialDesignInXamlToolkit**](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit) is a Google's Material Design in XAML & WPF, for C# & VB.Net. http://materialdesigninxaml.net
+
+---
+[**BotBuilder**](https://github.com/Microsoft/BotBuilder) is one of three main components of the Microsoft Bot Framework. The Microsoft Bot Framework provides just what you need to build and connect intelligent bots that interact naturally wherever your users are talking, from text/SMS to Skype, Slack, Office 365 mail and other popular services. http://botframework.com
+
+---
+[**AutoMapper**](https://github.com/AutoMapper/AutoMapper) is a convention-based object-object mapper in .NET. http://automapper.org
+
+---
+[**MahApps.Metro**](https://github.com/MahApps/MahApps.Metro) is a toolkit for creating Metro / Modern UI styled WPF apps. http://mahapps.com
+
+---
+[**Radarr**](https://github.com/Radarr/Radarr) is a fork of Sonarr to work with movies à la Couchpotato. https://radarr.video
+
+---
+[**UnityPCSS**](https://github.com/TheMasonX/UnityPCSS) is a Nvidia's PCSS soft shadow algorithm implemented in Unity
+
+---
+[**Live-Charts**](https://github.com/beto-rodriguez/Live-Charts) is a simple, flexible, interactive & powerful charts, maps and gauges for .Net http://lvcharts.net/
+
+---
+[**Mvc**](https://github.com/aspnet/Mvc) ASP.NET Core MVC is a model view controller framework for building dynamic web sites with clean separation of concerns, including the merged MVC, Web API, and Web Pages w/ Razor.
+
+---
+[**CefSharp**](https://github.com/cefsharp/CefSharp) is a .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework http://cefsharp.github.io/
+
+---
+[**react-native-windows**](https://github.com/Microsoft/react-native-windows) is a framework for building native UWP and WPF apps with React. http://facebook.github.io/react-native/
+
+---
+[**JavaScriptServices**](https://github.com/aspnet/JavaScriptServices) Microsoft ASP.NET Core JavaScript Services is a set of technologies for ASP.NET Core developers.
+
+---
+[**alba**](https://github.com/JasperFx/alba) is a tool for better integration testing against ASP.Net Core applications.
+
+---
+[**IdentityServer4**](https://github.com/IdentityServer/IdentityServer4) is built against ASP.NET Core 1.1 using the RTM tooling that ships with Visual Studio 2017. This is the only configuration we support on the issue tracker.
