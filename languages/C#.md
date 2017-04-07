@@ -67,3 +67,9 @@ Use OpenTK to add cross-platform 3d graphics, audio, compute and haptics to your
 
 ---
 [**Web Markup Minifier**](https://github.com/Taritsyn/WebMarkupMin) is .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.
+
+---
+[**Mono**](https://github.com/mono/mono) is a software platform designed to allow developers to easily create cross platform applications. It is an open source implementation of Microsoft's .NET Framework based on the ECMA standards for C# and the Common Language Runtime.
+
+---
+[**SharpDevelop**](https://github.com/icsharpcode/SharpDevelop) is a free Integrated Development Environment (IDE) for C#, VB.NET, Boo, IronPython, IronRuby and F# projects on Microsoft's .NET platform. It is written (almost) entirely in C#, and comes with features you would expect in an IDE plus a few more.
