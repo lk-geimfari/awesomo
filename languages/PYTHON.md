@@ -736,3 +736,8 @@ class Calculator(object):
 if __name__ == '__main__':
   fire.Fire(Calculator)
 ```
+
+
+---
+[**sonnet**](https://github.com/deepmind/sonnet)is a library built on top of TensorFlow for building complex neural networks.
+![](https://github.com/deepmind/sonnet/raw/master/images/sonnet_logo.png)
