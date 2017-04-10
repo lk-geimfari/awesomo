@@ -135,10 +135,76 @@ Use OpenTK to add cross-platform 3d graphics, audio, compute and haptics to your
 [**react-native-windows**](https://github.com/Microsoft/react-native-windows) is a framework for building native UWP and WPF apps with React. http://facebook.github.io/react-native/
 
 ---
-[**JavaScriptServices**](https://github.com/aspnet/JavaScriptServices) Microsoft ASP.NET Core JavaScript Services is a set of technologies for ASP.NET Core developers.
+[**JavaScriptServices**](https://github.com/aspnet/JavaScriptServices) - Microsoft ASP.NET Core JavaScript Services is a set of technologies for ASP.NET Core developers.
 
 ---
 [**alba**](https://github.com/JasperFx/alba) is a tool for better integration testing against ASP.Net Core applications.
 
 ---
 [**IdentityServer4**](https://github.com/IdentityServer/IdentityServer4) is built against ASP.NET Core 1.1 using the RTM tooling that ships with Visual Studio 2017. This is the only configuration we support on the issue tracker.
+
+---
+[**SharpDX**](https://github.com/sharpdx/SharpDX) is an open-source project delivering the full DirectX API for .Net on all Windows platforms, allowing the development of high performance game, 2D and 3D graphics rendering as well as realtime sound application.
+
+---
+[**KestrelHttpServer**](https://github.com/aspnet/KestrelHttpServer) is a web server for ASP.NET Core based on libuv.
+
+---
+[**Razor**](https://github.com/aspnet/Razor) is a part of ASP.NET Core. The Razor syntax provides a fast, terse, clean and lightweight way to combine server code with HTML to create dynamic web content. This repo contains the parser and the C# code generator for the Razor syntax.
+
+---
+[**benchmarks**](https://github.com/aspnet/benchmarks) - Benchmarks for ASP.NET Core including (but not limited to) scenarios from the TechEmpower Web Framework Benchmarks.
+
+---
+[**LibraryInstaller**](https://github.com/aspnet/LibraryInstaller) - Microsoft Library Installer.
+
+---
+[**SignalR**](https://github.com/aspnet/SignalR) is a new library for ASP.NET Core developers that makes it incredibly simple to add real-time web functionality to your applications. What is "real-time web" functionality? It's the ability to have your server-side code push content to the connected clients as it happens, in real-time.
+
+---
+[**DependencyInjection**](https://github.com/aspnet/DependencyInjection) - Contains common DI abstractions that ASP.NET Core and Entity Framework Core use.
+
+---
+[**Performance**](https://github.com/aspnet/Performance) - Performance tests and infrastructure for ASP.NET. This project is part of ASP.NET Core.
+
+---
+[**IISIntegration**](https://github.com/aspnet/IISIntegration) - This repo hosts the ASP.NET Core middleware for IIS integration. This project is part of ASP.NET Core.
+
+---
+[**AspNetKatana**](https://github.com/aspnet/AspNetKatana) is a flexible set of components for building and hosting OWIN-based web applications on .NET Framework.
+
+---
+[**MusicStore**](https://github.com/aspnet/MusicStore) is a sample ASP.NET Core application.
+
+---
+[**BuildTools**](https://github.com/aspnet/BuildTools) - Utilities used in the build system for projects that are used with ASP.NET Core and Entity Framework Core.
+
+---
+[**MvcPrecompilation**](https://github.com/aspnet/MvcPrecompilation) - The Razor syntax provides a fast, terse, clean, and lightweight way to combine server code with HTML to create dynamic web content. This repo contains tooling that allows compilation of MVC Razor views as part of build and publish.
+
+---
+[**Scaffolding**](https://github.com/aspnet/Scaffolding) - ASP.NET Scaffolding enables generating boilerplate code for web applications to speed up development.
+
+---
+[**Hosting**](https://github.com/aspnet/Hosting) - The Hosting repo contains code required to host an ASP.NET Core application, it is the entry point used when self-hosting an application.
+
+---
+[**HttpSysServer**](https://github.com/aspnet/HttpSysServer) - This repo contains a web server for ASP.NET Core based on the Windows Http Server API.
+
+---
+[**EntityFramework6**](https://github.com/aspnet/EntityFramework6) is an object-relational mapper that enables .NET developers to work with relational data using domain-specific objects. It eliminates the need for most of the data-access code that developers usually need to write. Entity Framework is actively developed by the Entity Framework team in collaboration with a community of open source developers. Together we are dedicated to creating the best possible data access experience for .NET developers.
+
+---
+[**StaticFiles**](https://github.com/aspnet/StaticFiles) - This repo contains middleware for handling requests for file system resources including files and directories.
+
+---
+[**websdk**](https://github.com/aspnet/websdk) - ASP.NET Web Sdk targets contains the tasks, targets and packages required to build and publish Web Applications.
+
+---
+[**Microsoft.Data.Sqlite**](https://github.com/aspnet/Microsoft.Data.Sqlite) - Contains SQLite implementations of the System.Data.Common interfaces.
+
+---
+[**Entropy**](https://github.com/aspnet/Entropy)  is "a measure of the disorder that exists in a system." This repo is a chaotic experimental playground for new features and ideas. Check here for small and simple samples for individual features.
+
+---
+[**ServerTests**](https://github.com/aspnet/ServerTests) - This repo hosts HttpSysServer and Kestrel tests.
