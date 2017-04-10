@@ -25,6 +25,7 @@ If you are interested in [Open Source](https://en.wikipedia.org/wiki/Open-source
  - [Java](languages/JAVA.md)
  - [JavaScript](languages/JAVASCRIPT.md)
  - [Lua](languages/LUA.md)
+ - [Nim](language/NIM.md)
  - [OCaml](languages/OCAML.md)
  - [PHP](languages/PHP.md)
  - [Python](languages/PYTHON.md)
