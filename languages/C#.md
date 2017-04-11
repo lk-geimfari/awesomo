@@ -208,3 +208,78 @@ Use OpenTK to add cross-platform 3d graphics, audio, compute and haptics to your
 
 ---
 [**ServerTests**](https://github.com/aspnet/ServerTests) - This repo hosts HttpSysServer and Kestrel tests.
+
+---
+[**Logging**](https://github.com/aspnet/Logging) is a common logging abstractions and a few implementations. This project is part of ASP.NET Core.
+
+---
+[**Configuration**](https://github.com/aspnet/Configuration) is a framework for accessing Key/Value based configuration settings in an application. Includes configuration providers for command line arguments, environment variables, INI files, JSON files, and XML files.
+
+---
+[**DataProtection**](https://github.com/aspnet/DataProtection) - Data Protection APIs for protecting and unprotecting data. This project is part of ASP.NET Core.
+
+---
+[**AzureIntegration**](https://github.com/aspnet/AzureIntegration) - Features that integrate ASP.NET Core with Azure.
+
+---
+[**Identity**](https://github.com/aspnet/Identity) is the membership system for building ASP.NET Core web applications, including membership, login, and user data. ASP.NET Core Identity allows you to add login features to your application and makes it easy to customize data about the logged in user.
+
+---
+[**HealthChecks**](https://github.com/aspnet/HealthChecks) is a project for building services, such as with ASP.NET Core
+
+---
+[**Localization**](https://github.com/aspnet/Localization) - Localization abstractions and implementations for ASP.NET Core applications.
+
+---
+[**live.asp.net**](https://github.com/aspnet/live.asp.net) - Code for live.asp.net, which hosts the ASP.NET Community Stand-up
+
+---
+[**WebSockets**](https://github.com/aspnet/WebSockets) - Contains a managed implementation of the WebSocket protocol, along with server integration components.
+
+---
+[**Testing**](https://github.com/aspnet/Testing) - This repository contains testing infrastructure for ASP.NET.
+
+---
+[**Session**](https://github.com/aspnet/Session) - Session state middleware for ASP.NET Core
+
+---
+[**Security**](https://github.com/aspnet/Security) - Contains the security and authorization middlewares for ASP.NET Core.
+
+---
+[**Routing**](https://github.com/aspnet/Routing) is a middleware for routing requests to application logic.
+
+---
+[**ResponseCaching**](https://github.com/aspnet/ResponseCaching) is an ASP.NET Core middleware for caching responses.
+
+---
+[**Proxy**](https://github.com/aspnet/Proxy) is a library for ASP.NET Core.
+
+---
+[**PlatformAbstractions**](https://github.com/aspnet/PlatformAbstractions) is an abstractions for applications.
+
+---
+[**Options**](https://github.com/aspnet/Options) is a framework for accessing and configuring POCO settings.
+
+---
+[**JsonPatch**](https://github.com/aspnet/JsonPatch) is a library for ASP.NET Core.
+
+---
+[**HtmlAbstractions**](https://github.com/aspnet/HtmlAbstractions) is an abstractions used for building HTML content, including types such as HtmlString and IHtmlContent.
+
+---
+[**FileSystem**](https://github.com/aspnet/FileSystem) is a File Provider abstractions. Contains file system abstractions and file system globbing.
+
+---
+[**EventNotification**](https://github.com/aspnet/EventNotification) is the infrastructure for publishing notifications has moved to the .NET Framework. See the new DiagnosticSource and DiagnosticListener APIs in the System.Diagnostics.DiagnosticSource package. The infrastructure provided here is for subscribing to events using runtime-generated proxies.
+
+---
+[**DotNetTools**](https://github.com/aspnet/DotNetTools) is a command-line tools for the .NET Core CLI.
+
+---
+[**Diagnostics**](https://github.com/aspnet/Diagnostics) is a middleware for reporting info and handling exceptions and errors in ASP.NET Core, and diagnosing Entity Framework Core migrations errors.
+
+---
+[**CORS**](https://github.com/aspnet/CORS) is an implementations of common CORS policy and CORS middleware.
+
+---
+[**Common**](https://github.com/aspnet/Common) is a repository for shared files to be consumed across the ASPNET repos.
