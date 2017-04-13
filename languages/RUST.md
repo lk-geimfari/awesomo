@@ -48,3 +48,8 @@ Some of the features are:
 Detailed benchmarks [show](http://blog.burntsushi.net/ripgrep/) that it is the fastest avaiable tool of this kind.
 
 ![ripgrep](http://burntsushi.net/stuff/ripgrep1.png)
+
+---
+[**Mio**](https://github.com/carllerche/mio) is a lightweight I/O library for Rust with a focus on adding as little overhead as possible over the OS abstractions.
+
+
