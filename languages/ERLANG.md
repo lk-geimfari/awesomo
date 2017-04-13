@@ -103,3 +103,52 @@ Example:
 [**apns4erl**](https://github.com/inaka/apns4erl). This lib is intended to allow you to write an APNs provider for Apple Push Notificaion services (APNs) over HTTP2 in Erlang.
 
 ![](https://camo.githubusercontent.com/d78d100e5e6624221243114cfa64472f6023de42/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f755a515030505230426d6b47412f67697068792e676966)
+
+---
+[**hackney**](https://github.com/benoitc/hackney) - HTTP client library in Erlang
+
+Main features:
+
+- no message passing (except for asynchronous responses): response is
+  directly streamed to the current process and state is kept in a `#client{}` record.
+- binary streams
+- SSL support
+- Keepalive handling
+- basic authentication
+- stream the response and the requests
+- fetch a response asynchronously
+- multipart support (streamed or not)
+- chunked encoding support
+- Can send files using the sendfile API
+- Optional socket pool
+- REST syntax: `hackney:Method(URL)` (where a method can be get, post, put, delete, ...)
+
+---
+[**Prometheus.erl**](https://github.com/deadtrickster/prometheus.erl) monitoring system and time series database client in Erlang.
+
+![](https://raw.githubusercontent.com/deadtrickster/prometheus_rabbitmq_exporter/master/priv/dashboards/RabbitMQErlangVM.png)
+
+---
+[**Ranch**](https://github.com/ninenines/ranch) is a socket acceptor pool for TCP protocols.
+
+Ranch aims to provide everything you need to accept TCP connections with a small code base and low latency while being easy to use directly as an application or to embed into your own.
+
+Ranch provides a modular design, letting you choose which transport and protocol are going to be used for a particular listener. Listeners accept and manage connections on one port, and include facilities to limit the number of concurrent connections. Connections are sorted into pools, each pool having a different configurable limit.
+
+---
+[**Switchboard**](https://github.com/thusfresh/switchboard) is a framework for processing email. It consists of a core that maintains a connection to an IMAP server and routes event notifications to a set of workers. The workers interact with the IMAP server through a simple API exposed by the Switchboard core.
+
+Features:
+
+- Totally open source &mdash; developers can extend Switchboard or use
+  the API to create workers specific to their product.
+- Switchboard handles the boilerplate, leaving the logic to you
+  &mdash; Switchboard frees you from the plumbing of server-side email
+  monitoring and fetching, allowing you to focus on your products
+  and services.
+- You deploy it &mdash; by running persistent processes on your own server,
+  Switchboard can help you avoid mobile OS backgrounding restrictions
+  and heavy battery consumption, freeing up the client and leaving
+  you in control.
+
+
