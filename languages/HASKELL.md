@@ -1,5 +1,8 @@
 ## Haskell
 
+[**Stack**](https://github.com/commercialhaskell/stack) is a cross-platform program for developing Haskell projects. It is intended for Haskellers both new and experienced.
+
+---
 [**Pandoc**](https://github.com/jgm/pandoc) is a Haskell library for converting from one markup format to another, and a command-line tool that uses this library. It can read Markdown, CommonMark, PHP Markdown Extra, GitHub-Flavored Markdown, MultiMarkdown, and (subsets of) Textile, reStructuredText, HTML, LaTeX, MediaWiki markup, TWiki markup, Haddock markup, OPML, Emacs Org mode, DocBook, txt2tags, EPUB, ODT and Word docx; and it can write plain text, Markdown, CommonMark, PHP Markdown Extra,GitHub-Flavored Markdown, MultiMarkdown, reStructuredText, XHTML, HTML5, LaTeX (including beamer slide shows), ConTeXt, RTF, OPML, DocBook, OpenDocument, ODT, Word docx, GNU Texinfo, MediaWiki markup, DokuWiki markup, ZimWiki markup, Haddock markup, EPUB (v2 or v3), FictionBook2, Textile, groff man pages, Emacs Org mode, AsciiDoc, InDesign ICML, TEI Simple, and Slidy, Slideous, DZSlides, reveal.js or S5 HTML slide shows. It can also produce PDF output on systems where LaTeX, ConTeXt, or wkhtmltopdf is installed.
 
 ![pandoc](https://cdn-images-1.medium.com/max/720/0*LyYHxYObKJg0DCi9.png)
@@ -27,4 +30,5 @@
 ---
 [**Glance**](https://github.com/rgleichman/glance) is a visual syntax for the programming language Haskell. The goal of this project is to increase programmer happiness and productivity by allowing programmers to create and understand programs in new and different ways. Currently, the Glance executable produces a visual representation of your code in the form of an SVG image when given a textual Haskell source file. In the future, I hope to create a visual editor for Haskell. Please scroll down to see some example images.
 
-![](https://camo.githubusercontent.com/9e8609d893c70fa7a1bbe0f18c669de9c549b041/68747470733a2f2f63646e2e7261776769742e636f6d2f72676c656963686d616e2f676c616e63652f373938343636303034633364666531306664316233623235646632336536366436316563316538372f6578616d706c65732f7475746f7269616c2e737667)
+---
+[**http-client**](https://github.com/snoyberg/http-client) is a mega-repo for housing the http-client family of packages for Haskell. These packages provide a low level HTTP client engine (http-client), different backends for providing SSL support (http-client-tls and http-client-openssl), and higher-level APIs for user convenience (http-conduit).
