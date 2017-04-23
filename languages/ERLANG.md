@@ -41,7 +41,7 @@ The MongooseIM platform comes with server-side components and client libraries. 
 [**Nebula**](https://github.com/lk-geimfari/nebula) is a small library for colored (ANSI) output in Erlang. It's can be useful when you need to create a user-friendly command-line applications.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lk-geimfari/nebula/master/other/logo.png">
+  <img src="https://raw.githubusercontent.com/lk-geimfari/nebula/master/media/logo.png">
 </p>
 
 Example:
@@ -49,7 +49,6 @@ Example:
 -import(nebula, [print/1]).
 
 update_something() ->
-  %% ...
   %% ...
   %% ...
   print({green, "Something has been updated successfully!"}).
