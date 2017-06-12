@@ -769,3 +769,49 @@ pprint(result.data, indent=2)
 #   'release_date': '1971-12-17',
 #   'title': 'Hunky Dory'}
 ```
+
+---
+[**Automatron**](https://github.com/madflojo/automatron) is a framework for creating self-healing infrastructure. Simply put, it detects system events & takes action to correct them.
+
+The goal of Automatron is to allow users to automate the execution of common tasks performed during system events. These tasks can be as simple as sending an email to as complicated as restarting services across multiple hosts.
+
+![Automatron Dashboard](https://raw.githubusercontent.com/madflojo/automatron/develop/docs/img/dashboard.png)
+
+**Example Runbook with Jinja Templating:**
+  
+```yaml+jinja
+name: Check NGINX
+{% if "prod" in facts['hostname'] %}
+schedule:
+  second: "*/20"
+{% else %}
+schedule: "*/2 * * * *"
+{% endif %}
+checks:
+  nginx_is_running:
+    execute_from: target
+    type: cmd
+    cmd: service nginx status
+actions:
+  restart_nginx:
+    execute_from: target
+    trigger: 2
+    frequency: 300
+    call_on:
+      - WARNING
+      - CRITICAL
+      - UNKNOWN
+    type: cmd
+    cmd: service nginx restart
+  remove_from_dns:
+    execute_from: remote
+    trigger: 0
+    frequency: 0
+    call_on:
+      - WARNING
+      - CRITICAL
+      - UNKNOWN
+    type: plugin
+    plugin: cloudflare/dns.py
+    args: remove test@example.com apikey123 example.com --content {{ facts['network']['eth0']['v4'][0] }}
+```
