@@ -12,78 +12,41 @@ Supported: *Python 2/3*
 
 
 ---
-[**Elizabeth**](https://github.com/lk-geimfari/elizabeth) - is a fast and easy to use Python library for generating dummy data for a variety of purposes.  This data can be particularly useful during software development and testing.  For example, it could be used to populate a testing database for a web application with user information such as email addresses, usernames, first names, last names, etc.  Elizabeth uses a JSON-based datastore and does not require any modules that are not in the Python standard library.   There are over eighteen different [data providers](https://github.com/lk-geimfari/elizabeth/blob/master/PROVIDERS.md) available, which can produce data related to food, people, computer hardware, transportation, addresses, and more.
+[**Mimesis**](https://github.com/lk-geimfari/mimesis) is a fast and easy to use library for Python, which helps generate mock data for a variety of purposes. This data can be particularly useful during software development and testing. For example, it could be used to populate a testing database for a web application (Django, Flask, etc.) with user information such as email addresses, usernames, first names, last names, etc. The library was written with the use of tools from the standard Python library, and therefore, it does not have any side dependencies. Currently the library supports 30 languages and 20 class providers, supplying various data.
 
-<a href="https://github.com/lk-geimfari/elizabeth/">
+
+<a href="https://github.com/lk-geimfari/mimesis/">
     <p align="center">
-      <img src="https://raw.githubusercontent.com/lk-geimfari/elizabeth/master/other/logo.png" alt="Elizabeth">
+      <img src="https://raw.githubusercontent.com/lk-geimfari/elizabeth/master/media/logo.png">
     </p>
 </a>
 
 Basic Usage
 
 ```python
->>> from elizabeth import Personal
->>> p = Personal('en')
+>>> from mimesis import Personal
+>>> person = Personal(locale='en')
 
->>> p.full_name(gender='female')
+>>> person.full_name(gender='female')
 'Antonetta Garrison'
 
->>> p.blood_type()
-'O-'
+>>> person.email(gender='male')
+'john7893@live.com'
 
->>> p.occupation()
-'Programmer'
+>>> person.occupation()
+'Backend Developer'
 ```
 
-You can specify a locale when creating providers and they will return data that is appropriate for the language or country associated with that locale. Elizabeth currently includes support for 28 different locales. See details for more information.
-
-<details>
-<!-- toc -->
-
-| №  | Flag  | Code       | Name                 | Native name |
-|--- |---   |---       |---                 |---         |
-| 1  | 🇨🇿   |  `cs`      | Czech                | Česky       |
-| 2  | 🇩🇰   |  `da`      | Danish               | Dansk       |
-| 3  | 🇩🇪   |  `de`      | German               | Deutsch     |
-| 4  | 🇦🇹   |  `de-at`   | Austrian German      | Deutsch     |
-| 5  | 🇨🇭   |  `de-ch`   | Swiss German         | Deutsch     |
-| 6  | 🇺🇸   |  `en`      | English              | English     |
-| 7  | 🇦🇺   |  `en-au`   | Australian English   | English     |
-| 8  | 🇨🇦   |  `en-ca`   | Canadian English     | English     |
-| 9  | 🇬🇧   |  `en-gb`   | British English      | English     |
-| 10 | 🇪🇸   |  `es`      | Spanish              | Español     |
-| 11 | 🇮🇷   |  `fa`      | Farsi                |      فارسی  |
-| 12 | 🇫🇮   |  `fi`      | Finnish              | Suomi       |
-| 13 | 🇫🇷   |  `fr`      | French               | Français    |
-| 14 | 🇭🇺   |  `hu`      | Hungarian            | Magyar      |
-| 15 | 🇮🇸   |  `is`      | Icelandic            | Íslenska    |
-| 16 | 🇮🇹   |  `it`      | Italian              | Italiano    |
-| 17 | 🇯🇵   |  `ja`      | Japanese             | 日本語       |
-| 18 | 🇰🇷   |  `ko`      | Korean               | 한국어       |
-| 19 | 🇳🇱   |  `nl`      | Dutch                | Nederlands  |
-| 20 | 🇳🇴   |  `no`      | Norwegian            | Norsk       |
-| 21 | 🇵🇱   |  `pl`      | Polish               | Polski      |
-| 22 | 🇵🇹   |  `pt`      | Portuguese           | Português   |
-| 23 | 🇧🇷   |  `pt-br`   | Brazilian Portuguese | Português Brasileiro |
-| 24 | 🇷🇺   |  `ru`      | Russian              | Русский     |
-| 25 | 🇸🇪   |  `sv`      | Swedish              | Svenska     |
-| 26 | 🇹🇷   |  `tr`      | Turkish              | Türkçe      |
-| 27 | 🇺🇦   |  `uk`      | Ukrainian            | Український |
-| 28 | 🇨🇳   |  `zh`      | Chinese              | 汉语         |
-
-<!-- tocstop -->
-</details>
-
+You can specify a locale when creating providers and they will return data that is appropriate for the language or country associated with that locale. Mimesis currently includes support for 32 different locales. See details for more information.
 
 Using locales:
 
 ```python
->>> from elizabeth import Personal
+>>> import mimesis
 
->>> en = Personal('en')
->>> de = Personal('de')
->>> ic = Personal('is')
+>>> en = mimesis.Personal('en')
+>>> de = mimesis.Personal('de')
+>>> ic = mimesis.Personal('is')
 
 >>> en.full_name()
 'Carolin Brady'
@@ -93,10 +56,7 @@ Using locales:
 
 >>> ic.full_name()
 'Rósa Þórlindsdóttir'
-
 ```
-
-Screenshot (integration with Flask): [here](https://raw.githubusercontent.com/lk-geimfari/elizabeth/master/other/screenshots/en_bootstrap.png)
 
 ---
 [**Pipenv**](https://github.com/kennethreitz/pipenv) is an experimental project that aims to bring the best of all packaging worlds to the Python world. It harnesses Pipfile, pip, and virtualenv into one single toolchain. It features very pretty terminal colors.
