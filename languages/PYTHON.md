@@ -17,7 +17,7 @@ Supported: *Python 2/3*
 
 <a href="https://github.com/lk-geimfari/mimesis/">
     <p align="center">
-      <img src="https://raw.githubusercontent.com/lk-geimfari/elizabeth/master/media/logo.png">
+      <img src="https://raw.githubusercontent.com/lk-geimfari/mimesis/master/media/logo.png">
     </p>
 </a>
 
@@ -37,7 +37,7 @@ Basic Usage
 'Backend Developer'
 ```
 
-You can specify a locale when creating providers and they will return data that is appropriate for the language or country associated with that locale. Mimesis currently includes support for 32 different locales. See details for more information.
+You can specify a locale when creating providers and they will return data that is appropriate for the language or country associated with that locale. Mimesis currently includes support for 32 different [locales](https://github.com/lk-geimfari/mimesis#locales).
 
 Using locales:
 
