@@ -5,7 +5,7 @@
 ![git-secret](https://cdn-images-1.medium.com/max/720/0*ksb58FDyPxbZ5869.png)
 
 ---
-[**dokku**](https://github.com/dokku/dokku) is an docker powered mini-Heroku. The smallest PaaS implementation you’ve ever seen.
+[**dokku**](https://github.com/dokku/dokku) is a docker powered mini-Heroku. The smallest PaaS implementation you’ve ever seen.
 
 ![dokku](https://cdn-images-1.medium.com/max/720/0*2L6kj4dbuMGhKber.)
 
