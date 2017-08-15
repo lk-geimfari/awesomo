@@ -54,7 +54,7 @@ public class ExternalPathExample {
     
     public static void main(String[] args) throws CommentRemoverException {
    
-        // example for externalInternalPath
+        // example for externalPath
            
         CommentRemover commentRemover = new CommentRemover.CommentRemoverBuilder()
                .removeJava(true) // Remove Java file Comments....
