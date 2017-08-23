@@ -84,7 +84,7 @@ Supported: *Python 2*
 ---
 [**Flask-Base**](https://github.com/hack4impact/flask-base) - A Flask application template with the boilerplate code already done for you.
 
-![](https://raw.githubusercontent.com/hack4impact/flask-base/master/readme_media/logo%402x.png)
+![](https://raw.githubusercontent.com/hack4impact/flask-base/master/readme_media/logo.png)
 
 ---
 [**Django**](https://github.com/django/django) is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
