@@ -865,8 +865,14 @@ Example:
 
 [![Saleor](http://getsaleor.com/mr-saleor-readme.png)](http://getsaleor.com)
 
-[**Evennia**](https://github.com/evennia/evennia) is a modern library for creating online multiplayer text games (MUD, MUSH, MUX, MUCK, MOO etc) in pure Python. It allows game creators to design and flesh out their ideas with great freedom. Evennia is made available under the very friendly BSD license.
+[**Evennia**](https://github.com/evennia/evennia) is a modern library for creating online multiplayer text games (MUD, MUSH, MUX, MUCK, MOO etc) in pure Python.
 
-Using Evennia you can have a fully-functioning online game up and running in minutes. Evennia doesn't impose a particular style, genre, or set of game mechanics - instead, we offer a framework on which to build the game of your dreams. Evennia allows you to concentrate on designing the bits that make your game unique.
+It allows game creators to design and flesh out their ideas with great freedom. Evennia is made available under the very friendly BSD license. Using Evennia you can have a fully-functioning online game up and running in minutes, including a telnet, ssh, website, and webclient.
 
-Instead of using soft-code, Evennia allows you to program using the full power and flexibility of Python - simply extend the provided classes to implement almost anything you can dream of. All library code is heavily documented, and there are extensive manuals and tutorials, as well as an active community, to help you on your path to MU* perfection. Since Evennia is entirely programmed using Python, the tools used by professional developers across the world at at your fingertips - no need to learn a new language, and perfect for a beginner. Collaborate with the same tools you're used to for coding, debugging, and version management.
+Evennia doesn't impose a particular style, genre, or set of game mechanics - instead, we offer a framework on which to build the game of your dreams. Evennia allows you to concentrate on designing the bits that make your game unique.
+
+Instead of using soft-code, Evennia allows you to program using the full power and flexibility of Python - simply extend the provided classes to implement almost anything you can dream of. All library code is heavily documented, and there are extensive manuals and tutorials, as well as an active community, to help you on your path to MU* perfection.
+
+Since Evennia is entirely programmed using Python, the tools used by professional developers across the world at at your fingertips - no need to learn a new language, and perfect for a beginner. Collaborate with the same tools you're used to for coding, debugging, and version management.
+
+[![Evennia](https://github.com/evennia/evennia/blob/master/evennia/web/website/static/website/images/evennia_logo.png)](http://evennia.com)
