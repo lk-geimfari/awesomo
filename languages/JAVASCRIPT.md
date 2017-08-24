@@ -246,11 +246,3 @@ db.replicate.to('http://example.com/mydb');
 [**TestCafe**](https://github.com/DevExpress/testcafe) is a pure node.js end-to-end solution for testing web apps. It takes care of all the stages: starting browsers, running tests, gathering test results and generating reports. TestCafe doesn’t need browser plugins - it works in all popular modern browsers out-of-the-box.
 
 ![](https://raw.githubusercontent.com/DevExpress/testcafe/master/media/install-and-run-test.gif)
-
----
-[**Reactide**](https://github.com/reactide/reactide) - is the first dedicated IDE for React web application development. 
-
-Reactide is a cross-platform desktop application that offers a custom simulator, making build-tool and server configuration unnecessary. Reactide brings development back to the days where opening a single file instantly renders the project in the browser. With Reactide, developers can achieve the same simplicity with a single React JSX file while still utilizing the power of React.
-
-<p align="center"><a href='http://reactide.io/'><img alt="reactide" src="http://reactide.io/images/reactide-header.png" height="60%" width="60%"></a></p>
-
