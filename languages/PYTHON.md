@@ -775,3 +775,64 @@ actions:
     plugin: cloudflare/dns.py
     args: remove test@example.com apikey123 example.com --content {{ facts['network']['eth0']['v4'][0] }}
 ```
+
+---
+[**Transcrypt**](http://www.transcrypt.org) is a Python 3.6 to Javascript compiler supporting e.g multiple inheritance, metaclasses and operator overloading. It generates fast, compact code that can run in your browser or on top of node.js. Transcrypt facilitates Python source level debugging and can use any Javascript library directly without conversion or special syntax.
+
+<a href="http://www.transcrypt.org">
+    <p align="center">
+      <img src="https://www.transcrypt.org/illustrations/logo_white_small.png" alt="Transcrypt">
+    </p>
+</a>
+
+Example:
+```python
+    from itertools import chain
+    
+    class SolarSystem:
+        planets = [list (chain (planet, (index + 1,))) for index, planet in enumerate ((
+            ('Mercury', 'hot', 2240),
+            ('Venus', 'sulphurous', 6052),
+            ('Earth', 'fertile', 6378),
+            ('Mars', 'reddish', 3397),
+            ('Jupiter', 'stormy', 71492),
+            ('Saturn', 'ringed', 60268),
+            ('Uranus', 'cold', 25559),
+            ('Neptune', 'very cold', 24766) 
+        ))]
+        
+        lines = (
+            '{} is a {} planet',
+            'The radius of {} is {} km',
+            '{} is planet nr. {} counting from the sun'
+        )
+        
+        def __init__ (self):
+            self.lineIndex = 0
+        
+        def greet (self):
+            self.planet = self.planets [int (Math.random () * len (self.planets))]
+            document.getElementById ('greet') .innerHTML = 'Hello {}'.format (self.planet [0])
+            self.explain ()
+            
+        def explain (self):
+            document.getElementById ('explain').innerHTML = (
+                self.lines [self.lineIndex] .format (self.planet [0], self.planet [self.lineIndex + 1])
+            )
+            self.lineIndex = (self.lineIndex + 1) % 3
+            
+    solarSystem = SolarSystem ()
+```
+
+```html
+    <script src="__javascript__/hello.js"></script>
+    <h2>Hello demo</h2>
+    
+    <p>
+    <div id = "greet">...</div>
+    <button onclick="hello.solarSystem.greet ()">Click me repeatedly!</button>
+    
+    <p>
+    <div id = "explain">...</div>
+    <button onclick="hello.solarSystem.explain ()">And click me repeatedly too!</button>
+```
