@@ -80,6 +80,21 @@ Supported: *Python 2*
 
 ![flask](http://flask.pocoo.org/static/logo/flask.png)
 
+---
+[**Jinja2**](https://github.com/pallets/jinja) is a template engine written in pure Python. It provides a Django inspired non-XML syntax but supports inline expressions and an optional sandboxed environment.
+
+Here a small example of a Jinja template:
+```jinja
+{% extends 'base.html' %}
+{% block title %}Memberlist{% endblock %}
+{% block content %}
+  <ul>
+  {% for user in users %}
+    <li><a href="{{ user.url }}">{{ user.username }}</a></li>
+  {% endfor %}
+  </ul>
+{% endblock %}
+```
 
 ---
 [**Flask-Base**](https://github.com/hack4impact/flask-base) - A Flask application template with the boilerplate code already done for you.
@@ -836,3 +851,18 @@ Example:
     <div id = "explain">...</div>
     <button onclick="hello.solarSystem.explain ()">And click me repeatedly too!</button>
 ```
+
+---
+[**fuckIt.py**](https://github.com/ajalt/fuckitpy) uses state-of-the-art technology to make sure your Python code runs whether it has any right to or not. Some code has an error? Fuck it.
+
+---
+[**PyREBox**](https://github.com/Cisco-Talos/pyrebox) is a Python scriptable Reverse Engineering sandbox. It is based on QEMU, and its goal is to aid reverse engineering by providing dynamic analysis and debugging capabilities from a different perspective. PyREBox allows to inspect a running QEMU VM, modify its memory or registers, and to instrument its execution, by creating simple scripts in python to automate any kind of analysis. QEMU (when working as a whole-system-emulator) emulates a complete system (CPU, memory, devices...). By using VMI techniques, it does not require to perform any modification into the guest operating system, as it transparently retrieves information from its memory at run-time.
+
+![](https://github.com/Cisco-Talos/pyrebox/raw/master/docs/media/pyrebox_logo_light_bg.png)
+
+---
+[**Saleor**](https://github.com/mirumee/saleor) is an open-source e-commerce storefront for Python and Django.
+
+[![Saleor](http://getsaleor.com/mr-saleor-readme.png)](http://getsaleor.com)
+
+
