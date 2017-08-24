@@ -110,11 +110,6 @@ Enzyme is unopinionated regarding which test runner or assertion library you use
 ![sigma](https://cdn-images-1.medium.com/max/720/0*rhhK5CbcRhe1KfDD.jpg)
 
 ---
-[**eme**](https://github.com/egoist/eme)  — an  elegant Markdown editor.
-
-![eme](https://cdn-images-1.medium.com/max/720/0*LJKIQV74HzypsKHl.jpg)
-
----
 [**async**](https://github.com/caolan/async)  —  a utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript. Although originally designed for use with Node.js and installable via npm install --save async, it can also be used directly in the browser.
 
 ![async](https://cdn-images-1.medium.com/max/720/0*MB_a8lRqGYBy276_.jpg)
