@@ -779,6 +779,8 @@ actions:
 ---
 [**Transcrypt**](http://www.transcrypt.org) is a Python 3.6 to Javascript compiler supporting e.g multiple inheritance, metaclasses and operator overloading. It generates fast, compact code, allows source level debugging in your browser and can use any Javascript library directly without conversion or special syntax.
 
+![Transcrypt](https://www.transcrypt.org/illustrations/logo_white_small.png)
+
 Example:
 ```python
     from itertools import chain
