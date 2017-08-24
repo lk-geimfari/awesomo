@@ -241,3 +241,8 @@ db.replicate.to('http://example.com/mydb');
 [**TestCafe**](https://github.com/DevExpress/testcafe) is a pure node.js end-to-end solution for testing web apps. It takes care of all the stages: starting browsers, running tests, gathering test results and generating reports. TestCafe doesn’t need browser plugins - it works in all popular modern browsers out-of-the-box.
 
 ![](https://raw.githubusercontent.com/DevExpress/testcafe/master/media/install-and-run-test.gif)
+
+---
+[**LaTeX Resume Generator**](https://github.com/saadq/latexresu.me) an easy to use webapp for creating elegant LaTeX resumes without the need to write any TeX code yourself. Built with Node.js and React.
+
+![](https://camo.githubusercontent.com/de0532955fea66f17b749ef96c7efdbfad2e8bd2/687474703a2f2f692e696d6775722e636f6d2f547665617065372e706e67)
