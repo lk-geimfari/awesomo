@@ -243,6 +243,6 @@ db.replicate.to('http://example.com/mydb');
 ![](https://raw.githubusercontent.com/DevExpress/testcafe/master/media/install-and-run-test.gif)
 
 ---
-[**LaTeX Resume Generator**](https://github.com/saadq/latexresu.me) an easy to use webapp for creating elegant LaTeX resumes without the need to write any TeX code yourself. Built with Node.js and React.
+[**LaTeX Resume Generator**](https://github.com/saadq/latexresu.me) is an easy to use webapp for creating elegant LaTeX resumes without the need to write any TeX code yourself. Built with Node.js and React.
 
 ![](https://camo.githubusercontent.com/de0532955fea66f17b749ef96c7efdbfad2e8bd2/687474703a2f2f692e696d6775722e636f6d2f547665617065372e706e67)
