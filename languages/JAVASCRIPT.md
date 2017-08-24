@@ -144,11 +144,6 @@ Enzyme is unopinionated regarding which test runner or assertion library you use
 ![express](http://imgur.com/mSHVwME.png)
 
 ---
-[**Grunt**](https://github.com/gruntjs/grunt)  — The JavaScript Task Runner.
-
-![grunt](http://imgur.com/Yf0S7Wn.png)
-
----
 [**Gulp**](https://github.com/gulpjs/gulp)  — The streaming build system.
 
 ![gulp](http://imgur.com/92epDTJ.png)
