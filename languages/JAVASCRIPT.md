@@ -34,7 +34,7 @@ Chart.js provides two different builds that are available for your use. The Char
 ![d3](https://cdn-images-1.medium.com/max/720/0*bxHj6VbZ9lApwWyo.jpg)
 
 ---
-[**Reveal.js**](https://github.com/hakimel/reveal.js)  — A framework for easily creating beautiful presentations using HTML. 
+[**Reveal.js**](https://github.com/hakimel/reveal.js)  — A framework for easily creating beautiful presentations using HTML.
 
 [Check out the live demo](http://lab.hakim.se/reveal-js/).
 
@@ -178,7 +178,7 @@ Enzyme is unopinionated regarding which test runner or assertion library you use
 [**Countly**](https://github.com/countly/countly-server)  —  A plugin-based, real-time mobile, web and desktop analytics platform with more than 10 different SDKs. Countly also includes an extensive push notifications and crash reporting service for mobile devices.
 
 ![countly](https://camo.githubusercontent.com/f60fc1f56ac415bde000defba9c26a8469404866/687474703a2f2f636f756e742e6c792f77702d636f6e74656e742f75706c6f6164732f323031362f31322f636f756e746c795f64617368626f6172645f636f6d6d756e6974795f31365f31322e706e67)
-  
+
 ---
 [**strider**](https://github.com/Strider-CD/strider)  —  an Open Source Continuous Deployment / Continuous Integration platform. It is written in Node.JS / JavaScript and uses MongoDB as a backing store. It is published under the BSD license.
 
@@ -241,3 +241,8 @@ db.replicate.to('http://example.com/mydb');
 [**LaTeX Resume Generator**](https://github.com/saadq/latexresu.me) is an easy to use webapp for creating elegant LaTeX resumes without the need to write any TeX code yourself. Built with Node.js and React.
 
 ![](https://camo.githubusercontent.com/de0532955fea66f17b749ef96c7efdbfad2e8bd2/687474703a2f2f692e696d6775722e636f6d2f547665617065372e706e67)
+
+---
+[**AVA**](https://github.com/avajs/ava) is Futuristic JavaScript test runner. Ava takes advantage of JavaScript asynchronism to runs your tests concurrently, which is especially beneficial for IO heavy tests. AVA has simple test syntax and enforces atomic tests.
+
+![](http://i.imgur.com/sUreNq4.gif)
