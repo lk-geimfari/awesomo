@@ -877,3 +877,14 @@ Instead of using soft-code, Evennia allows you to program using the full power a
 Since Evennia is entirely programmed using Python, the tools used by professional developers across the world at at your fingertips - no need to learn a new language, and perfect for a beginner. Collaborate with the same tools you're used to for coding, debugging, and version management.
 
 <a href="http://evennia.com"><img src="https://orig09.deviantart.net/a1d8/f/2017/236/a/5/evennia_logo_by_griatch_art-dbl6oip.png" alt="Evennia" width="300" height="300"></a>
+
+---
+[**python-telegram-bot**](https://github.com/python-telegram-bot/python-telegram-bot) - This library provides a pure Python interface for the Telegram Bot API. It's compatible with Python versions 2.7, 3.3+ and PyPy. It also works with Google App Engine.
+
+In addition to the pure API implementation, this library features a number of high-level classes to make the development of bots easy and straightforward. These classes are contained in the telegram.ext submodule.
+
+Supported: *Python 2.7/3.3+*
+
+[![python-telegram-bot](https://raw.githubusercontent.com/python-telegram-bot/logos/master/logo-text/png/ptb-logo-text_768.png)](https://github.com/python-telegram-bot/python-telegram-bot)
+
+---
