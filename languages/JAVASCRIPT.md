@@ -241,3 +241,7 @@ db.replicate.to('http://example.com/mydb');
 [**LaTeX Resume Generator**](https://github.com/saadq/latexresu.me) is an easy to use webapp for creating elegant LaTeX resumes without the need to write any TeX code yourself. Built with Node.js and React.
 
 ![](https://camo.githubusercontent.com/de0532955fea66f17b749ef96c7efdbfad2e8bd2/687474703a2f2f692e696d6775722e636f6d2f547665617065372e706e67)
+
+[**React Showroom**](https://github.com/OpusCapita/react-showroom-client) is a [react](https://github.com/facebook/react) based components catalog which provides you with markdown documentation and live examples.
+
+![React Showroom demo](https://raw.githubusercontent.com/OpusCapita/react-showroom-client/master/docs/demo.gif)
