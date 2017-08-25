@@ -865,6 +865,7 @@ Example:
 
 [![Saleor](http://getsaleor.com/mr-saleor-readme.png)](http://getsaleor.com)
 
+---
 [**Evennia**](https://github.com/evennia/evennia) is a modern library for creating [online multiplayer text games (MUD, MUSH, MUX, MUCK, MOO etc)](https://en.wikipedia.org/wiki/MUD) in pure Python.
 
 It allows game creators to design and flesh out their ideas with great freedom. Evennia is made available under the very friendly BSD license. Using Evennia you can have a fully-functioning online game up and running in minutes, including a telnet, ssh, website, and webclient.
