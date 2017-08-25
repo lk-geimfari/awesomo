@@ -1,5 +1,14 @@
 ## JavaScript
 
+[**Iroh**](https://github.com/maierfelix/Iroh) is a dynamic code analysis tool for JavaScript. Iroh allows to record your code flow in realtime, intercept runtime values and manipulate program behaviour on the fly.
+
+<p align="center">
+  <a href="//maierfelix.github.io/Iroh/">
+    <img alt="Iroh" src="http://i.imgur.com/q7DYXfF.png" height="175">
+  </a>
+</p>
+
+---
 [**ggraph**](https://github.com/pcbje/ggraph) - Graph visualization for messy data.
 
 This is a library built on top D3 with the goal of improving how we work with large and messy graphs. It extends the notion of nodes and links with groups of nodes. This is useful when multiple nodes are in fact the same thing or belong to the same group.
