@@ -1,4 +1,6 @@
 ## Java
+![wsdownloaderImg](https://raw.githubusercontent.com/RbkGh/WSDownloader/master/app/src/main/ic_launcher-web.png) <br>
+[**WSDownloader**](https://github.com/RbkGh/WSDownloader) Download and share viewed whatsapp status 24hour-duration media updates(SnapChat feature) without requesting from friends.<br>
 
 [**Druid**](https://github.com/druid-io/druid) is a distributed, column-oriented, real-time analytics data store that is commonly used to power exploratory dashboards in multi-tenant environments.
 
