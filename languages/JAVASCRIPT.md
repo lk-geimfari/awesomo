@@ -252,6 +252,11 @@ db.replicate.to('http://example.com/mydb');
 ![](https://camo.githubusercontent.com/de0532955fea66f17b749ef96c7efdbfad2e8bd2/687474703a2f2f692e696d6775722e636f6d2f547665617065372e706e67)
 
 ---
+[**React Showroom**](https://github.com/OpusCapita/react-showroom-client) is a [react](https://github.com/facebook/react) based components catalog which provides you with markdown documentation and live examples.
+
+![React Showroom demo](https://raw.githubusercontent.com/OpusCapita/react-showroom-client/master/docs/demo.gif)
+
+---
 [**AVA**](https://github.com/avajs/ava) is Futuristic JavaScript test runner. Ava takes advantage of JavaScript asynchronism to runs your tests concurrently, which is especially beneficial for IO heavy tests. AVA has simple test syntax and enforces atomic tests.
 
 ![](http://i.imgur.com/sUreNq4.gif)
