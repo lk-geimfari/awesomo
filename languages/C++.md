@@ -87,3 +87,15 @@ The supported data models can be mixed in queries and allow ArangoDB to be the a
 
 ---
 [**SignalR-Client-Cpp**](https://github.com/aspnet/SignalR-Client-Cpp) is a native client for the ASP.NET SignalR.
+
+
+---
+[**Pony**](https://github.com/ponylang/ponyc) is an open-source, actor-model, capabilities-secure, high performance programming language.
+
+Hello World in Pony:
+
+```pony
+actor Main
+  new create(env: Env) =>
+    env.out.print("Hello, world!")
+```
