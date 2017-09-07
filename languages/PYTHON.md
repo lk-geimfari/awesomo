@@ -59,6 +59,34 @@ Using locales:
 ```
 
 ---
+[**Hypothesis**](http://hypothesis.works) is a powerful testing library. 
+
+It lets you write tests which are parametrized by a source of examples, then generates the 
+simplest examples that make your tests fail. This lets you find more bugs with less work -
+it's easy to use, stable, and advances the state of the art, so if you're not using 
+Hypothesis to test your project you're missing out.
+
+It works well for both simple and very complex tests - here's a short example: 
+
+```python
+@given(st.lists(st.floats(allow_nan=False, allow_infinity=False), min_size=1))
+def test_mean(xs):
+    assert min(xs) <= sum(xs) / len(xs) <= max(xs)
+```
+
+    Falsifying example: test_mean(
+        xs=[1.7976321109618856e+308, 6.102390043022755e+303]
+    )
+
+Hypothesis makes it very easy to define your own strategies for examples, and ships with support
+for Django, Numpy, Pandas, pytz, as well as most built-in types.  It can even work out how to
+call functions or build your custom objects based on their type annotations!
+
+See [hypothesis.works](http://hypothesis.works) for articles, tips, and testimonials;
+[the documentation](https://hypothesis.readthedocs.io) to get started; or
+[the repo](https://github.com/HypothesisWorks/hypothesis-python) to contribute.
+
+---
 [**Pipenv**](https://github.com/kennethreitz/pipenv) is an experimental project that aims to bring the best of all packaging worlds to the Python world. It harnesses Pipfile, pip, and virtualenv into one single toolchain. It features very pretty terminal colors.
 
 It automatically creates and manages a virtualenv for your projects, as well as adds/removes packages from your Pipfile as you install/uninstall packages. The lock command generates a lockfile (Pipfile.lock).
