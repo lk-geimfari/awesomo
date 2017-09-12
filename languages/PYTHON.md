@@ -69,14 +69,29 @@ Hypothesis to test your project you're missing out.
 It works well for both simple and very complex tests - here's a short example: 
 
 ```python
-@given(st.lists(st.floats(allow_nan=False, allow_infinity=False), min_size=1))
+@given(st.lists(st.floats(allow_nan=False)))
 def test_mean(xs):
-    assert min(xs) <= sum(xs) / len(xs) <= max(xs)
+    """For any list of numbers, the mean is between the min and the max."""
+    mean = sum(xs) / len(xs)
+    assert min(xs) <= mean <= max(xs)
+```
+```
+Falsifying example: test_mean(xs=[9.9792015476736e+291, 1.7976931348623157e+308])
+Traceback (most recent call last):
+    ...
+AssertionError: mean=inf
+
+Falsifying example: test_mean(xs=[])
+Traceback (most recent call last):
+    ...
+ZeroDivisionError: division by zero
+
+---------------------------------------------------------------------------
+MultipleFailures: Hypothesis found 2 distinct failures.
 ```
 
-    Falsifying example: test_mean(
-        xs=[1.7976321109618856e+308, 6.102390043022755e+303]
-    )
+Oh, yeah - Hypothesis can find and independently minimise examples for multiple
+bugs in a single test.  Awesome, isn't it!
 
 Hypothesis makes it very easy to define your own strategies for examples, and ships with support
 for Django, Numpy, Pandas, pytz, as well as most built-in types.  It can even work out how to
