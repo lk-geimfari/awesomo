@@ -931,3 +931,9 @@ Supported: *Python 2.7/3.3+*
 [![python-telegram-bot](https://raw.githubusercontent.com/python-telegram-bot/logos/master/logo-text/png/ptb-logo-text_768.png)](https://github.com/python-telegram-bot/python-telegram-bot)
 
 ---
+[**Click**](http://click.pocoo.org/5/) - Click is a Python package for creating beautiful command line interfaces in a composable way with as little code as necessary. It’s the “Command Line Interface Creation Kit”. It’s highly configurable but comes with sensible defaults out of the box.
+
+It aims to make the process of writing command line tools quick and fun while also preventing any frustration caused by the inability to implement an intended CLI API.
+
+[![Click](https://github.com/pallets/click/blob/master/artwork/logo.svg)](http://click.pocoo.org/5/)
+---
