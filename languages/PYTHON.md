@@ -936,4 +936,15 @@ Supported: *Python 2.7/3.3+*
 It aims to make the process of writing command line tools quick and fun while also preventing any frustration caused by the inability to implement an intended CLI API.
 
 [![Click](https://github.com/pallets/click/blob/master/artwork/logo.svg)](http://click.pocoo.org/5/)
+
+---
+[**Monique Dashboards**](https://github.com/monique-dashboards/monique) - a library for creating dashboard applications, coming with fully functional [web](https://github.com/monique-dashboards/monique-web) and [API](https://github.com/monique-dashboards/monique-api) applications for creating custom dashboards. The library auto-parses multiple input formats, like JSON, ASCII tables, single values, making the code pushing metrics much shorter. The other feature is auto-creating dashboard tiles representing multiple instances of servers or microservices. The library supports the SQLite3 database for small deployments and the Cassandra database for highly-available deployments.
+
+
+<a href="https://github.com/monique-dashboards/monique">
+    <p align="center">
+      <img src="http://monique-dashboards.readthedocs.io/en/latest/_images/monique-web-1.png" alt="Monique Dashboards">
+    </p>
+</a>
+
 ---
