@@ -1,5 +1,16 @@
 ## Python
 
+[**Monique Dashboards**](https://github.com/monique-dashboards/monique) - a library for creating dashboard applications, coming with fully functional [web](https://github.com/monique-dashboards/monique-web) and [API](https://github.com/monique-dashboards/monique-api) applications for creating custom dashboards. The library auto-parses multiple input formats, like JSON, ASCII tables, single values, making the code pushing metrics much shorter. The other feature is auto-creating dashboard tiles representing multiple instances of servers or microservices. The library supports the SQLite3 database for small deployments and the Cassandra database for highly-available deployments.
+
+
+<a href="https://github.com/tensorflow/tensorflow">
+    <p align="center">
+      <img src="http://monique-dashboards.readthedocs.io/en/latest/_images/monique-web-1.png" alt="TenserFlow">
+    </p>
+</a>
+
+
+---
 [**TensorFlow** ](https://github.com/tensorflow/tensorflow) —  an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) that flow between them. This flexible architecture lets you deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device without rewriting code. TensorFlow also includes TensorBoard, a data visualization toolkit.
 
 Supported: *Python 2/3*
