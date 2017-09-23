@@ -93,7 +93,6 @@ actions:
 
 ## B
 
----
 [**bokeh**](https://github.com/bokeh/bokeh)  —  a Python interactive visualization library, enables beautiful and meaningful visual presentation of data in modern web browsers. With Bokeh, you can quickly and easily create interactive plots, dashboards, and data applications.
 
 Supported: *Python 2/3*
@@ -103,7 +102,7 @@ Supported: *Python 2/3*
 ---
 [**BossSensor**](https://github.com/Hironsan/BossSensor) - Hide screen when boss is approaching.
 
-## Demo
+Demo
 Boss stands up. He is approaching.
 
 ![standup](https://github.com/Hironsan/BossSensor/blob/master/resource_for_readme/standup.jpg)
@@ -119,7 +118,6 @@ If image is classified as the Boss, monitor changes.
 
 ## C
 
----
 [**Cabot**](https://github.com/arachnys/cabot) is a free, open-source, self-hosted infrastructure monitoring platform that provides some of the best features of PagerDuty, Server Density, Pingdom and Nagios without their cost and complexity. (Nagios, I'm mainly looking at you.)
 
 It provides a web interface that allows you to monitor services (e.g. "Stage Redis server", "Production ElasticSearch cluster") and send telephone, sms or hipchat/email alerts to your on-duty team if those services start misbehaving or go down - all without writing a line of code. Best of all, you can use data that you're already pushing to Graphite/statsd to generate alerts, rather than implementing and maintaining a whole new system of data collectors.
@@ -182,7 +180,6 @@ Supported: *Python 2/3*
 
 ## D
 
----
 [**Django**](https://github.com/django/django) is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
 
 ![django](https://www.djangoproject.com/s/img/logos/django-logo-positive.png)
@@ -201,7 +198,6 @@ Organize Django settings into multiple files and directories. Easily override an
 
 ## E
 
----
  [**eve**](https://github.com/nicolaiarocci/eve) —  an open source Python REST API framework designed for human beings. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services.
 
 Supported: *Python 2/3*
@@ -298,14 +294,12 @@ Supported: *Python 2/3*
 
 ## G
 
----
 [**Glances**](https://github.com/nicolargo/glances) is a cross-platform curses-based system monitoring tool written in Python.
 
 ![glences](https://raw.githubusercontent.com/nicolargo/glances/develop/docs/_static/screencast.gif)
 
 ## H
 
----
 [**hug**](https://github.com/timothycrosley/hug) aims to make developing Python driven APIs as simple as possible, but no simpler. As a result, it drastically simplifies Python API development.
 
 ![hug](https://camo.githubusercontent.com/dc3f611ccdd6289ca11478dcb9ec4f9a1742248a/68747470733a2f2f7261772e6769746875622e636f6d2f74696d6f74687963726f736c65792f6875672f646576656c6f702f617274776f726b2f6578616d706c652e676966)
@@ -369,7 +363,6 @@ See [hypothesis.works](http://hypothesis.works) for articles, tips, and testimon
 
 ## J
 
----
 [**Japronto**](https://github.com/squeaky-pl/japronto) (from Portuguese "já pronto" /ˈʒa pɾõtu/ meaning "already done") is a screaming-fast, scalable, asynchronous Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser. It's targeted at speed enthusiasts, people who like plumbing and early adopters.
 
 ![](https://raw.githubusercontent.com/squeaky-pl/japronto/master/benchmarks/results.png)
@@ -392,7 +385,6 @@ Here a small example of a Jinja template:
 
 ## K
 
----
 [**keras**](https://github.com/fchollet/keras)  —  a high-level neural networks library, written in Python and capable of running on top of either TensorFlow or Theano. It was developed with a focus on enabling fast experimentation.
 
 ![keras](https://cdn-images-1.medium.com/max/720/0*s57Cx2qO1WZkqNvX.jpg)
@@ -411,7 +403,6 @@ Kivy is written in Python and Cython, based on OpenGL ES 2, supports various inp
 
 ## L
 
----
 [**Locust**](https://github.com/locustio/locust) is an easy-to-use, distributed, user load testing tool. It is intended for load-testing web sites (or other systems) and figuring out how many concurrent users a system can handle.
 
 The idea is that during a test, a swarm of locusts will attack your website. The behavior of each locust (or test user if you will) is defined by you and the swarming process is monitored from a web UI in real-time. This will help you battle test and identify bottlenecks in your code before letting real users in.
@@ -422,7 +413,6 @@ Supported: *Python 2/3*
 
 ## M
 
----
 [**Mail-in-a-Box**](https://github.com/mail-in-a-box/mailinabox) helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 
 ---
@@ -566,7 +556,6 @@ Using locales:
 
 ## N
 
----
 [**The Numenta Platform for Intelligent Computing (NUPIC)**](https://github.com/numenta/nupic) is a machine intelligence platform that implements the HTM learning algorithms. HTM is a detailed computational theory of the neocortex. At the core of HTM are time-based continuous learning algorithms that store and recall spatial and temporal patterns. NuPIC is suited to a variety of problems, particularly anomaly detection and prediction of streaming data sources.
 
 Supported: *Python 2*
@@ -575,7 +564,6 @@ Supported: *Python 2*
 
 ## P
 
----
 [**Pandas**](https://github.com/pandas-dev/pandas) is a Python package providing fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real world data analysis in Python. Additionally, it has the broader goal of becoming the most powerful and flexible open source data analysis / manipulation tool available in any language. It is already well on its way toward this goal.
 
 ![pandas](https://raw.githubusercontent.com/pandas-dev/pandas/master/doc/logo/pandas_logo.png)
@@ -725,7 +713,6 @@ Supported: *Python 2.7/3.3+*
 
 ## R
 
----
 [**Rainbow Stream **](https://github.com/DTVD/rainbowstream) —  is a terminal-based Twitter Client. Realtime tweetstream, compose, search, favorite … and much more fun directly from terminal.
 
 Supported: *Python 2/3*
@@ -782,7 +769,6 @@ u'{"type":"User"...'
 
 ## S
 
----
 [**Saleor**](https://github.com/mirumee/saleor) is an open-source e-commerce storefront for Python and Django.
 
 [![Saleor](http://getsaleor.com/mr-saleor-readme.png)](http://getsaleor.com)
@@ -872,7 +858,6 @@ Supported: *Python 2/3*
 
 ## T
 
----
 [**TensorFlow** ](https://github.com/tensorflow/tensorflow) —  an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) that flow between them. This flexible architecture lets you deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device without rewriting code. TensorFlow also includes TensorBoard, a data visualization toolkit.
 
 Supported: *Python 2/3*
@@ -969,7 +954,6 @@ Output:
 
 ## U
 
----
 [**Universe**](https://github.com/openai/universe) is a software platform for measuring and training an AI’s general intelligence across the world’s supply of games, websites and other applications. This is the universe open-source library, which provides a simple Gym interface to each Universe environment.
 
 Supported: *Python 2/3*
@@ -985,7 +969,6 @@ Supported: *Python 2/3*
 
 ## V
 
----
 [**Voltron**](https://github.com/snare/voltron) is an extensible debugger UI toolkit written in Python. It aims to improve the user experience of various debuggers (LLDB, GDB, VDB and WinDbg) by enabling the attachment of utility views that can retrieve and display data from the debugger host. By running these views in other TTYs, you can build a customised debugger user interface to suit your needs.
 
 Voltron does not aim to be everything to everyone. It's not a wholesale replacement for your debugger's CLI. Rather, it aims to complement your existing setup and allow you to extend your CLI debugger as much or as little as you like. If you just want a view of the register contents in a window alongside your debugger, you can do that. If you want to go all out and have something that looks more like OllyDbg, you can do that too.
@@ -1013,7 +996,6 @@ More screenshots are [here](https://github.com/snare/voltron/wiki/Screenshots).
 
 ## W
 
----
 [**Wasserstoff**](https://github.com/lk-geimfari/wasserstoff/) - is a library that help you store your configurations for applications in JSON files. The configuration will be easily loaded to the scope of configuration object. The library was written with the use of tools from the standard Python library, and therefore, it does not have any side dependencies.
 
 <a href="https://github.com/lk-geimfari/wasserstoff/">
