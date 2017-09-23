@@ -1,4 +1,6 @@
-## Python
+# Python
+
+## A
 
 [**asciinema**](https://github.com/asciinema/asciinema) is a terminal session recorder and the best companion of asciinema.org
 
@@ -57,6 +59,8 @@ actions:
     args: remove test@example.com apikey123 example.com --content {{ facts['network']['eth0']['v4'][0] }}
 ```
 
+## B
+
 ---
 [**bokeh**](https://github.com/bokeh/bokeh)  —  a Python interactive visualization library, enables beautiful and meaningful visual presentation of data in modern web browsers. With Bokeh, you can quickly and easily create interactive plots, dashboards, and data applications.
 
@@ -79,6 +83,9 @@ When he is approaching, fetch face images and classify image.
 If image is classified as the Boss, monitor changes.
 
 ![editor](https://github.com/Hironsan/BossSensor/blob/master/resource_for_readme/editor.jpg)
+
+
+## C
 
 ---
 [**Cabot**](https://github.com/arachnys/cabot) is a free, open-source, self-hosted infrastructure monitoring platform that provides some of the best features of PagerDuty, Server Density, Pingdom and Nagios without their cost and complexity. (Nagios, I'm mainly looking at you.)
@@ -140,6 +147,9 @@ Supported: *Python 2/3*
 
 ![compose](https://cdn-images-1.medium.com/max/720/0*SdJayWyknC_r8Js9.)
 
+
+## D
+
 ---
 [**Django**](https://github.com/django/django) is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
 
@@ -155,6 +165,9 @@ Organize Django settings into multiple files and directories. Easily override an
       <img src="https://raw.githubusercontent.com/sobolevn/django-split-settings/master/media/logo-black.png">
     </p>
 </a>
+
+
+## E
 
 ---
  [**eve**](https://github.com/nicolaiarocci/eve) —  an open source Python REST API framework designed for human beings. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services.
@@ -222,6 +235,14 @@ else:
     print('invalid')
 ```
 
+## F
+
+[**the fuck** ](https://github.com/nvbn/thefuck) —  is a magnificent app which corrects your previous console command.
+
+Supported: *Python 2/3*
+
+![fuck](https://cdn-images-1.medium.com/max/720/0*lzaRCNye94_EIWDH.gif)
+
 ---
 [**falcon** ](https://github.com/falconry/falcon) —  is a high-performance Python framework for building cloud APIs. It encourages the REST architectural style, and tries to do as little as possible while remaining highly effective.
 
@@ -242,10 +263,15 @@ Supported: *Python 2/3*
 ---
 [**fuckIt.py**](https://github.com/ajalt/fuckitpy) uses state-of-the-art technology to make sure your Python code runs whether it has any right to or not. Some code has an error? Fuck it.
 
+
+## G
+
 ---
 [**Glances**](https://github.com/nicolargo/glances) is a cross-platform curses-based system monitoring tool written in Python.
 
 ![glences](https://raw.githubusercontent.com/nicolargo/glances/develop/docs/_static/screencast.gif)
+
+## H
 
 ---
 [**hug**](https://github.com/timothycrosley/hug) aims to make developing Python driven APIs as simple as possible, but no simpler. As a result, it drastically simplifies Python API development.
@@ -309,6 +335,8 @@ See [hypothesis.works](http://hypothesis.works) for articles, tips, and testimon
 [the documentation](https://hypothesis.readthedocs.io) to get started; or
 [the repo](https://github.com/HypothesisWorks/hypothesis-python) to contribute.
 
+## J
+
 ---
 [**Japronto**](https://github.com/squeaky-pl/japronto) (from Portuguese "já pronto" /ˈʒa pɾõtu/ meaning "already done") is a screaming-fast, scalable, asynchronous Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser. It's targeted at speed enthusiasts, people who like plumbing and early adopters.
 
@@ -330,6 +358,8 @@ Here a small example of a Jinja template:
 {% endblock %}
 ```
 
+## K
+
 ---
 [**keras**](https://github.com/fchollet/keras)  —  a high-level neural networks library, written in Python and capable of running on top of either TensorFlow or Theano. It was developed with a focus on enabling fast experimentation.
 
@@ -347,6 +377,8 @@ Kivy is written in Python and Cython, based on OpenGL ES 2, supports various inp
 
 ![kivy](https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png)
 
+## L
+
 ---
 [**Locust**](https://github.com/locustio/locust) is an easy-to-use, distributed, user load testing tool. It is intended for load-testing web sites (or other systems) and figuring out how many concurrent users a system can handle.
 
@@ -355,6 +387,8 @@ The idea is that during a test, a swarm of locusts will attack your website. The
 Locust is completely event-based, and therefore it's possible to support thousands of concurrent users on a single machine. In contrast to many other event-based apps it doesn't use callbacks. Instead it uses light-weight processes, through gevent. Each locust swarming your site is actually running inside its own process (or greenlet, to be correct). This allows you to write very expressive scenarios in Python without complicating your code with callbacks.
 
 Supported: *Python 2/3*
+
+## M
 
 ---
 [**Mail-in-a-Box**](https://github.com/mail-in-a-box/mailinabox) helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
@@ -498,12 +532,16 @@ Using locales:
 
 ![mycli](https://raw.githubusercontent.com/dbcli/mycli/master/screenshots/main.gif)
 
+## N
+
 ---
 [**The Numenta Platform for Intelligent Computing (NUPIC)**](https://github.com/numenta/nupic) is a machine intelligence platform that implements the HTM learning algorithms. HTM is a detailed computational theory of the neocortex. At the core of HTM are time-based continuous learning algorithms that store and recall spatial and temporal patterns. NuPIC is suited to a variety of problems, particularly anomaly detection and prediction of streaming data sources.
 
 Supported: *Python 2*
 
 ![nupic](https://cdn-images-1.medium.com/max/720/0*iYw1suOWr3weH9xq.)
+
+## P
 
 ---
 [**Pandas**](https://github.com/pandas-dev/pandas) is a Python package providing fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real world data analysis in Python. Additionally, it has the broader goal of becoming the most powerful and flexible open source data analysis / manipulation tool available in any language. It is already well on its way toward this goal.
@@ -652,6 +690,9 @@ Supported: *Python 2.7/3.3+*
 
 ![](https://github.com/Cisco-Talos/pyrebox/raw/master/docs/media/pyrebox_logo_light_bg.png)
 
+
+## R
+
 ---
 [**Rainbow Stream **](https://github.com/DTVD/rainbowstream) —  is a terminal-based Twitter Client. Realtime tweetstream, compose, search, favorite … and much more fun directly from terminal.
 
@@ -706,6 +747,8 @@ u'{"type":"User"...'
 [**rodeo**](https://github.com/yhat/rodeo) - a Python IDE built for analyzing data.
 
 ![](https://camo.githubusercontent.com/6951f81624599db71c34138cb73ed42968597b48/687474703a2f2f626c6f672e7968617468712e636f6d2f7374617469632f696d672f726f64656f2d6f766572766965772e706e67)
+
+## S
 
 ---
 [**Saleor**](https://github.com/mirumee/saleor) is an open-source e-commerce storefront for Python and Django.
@@ -795,6 +838,8 @@ Supported: *Python 2/3*
 
 ![sympy](http://www.sympy.org/static/images/logo.png)
 
+## T
+
 ---
 [**TensorFlow** ](https://github.com/tensorflow/tensorflow) —  an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) that flow between them. This flexible architecture lets you deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device without rewriting code. TensorFlow also includes TensorBoard, a data visualization toolkit.
 
@@ -805,13 +850,6 @@ Supported: *Python 2/3*
       <img src="https://cdn-images-1.medium.com/max/720/0*dNVUpWFLoysACE9z." alt="TenserFlow">
     </p>
 </a>
-
----
-[**the fuck** ](https://github.com/nvbn/thefuck) —  is a magnificent app which corrects your previous console command.
-
-Supported: *Python 2/3*
-
-![fuck](https://cdn-images-1.medium.com/max/720/0*lzaRCNye94_EIWDH.gif)
 
 ---
 [**Theano **](https://github.com/Theano/Theano) —  a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.
@@ -897,6 +935,8 @@ Output:
 
 ![](https://raw.githubusercontent.com/tqdm/tqdm/master/images/tqdm.gif)
 
+## U
+
 ---
 [**Universe**](https://github.com/openai/universe) is a software platform for measuring and training an AI’s general intelligence across the world’s supply of games, websites and other applications. This is the universe open-source library, which provides a simple Gym interface to each Universe environment.
 
@@ -910,6 +950,8 @@ Supported: *Python 2/3*
 Supported: *Python 2/3*
 
 ![ubloop](https://github.com/MagicStack/uvloop/raw/master/performance.png)
+
+## V
 
 ---
 [**Voltron**](https://github.com/snare/voltron) is an extensible debugger UI toolkit written in Python. It aims to improve the user experience of various debuggers (LLDB, GDB, VDB and WinDbg) by enabling the attachment of utility views that can retrieve and display data from the debugger host. By running these views in other TTYs, you can build a customised debugger user interface to suit your needs.
