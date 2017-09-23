@@ -1,5 +1,35 @@
 # Python
 
+Order:
+
+- [A](#A)
+- [B]()
+- [C]()
+- [D]()
+- [E]()
+- [F]()
+- [G]()
+- [H]()
+- [I]()
+- [J]()
+- [K]()
+- [L]()
+- [M]()
+- [N]()
+- [O]()
+- [P]()
+- [Q]()
+- [R]()
+- [S]()
+- [T]()
+- [U]()
+- [V]()
+- [W]()
+- [X ]()
+- [Y]()
+- [Z]()
+
+
 ## A
 
 [**asciinema**](https://github.com/asciinema/asciinema) is a terminal session recorder and the best companion of asciinema.org
@@ -979,8 +1009,9 @@ Any debugger command can be split off into a view and highlighted with a specifi
 
 More screenshots are [here](https://github.com/snare/voltron/wiki/Screenshots).
 
----
+## W
 
+---
 [**Wasserstoff**](https://github.com/lk-geimfari/wasserstoff/) - is a library that help you store your configurations for applications in JSON files. The configuration will be easily loaded to the scope of configuration object. The library was written with the use of tools from the standard Python library, and therefore, it does not have any side dependencies.
 
 <a href="https://github.com/lk-geimfari/wasserstoff/">
