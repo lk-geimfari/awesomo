@@ -1,8 +1,8 @@
 # Python
 
-Order:
+Alphabetical index:
 
-- [A](#A)
+- [A](#a)
 - [B]()
 - [C]()
 - [D]()
@@ -28,6 +28,8 @@ Order:
 - [X ]()
 - [Y]()
 - [Z]()
+
+--- 
 
 
 ## A
