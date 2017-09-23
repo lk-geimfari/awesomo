@@ -1,6 +1,5 @@
-# Python
 
-Alphabetical index:
+## Alphabetical index of projects in Python:
 
 - [A](#a)
 - [B](#b)
