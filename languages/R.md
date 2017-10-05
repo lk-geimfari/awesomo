@@ -10,3 +10,6 @@
 ![1](https://cdn-images-1.medium.com/max/720/0*qKFhFOHQDC3ilPYB.)
 ![2](https://cdn-images-1.medium.com/max/720/0*lgkWbqk4NNUdQUYo.)
 ![3](https://cdn-images-1.medium.com/max/720/0*CpPpyI96hTsYRcGr.)
+
+---
+- [**plyr**](https://github.com/hadley/plyr) - A set of tools that solves a common set of problems: you need to break a big problem down into manageable pieces, operate on each piece and then put all the pieces back together.
