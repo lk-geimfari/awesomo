@@ -25,6 +25,9 @@ The [**corefx**](https://github.com/dotnet/corefx) repo contains the library imp
 [**Roslyn**](https://github.com/dotnet/roslyn) provides open-source C# and Visual Basic compilers with rich code analysis APIs. It enables building code analysis tools with the same APIs that are used by Visual Studio.
 
 ---
+[**OptiKey**](https://github.com/OptiKey/OptiKey) is an assistive on-screen keyboard which runs on Windows. It is designed to be used with an eye-tracking device to assist with keyboard and mouse control for those living with motor and speech limitations, such as Amyotrophic Lateral Sclerosis (ALS) / Motor Neuron Disease (MND).
+
+---
 [**DotNetty**](https://github.com/Azure/DotNetty) is a port of Netty, asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients.
 
 ---
