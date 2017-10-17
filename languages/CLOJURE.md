@@ -207,3 +207,8 @@ Example:
   :available-media-types ["text/plain"]
   :handle-ok "Hello, world!")
 ```
+
+---
+[**Clojurecademy**](https://github.com/clojurecademy/clojurecademy) is an interactive platform that provides Clojure based courses. It's like _Codecademy_ for Clojure.
+
+![Clojurecademy Homepage](https://github.com/clojurecademy/clojurecademy/raw/master/home.png)
