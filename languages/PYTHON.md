@@ -72,6 +72,11 @@ actions:
 
 ## B
 
+[**BeeWare**](https://pybee.org/)  —  BeeWare is a collection of projects that can be used to help develop, debug and launch Python software. Each tool follows the Unix philosophy of doing one thing well. Each tool can be used in isolation, or they can be chained together to provide a rich set of programming tools.
+
+![BeeWare](https://pybee.org/static/images/brutus-270.png?h=279716d8)
+---
+
 [**bokeh**](https://github.com/bokeh/bokeh)  —  a Python interactive visualization library, enables beautiful and meaningful visual presentation of data in modern web browsers. With Bokeh, you can quickly and easily create interactive plots, dashboards, and data applications.
 
 Supported: *Python 2/3*
