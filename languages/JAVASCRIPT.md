@@ -265,3 +265,10 @@ db.replicate.to('http://example.com/mydb');
 [**Marko**](https://github.com/marko-js/marko) is a friendly and super fast UI library that makes building web apps fun!
 
 ![marko](https://user-images.githubusercontent.com/3771924/29725582-a043b5fe-899a-11e7-83f8-215fdc904256.png)
+
+---
+[**Dillinger**](https://github.com/joemccann/dillinger) - Online Markdown Editor.
+
+This is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor. Allows importing of HTML files, exporting as Markdown/HTML/PDF, drag and drop files into the editor, and importing/saving files through GitHub, Dropbox, GooglDrive, and OneDrive.
+
+![dillinger](https://i.imgur.com/q4MHIi2.png)
