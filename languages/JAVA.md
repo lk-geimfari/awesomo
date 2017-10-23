@@ -1,4 +1,4 @@
-## Alphabetical index of projects in C:
+## Alphabetical index of projects in Java:
 
 |       |       |       |       |       |       |       |
 |---    |---    |---    |---    |---    |---    |    ---|
