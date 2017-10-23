@@ -73,6 +73,8 @@ public class ExternalPathExample {
     }
 }
 
+~~~~~
+
 ## D
 
 [**Druid**](https://github.com/druid-io/druid) is a distributed, column-oriented, real-time analytics data store that is commonly used to power exploratory dashboards in multi-tenant environments.
