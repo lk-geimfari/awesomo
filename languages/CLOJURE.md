@@ -212,3 +212,15 @@ Example:
 [**Clojurecademy**](https://github.com/clojurecademy/clojurecademy) is an interactive platform that provides Clojure based courses. It's like _Codecademy_ for Clojure.
 
 ![Clojurecademy Homepage](https://github.com/clojurecademy/clojurecademy/raw/master/home.png)
+
+
+---
+[**Cryogen**](http://cryogenweb.org/) is a simple static site generator built with Clojure. It's shipped on Leiningen so setup is fuss free and there's no need to mess with databases or other CMS systems.
+
+![Cryogen Logo](https://avatars1.githubusercontent.com/u/10539940?s=200&v=4)
+
+---
+[**Luminus**](http://www.luminusweb.net/) is a Clojure micro-framework based on a set of lightweight libraries. It aims to provide a robust, scalable, and easy to use platform. 
+
+![Luminus Logo](https://avatars1.githubusercontent.com/u/9609230?s=200&v=4)
+
