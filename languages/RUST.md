@@ -125,7 +125,7 @@ fn main() {
 Features:
 * Convenient syntax: `fd PATTERN` instead of `find -iname '*PATTERN*'`.
 * Colorized terminal output (similar to *ls*).
-* It's *fast* (see [benchmarks](#benchmark) below).
+* It's *fast*.
 * Smart case: the search is case-insensitive by default. It switches to
   case-sensitive if the pattern contains an uppercase
   character[\*](http://vimdoc.sourceforge.net/htmldoc/options.html#'smartcase').
