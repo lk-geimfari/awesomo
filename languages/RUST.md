@@ -94,3 +94,45 @@ fn main() {
 [exa](https://the.exa.website/) is a replacement for `ls` written in Rust.
 
 ![](https://raw.githubusercontent.com/ogham/exa/master/screenshots.png)
+
+
+---
+[**Rocket**](https://github.com/SergioBenitez/Rocket) is web framework for Rust (nightly) with a focus on ease-of-use, expressibility, and speed. Here's an example of a complete Rocket application:
+
+```rust
+#![feature(plugin, decl_macro)]
+#![plugin(rocket_codegen)]
+
+extern crate rocket;
+
+#[get("/<name>/<age>")]
+fn hello(name: String, age: u8) -> String {
+    format!("Hello, {} year old named {}!", age, name)
+}
+
+fn main() {
+    rocket::ignite().mount("/hello", routes![hello]).launch();
+}
+```
+
+---
+[**Parity**](https://github.com/paritytech/parity) - fast, light, and robust Ethereum client.
+
+---
+
+[**fd**](https://github.com/sharkdp/fd) is a simple, fast and user-friendly alternative to find.
+
+Features:
+* Convenient syntax: `fd PATTERN` instead of `find -iname '*PATTERN*'`.
+* Colorized terminal output (similar to *ls*).
+* It's *fast* (see [benchmarks](#benchmark) below).
+* Smart case: the search is case-insensitive by default. It switches to
+  case-sensitive if the pattern contains an uppercase
+  character[\*](http://vimdoc.sourceforge.net/htmldoc/options.html#'smartcase').
+* Ignores hidden directories and files, by default.
+* Ignores patterns from your `.gitignore`, by default.
+* Regular expressions.
+* Unicode-awareness.
+* The command name is *50%* shorter[\*](https://github.com/ggreer/the_silver_searcher) than
+  `find` :-).
+* Parallel command execution with a syntax similar to GNU Parallel.
