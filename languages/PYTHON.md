@@ -218,7 +218,7 @@ Since Evennia is entirely programmed using Python, the tools used by professiona
 <a href="http://evennia.com"><img src="https://orig09.deviantart.net/a1d8/f/2017/236/a/5/evennia_logo_by_griatch_art-dbl6oip.png" alt="Evennia" width="300" height="300"></a>
 
 ---
-[**expynent**](https://github.com/lk-geimfari/expynent) is a tiny library that provides RegEx patterns. This can be useful if you don't want to write regular expression manually.
+[**Expynent**](https://github.com/lk-geimfari/expynent) is a tiny library that provides RegEx patterns. This can be useful if you don't want to write regular expression manually.
 
 ![expynent](https://raw.githubusercontent.com/lk-geimfari/expynent/master/other/logo.png)
 
@@ -486,20 +486,27 @@ UTC
     </p>
 </a>
 
-Basic Usage
+Basic Usage:
 
 ```python
 >>> from mimesis import Personal
->>> person = Personal(locale='en')
+>>> from mimesis.enums import Gender
+>>> person = Personal('en')
 
->>> person.full_name(gender='female')
+>>> person.full_name(gender=Gender.FEMALE)
 'Antonetta Garrison'
-
->>> person.email(gender='male')
-'john7893@live.com'
 
 >>> person.occupation()
 'Backend Developer'
+
+>>> templates = ['U_d', 'U-d', 'l_d', 'l-d']
+>>> for template in templates:
+...     person.username(template=template)
+
+'Adders_1893'
+'Abdel-1888'
+'constructor_1884'
+'chegre-2051'
 ```
 
 You can specify a locale when creating providers and they will return data that is appropriate for the language or country associated with that locale. Mimesis currently includes support for 32 different [locales](https://github.com/lk-geimfari/mimesis#locales).
