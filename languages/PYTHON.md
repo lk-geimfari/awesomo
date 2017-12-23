@@ -31,45 +31,6 @@ The goal of Automatron is to allow users to automate the execution of common tas
 
 ![Automatron Dashboard](https://raw.githubusercontent.com/madflojo/automatron/develop/docs/img/dashboard.png)
 
-**Example Runbook with Jinja Templating:**
-  
-```yaml+jinja
-name: Check NGINX
-{% if "prod" in facts['hostname'] %}
-schedule:
-  second: "*/20"
-{% else %}
-schedule: "*/2 * * * *"
-{% endif %}
-checks:
-  nginx_is_running:
-    execute_from: target
-    type: cmd
-    cmd: service nginx status
-actions:
-  restart_nginx:
-    execute_from: target
-    trigger: 2
-    frequency: 300
-    call_on:
-      - WARNING
-      - CRITICAL
-      - UNKNOWN
-    type: cmd
-    cmd: service nginx restart
-  remove_from_dns:
-    execute_from: remote
-    trigger: 0
-    frequency: 0
-    call_on:
-      - WARNING
-      - CRITICAL
-      - UNKNOWN
-    type: plugin
-    plugin: cloudflare/dns.py
-    args: remove test@example.com apikey123 example.com --content {{ facts['network']['eth0']['v4'][0] }}
-```
-
 ## B
 
 [**BeeWare**](https://pybee.org/)  —  BeeWare is a collection of projects that can be used to help develop, debug and launch Python software. Each tool follows the Unix philosophy of doing one thing well. Each tool can be used in isolation, or they can be chained together to provide a rich set of programming tools.
@@ -82,23 +43,6 @@ actions:
 Supported: *Python 2/3*
 
 ![bokeh](https://cdn-images-1.medium.com/max/720/0*L6wK5yefN55iBsRx.jpg)
-
----
-[**BossSensor**](https://github.com/Hironsan/BossSensor) - Hide screen when boss is approaching.
-
-Demo
-Boss stands up. He is approaching.
-
-![standup](https://github.com/Hironsan/BossSensor/blob/master/resource_for_readme/standup.jpg)
-
-When he is approaching, fetch face images and classify image.
- 
-![approaching](https://github.com/Hironsan/BossSensor/blob/master/resource_for_readme/approach.jpg)
-
-If image is classified as the Boss, monitor changes.
-
-![editor](https://github.com/Hironsan/BossSensor/blob/master/resource_for_readme/editor.jpg)
-
 
 ## C
 
