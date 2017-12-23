@@ -9,9 +9,6 @@ This initial release should be considered to be pre-alpha software--it will have
 ---
 [**redox**](https://github.com/redox-os/redox)  —  an operating system written in Rust, a language with focus on safety and high performance. Redox, following the microkernel design, aims to be secure, usable, and free. Redox is inspired by previous kernels and operating systems, such as SeL4, Minix, Plan 9, and BSD.
 
-![redox](https://cdn-images-1.medium.com/max/720/0*pSsCTkAs-n5KOpdz.png)
-
-
 ---
 [**Diesel**](https://github.com/diesel-rs/diesel) gets rid of the boilerplate for database interaction and eliminates runtime errors, without sacrificing performance. It takes full advantage of Rust's type system to create a low overhead query builder that "feels like Rust".
 
@@ -29,8 +26,6 @@ Be aware that hyper is still actively evolving towards 1.0, and is likely to exp
 
 ---
 [**xi editor**](https://github.com/google/xi-editor) is an attempt to build a high quality text editor, using modern software engineering techniques. It is initially built for Mac OS X, using Cocoa for the user interface, but other targets are planned.
-
-![xi](https://raw.githubusercontent.com/google/xi-editor/master/icons/xi-editor.png)
 
 ---
 [**Rustful**](https://github.com/Ogeon/rustful) - A light HTTP framework for Rust, with REST-like features. The main purpose of Rustful is to create a simple, modular and non-intrusive foundation for HTTP applications. It has a mainly stateless structure, which naturally allows it to run both as one single server and as multiple instances in a cluster.
@@ -52,4 +47,50 @@ Detailed benchmarks [show](http://blog.burntsushi.net/ripgrep/) that it is the f
 ---
 [**Mio**](https://github.com/carllerche/mio) is a lightweight I/O library for Rust with a focus on adding as little overhead as possible over the OS abstractions.
 
+---
+[**Gotham**](https://github.com/gotham-rs/gotham) - A flexible web framework that does not sacrifice safety, security or speed. The Gotham core team loves many of the elegant concepts that are found in dynamically typed web application frameworks, such as Rails, Phoenix and Django and aspire to achieve them with the type and memory safety guarantees provided by Rust.
 
+---
+[**snatch**](https://github.com/derniercri/snatch) - a simple, fast and interruptable download accelerator, written in Rust
+
+![](https://raw.githubusercontent.com/derniercri/snatch/devel/img/snatch_devel.gif)
+
+---
+[**Serde**](https://github.com/serde-rs/serde) is a framework for serializing and deserializing Rust data structures efficiently and generically.
+
+Example of usage:
+```rust
+#[macro_use]
+extern crate serde_derive;
+
+extern crate serde;
+extern crate serde_json;
+
+#[derive(Serialize, Deserialize, Debug)]
+struct Point {
+    x: i32,
+    y: i32,
+}
+
+fn main() {
+    let point = Point { x: 1, y: 2 };
+
+    // Convert the Point to a JSON string.
+    let serialized = serde_json::to_string(&point).unwrap();
+
+    // Prints serialized = {"x":1,"y":2}
+    println!("serialized = {}", serialized);
+
+    // Convert the JSON string back to a Point.
+    let deserialized: Point = serde_json::from_str(&serialized).unwrap();
+
+    // Prints deserialized = Point { x: 1, y: 2 }
+    println!("deserialized = {:?}", deserialized);
+}
+```
+
+---
+
+[exa](https://the.exa.website/) is a replacement for `ls` written in Rust.
+
+![](https://raw.githubusercontent.com/ogham/exa/master/screenshots.png)
