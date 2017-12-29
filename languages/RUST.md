@@ -157,3 +157,43 @@ Features:
 
 ---
 [**RACER**](https://github.com/racer-rust/racer) is a utility intended to provide Rust code completion for editors and IDEs. Maybe one day the 'er' bit will be exploring + refactoring or something.
+
+---
+[**nickel.rs**](https://github.com/nickel-org/nickel.rs) is a simple and lightweight foundation for web applications written in Rust. Its API is inspired by the popular express framework for JavaScript.
+
+Usage example:
+
+```rust
+#[macro_use] extern crate nickel;
+
+use nickel::{Nickel, HttpRouter};
+
+fn main() {
+    let mut server = Nickel::new();
+    server.get("**", middleware!("Hello World"));
+    server.listen("127.0.0.1:6767");
+}
+```
+
+---
+[**nom**](https://github.com/Geal/nom) is a parser combinators library written in Rust. Its goal is to provide tools to build safe parsers without compromising the speed or memory consumption. To that end, it uses extensively Rust's strong typing, zero copy parsing, push streaming, pull streaming, and provides macros and traits to abstract most of the error prone plumbing.
+
+---
+[**rustup**](https://github.com/rust-lang-nursery/rustup.rs) installs The Rust Programming Language from the official release channels, enabling you to easily switch between stable, beta, and nightly compilers and keep them updated. It makes cross-compiling simpler with binary builds of the standard library for common platforms. And it runs on all platforms Rust supports, including Windows.
+
+---
+[**Rayon**](https://github.com/rayon-rs/rayon) is a data-parallelism library for Rust. It is extremely lightweight and makes it easy to convert a sequential computation into a parallel one. It also guarantees data-race freedom.
+
+---
+[**Habitat**](https://github.com/habitat-sh/habitat) is an application automation framework that allows you to build applications that have automation built-in. This provides modern applications that:
+
+- Provide repeatable builds
+- Run from single, immutable assets
+- Allow for runtime configuration for multiple deployment scenarios
+- Are agnostic to operating environment (works the same on bare metal, virtualization, containers, PaaS)
+- Provide idempotent behavior (the same inputs to the same asset provide the same outcome)
+- Provide convergent behavior (each service makes progress towards the correct behavior in the face of failure)
+- Expose promises to those who rely on it
+- Provide a low barrier to entry
+- Are language agnostic
+
