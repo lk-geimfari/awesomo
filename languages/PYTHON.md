@@ -22,7 +22,11 @@
 
 Supported: *Python 2/3*
 
-![astropy](https://cdn-images-1.medium.com/max/720/0*rMpYXhi1ZuZnSunq.png)
+<p align="center">
+    <a href="https://github.com/astropy/astropy">
+        <img src="https://cdn-images-1.medium.com/max/720/0*rMpYXhi1ZuZnSunq.png">
+    </a>
+</p>
 
 ---
 [**Automatron**](https://github.com/madflojo/automatron) is a framework for creating self-healing infrastructure. Simply put, it detects system events & takes action to correct them.
@@ -35,14 +39,23 @@ The goal of Automatron is to allow users to automate the execution of common tas
 
 [**BeeWare**](https://pybee.org/)  —  BeeWare is a collection of projects that can be used to help develop, debug and launch Python software. Each tool follows the Unix philosophy of doing one thing well. Each tool can be used in isolation, or they can be chained together to provide a rich set of programming tools.
 
-![BeeWare](https://pybee.org/static/images/brutus-270.png?h=279716d8)
+<p align="center">
+    <a href="https://pybee.org/">
+        <img src="https://pybee.org/static/images/brutus-270.png?h=279716d8">
+    </a>
+</p>
+
 ---
 
 [**bokeh**](https://github.com/bokeh/bokeh)  —  a Python interactive visualization library, enables beautiful and meaningful visual presentation of data in modern web browsers. With Bokeh, you can quickly and easily create interactive plots, dashboards, and data applications.
 
 Supported: *Python 2/3*
 
-![bokeh](https://cdn-images-1.medium.com/max/720/0*L6wK5yefN55iBsRx.jpg)
+<p align="center">
+    <a href="https://github.com/bokeh/bokeh">
+        <img src="https://cdn-images-1.medium.com/max/720/0*L6wK5yefN55iBsRx.jpg">
+    </a>
+</p>
 
 ## C
 
@@ -76,14 +89,16 @@ If you’re using a hosted service and don’t have direct access to your web se
 
 Certbot is a fully-featured, extensible client for the Let's Encrypt CA (or any other CA that speaks the ACME protocol) that can automate the tasks of obtaining certificates and configuring webservers to use them. This client runs on Unix-based operating systems.
 
-![cerebot](https://certbot.eff.org/images/certbot-logo-1A.svg)
+<p align="center">
+    <a href="https://github.com/certbot/certbot">
+        <img src="https://certbot.eff.org/images/certbot-logo-1A.svg">
+    </a>
+</p>
 
 ---
 [**Click**](http://click.pocoo.org/5/) - Click is a Python package for creating beautiful command line interfaces in a composable way with as little code as necessary. It’s the “Command Line Interface Creation Kit”. It’s highly configurable but comes with sensible defaults out of the box.
 
 It aims to make the process of writing command line tools quick and fun while also preventing any frustration caused by the inability to implement an intended CLI API.
-
-[![Click](https://github.com/pallets/click/blob/master/artwork/logo.svg)](http://click.pocoo.org/5/)
 
 ---
 [**coala**](https://github.com/coala/coala) provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
@@ -101,8 +116,11 @@ Supported: *Python 2/3*
 
 Supported: *Python 2/3*
 
-![compose](https://cdn-images-1.medium.com/max/720/0*SdJayWyknC_r8Js9.)
-
+<p align="center">
+    <a href="https://github.com/docker/compose">
+        <img src="https://cdn-images-1.medium.com/max/720/0*SdJayWyknC_r8Js9.">
+    </a>
+</p>
 
 ## D
 
@@ -157,7 +175,11 @@ Instead of using soft-code, Evennia allows you to program using the full power a
 
 Since Evennia is entirely programmed using Python, the tools used by professional developers across the world at at your fingertips - no need to learn a new language, and perfect for a beginner. Collaborate with the same tools you're used to for coding, debugging, and version management.
 
-<a href="http://evennia.com"><img src="https://orig09.deviantart.net/a1d8/f/2017/236/a/5/evennia_logo_by_griatch_art-dbl6oip.png" alt="Evennia" width="300" height="300"></a>
+<p align="center">
+    <a href="https://github.com/evennia/evennia">
+        <img src="https://orig09.deviantart.net/a1d8/f/2017/236/a/5/evennia_logo_by_griatch_art-dbl6oip.png" alt="Evennia" width="300" height="300">
+    </a>
+</p>
 
 ---
 [**Expynent**](https://github.com/lk-geimfari/expynent) is a tiny library that provides RegEx patterns. This can be useful if you don't want to write regular expression manually.
@@ -199,19 +221,26 @@ else:
 
 Supported: *Python 2/3*
 
-![fuck](https://cdn-images-1.medium.com/max/720/0*lzaRCNye94_EIWDH.gif)
-
 ---
 [**falcon** ](https://github.com/falconry/falcon) —  is a high-performance Python framework for building cloud APIs. It encourages the REST architectural style, and tries to do as little as possible while remaining highly effective.
 
 Supported: *Python 2/3*
 
-![falcon](https://cdn-images-1.medium.com/max/720/0*q9KGh0C5nrVelow1.png)
+<p align="center">
+    <a href="https://github.com/falconry/falcon">
+        <img src="https://cdn-images-1.medium.com/max/720/0*q9KGh0C5nrVelow1.png" alt="Evennia" width="300" height="300">
+    </a>
+</p>
 
 ---
 [**Flask**](https://github.com/pallets/flask) is a microframework for Python based on Werkzeug and Jinja2.  It's intended for getting started very quickly and was developed with best intentions in mind.
 
-![flask](http://flask.pocoo.org/static/logo/flask.png)
+<p align="center">
+    <a href="https://github.com/pallets/flask">
+        <img src="http://flask.pocoo.org/static/logo/flask.png" alt="Evennia" width="300" height="300">
+    </a>
+</p>
+
 
 ---
 [**Flask-Base**](https://github.com/hack4impact/flask-base) - A Flask application template with the boilerplate code already done for you.
