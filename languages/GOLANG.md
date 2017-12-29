@@ -87,7 +87,7 @@ Nanobox creates isolated development environments (using Docker) which are stage
 
 [**gago**](https://github.com/MaxHalford/gago) — genetic algorithm toolkit written in Go. The following example attempts to minimize the Drop-Wave function.
 
-<p align="center"><img src="https://github.com/MaxHalford/gago/raw/master/examples/drop_wave/chart.png"></p>
+<p align="center"><img src="https://camo.githubusercontent.com/7a371722fccb0f8742ebffa7a9d0e5a2dfb9b7b0/68747470733a2f2f646f63732e676f6f676c652e636f6d2f64726177696e67732f642f652f32504143582d3176527a4e685a636768576c2d785261796e4541516e346d6f5a65796836706d443868656c53303939654a37565f5452474d3964453665305435494639624f473753344b3632434b5a74535570616e732f7075623f773d34373726683d333037"></p>
 
 ## <div align="center">Hugo</div>
 
