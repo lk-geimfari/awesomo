@@ -752,8 +752,6 @@ u'{"type":"User"...'
 {u'disk_usage': 368627, u'private_gists': 484, ...}
 ```
 
-![requests](https://camo.githubusercontent.com/5e4574f4d470db274e80e7cb1464e426e643e084/687474703a2f2f646f63732e707974686f6e2d72657175657374732e6f72672f656e2f6d61737465722f5f7374617469632f72657175657374732d736964656261722e706e67)
-
 ---
 [**rodeo**](https://github.com/yhat/rodeo) - a Python IDE built for analyzing data.
 
@@ -876,58 +874,6 @@ Supported: *Python 2/3*
     </p>
 </a>
 
-Example:
-```python
-    from itertools import chain
-    
-    class SolarSystem:
-        planets = [list (chain (planet, (index + 1,))) for index, planet in enumerate ((
-            ('Mercury', 'hot', 2240),
-            ('Venus', 'sulphurous', 6052),
-            ('Earth', 'fertile', 6378),
-            ('Mars', 'reddish', 3397),
-            ('Jupiter', 'stormy', 71492),
-            ('Saturn', 'ringed', 60268),
-            ('Uranus', 'cold', 25559),
-            ('Neptune', 'very cold', 24766) 
-        ))]
-        
-        lines = (
-            '{} is a {} planet',
-            'The radius of {} is {} km',
-            '{} is planet nr. {} counting from the sun'
-        )
-        
-        def __init__ (self):
-            self.lineIndex = 0
-        
-        def greet (self):
-            self.planet = self.planets [int (Math.random () * len (self.planets))]
-            document.getElementById ('greet') .innerHTML = 'Hello {}'.format (self.planet [0])
-            self.explain ()
-            
-        def explain (self):
-            document.getElementById ('explain').innerHTML = (
-                self.lines [self.lineIndex] .format (self.planet [0], self.planet [self.lineIndex + 1])
-            )
-            self.lineIndex = (self.lineIndex + 1) % 3
-            
-    solarSystem = SolarSystem ()
-```
-
-```html
-    <script src="__javascript__/hello.js"></script>
-    <h2>Hello demo</h2>
-    
-    <p>
-    <div id = "greet">...</div>
-    <button onclick="hello.solarSystem.greet ()">Click me repeatedly!</button>
-    
-    <p>
-    <div id = "explain">...</div>
-    <button onclick="hello.solarSystem.explain ()">And click me repeatedly too!</button>
-```
-
 ---
 [**tqdm**](https://github.com/tqdm/tqdm) - a fast, extensible progress bar for Python and CLI 
 
@@ -941,8 +887,6 @@ Output:
 ```
 76%|████████████████████████████         | 7568/10000 [00:33<00:10, 229.00it/s]
 ```
-
-![](https://raw.githubusercontent.com/tqdm/tqdm/master/images/tqdm.gif)
 
 ## U
 
