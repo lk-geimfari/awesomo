@@ -117,7 +117,7 @@ Nanobox creates isolated development environments (using Docker) which are stage
 
 [**Caddy**](https://github.com/mholt/caddy) — a general-purpose web server for Windows, Mac, Linux, BSD, and Android. It is a capable but easier alternative to other popular web servers.
 
-<p align="center"><img src="https://camo.githubusercontent.com/50e89931a5fb9bdd98b9f40bde700df721969ea3/68747470733a2f2f63616464797365727665722e636f6d2f7265736f75726365732f696d616765732f63616464792d6c6f7765722e706e67"></p>
+<p align="center"><img src="https://cloud.githubusercontent.com/assets/1128849/25305033/12916fce-2731-11e7-86ec-580d4d31cb16.png"></p>
 
 ## <div align="center">gogs</div>
 
