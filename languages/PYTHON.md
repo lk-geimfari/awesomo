@@ -245,8 +245,6 @@ Supported: *Python 2/3*
 ---
 [**Flask-Base**](https://github.com/hack4impact/flask-base) - A Flask application template with the boilerplate code already done for you.
 
-![](https://raw.githubusercontent.com/hack4impact/flask-base/master/readme_media/logo.png)
-
 ---
 [**fuckIt.py**](https://github.com/ajalt/fuckitpy) uses state-of-the-art technology to make sure your Python code runs whether it has any right to or not. Some code has an error? Fuck it.
 
@@ -264,18 +262,26 @@ Supported: *Python 2/3*
 ![hug](https://camo.githubusercontent.com/dc3f611ccdd6289ca11478dcb9ec4f9a1742248a/68747470733a2f2f7261772e6769746875622e636f6d2f74696d6f74687963726f736c65792f6875672f646576656c6f702f617274776f726b2f6578616d706c652e676966)
 
 ---
-[http-prompt ](https://github.com/eliangcs/http-prompt) —  an interactive command-line HTTP client featuring autocomplete and syntax highlighting.
+[**http-prompt **](https://github.com/eliangcs/http-prompt) —  an interactive command-line HTTP client featuring autocomplete and syntax highlighting.
 
 Supported: *Python 2/3*
 
-![hp](https://cdn-images-1.medium.com/max/720/0*Oo5GWcygacE7F9LM.gif)
+<p align="center">
+    <a href="https://github.com/eliangcs/http-prompt">
+        <img src="https://cdn-images-1.medium.com/max/720/0*Oo5GWcygacE7F9LM.gif">
+    </a>
+</p>
 
 ---
 [**httpie**](https://github.com/jkbrzt/httpie)  —  a command line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. It provides a simple http command that allows for sending arbitrary HTTP requests using a simple and natural syntax, and displays colorized output. HTTPie can be used for testing, debugging, and generally interacting with HTTP servers.
 
 Supported: *Python 2/3*
 
-![httpie](https://cdn-images-1.medium.com/max/720/0*_Tq3t5elxAb9-VPD.png)
+<p align="center">
+    <a href="https://github.com/jkbrzt/httpie">
+        <img src="https://cdn-images-1.medium.com/max/720/0*_Tq3t5elxAb9-VPD.png">
+    </a>
+</p>
 
 ---
 [**Hypothesis**](http://hypothesis.works) is a powerful testing library. 
@@ -614,12 +620,22 @@ It automatically creates and manages a virtualenv for your projects, as well as 
 
 Supported: *Python 2/3*
 
-![pp](https://cdn-images-1.medium.com/max/720/0*dV4zYWbHRFlXk4UB.)
+<p align="center">
+    <a href="https://github.com/plotly/plotly.py">
+        <img src="https://cdn-images-1.medium.com/max/720/0*dV4zYWbHRFlXk4UB.">
+    </a>
+</p>
 
 ---
 [**py.test**](https://github.com/pytest-dev/pytest) framework makes it easy to write small tests, yet scales to support complex functional testing for applications and libraries.
 
 Supported: *Python 2/3*
+
+<p align="center">
+    <a href="https://github.com/pytest-dev/pytest">
+        <img src="https://camo.githubusercontent.com/8f3e1fe7073f8b9c4ec927c9af8d8961a74ad9af/687474703a2f2f646f63732e7079746573742e6f72672f656e2f6c61746573742f5f7374617469632f707974657374312e706e67">
+    </a>
+</p>
 
 An example of a simple test:
 ```python
@@ -629,8 +645,6 @@ def inc(x):
 def test_answer():
     assert inc(3) == 5
 ```
-
-![pytest](https://camo.githubusercontent.com/8f3e1fe7073f8b9c4ec927c9af8d8961a74ad9af/687474703a2f2f646f63732e7079746573742e6f72672f656e2f6c61746573742f5f7374617469632f707974657374312e706e67)
 
 ---
 [**pycodestyle**](https://github.com/PyCQA/pycodestyle) is a tool to check your Python code against some of the style conventions in PEP 8.
