@@ -136,3 +136,24 @@ Features:
 * The command name is *50%* shorter[\*](https://github.com/ggreer/the_silver_searcher) than
   `find` :-).
 * Parallel command execution with a syntax similar to GNU Parallel.
+
+---
+[**Yew**](https://github.com/DenisKolodin/yew) is a modern Rust framework inspired by Elm and ReactJS.
+
+---
+[**Exonum**](https://github.com/exonum/exonum) is an extensible open-source framework for creating blockchain applications. Exonum can be used to create cryptographically powered distributed ledgers in virtually any problem domain, including FinTech, GovTech, and LegalTech. The Exonum framework is oriented towards creating permissioned blockchains, that is, blockchains with the known set of blockchain infrastructure providers.
+
+---
+[**TiKV**](https://github.com/pingcap/tikv) is a distributed Key-Value database which is based on the design of Google Spanner and HBase, but it is much simpler without dependency on any distributed file system. With the implementation of the Raft consensus algorithm in Rust and consensus state stored in RocksDB, it guarantees data consistency. Placement Driver which is introduced to implement sharding enables automatic data migration. The transaction model is similar to Google's Percolator with some performance improvements. TiKV also provides snapshot isolation (SI), snapshot isolation with lock (SQL: select ... for update), and externally consistent reads and writes in distributed transactions. 
+
+---
+[**TFS**](https://github.com/redox-os/tfs) is a modular, fast, and feature rich next-gen file system, employing modern techniques for high performance, high space efficiency, and high scalability. TFS was created out of the need for a modern file system for Redox OS, as a replacement for ZFS, which proved to be slow to implement because of its monolithic design.
+
+<p align="center">
+    <a href="https://github.com/redox-os/tfs">
+        <img src="https://camo.githubusercontent.com/1ca8f7d2600f419dc10de76dd68a8b8751ccb617/68747470733a2f2f7261776769742e636f6d2f7469636b692f7466732f6d61737465722f69636f6e2e737667">
+    </a>
+</p>
+
+---
+[**RACER**](https://github.com/racer-rust/racer) is a utility intended to provide Rust code completion for editors and IDEs. Maybe one day the 'er' bit will be exploring + refactoring or something.
