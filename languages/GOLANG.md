@@ -369,7 +369,9 @@ Purpose of this tool is to provide a visual overview of your program by using th
 
 ## <div align="center">SQLBoiler</div>
 
-[**SQLBoiler**](https://github.com/vattle/sqlboiler) — SQLBoiler is a tool to generate a featureful and blazing-fast Go ORM with extensive relationship support, tailored specifically to your database schema. The SQLBoiler approach has conferred the following benefits, and more:
+[**SQLBoiler**](https://github.com/vattle/sqlboiler) is a tool to generate a Go ORM tailored to your database schema.
+
+It is a "database-first" ORM as opposed to "code-first" (like gorm/gorp). That means you must first create your database schema. Please use something like goose, sql-migrate or some other migration tool to manage this part of the database's life-cycle.
 
 * ActiveRecord-like productivity: Eliminate all sql boilerplate, have relationships as a first-class concept.
 * Go-like feel: Work with normal structs, call functions, no hyper-magical struct tags, small interfaces.
@@ -378,9 +380,7 @@ Purpose of this tool is to provide a visual overview of your program by using th
 * A system that is easy to debug. Your ORM is tailored to your schema, the code paths should be easy to trace since it's not all buried in reflect.
 * Auto-completion provides work-flow efficiency gains.
 
-SQLBoiler currently supports Postgres, MySQL and MSSQL, with plans for SQLite3 in the pipeline.
-
-<p align="center"><img src="https://camo.githubusercontent.com/50ae2d52914a24439bb6f217852d60a79b4782a0/687474703a2f2f692e696d6775722e636f6d2f4e4a74435437792e706e67"></p>
+<p align="center"><img src="https://camo.githubusercontent.com/9d193927d854d9bdeaad48e992f50269b84306f1/687474703a2f2f692e696d6775722e636f6d2f696c6b763072392e706e67"></p>
 
 ## <div align="center">Tyk</div>
 
