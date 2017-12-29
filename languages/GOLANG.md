@@ -236,8 +236,6 @@ Features
   indexed as it comes in and is immediately available in queries that
   should return in < 100ms.
 
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/en/f/f5/InfluxDB_logo.svg"></p>
-
 ---
 [**Negroni**](https://github.com/urfave/negroni). Idiomatic HTTP Middleware for Golang
 
