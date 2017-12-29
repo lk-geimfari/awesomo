@@ -162,14 +162,18 @@ Since Evennia is entirely programmed using Python, the tools used by professiona
 ---
 [**Expynent**](https://github.com/lk-geimfari/expynent) is a tiny library that provides RegEx patterns. This can be useful if you don't want to write regular expression manually.
 
-![expynent](https://raw.githubusercontent.com/lk-geimfari/expynent/master/other/logo.png)
+<p align="center">
+    <a href="https://github.com/lk-geimfari/expynent/">
+        <img src="https://raw.githubusercontent.com/lk-geimfari/expynent/master/other/logo_2.png">
+    </a>
+</p>
 
 Examples:
 ```python
 import re
-import expynent.patterns as expas
+from expynent import patterns
 
-if re.match(expas.ZIP_CODE['RU'], '43134'):
+if re.match(patterns.ZIP_CODE['RU'], '43134'):
     print('match')
 else:
     print('not match')
