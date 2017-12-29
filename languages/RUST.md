@@ -141,6 +141,36 @@ Features:
 [**Yew**](https://github.com/DenisKolodin/yew) is a modern Rust framework inspired by Elm and ReactJS.
 
 ---
+[**stdweb**](https://github.com/koute/stdweb) is a set of bindings to the client-side Web APIs which makes it easy to interact with the DOM, embed JavaScript code directly into Rust and to marshal data between the two. Supports WebAssembly.
+
+A few simple examples of what you can do with it:
+
+```rust
+let message = "Hello, 世界!";
+let result = js! {
+    alert( @{message} );
+    return 2 + 2 * 2;
+};
+
+println!( "2 + 2 * 2 = {:?}", result );
+```
+
+```rust
+let button = document().query_selector( "#hide-button" ).unwrap();
+button.add_event_listener( move |_: ClickEvent| {
+    for anchor in document().query_selector_all( "#main a" ) {
+        js!( @{anchor}.style = "display: none;"; );
+    }
+});
+```
+
+<p align="center">
+    <a href="https://github.com/koute/stdweb">
+        <img src="https://github.com/koute/stdweb/raw/master/info/logo.png">
+    </a>
+</p>
+
+---
 [**Exonum**](https://github.com/exonum/exonum) is an extensible open-source framework for creating blockchain applications. Exonum can be used to create cryptographically powered distributed ledgers in virtually any problem domain, including FinTech, GovTech, and LegalTech. The Exonum framework is oriented towards creating permissioned blockchains, that is, blockchains with the known set of blockchain infrastructure providers.
 
 ---
