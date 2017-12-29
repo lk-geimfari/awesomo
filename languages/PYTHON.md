@@ -329,7 +329,11 @@ Here a small example of a Jinja template:
 
 Kivy is written in Python and Cython, based on OpenGL ES 2, supports various input devices and has an extensive widget library. With the same codebase, you can target Windows, OS X, Linux, Android and iOS. All Kivy widgets are built with multitouch support.
 
-![kivy](https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png)
+<p align="center">
+    <a href="https://github.com/kivy/kivy">
+        <img src="https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png">
+    </a>
+</p>
 
 ## L
 
