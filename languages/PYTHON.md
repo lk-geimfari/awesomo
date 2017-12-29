@@ -317,12 +317,20 @@ Here a small example of a Jinja template:
 
 [**keras**](https://github.com/fchollet/keras)  —  a high-level neural networks library, written in Python and capable of running on top of either TensorFlow or Theano. It was developed with a focus on enabling fast experimentation.
 
-![keras](https://cdn-images-1.medium.com/max/720/0*s57Cx2qO1WZkqNvX.jpg)
+<p align="center">
+    <a href="https://github.com/fchollet/keras">
+        <img src="https://cdn-images-1.medium.com/max/720/0*s57Cx2qO1WZkqNvX.jpg">
+    </a>
+</p>
 
 ---
 [**Khal**](https://github.com/pimutils/khal) is a standards based CLI and terminal calendar program, able to synchronize with CalDAV servers through vdirsyncer.
 
-![khal](https://camo.githubusercontent.com/a372d6b085f1f11909094a69f9653b7f5ba56e2b/687474703a2f2f6c6f73747061636b6574732e64652f696d616765732f6b68616c2e706e67)
+<p align="center">
+    <a href="https://github.com/pimutils/khal">
+        <img src="https://camo.githubusercontent.com/a372d6b085f1f11909094a69f9653b7f5ba56e2b/687474703a2f2f6c6f73747061636b6574732e64652f696d616765732f6b68616c2e706e67">
+    </a>
+</p>
 
 ---
 [**Kivy**](https://github.com/kivy/kivy) is an open source, cross-platform Python framework for the development of applications that make use of innovative, multi-touch user interfaces. The aim is to allow for quick and easy interaction design and rapid prototyping whilst making your code reusable and deployable.
