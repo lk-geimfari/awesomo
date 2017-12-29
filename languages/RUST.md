@@ -197,3 +197,8 @@ fn main() {
 - Provide a low barrier to entry
 - Are language agnostic
 
+
+---
+[**Panopticon**](https://github.com/das-labor/panopticon) is a cross platform disassembler for reverse engineering written in Rust. It can disassemble AMD64, x86, AVR and MOS 6502 instruction sets and open ELF files. Panopticon comes with Qt GUI for browsing and annotating control flow graphs.
+
+
