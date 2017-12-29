@@ -216,8 +216,6 @@ comes out of the box with support for the following platforms:
 
 Support for other platforms can be added via plugins.
 
-<p align="center"><img src="https://www.packer.io/assets/images/screenshots/vmware_and_virtualbox-7c37c65e.png"></p>
-
 ## <div align="center">fzf</div>
 
 [**fzf**](https://github.com/junegunn/fzf) — is a general-purpose command-line fuzzy finder.
