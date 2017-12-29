@@ -228,7 +228,7 @@ Supported: *Python 2/3*
 
 <p align="center">
     <a href="https://github.com/falconry/falcon">
-        <img src="https://cdn-images-1.medium.com/max/720/0*q9KGh0C5nrVelow1.png" alt="Evennia" width="300" height="300">
+        <img src="https://cdn-images-1.medium.com/max/720/0*q9KGh0C5nrVelow1.png">
     </a>
 </p>
 
@@ -237,7 +237,7 @@ Supported: *Python 2/3*
 
 <p align="center">
     <a href="https://github.com/pallets/flask">
-        <img src="http://flask.pocoo.org/static/logo/flask.png" alt="Evennia" width="300" height="300">
+        <img src="http://flask.pocoo.org/static/logo/flask.png">
     </a>
 </p>
 
