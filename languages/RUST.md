@@ -51,11 +51,6 @@ Detailed benchmarks [show](http://blog.burntsushi.net/ripgrep/) that it is the f
 [**Gotham**](https://github.com/gotham-rs/gotham) - A flexible web framework that does not sacrifice safety, security or speed. The Gotham core team loves many of the elegant concepts that are found in dynamically typed web application frameworks, such as Rails, Phoenix and Django and aspire to achieve them with the type and memory safety guarantees provided by Rust.
 
 ---
-[**snatch**](https://github.com/derniercri/snatch) - a simple, fast and interruptable download accelerator, written in Rust
-
-![](https://raw.githubusercontent.com/derniercri/snatch/devel/img/snatch_devel.gif)
-
----
 [**Serde**](https://github.com/serde-rs/serde) is a framework for serializing and deserializing Rust data structures efficiently and generically.
 
 Example of usage:
