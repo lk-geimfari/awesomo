@@ -1,6 +1,6 @@
 ## Lua
 
-[**middleclass **](https://github.com/kikito/middleclass) —  a simple OOP library for Lua. It has inheritance, metamethods (operators), class variables and weak mixin support.
+[** middleclass**](https://github.com/kikito/middleclass/) —  a simple OOP library for Lua. It has inheritance, metamethods (operators), class variables and weak mixin support.
 
 Quick look:
 
@@ -36,7 +36,7 @@ print(lemon:isSweet()) -- false
 ![luaricks](https://cdn-images-1.medium.com/max/720/0*sawSUbg8SqRSpEha.)
 
 ---
-[**telize **](https://github.com/fcambus/telize) —  a REST API built on Nginx and Lua allowing to get a visitor IP address and to query location information from any IP address. It outputs JSON-encoded IP geolocation data, and supports both JSON and JSONP.
+[**telize**](https://github.com/fcambus/telize) —  a REST API built on Nginx and Lua allowing to get a visitor IP address and to query location information from any IP address. It outputs JSON-encoded IP geolocation data, and supports both JSON and JSONP.
 
 ```
 t  e  l  i  z  e
@@ -56,7 +56,7 @@ t  e  l  i  z  e
 ```
 
 ---
-[**lor **]() —  a fast and minimalist web framework based on OpenResty.
+[**lor**]() —  a fast and minimalist web framework based on OpenResty.
 
 Example:
 
@@ -72,7 +72,7 @@ app:run()
 ```
 
 ---
-[**pegasus.lua **](https://github.com/EvandroLG/pegasus.lua) —  a http server to work with web applications written in Lua language.
+[**pegasus.lua**](https://github.com/EvandroLG/pegasus.lua) —  a http server to work with web applications written in Lua language.
 
 ![pegasus](https://cdn-images-1.medium.com/max/720/1*4W5cLtqAYQDOloeUkAOOxg.png)
 
