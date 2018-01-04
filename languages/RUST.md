@@ -227,3 +227,23 @@ fn main() {
 [**Panopticon**](https://github.com/das-labor/panopticon) is a cross platform disassembler for reverse engineering written in Rust. It can disassemble AMD64, x86, AVR and MOS 6502 instruction sets and open ELF files. Panopticon comes with Qt GUI for browsing and annotating control flow graphs.
 
 
+---
+[**Iron**](https://github.com/iron/iron) - is a high level web framework built in and for Rust, built on [Hyper](https://github.com/hyperium/hyper). Iron is designed to take advantage of Rust's greatest features - its excellent type system and its principled approach to ownership in both single threaded and multi threaded contexts.
+
+Example of usage:
+```rust
+extern crate iron;
+
+use iron::prelude::*;
+use iron::status;
+
+fn main() {
+    fn hello_world(_: &mut Request) -> IronResult<Response> {
+        Ok(Response::with((status::Ok, "Hello World!")))
+    }
+
+    let _server = Iron::new(hello_world).http("localhost:3000").unwrap();
+    println!("On 3000");
+}
+```
+
