@@ -1,6 +1,6 @@
 ## Lua
 
-[** middleclass**](https://github.com/kikito/middleclass/) —  a simple OOP library for Lua. It has inheritance, metamethods (operators), class variables and weak mixin support.
+[**middleclass**](https://github.com/kikito/middleclass/) —  a simple OOP library for Lua. It has inheritance, metamethods (operators), class variables and weak mixin support.
 
 Quick look:
 
