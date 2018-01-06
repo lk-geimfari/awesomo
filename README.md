@@ -16,6 +16,7 @@ If you are interested in [Open Source](https://en.wikipedia.org/wiki/Open-source
  - [Common Lisp](languages/COMMON_LISP.md)
  - [Crystal](languages/CRYSTAL.md)
  - [CSS](languages/CSS.md)
+ - [D](languages/D.md)
  - [Elixir](languages/ELIXIR.md)
  - [Elm](languages/ELM.md)
  - [Emacs Lisp](languages/EMACS_LISP.md)
