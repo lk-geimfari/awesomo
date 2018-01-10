@@ -247,3 +247,31 @@ fn main() {
 }
 ```
 
+---
+[**Cursive**](https://github.com/gyscos/Cursive)  is a TUI (Text User Interface) library for rust, which allows you to build rich user interfaces for terminal applications.
+
+Example of usage:
+
+```rust
+extern crate cursive;
+
+use cursive::Cursive;
+use cursive::views::{Dialog, TextView};
+
+fn main() {
+    // Creates the cursive root - required for every application.
+    let mut siv = Cursive::new();
+
+    // Creates a dialog with a single "Quit" button
+    siv.add_layer(Dialog::around(TextView::new("Hello Dialog!"))
+                         .title("Cursive")
+                         .button("Quit", |s| s.quit()));
+
+    // Starts the event loop.
+    siv.run();
+}
+```
+
+Result:
+
+![](https://raw.githubusercontent.com/gyscos/Cursive/master/doc/cursive_example.png)
