@@ -119,6 +119,12 @@ Nanobox creates isolated development environments (using Docker) which are stage
 
 <p align="center"><img src="https://cloud.githubusercontent.com/assets/1128849/25305033/12916fce-2731-11e7-86ec-580d4d31cb16.png"></p>
 
+## <div align="center">gitea</div>
+
+[**gitea**](https://gitea.io/en-US/) — a community managed [fork of Gogs](https://github.com/go-gitea/gitea), delivering a lightweight code hosting solution written in Go and published under the MIT license.
+
+<p align="center"><img src="https://gitea.io/images/gitea.png?raw=true"></p>
+
 ## <div align="center">gogs</div>
 
 [**gogs**](https://github.com/gogits/gogs) — Gogs (Go Git Service) is a painless self-hosted Git service.
