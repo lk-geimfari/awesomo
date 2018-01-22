@@ -541,6 +541,11 @@ Using locales:
 ---
 [**mypy**](https://github.com/python/mypy) is an optional static type checker for Python. You can add type hints ([PEP 484](https://www.python.org/dev/peps/pep-0484/)) to your Python programs, and use mypy to type check them statically. Find bugs in your programs without even running them!
 
+<a href="https://github.com/python/mypy/">
+    <p align="center">
+      <img src="https://user-images.githubusercontent.com/12005495/29493671-1c07a672-859b-11e7-89d1-eef0cf7c922b.png">
+    </p>
+</a>
 
 ## N
 
