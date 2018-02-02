@@ -35,6 +35,15 @@ The goal of Automatron is to allow users to automate the execution of common tas
 
 ![Automatron Dashboard](https://raw.githubusercontent.com/madflojo/automatron/develop/docs/img/dashboard.png)
 
+---
+[**attrs**](https://github.com/python-attrs/attrs) is the Python package that will bring back the joy of writing classes by relieving you from the drudgery of implementing object protocols (aka dunder methods).
+
+<p align="center">
+    <a href="https://github.com/python-attrs/attrs">
+        <img src="https://camo.githubusercontent.com/cad2a3dc96384acf8c4beaf30b2a7f4e54bebd50/687474703a2f2f7777772e61747472732e6f72672f656e2f6c61746573742f5f7374617469632f61747472735f6c6f676f2e706e67">
+    </a>
+</p>
+
 ## B
 
 [**BeeWare**](https://pybee.org/)  —  BeeWare is a collection of projects that can be used to help develop, debug and launch Python software. Each tool follows the Unix philosophy of doing one thing well. Each tool can be used in isolation, or they can be chained together to provide a rich set of programming tools.
