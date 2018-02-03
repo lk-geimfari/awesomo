@@ -1,7 +1,18 @@
 Go
 ===
 
+## <div align="center">IPFS</div>
+
+[**IPFS**](https://github.com/ipfs/ipfs) (the InterPlanetary File System) is a new hypermedia distribution protocol, addressed by content and identities. IPFS enables the creation of completely distributed applications. It aims to make the web faster, safer, and more open.
+
+IPFS is a distributed file system that seeks to connect all computing devices with the same system of files. In some ways, this is similar to the original aims of the Web, but IPFS is actually more similar to a single bittorrent swarm exchanging git objects. You can read more about its origins in the paper IPFS - Content Addressed, Versioned, P2P File System.
+
+IPFS is becoming a new major subsystem of the internet. If built right, it could complement or replace HTTP. It could complement or replace even more. It sounds crazy. It is crazy.
+
+<p align="center"><img src="https://ipfs.io/ipfs/QmTgtbb4LckHaXh1YhpNcBu48cFY8zgT1Lh49q7q7ksf3M/raster-generated/ipfs-logo-text-512-ice.png"></p>
+
 ## <div align="center">Nanopack</div>
+
 
 [**Nanopack**](http://nanopack.io/) is a collection of libraries aimed at improving infrastructure development and management through a fundamentally different approach to building infrastructure components and services.
 
