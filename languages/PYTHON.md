@@ -491,9 +491,9 @@ UTC
 Basic Usage:
 
 ```python
->>> from mimesis import Personal
+>>> from mimesis import Person
 >>> from mimesis.enums import Gender
->>> person = Personal('en')
+>>> person = Person('en')
 
 >>> person.full_name(gender=Gender.FEMALE)
 'Antonetta Garrison'
@@ -518,9 +518,9 @@ Using locales:
 ```python
 >>> import mimesis
 
->>> en = mimesis.Personal('en')
->>> de = mimesis.Personal('de')
->>> ic = mimesis.Personal('is')
+>>> en = mimesis.Person('en')
+>>> de = mimesis.Person('de')
+>>> ic = mimesis.Person('is')
 
 >>> en.full_name()
 'Carolin Brady'
