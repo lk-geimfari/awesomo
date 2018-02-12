@@ -114,7 +114,7 @@ It aims to make the process of writing command line tools quick and fun while al
 CuPy consists of the core multi-dimensional array class, `cupy.ndarray`, and many functions on it.
 It supports a subset of `numpy.ndarray` interface.
 
-<div align="center"><img src="docs/image/cupy_logo_1000px.png" width="400"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/cupy/cupy/master/docs/image/cupy_logo_1000px.png" width="400"/></div>
 
 ---
 [**coala**](https://github.com/coala/coala) provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
