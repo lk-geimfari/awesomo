@@ -110,6 +110,13 @@ Certbot is a fully-featured, extensible client for the Let's Encrypt CA (or any 
 It aims to make the process of writing command line tools quick and fun while also preventing any frustration caused by the inability to implement an intended CLI API.
 
 ---
+[**CuPy**](https://github.com/cupy/cupy) is an implementation of NumPy-compatible multi-dimensional array on CUDA.
+CuPy consists of the core multi-dimensional array class, `cupy.ndarray`, and many functions on it.
+It supports a subset of `numpy.ndarray` interface.
+
+<div align="center"><img src="docs/image/cupy_logo_1000px.png" width="400"/></div>
+
+---
 [**coala**](https://github.com/coala/coala) provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 
 With coala, users can create rules and standards to be followed in the source code. coala has an user-friendly interface that is completely customizable. It can be used in any environment and is completely modular.
