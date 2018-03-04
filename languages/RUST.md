@@ -288,5 +288,3 @@ Result:
 * [zstd](https://github.com/facebook/zstd) compression (use the zstd build feature)
 * cpu-scalable lock-free implementation
 * SSD-optimized log-structured storage
-
-![](https://raw.githubusercontent.com/spacejam/sled/master/art/tree_face.png)
