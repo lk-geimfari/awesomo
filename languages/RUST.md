@@ -275,3 +275,18 @@ fn main() {
 Result:
 
 ![](https://raw.githubusercontent.com/gyscos/Cursive/master/doc/cursive_example.png)
+
+---
+[**sled**](https://github.com/spacejam/sled) - likes eating data: alpha modern embedded database.
+
+
+**Features**:
+
+* ordered map API
+* fully atomic single-key operations, supports CAS
+* merge operators
+* [zstd](https://github.com/facebook/zstd) compression (use the zstd build feature)
+* cpu-scalable lock-free implementation
+* SSD-optimized log-structured storage
+
+![](https://raw.githubusercontent.com/spacejam/sled/master/art/tree_face.png)
