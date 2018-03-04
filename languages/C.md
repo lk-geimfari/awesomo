@@ -78,6 +78,12 @@ It derives from the old Numeric code base and can be used as a replacement for N
 
 ![numpy](http://www.numpy.org/_static/numpy_logo.png)
 
+---
+
+[**no-more-secrets**](https://github.com/bartobri/no-more-secrets ) A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
+
+![Screenshot](http://www.brianbarto.info/extern/images/nms/sneakers.gif)
+
 ## S
 
 [**Skynet**](https://github.com/cloudwu/skynet) is a lightweight online game framework, and it can be used in many other fields.
