@@ -80,7 +80,7 @@ It derives from the old Numeric code base and can be used as a replacement for N
 
 ---
 
-[**no-more-secrets**](https://github.com/bartobri/no-more-secrets ) A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
+[**no-more-secrets**](https://github.com/bartobri/no-more-secrets ) is a command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 
 ![Screenshot](http://www.brianbarto.info/extern/images/nms/sneakers.gif)
 
