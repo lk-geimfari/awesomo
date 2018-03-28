@@ -2,7 +2,7 @@
 
 [**IINA**](https://github.com/lhc70000/iina) is the modern video player for macOS.
 
-![iina](https://raw.githubusercontent.com/lhc70000/iina/develop/iina/Assets.xcassets/AppIcon.appiconset/1024-1.png)
+![iina](https://raw.githubusercontent.com/lhc70000/iina/develop/iina/Assets.xcassets/AppIcon.appiconset/256-1.png)
 
 ---
 [**Eureka**](https://github.com/xmartlabs/Eureka)  is an elegant iOS form builder in Swift.
