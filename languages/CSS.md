@@ -86,6 +86,14 @@
 
 ---
 
+## S
+
+[**Strawberry**](https://github.com/jfet97/strawberry)  —  A new flexbox based CSS micro-framework: a set of common flexbox's utilities focused on making your life easier and faster with nested flexboxes.
+
+![strawberry](https://i.imgur.com/dlFIDAd.png)
+
+---
+
 ## T
 
 [**Tachyons**](https://github.com/tachyons-css/tachyons)  —  Functional css for humans. Quickly build and design new UI without writing css.
