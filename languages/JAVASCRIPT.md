@@ -24,6 +24,13 @@ Ace's goal is to create a browser based editor that matches and extends the feat
 [Check out the live demo](http://ace.c9.io/).
 
 ---
+[**AR.js**](https://github.com/jeromeetienne/AR.js) - Augmented Reality for the Web
+
+Efficient Augmented Reality for the Web built on A-Frame.
+
+![AR.js](https://user-images.githubusercontent.com/252962/27472386-0d11e59a-57f3-11e7-9fa5-34332c5484f7.png)
+
+---
 [**async**](https://github.com/caolan/async)  —  a utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript. Although originally designed for use with Node.js and installable via npm install --save async, it can also be used directly in the browser.
 
 ![async](https://cdn-images-1.medium.com/max/720/0*MB_a8lRqGYBy276_.jpg)
@@ -107,7 +114,13 @@ Enzyme is unopinionated regarding which test runner or assertion library you use
 ![fullpage](https://camo.githubusercontent.com/0a9ce533243ea122eb9fba3f93efb5426cc8b6e1/68747470733a2f2f7261772e6769746875622e636f6d2f616c7661726f747269676f2f66756c6c506167652e6a732f6d61737465722f6578616d706c65732f696d67732f696e74726f2e706e67)
 
 ## G
+[**Gatsby**](https://github.com/gatsbyjs/gatsby) - ⚛️📄🚀 Blazing-fast site generator for React
 
+Gatsby is a blazing-fast static site generator for React. Powered By GraphQL and super extensive
+
+![gatsby](https://camo.githubusercontent.com/ac31ac54c2013850b0fb8a3a4926f4718a398fb3/68747470733a2f2f7777772e6761747362796a732e6f72672f6d6f6e6f6772616d2e737667)
+
+---
 [**ggraph**](https://github.com/pcbje/ggraph) - Graph visualization for messy data.
 
 This is a library built on top D3 with the goal of improving how we work with large and messy graphs. It extends the notion of nodes and links with groups of nodes. This is useful when multiple nodes are in fact the same thing or belong to the same group.
