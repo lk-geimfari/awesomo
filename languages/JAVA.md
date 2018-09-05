@@ -21,12 +21,12 @@ CommentRemover does not depend on any libraries, you can easily add it as standa
 ~~~~~ java
 
 public class InternalPathExample {
-    
+
     public static void main(String[] args) throws CommentRemoverException {
-        
+
         // root dir is: /Users/user/Projects/MyProject
         // example for startInternalPath
-        
+
         CommentRemover commentRemover = new CommentRemover.CommentRemoverBuilder()
             .removeJava(true) // Remove Java file Comments....
             .removeJavaScript(true) // Remove JavaScript file Comments....
@@ -39,9 +39,9 @@ public class InternalPathExample {
             .startInternalPath("src.main.app") // Starts from {rootDir}/src/main/app , leave it empty string when you want to start from root dir
             .setExcludePackages(new String[]{"src.main.java.app.pattern"}) // Refers to {rootDir}/src/main/java/app/pattern and skips this directory
             .build();
-            
+
         CommentProcessor commentProcessor = new CommentProcessor(commentRemover);
-        commentProcessor.start();        
+        commentProcessor.start();
     }
 }
 
@@ -50,11 +50,11 @@ public class InternalPathExample {
 ~~~~~ java
 
 public class ExternalPathExample {
-    
+
     public static void main(String[] args) throws CommentRemoverException {
-   
+
         // example for externalPath
-           
+
         CommentRemover commentRemover = new CommentRemover.CommentRemoverBuilder()
                .removeJava(true) // Remove Java file Comments....
                .removeJavaScript(true) // Remove JavaScript file Comments....
@@ -67,9 +67,9 @@ public class ExternalPathExample {
                .startExternalPath("/Users/user/Projects/MyOtherProject")// Give it full path for external directories
                .setExcludePackages(new String[]{"src.main.java.model"}) // Refers to /Users/user/Projects/MyOtherProject/src/main/java/model and skips this directory.
                .build();
-               
+
         CommentProcessor commentProcessor = new CommentProcessor(commentRemover);
-        commentProcessor.start();        
+        commentProcessor.start();
     }
 }
 
@@ -82,6 +82,10 @@ public class ExternalPathExample {
 Druid excels as a data warehousing solution for fast aggregate queries on petabyte sized data sets. Druid supports a variety of flexible filters, exact calculations, approximate algorithms, and other useful calculations.
 
 Druid can load both streaming and batch data and integrates with Samza, Kafka, Storm, Spark, and Hadoop.
+
+## E
+
+[**Encon**](https://github.com/appulse-projects/encon-java) - is a Java library, **E**rlang **N**ode **CON**nector, which allows your `JVM` app to duplex interact with `Erlang` or `Elixir` nodes. It is based on [Erlang Distribution Protocol](http://erlang.org/doc/apps/erts/erl_dist_protocol.html) and provides a convenient way to work with its components. The project consists of different sub-modules, start from basic elements like Erlang term serialization/deserialization, continue to Erlang distribution protocol itself and end with data mapping and Spring integration.
 
 ## L
 
