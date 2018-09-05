@@ -87,6 +87,8 @@ Druid can load both streaming and batch data and integrates with Samza, Kafka, S
 
 [**Encon**](https://github.com/appulse-projects/encon-java) - is a Java library, **E**rlang **N**ode **CON**nector, which allows your `JVM` app to duplex interact with `Erlang` or `Elixir` nodes. It is based on [Erlang Distribution Protocol](http://erlang.org/doc/apps/erts/erl_dist_protocol.html) and provides a convenient way to work with its components. The project consists of different sub-modules, start from basic elements like Erlang term serialization/deserialization, continue to Erlang distribution protocol itself and end with data mapping and Spring integration.
 
+The project's site: https://appulse.io
+
 ## L
 
 [**libGDX**](https://github.com/libgdx/libgdx) is a cross-platform Java game development framework based on OpenGL (ES) that works on Windows, Linux, Mac OS X, Android, your WebGL enabled browser and iOS.
