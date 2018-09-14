@@ -50,10 +50,6 @@ If you are interested in [Open Source](https://en.wikipedia.org/wiki/Open-source
 
 Just share this list with your friends on [Twitter](https://twitter.com/), [Facebook](https://www.facebook.com/), [Medium](http://medium.com) or somewhere else.
 
-## Like this project?
-
-You can say [thanks](https://saythanks.io/to/lk-geimfari)!
-
 ## License
 
 `awesomo` by [@lk-geimfari](https://github.com/lk-geimfari)
