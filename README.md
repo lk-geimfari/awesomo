@@ -8,7 +8,6 @@ If you are interested in [Open Source](https://en.wikipedia.org/wiki/Open-source
 
 ## Languages
 
- - [Assembly](languages/ASSEMBLY.md)
  - [C](languages/C.md)
  - [C#](languages/C%23.md)
  - [C++](languages/C%2B%2B.md)
