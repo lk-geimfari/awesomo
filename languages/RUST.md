@@ -288,3 +288,26 @@ Result:
 * [zstd](https://github.com/facebook/zstd) compression (use the zstd build feature)
 * cpu-scalable lock-free implementation
 * SSD-optimized log-structured storage
+
+---
+[Actix](https://github.com/actix/actix) is a Rust actors framework.
+
+---
+[Actix web](https://github.com/actix/actix-web) is a simple, pragmatic and extremely fast web framework for Rust.
+
+**Features**:
+
+* Supported *HTTP/1.x* and [*HTTP/2.0*](https://actix.rs/docs/http2/) protocols
+* Streaming and pipelining
+* Keep-alive and slow requests handling
+* Client/server [WebSockets](https://actix.rs/docs/websockets/) support
+* Transparent content compression/decompression (br, gzip, deflate)
+* Configurable [request routing](https://actix.rs/docs/url-dispatch/)
+* Graceful server shutdown
+* Multipart streams
+* Static assets
+* SSL support with OpenSSL or `native-tls`
+* Middlewares ([Logger, Session, CORS, CSRF, etc](https://actix.rs/docs/middleware/))
+* Includes an asynchronous [HTTP client](https://actix.rs/actix-web/actix_web/client/index.html)
+* Built on top of [Actix actor framework](https://github.com/actix/actix)
+
