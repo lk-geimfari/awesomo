@@ -34,9 +34,10 @@ If you are interested in [Open Source](https://en.wikipedia.org/wiki/Open-source
  - [Rust](languages/RUST.md)
  - [Scala](languages/SCALA.md)
  - [Shell](languages/SHELL.md)
+ - [SVG](languages/SVG.md)
  - [Swift](languages/SWIFT.md)
  - [TypeScript](languages/TYPESCRIPT.md)
- 
+
 ## Want to add an interesting project?
 
 - Simply [fork](https://github.com/lk-geimfari/awesomo/) this repository.
@@ -45,7 +46,7 @@ If you are interested in [Open Source](https://en.wikipedia.org/wiki/Open-source
 
 :point_up: However, keep in mind that we don't accept *mammoth's shit*. Only active and interesting projects with good documentation are added. Dead and abandoned projects will be removed.
 
-## Want to support us? 
+## Want to support us?
 
 Just share this list with your friends on [Twitter](https://twitter.com/), [Facebook](https://www.facebook.com/), [Medium](http://medium.com) or somewhere else.
 
@@ -56,5 +57,3 @@ Just share this list with your friends on [Twitter](https://twitter.com/), [Face
 To the extent possible under law, the person who associated CC0 with `awesomo` has waived all copyright and related or neighboring rights to `awesomo`.
 
 You should have received a copy of the CC0 legalcode along with this work. If not, see https://creativecommons.org/publicdomain/zero/1.0/.
-
-
