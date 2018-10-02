@@ -1033,3 +1033,20 @@ False
 >>> env.test.SECRET_KEY
 '001110110100101100101010100010111010'
 ```
+
+---
+
+[wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - the most opinionated linter ever. 
+Internally it is a combination of different `flake8` plugins and custom rules.
+
+It executes strict naming, consistency, and complexity checks that include but is not limited to `mccabe` and `jones`.
+It also has strict style validation of imports, types, strings, numbers, keywords. That goes way beyond PEP8.
+
+Since internally it is just a `flake8` plugin, all you need to to do is: run your `flake8`!
+
+```
+$ flake8 your_module.py
+$ flake8 your_package/
+```
+
+Full list of violations available [at the documentation](https://wemake-python-styleguide.readthedocs.io/en/latest/_pages/violations/index.html).
