@@ -1,4 +1,16 @@
-## C&#35;
+## Alphabetical index of projects in C35:
+
+|       |       |       |       |       |       |       |
+|---    |---    |---    |---    |---    |---    |    ---|
+|[A](#a)|[B](#b)|[C](#c)|[D](#d)|[E](#e)|[F](#f)|[G](#g)|
+|[H](#h)|[I](#i)|[J](#j)|[K](#k)|[L](#l)|[M](#m)|[N](#n)|
+|[P](#p)|[Q](#q)|[R](#r)|[S](#s)|[T](#t)|[U](#u)|[V](#v)|
+|[W](#w)|[X](#x)|[Y](#y)|[Z](#z)|       |       |       |
+|       |       |       |       |       |       |       |
+
+<br>
+
+## A
 
 [**alba**](https://github.com/JasperFx/alba) is a tool for better integration testing against ASP.Net Core applications.
 
@@ -14,7 +26,8 @@
 ---
 [**AzureIntegration**](https://github.com/aspnet/AzureIntegration) - Features that integrate ASP.NET Core with Azure.
 
----
+## B
+
 [**benchmarks**](https://github.com/aspnet/benchmarks) - Benchmarks for ASP.NET Core including (but not limited to) scenarios from the TechEmpower Web Framework Benchmarks.
 
 ---
@@ -23,7 +36,8 @@
 ---
 [**BuildTools**](https://github.com/aspnet/BuildTools) - Utilities used in the build system for projects that are used with ASP.NET Core and Entity Framework Core.
 
----
+## C
+
 [**Cake**](https://github.com/cake-build/cake) (C# Make) is a build automation system with a C# DSL to do things like compiling code, copy files/folders, running unit tests, compress files and build NuGet packages.
 
 ---
@@ -38,7 +52,8 @@ The [**corefx**](https://github.com/dotnet/corefx) repo contains the library imp
 ---
 [**CORS**](https://github.com/aspnet/CORS) is an implementations of common CORS policy and CORS middleware.
 
----
+## D
+
 [**Dapper**](https://github.com/StackExchange/dapper-dot-net) is a simple object mapper for .Net. Dapper is a NuGet library that you can add in to your project that will extend your IDbConnection interface.
 
 ---
@@ -59,7 +74,8 @@ The [**corefx**](https://github.com/dotnet/corefx) repo contains the library imp
 ---
 [**DotNetty**](https://github.com/Azure/DotNetty) is a port of Netty, asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients.
 
----
+## E
+
 [**EntityFramework6**](https://github.com/aspnet/EntityFramework6) is an object-relational mapper that enables .NET developers to work with relational data using domain-specific objects. It eliminates the need for most of the data-access code that developers usually need to write. Entity Framework is actively developed by the Entity Framework team in collaboration with a community of open source developers. Together we are dedicated to creating the best possible data access experience for .NET developers.
 
 ---
@@ -77,10 +93,12 @@ The [**corefx**](https://github.com/dotnet/corefx) repo contains the library imp
 ---
 [**EventNotification**](https://github.com/aspnet/EventNotification) is the infrastructure for publishing notifications has moved to the .NET Framework. See the new DiagnosticSource and DiagnosticListener APIs in the System.Diagnostics.DiagnosticSource package. The infrastructure provided here is for subscribing to events using runtime-generated proxies.
 
----
+## F
+
 [**FileSystem**](https://github.com/aspnet/FileSystem) is a File Provider abstractions. Contains file system abstractions and file system globbing.
 
----
+## H
+
 [**HealthChecks**](https://github.com/aspnet/HealthChecks) is a project for building services, such as with ASP.NET Core
 
 ---
@@ -92,7 +110,8 @@ The [**corefx**](https://github.com/dotnet/corefx) repo contains the library imp
 ---
 [**HttpSysServer**](https://github.com/aspnet/HttpSysServer) - This repo contains a web server for ASP.NET Core based on the Windows Http Server API.
 
----
+## I
+
 [**Identity**](https://github.com/aspnet/Identity) is the membership system for building ASP.NET Core web applications, including membership, login, and user data. ASP.NET Core Identity allows you to add login features to your application and makes it easy to customize data about the logged in user.
 
 ---
@@ -101,7 +120,8 @@ The [**corefx**](https://github.com/dotnet/corefx) repo contains the library imp
 ---
 [**IISIntegration**](https://github.com/aspnet/IISIntegration) - This repo hosts the ASP.NET Core middleware for IIS integration. This project is part of ASP.NET Core.
 
----
+## J
+
 [**JavaScriptServices**](https://github.com/aspnet/JavaScriptServices) - Microsoft ASP.NET Core JavaScript Services is a set of technologies for ASP.NET Core developers.
 
 ---
@@ -110,10 +130,12 @@ The [**corefx**](https://github.com/dotnet/corefx) repo contains the library imp
 ---
 [**JsonPatch**](https://github.com/aspnet/JsonPatch) is a library for ASP.NET Core.
 
----
+## K
+
 [**KestrelHttpServer**](https://github.com/aspnet/KestrelHttpServer) is a web server for ASP.NET Core based on libuv.
 
----
+## L
+
 [**LibraryInstaller**](https://github.com/aspnet/LibraryInstaller) - Microsoft Library Installer.
 
 ---
@@ -128,7 +150,8 @@ The [**corefx**](https://github.com/dotnet/corefx) repo contains the library imp
 ---
 [**Logging**](https://github.com/aspnet/Logging) is a common logging abstractions and a few implementations. This project is part of ASP.NET Core.
 
----
+## M
+
 [**MahApps.Metro**](https://github.com/MahApps/MahApps.Metro) is a toolkit for creating Metro / Modern UI styled WPF apps. http://mahapps.com
 
 ---
@@ -152,7 +175,8 @@ The [**corefx**](https://github.com/dotnet/corefx) repo contains the library imp
 ---
 [**MvcPrecompilation**](https://github.com/aspnet/MvcPrecompilation) - The Razor syntax provides a fast, terse, clean, and lightweight way to combine server code with HTML to create dynamic web content. This repo contains tooling that allows compilation of MVC Razor views as part of build and publish.
 
----
+## N
+
 [**Nancy**](https://github.com/NancyFx/Nancy) is a lightweight, low-ceremony, framework for building HTTP based services on .NET Framework/Core and [Mono](http://mono-project.com). The goal of the framework is to stay out of the way as much as possible and provide a super-duper-happy-path to all interactions.
 
 Nancy is designed to handle `DELETE`, `GET`, `HEAD`, `OPTIONS`, `POST`, `PUT` and `PATCH` requests and provides a simple, elegant, [Domain Specific Language (DSL)](http://en.wikipedia.org/wiki/Domain-specific_language) for returning a response with just a couple of keystrokes, leaving you with more time to focus on the important bits..
@@ -174,7 +198,8 @@ public class Module : NancyModule
 ---
 [**NUnit**](https://github.com/nunit/nunit) is a unit-testing framework for all .NET languages. Initially ported from JUnit, the current production release, version 3, has been completely rewritten with many new features and support for a wide range of .NET platforms.
 
----
+## O
+
 [**Ocelot**](https://github.com/TomPallister/Ocelot) is an API Gateway created using .NET core.
 
 ---
@@ -188,7 +213,8 @@ Use OpenTK to add cross-platform 3d graphics, audio, compute and haptics to your
 ---
 [**Options**](https://github.com/aspnet/Options) is a framework for accessing and configuring POCO settings.
 
----
+## P
+
 [**Performance**](https://github.com/aspnet/Performance) - Performance tests and infrastructure for ASP.NET. This project is part of ASP.NET Core.
 
 ---
@@ -203,10 +229,12 @@ Use OpenTK to add cross-platform 3d graphics, audio, compute and haptics to your
 ---
 [**Proxy**](https://github.com/aspnet/Proxy) is a library for ASP.NET Core.
 
----
+## Q
+
 [**Quartz Enterprise Scheduler .NET**](https://github.com/quartznet/quartznet) is an opensource project aimed at creating a free-for-commercial use Job Scheduler, with 'enterprise' features.
 
----
+## R
+
 [**RabbitMQ .NET client**](https://github.com/rabbitmq/rabbitmq-dotnet-client) for .NET Core and .NET 4.5.1+.
 
 ---
@@ -227,7 +255,8 @@ Use OpenTK to add cross-platform 3d graphics, audio, compute and haptics to your
 ---
 [**Routing**](https://github.com/aspnet/Routing) is a middleware for routing requests to application logic.
 
----
+## S
+
 [**Scaffolding**](https://github.com/aspnet/Scaffolding) - ASP.NET Scaffolding enables generating boilerplate code for web applications to speed up development.
 
 ---
@@ -257,16 +286,19 @@ Use OpenTK to add cross-platform 3d graphics, audio, compute and haptics to your
 ---
 [**StaticFiles**](https://github.com/aspnet/StaticFiles) - This repo contains middleware for handling requests for file system resources including files and directories.
 
----
+## T
+
 [**Testing**](https://github.com/aspnet/Testing) - This repository contains testing infrastructure for ASP.NET.
 
 ---
 [**Topshelf**](https://github.com/Topshelf/Topshelf) is a framework for hosting services written using the .NET framework. The creation of services is simplified, allowing developers to create a simple console application that can be installed as a service using Topshelf. The reason for this is simple: It is far easier to debug a console application than a service. And once the application is tested and ready for production, Topshelf makes it easy to install the application as a service.
 
----
+## U
+
 [**UnityPCSS**](https://github.com/TheMasonX/UnityPCSS) is a Nvidia's PCSS soft shadow algorithm implemented in Unity
 
----
+## W
+
 [**Web Markup Minifier**](https://github.com/Taritsyn/WebMarkupMin) is .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.
 
 ---
@@ -278,10 +310,12 @@ Use OpenTK to add cross-platform 3d graphics, audio, compute and haptics to your
 ---
 [**Wox**](https://github.com/Wox-launcher/Wox) is a launcher for Windows, an alternative to Alfred and Launchy.
 
----
+## X
+
 [**XUnit**](https://github.com/xunit/xunit)  is a free, open source, community-focused unit testing tool for the .NET Framework. Written by the original inventor of NUnit v2, xUnit.net is the latest technology for unit testing C#, F#, VB.NET and other .NET languages. xUnit.net works with ReSharper, CodeRush, TestDriven.NET and Xamarin.
 
----
+## Z
+
 [**zipkin4net**](https://github.com/criteo/zipkin4net) is a .NET client library for Zipkin
 
 ---
