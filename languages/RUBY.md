@@ -1988,4 +1988,3 @@ class VCRTest < Test::Unit::TestCase
   end
 end
 ```
-
