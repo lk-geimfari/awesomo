@@ -58,4 +58,11 @@ First and foremost, it is an editor that gets out of your way. The delightfully 
 
 ![vscode](https://cloud.githubusercontent.com/assets/11839736/16642200/6624dde0-43bd-11e6-8595-c81885ba0dc2.png)
 
+## X
+
+[**Xterm.js**](https://github.com/xtermjs/xterm.js) - A terminal frontend for the web platform
+
+Xterm.js is a terminal component that powers many standalone and integrated terminals such as Visual Studio Code, Hyper and Theia.
+
+![xterm.js](https://raw.githubusercontent.com/xtermjs/xterm.js/master/logo-full.png)
 ---
