@@ -64,6 +64,11 @@ Chart.js provides two different builds that are available for your use. The Char
 
 ![countly](https://camo.githubusercontent.com/f60fc1f56ac415bde000defba9c26a8469404866/687474703a2f2f636f756e742e6c792f77702d636f6e74656e742f75706c6f6164732f323031362f31322f636f756e746c795f64617368626f6172645f636f6d6d756e6974795f31365f31322e706e67)
 
+---
+[**Code Surfer**](https://github.com/pomber/code-surfer)  —  React component for scrolling, zooming and highlighting code samples <🏄/>
+
+![code-surfer](https://raw.githubusercontent.com/pomber/code-surfer/master/other/sample.gif)
+
 ## D
 
 [**D3**](https://github.com/d3/d3)  —  a JavaScript library for visualizing data using web standards. D3 helps you bring data to life using SVG, Canvas and HTML. D3 combines powerful visualization and interaction techniques with a data-driven approach to DOM manipulation, giving you the full capabilities of modern browsers and the freedom to design the right visual interface for your data.
