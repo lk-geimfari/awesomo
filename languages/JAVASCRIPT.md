@@ -76,6 +76,11 @@ Chart.js provides two different builds that are available for your use. The Char
 ![d3](https://cdn-images-1.medium.com/max/720/0*bxHj6VbZ9lApwWyo.jpg)
 
 ---
+[**date-fns**](https://github.com/date-fns/date-fns) — :hourglass: Modern JavaScript date utility library :hourglass:.
+
+date-fns provides the most comprehensive, yet simple and consistent toolset for manipulating JavaScript dates in a **Browser** & **Node.js**.
+
+---
 [**Dillinger**](https://github.com/joemccann/dillinger) - Online Markdown Editor.
 
 This is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor. Allows importing of HTML files, exporting as Markdown/HTML/PDF, drag and drop files into the editor, and importing/saving files through GitHub, Dropbox, GooglDrive, and OneDrive.
