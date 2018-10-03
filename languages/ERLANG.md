@@ -133,33 +133,6 @@ Ranch aims to provide everything you need to accept TCP connections with a small
 
 Ranch provides a modular design, letting you choose which transport and protocol are going to be used for a particular listener. Listeners accept and manage connections on one port, and include facilities to limit the number of concurrent connections. Connections are sorted into pools, each pool having a different configurable limit.
 
----
-[**Riak**](https://github.com/basho/riak) is a decentralized datastore from Basho Technologiesis. It designed to deliver maximum data availability by distributing data across multiple servers. There are two version of Riak, Riak Kv and RiakTS. Client libraries to interface with DB are available for all major programming languages.
-
-## S
-
-[**Switchboard**](https://github.com/thusfresh/switchboard) is a framework for processing email. It consists of a core that maintains a connection to an IMAP server and routes event notifications to a set of workers. The workers interact with the IMAP server through a simple API exposed by the Switchboard core.
-
-Features:
-
-- Totally open source &mdash; developers can extend Switchboard or use
-  the API to create workers specific to their product.
-- Switchboard handles the boilerplate, leaving the logic to you
-  &mdash; Switchboard frees you from the plumbing of server-side email
-  monitoring and fetching, allowing you to focus on your products
-  and services.
-- You deploy it &mdash; by running persistent processes on your own server,
-  Switchboard can help you avoid mobile OS backgrounding restrictions
-  and heavy battery consumption, freeing up the client and leaving
-  you in control.
-
-
-## T
-
-[**Typhoon**](https://github.com/zalando/typhoon) is a stress and load testing tool for distributed systems that simulates traffic from a test cluster toward a system-under-test (SUT) and visualizes infrastructure-, protocol- and application-related latencies. It provides an out-of-the-box, cross-platform solution for investigating protocols and microservice latencies, and is operable as a standalone application. For scalability and accuracy, its runtime environment is Erlang.
-
-![](https://raw.githubusercontent.com/zalando/typhoon/master/screenshot.png)
-
 ## V
 
 [**VerneMQ**](https://github.com/erlio/vernemq)  —  a high-performance, distributed MQTT message broker. It scales horizontally and vertically on commodity hardware to support a high number of concurrent publishers and consumers while maintaining low latency and fault tolerance. VerneMQ is the reliable message hub for your IoT platform or smart products.

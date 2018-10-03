@@ -28,7 +28,4 @@
 ![gg](https://github.com/passy/givegif/raw/master/media/usage.gif)
 
 ---
-[**Glance**](https://github.com/rgleichman/glance) is a visual syntax for the programming language Haskell. The goal of this project is to increase programmer happiness and productivity by allowing programmers to create and understand programs in new and different ways. Currently, the Glance executable produces a visual representation of your code in the form of an SVG image when given a textual Haskell source file. In the future, I hope to create a visual editor for Haskell. Please scroll down to see some example images.
-
----
 [**http-client**](https://github.com/snoyberg/http-client) is a mega-repo for housing the http-client family of packages for Haskell. These packages provide a low level HTTP client engine (http-client), different backends for providing SSL support (http-client-tls and http-client-openssl), and higher-level APIs for user convenience (http-conduit).
