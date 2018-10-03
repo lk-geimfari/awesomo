@@ -268,6 +268,11 @@ reveal.js comes with a broad range of features including [nested slides](https:/
 ![socket.io](http://imgur.com/2p9ICjI.png)
 
 ---
+[**Strapi**](https://github.com/strapi/strapi)  —  The most advanced open-source Content Management Framework (headless-CMS) to build powerful API with no effort.
+
+![strapi](https://camo.githubusercontent.com/4f99be4e64e0babc77b1e0dadffd3eb5ba883ebb/68747470733a2f2f626c6f672e7374726170692e696f2f636f6e74656e742f696d616765732f323031382f30382f6769746875625f707265766965772d322e706e67)
+
+---
 [**strider**](https://github.com/Strider-CD/strider)  —  an Open Source Continuous Deployment / Continuous Integration platform. It is written in Node.JS / JavaScript and uses MongoDB as a backing store. It is published under the BSD license.
 
 ![strider](https://cdn-images-1.medium.com/max/720/0*xth8wmt1O-zAf3Hy.jpg)
