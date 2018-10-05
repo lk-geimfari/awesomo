@@ -15,7 +15,7 @@
 
 [**asciinema**](https://github.com/asciinema/asciinema) is a terminal session recorder and the best companion of asciinema.org
 
-![asciinema](https://camo.githubusercontent.com/d04a961654feef41e10eb3174ddf80a480b39eaa/68747470733a2f2f61736369696e656d612e6f72672f612f34323338332e706e67)
+[![demo](https://asciinema.org/a/113463.png)](https://asciinema.org/a/113463?autoplay=1)
 
 ---
 [**astropy**](https://github.com/astropy/astropy)  —  a package intended to contain much of the core functionality and some common tools needed for performing astronomy and astrophysics with Python.
