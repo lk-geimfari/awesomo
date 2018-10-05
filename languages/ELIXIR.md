@@ -10,14 +10,6 @@
 
 <br>
 
-## B
-
-[**Beaker**](https://github.com/hahuang65/beaker) is a tool that can be used to keep track of metrics for your Elixir project. It aims to provide an easy way to register statistics as well as an easy way to visualize them.
-
-![](https://raw.githubusercontent.com/hahuang65/beaker/master/beaker_sample.png)
-
----
-
 ## C
 
 [**Cog**](https://github.com/operable/cog) brings the power of the command line to the place you collaborate with your team all the time -- your chat window. Powerful access control means you can collaborate around even the most sensitive tasks with confidence. A focus on extensibility and adaptability means that you can respond quickly to the unexpected, without your team losing visibility.
@@ -326,11 +318,6 @@ end
 [**Phoenix**](http://www.phoenixframework.org/)  —  Productive. Reliable. Fast. A productive web framework that does not compromise speed and maintainability.
 
 ![phoenix](https://raw.githubusercontent.com/phoenixframework/phoenix/master/priv/static/phoenix.png)
-
----
-[**phoenix-trello**](https://github.com/bigardone/phoenix-trello). Trello tribute done with Elixir, Phoenix Framework, Webpack, React and Redux.
-
-![phoenix-trello](https://camo.githubusercontent.com/9e4bcb76cee6115acc4aa3295cec356ae1d25bef/687474703a2f2f636f64656c6f7665616e64626f617264732e636f6d2f696d616765732f626c6f672f7472656c6c6f5f747269627574655f70745f312f7369676e2d696e2d61386661313964612e6a7067)
 
 ---
 

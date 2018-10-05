@@ -114,10 +114,6 @@ actor Main
 
 ![robomongo](https://robomongo.org/static/screens-transparent-6e2a44fd.png)
 
-## S
-
-[**SignalR-Client-Cpp**](https://github.com/aspnet/SignalR-Client-Cpp) is a native client for the ASP.NET SignalR.
-
 
 ## W
 

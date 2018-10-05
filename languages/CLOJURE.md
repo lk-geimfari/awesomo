@@ -91,11 +91,6 @@ To render a file we can call `render-file` instead:
 ```
 
 ---
-[**Cortex**](https://github.com/thinktopic/cortex). Neural networks, regression and feature learning in Clojure.
-
-Cortex has a 0.3.0 release meaning all libraries are released on clojars. This is very preliminary and I would expect quite a few things to change over time but it should allow you to train some initial classifiers or regressions.
-
----
 [**http-kit**](https://github.com/http-kit/http-kit) is a minimalist, event-driven, high-performance Clojure HTTP server/client library with WebSocket and asynchronous support.
 
 Server:

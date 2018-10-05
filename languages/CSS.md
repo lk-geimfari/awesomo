@@ -20,21 +20,11 @@
 
 ---
 
-[**aprilFools.css**](https://github.com/wesbos/aprilFools.css)  —  Harmlessly goof up your co-workers browser and chrome dev tools.
-
----
-
 ## B
 
 [**Bootstrap**](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ![bootstrap](http://imgur.com/YHZifVh.png)
-
----
-
-[**bttn.css**](https://github.com/ganapativs/bttn.css)  —  Awesome buttons for awesome projects!
-
-![bttn.css](http://imgur.com/Mxp9xIC.png)
 
 ---
 

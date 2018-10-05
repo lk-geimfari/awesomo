@@ -777,11 +777,6 @@ u'{"type":"User"...'
 {u'disk_usage': 368627, u'private_gists': 484, ...}
 ```
 
----
-[**rodeo**](https://github.com/yhat/rodeo) - a Python IDE built for analyzing data.
-
-![](https://camo.githubusercontent.com/6951f81624599db71c34138cb73ed42968597b48/687474703a2f2f626c6f672e7968617468712e636f6d2f7374617469632f696d672f726f64656f2d6f766572766965772e706e67)
-
 ## S
 
 [**Saleor**](https://github.com/mirumee/saleor) is an open-source e-commerce storefront for Python and Django.
@@ -956,85 +951,6 @@ Any debugger command can be split off into a view and highlighted with a specifi
 More screenshots are [here](https://github.com/snare/voltron/wiki/Screenshots).
 
 ## W
-
-[**Wasserstoff**](https://github.com/lk-geimfari/wasserstoff/) - is a library that help you store your configurations for applications in JSON files. The configuration will be easily loaded to the scope of configuration object. The library was written with the use of tools from the standard Python library, and therefore, it does not have any side dependencies.
-
-<a href="https://github.com/lk-geimfari/wasserstoff/">
-    <p align="center">
-      <img src="https://raw.githubusercontent.com/lk-geimfari/wasserstoff/master/media/logo.png">
-    </p>
-</a>
-
-Usage
-
-Content of `dev.json`:
-```json
-{
-  "smtp server": [
-    "smtp.yandex.ru",
-    "smtp.gmail.com"
-  ],
-  "port": 456,
-  "ssl": true,
-  "secret_key": "SECRET_KEY_HERE"
-}
-```
-
-Content of `test.json`:
-
-```json
-{
-  "ssl": false,
-  "secret_key": "001110110100101100101010100010111010"
-}
-```
-
-Loading configurations from the file:
-
-```python
->>> from wasserstoff import (
-...     Config,
-...     Environment,
-... )
-
->>> env = Environment()
-
->>> dev = Config(
-...     filename='dev',
-...     scope='dev',
-... )
-
->>> test = Config(
-...     filename='test',
-...     scope='test',
-... )
-
->>> env.patch(dev, test)
->>> env.commit()
-```
-
-Now you can access to your configurations:
-```
->>> env.dev.SMTP_SERVER
-['smtp.yandex.ru', 'smtp.gmail.com']
-
->>> env.dev.SSL
-True
-
->>> env.dev.PORT
-456
-
->>> env.dev.SECRET_KEY
-'SECRET_KEY_HERE'
-
->>> env.test.SSL
-False
-
->>> env.test.SECRET_KEY
-'001110110100101100101010100010111010'
-```
-
----
 
 [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - the most opinionated linter ever. 
 Internally it is a combination of different `flake8` plugins and custom rules.

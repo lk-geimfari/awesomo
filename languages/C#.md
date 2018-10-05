@@ -99,9 +99,6 @@ The [**corefx**](https://github.com/dotnet/corefx) repo contains the library imp
 
 ## H
 
-[**HealthChecks**](https://github.com/aspnet/HealthChecks) is a project for building services, such as with ASP.NET Core
-
----
 [**Hosting**](https://github.com/aspnet/Hosting) - The Hosting repo contains code required to host an ASP.NET Core application, it is the entry point used when self-hosting an application.
 
 ---
@@ -218,9 +215,6 @@ Use OpenTK to add cross-platform 3d graphics, audio, compute and haptics to your
 [**Performance**](https://github.com/aspnet/Performance) - Performance tests and infrastructure for ASP.NET. This project is part of ASP.NET Core.
 
 ---
-[**PlatformAbstractions**](https://github.com/aspnet/PlatformAbstractions) is an abstractions for applications.
-
----
 [**PostProcessing**](https://github.com/Unity-Technologies/PostProcessing) is a new unity post-processing stack is an über effect that combines a complete set of image effects into a single post-process pipeline.
 
 ---
@@ -272,9 +266,6 @@ Use OpenTK to add cross-platform 3d graphics, audio, compute and haptics to your
 [**Shadowsocks for Windows**](https://github.com/shadowsocks/shadowsocks-windows) is a secure socks5 proxy, designed to protect your Internet traffic.
 
 ---
-[**SharpDevelop**](https://github.com/icsharpcode/SharpDevelop) is a free Integrated Development Environment (IDE) for C#, VB.NET, Boo, IronPython, IronRuby and F# projects on Microsoft's .NET platform. It is written (almost) entirely in C#, and comes with features you would expect in an IDE plus a few more.
-
----
 [**SharpDX**](https://github.com/sharpdx/SharpDX) is an open-source project delivering the full DirectX API for .Net on all Windows platforms, allowing the development of high performance game, 2D and 3D graphics rendering as well as realtime sound application.
 
 ---
@@ -287,8 +278,6 @@ Use OpenTK to add cross-platform 3d graphics, audio, compute and haptics to your
 [**StaticFiles**](https://github.com/aspnet/StaticFiles) - This repo contains middleware for handling requests for file system resources including files and directories.
 
 ## T
-
-[**Testing**](https://github.com/aspnet/Testing) - This repository contains testing infrastructure for ASP.NET.
 
 ---
 [**Topshelf**](https://github.com/Topshelf/Topshelf) is a framework for hosting services written using the .NET framework. The creation of services is simplified, allowing developers to create a simple console application that can be installed as a service using Topshelf. The reason for this is simple: It is far easier to debug a console application than a service. And once the application is tested and ready for production, Topshelf makes it easy to install the application as a service.

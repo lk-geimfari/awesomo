@@ -87,13 +87,6 @@ This is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 
 
 ![docsify](https://raw.githubusercontent.com/QingWei-Li/docsify/master/media/docsify.png)
 
----
-[**Dragula**](https://github.com/bevacqua/dragula)  —  :ok_hand: Drag and drop so simple it hurts.
-
-![dragula](https://raw.githubusercontent.com/bevacqua/dragula/master/resources/logo.png)
-
-[Check out the live demo](http://bevacqua.github.io/dragula/).
-
 ## E
 
 [**Enzyme**](https://github.com/airbnb/enzyme) is a JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components’ output.
@@ -124,13 +117,6 @@ Enzyme is unopinionated regarding which test runner or assertion library you use
 Gatsby is a blazing-fast static site generator for React. Powered By GraphQL and super extensive
 
 ![gatsby](https://camo.githubusercontent.com/ac31ac54c2013850b0fb8a3a4926f4718a398fb3/68747470733a2f2f7777772e6761747362796a732e6f72672f6d6f6e6f6772616d2e737667)
-
----
-[**ggraph**](https://github.com/pcbje/ggraph) - Graph visualization for messy data.
-
-This is a library built on top D3 with the goal of improving how we work with large and messy graphs. It extends the notion of nodes and links with groups of nodes. This is useful when multiple nodes are in fact the same thing or belong to the same group.
-
-![ggraph](https://camo.githubusercontent.com/237e6715d16021d83a42a4fa2923e96f7b27f540/68747470733a2f2f6772616e736b2e636f6d2f6767726170682f6767726170682e676966)
 
 ---
 [**Ghost**](https://github.com/TryGhost/Ghost)  — A simple, powerful publishing platform.
@@ -199,11 +185,6 @@ Impress.js is inspired by the idea behind [Prezi](https://prezi.com/).
 
 ![moment.js](https://cdn-images-1.medium.com/max/720/0*DP6jZMrfJIt2znNM.png)
 
----
-[**Mongotron **](https://github.com/officert/mongotron) —  a MongoDB GUI built using Electron, and Angular JS.
-
-![mongotron](https://cdn-images-1.medium.com/max/720/0*TdQw5EQvFq6vOXX1.)
-
 ## N
 
 [**N1 **](https://github.com/nylas/N1) —  an open-source mail client built on the modern web with Electron, React, and Flux. It is designed to be extensible, so it’s easy to create new experiences and workflows around email. N1 is built on the Nylas Sync Engine, which is also open-source free software.
@@ -258,11 +239,6 @@ reveal.js comes with a broad range of features including [nested slides](https:/
 
 ## S
 
-[**sigma.js** ](https://github.com/jacomyal/sigma.js) —  a JavaScript library dedicated to graph drawing.
-
-![sigma](https://cdn-images-1.medium.com/max/720/0*rhhK5CbcRhe1KfDD.jpg)
-
----
 [**socket.io**](https://github.com/socketio/socket.io) —  Realtime application framework (Node.JS server).
 
 ![socket.io](http://imgur.com/2p9ICjI.png)

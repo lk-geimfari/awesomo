@@ -316,10 +316,6 @@ This toolkit provides packages to put together server and pubsub daemons with th
 
 <p align="center"><img src="http://graphics8.nytimes.com/images/blogs/open/2015/gizmo.png"></p>
 
-## <div align="center">Grumpy</div>
-
-[**Grumpy**](https://github.com/google/grumpy) — is a Python to Go source code transcompiler and runtime that is intended to be a near drop in replacement for CPython 2.7. The key difference is that it compiles Python source code to Go source code which is then compiled to native code, rather than to bytecode. This means that Grumpy has no VM. The compiled Go source code is a series of calls to the Grumpy runtime, a Go library serving a similar purpose to the Python C API (although the C API is not directly supported).
-
 ## <div align="center">testify</div>
 
 [**testify**](https://github.com/stretchr/testify) — a sacred extension to the standard go testing package.
@@ -356,12 +352,6 @@ func TestSomething(t *testing.T) {
 }
 ```
 
-## <div align="center">Chisel</div>
-
-[**Chisel**](https://github.com/jpillora/chisel) — is a fast TCP tunnel, transported over HTTP. Single executable including both client and server. Written in Go (Golang). Chisel is mainly useful for passing through firewalls, though it can also be used to provide a secure endpoint into your network. Chisel is very similar to crowbar though achieves much higher performance. Warning Chisel is currently beta software.
-
-<p align="center"><img src="https://camo.githubusercontent.com/aec1bd298ecf50307e67a46f8fbbe44dc4039f84/68747470733a2f2f646f63732e676f6f676c652e636f6d2f64726177696e67732f642f317035335657787a474e667938726a722d6d5738707669734a6d686b6f4c6c383276416763744f5f366631772f7075623f773d39363026683d373230"></p>
-
 ## <div align="center">chi</div>
 
 [**chi**](https://github.com/pressly/chi) — is a lightweight, idiomatic and composable router for building Go 1.7+ HTTP services. It's especially good at helping you write large REST API services that are kept maintainable as your project grows and changes. chi is built on the new context package introduced in Go 1.7 to handle signaling, cancelation and request-scoped values across a handler chain.
@@ -383,21 +373,6 @@ Purpose of this tool is to provide a visual overview of your program by using th
 ## <div align="center">fasthttp</div>
 
 [**fasthttp**](https://github.com/valyala/fasthttp) — is a fast HTTP implementation for Go.
-
-## <div align="center">SQLBoiler</div>
-
-[**SQLBoiler**](https://github.com/vattle/sqlboiler) is a tool to generate a Go ORM tailored to your database schema.
-
-It is a "database-first" ORM as opposed to "code-first" (like gorm/gorp). That means you must first create your database schema. Please use something like goose, sql-migrate or some other migration tool to manage this part of the database's life-cycle.
-
-* ActiveRecord-like productivity: Eliminate all sql boilerplate, have relationships as a first-class concept.
-* Go-like feel: Work with normal structs, call functions, no hyper-magical struct tags, small interfaces.
-* Go-like performance: Benchmark and optimize the hot-paths, perform like hand-rolled sql.DB code.
-* Type-safety: The models package is type safe. This means no chance of random panics due to passing in the wrong type. No need for interface{}.
-* A system that is easy to debug. Your ORM is tailored to your schema, the code paths should be easy to trace since it's not all buried in reflect.
-* Auto-completion provides work-flow efficiency gains.
-
-<p align="center"><img src="https://camo.githubusercontent.com/9d193927d854d9bdeaad48e992f50269b84306f1/687474703a2f2f692e696d6775722e636f6d2f696c6b763072392e706e67"></p>
 
 ## <div align="center">Tyk</div>
 
