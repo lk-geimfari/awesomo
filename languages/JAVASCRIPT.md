@@ -64,11 +64,21 @@ Chart.js provides two different builds that are available for your use. The Char
 
 ![countly](https://camo.githubusercontent.com/f60fc1f56ac415bde000defba9c26a8469404866/687474703a2f2f636f756e742e6c792f77702d636f6e74656e742f75706c6f6164732f323031362f31322f636f756e746c795f64617368626f6172645f636f6d6d756e6974795f31365f31322e706e67)
 
+---
+[**Code Surfer**](https://github.com/pomber/code-surfer)  —  React component for scrolling, zooming and highlighting code samples <🏄/>
+
+![code-surfer](https://raw.githubusercontent.com/pomber/code-surfer/master/other/sample.gif)
+
 ## D
 
 [**D3**](https://github.com/d3/d3)  —  a JavaScript library for visualizing data using web standards. D3 helps you bring data to life using SVG, Canvas and HTML. D3 combines powerful visualization and interaction techniques with a data-driven approach to DOM manipulation, giving you the full capabilities of modern browsers and the freedom to design the right visual interface for your data.
 
 ![d3](https://cdn-images-1.medium.com/max/720/0*bxHj6VbZ9lApwWyo.jpg)
+
+---
+[**date-fns**](https://github.com/date-fns/date-fns) — :hourglass: Modern JavaScript date utility library :hourglass:.
+
+date-fns provides the most comprehensive, yet simple and consistent toolset for manipulating JavaScript dates in a **Browser** & **Node.js**.
 
 ---
 [**Dillinger**](https://github.com/joemccann/dillinger) - Online Markdown Editor.
@@ -81,13 +91,6 @@ This is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 
 [**Docsify**](https://github.com/QingWei-Li/docsify)  —  :black_joker: A magical documentation site generator.
 
 ![docsify](https://raw.githubusercontent.com/QingWei-Li/docsify/master/media/docsify.png)
-
----
-[**Dragula**](https://github.com/bevacqua/dragula)  —  :ok_hand: Drag and drop so simple it hurts.
-
-![dragula](https://raw.githubusercontent.com/bevacqua/dragula/master/resources/logo.png)
-
-[Check out the live demo](http://bevacqua.github.io/dragula/).
 
 ## E
 
@@ -119,13 +122,6 @@ Enzyme is unopinionated regarding which test runner or assertion library you use
 Gatsby is a blazing-fast static site generator for React. Powered By GraphQL and super extensive
 
 ![gatsby](https://camo.githubusercontent.com/ac31ac54c2013850b0fb8a3a4926f4718a398fb3/68747470733a2f2f7777772e6761747362796a732e6f72672f6d6f6e6f6772616d2e737667)
-
----
-[**ggraph**](https://github.com/pcbje/ggraph) - Graph visualization for messy data.
-
-This is a library built on top D3 with the goal of improving how we work with large and messy graphs. It extends the notion of nodes and links with groups of nodes. This is useful when multiple nodes are in fact the same thing or belong to the same group.
-
-![ggraph](https://camo.githubusercontent.com/237e6715d16021d83a42a4fa2923e96f7b27f540/68747470733a2f2f6772616e736b2e636f6d2f6767726170682f6767726170682e676966)
 
 ---
 [**Ghost**](https://github.com/TryGhost/Ghost)  — A simple, powerful publishing platform.
@@ -194,11 +190,6 @@ Impress.js is inspired by the idea behind [Prezi](https://prezi.com/).
 
 ![moment.js](https://cdn-images-1.medium.com/max/720/0*DP6jZMrfJIt2znNM.png)
 
----
-[**Mongotron **](https://github.com/officert/mongotron) —  a MongoDB GUI built using Electron, and Angular JS.
-
-![mongotron](https://cdn-images-1.medium.com/max/720/0*TdQw5EQvFq6vOXX1.)
-
 ## N
 
 [**N1 **](https://github.com/nylas/N1) —  an open-source mail client built on the modern web with Electron, React, and Flux. It is designed to be extensible, so it’s easy to create new experiences and workflows around email. N1 is built on the Nylas Sync Engine, which is also open-source free software.
@@ -253,14 +244,14 @@ reveal.js comes with a broad range of features including [nested slides](https:/
 
 ## S
 
-[**sigma.js** ](https://github.com/jacomyal/sigma.js) —  a JavaScript library dedicated to graph drawing.
-
-![sigma](https://cdn-images-1.medium.com/max/720/0*rhhK5CbcRhe1KfDD.jpg)
-
----
 [**socket.io**](https://github.com/socketio/socket.io) —  Realtime application framework (Node.JS server).
 
 ![socket.io](http://imgur.com/2p9ICjI.png)
+
+---
+[**Strapi**](https://github.com/strapi/strapi)  —  The most advanced open-source Content Management Framework (headless-CMS) to build powerful API with no effort.
+
+![strapi](https://camo.githubusercontent.com/4f99be4e64e0babc77b1e0dadffd3eb5ba883ebb/68747470733a2f2f626c6f672e7374726170692e696f2f636f6e74656e742f696d616765732f323031382f30382f6769746875625f707265766965772d322e706e67)
 
 ---
 [**strider**](https://github.com/Strider-CD/strider)  —  an Open Source Continuous Deployment / Continuous Integration platform. It is written in Node.JS / JavaScript and uses MongoDB as a backing store. It is published under the BSD license.

@@ -101,10 +101,6 @@ Cortex has a 0.3.0 release meaning all libraries are released on clojars. This i
 
 ## H
 
-[**Hoplon**](https://github.com/hoplon/hoplon)  —  a set of tools and libraries for making web applications.
-
-![hoplon](https://camo.githubusercontent.com/75c776f58649a9aeb79835f37eefef65fc508df9/687474703a2f2f686f706c6f6e2e696f2f696d616765732f6c6f676f732f686f706c6f6e2d6c6f676f2e706e67)
-
 ---
 [**http-kit**](https://github.com/http-kit/http-kit) is a minimalist, event-driven, high-performance Clojure HTTP server/client library with WebSocket and asynchronous support.
 

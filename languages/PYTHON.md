@@ -15,7 +15,7 @@
 
 [**asciinema**](https://github.com/asciinema/asciinema) is a terminal session recorder and the best companion of asciinema.org
 
-![asciinema](https://camo.githubusercontent.com/d04a961654feef41e10eb3174ddf80a480b39eaa/68747470733a2f2f61736369696e656d612e6f72672f612f34323338332e706e67)
+[![demo](https://asciinema.org/a/113463.png)](https://asciinema.org/a/113463?autoplay=1)
 
 ---
 [**astropy**](https://github.com/astropy/astropy)  —  a package intended to contain much of the core functionality and some common tools needed for performing astronomy and astrophysics with Python.
@@ -540,16 +540,6 @@ Using locales:
 ```
 
 ---
-[**Monique Dashboards**](https://github.com/monique-dashboards/monique) - a library for creating dashboard applications, coming with fully functional [web](https://github.com/monique-dashboards/monique-web) and [API](https://github.com/monique-dashboards/monique-api) applications for creating custom dashboards. The library auto-parses multiple input formats, like JSON, ASCII tables, single values, making the code pushing metrics much shorter. The other feature is auto-creating dashboard tiles representing multiple instances of servers or microservices. The library supports the SQLite3 database for small deployments and the Cassandra database for highly-available deployments.
-
-
-<a href="https://github.com/monique-dashboards/monique">
-    <p align="center">
-      <img src="http://monique-dashboards.readthedocs.io/en/latest/_images/monique-web-1.png" alt="Monique Dashboards">
-    </p>
-</a>
-
----
 [**mycli**](https://github.com/dbcli/mycli) - a command line client for MySQL that can do auto-completion and syntax highlighting.
 
 ![mycli](https://raw.githubusercontent.com/dbcli/mycli/master/screenshots/main.gif)
@@ -777,11 +767,6 @@ u'{"type":"User"...'
 {u'disk_usage': 368627, u'private_gists': 484, ...}
 ```
 
----
-[**rodeo**](https://github.com/yhat/rodeo) - a Python IDE built for analyzing data.
-
-![](https://camo.githubusercontent.com/6951f81624599db71c34138cb73ed42968597b48/687474703a2f2f626c6f672e7968617468712e636f6d2f7374617469632f696d672f726f64656f2d6f766572766965772e706e67)
-
 ## S
 
 [**Saleor**](https://github.com/mirumee/saleor) is an open-source e-commerce storefront for Python and Django.
@@ -957,79 +942,17 @@ More screenshots are [here](https://github.com/snare/voltron/wiki/Screenshots).
 
 ## W
 
-[**Wasserstoff**](https://github.com/lk-geimfari/wasserstoff/) - is a library that help you store your configurations for applications in JSON files. The configuration will be easily loaded to the scope of configuration object. The library was written with the use of tools from the standard Python library, and therefore, it does not have any side dependencies.
+[wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - the most opinionated linter ever. 
+Internally it is a combination of different `flake8` plugins and custom rules.
 
-<a href="https://github.com/lk-geimfari/wasserstoff/">
-    <p align="center">
-      <img src="https://raw.githubusercontent.com/lk-geimfari/wasserstoff/master/media/logo.png">
-    </p>
-</a>
+It executes strict naming, consistency, and complexity checks that include but is not limited to `mccabe` and `jones`.
+It also has strict style validation of imports, types, strings, numbers, keywords. That goes way beyond PEP8.
 
-Usage
+Since internally it is just a `flake8` plugin, all you need to to do is: run your `flake8`!
 
-Content of `dev.json`:
-```json
-{
-  "smtp server": [
-    "smtp.yandex.ru",
-    "smtp.gmail.com"
-  ],
-  "port": 456,
-  "ssl": true,
-  "secret_key": "SECRET_KEY_HERE"
-}
+```
+$ flake8 your_module.py
+$ flake8 your_package/
 ```
 
-Content of `test.json`:
-
-```json
-{
-  "ssl": false,
-  "secret_key": "001110110100101100101010100010111010"
-}
-```
-
-Loading configurations from the file:
-
-```python
->>> from wasserstoff import (
-...     Config,
-...     Environment,
-... )
-
->>> env = Environment()
-
->>> dev = Config(
-...     filename='dev',
-...     scope='dev',
-... )
-
->>> test = Config(
-...     filename='test',
-...     scope='test',
-... )
-
->>> env.patch(dev, test)
->>> env.commit()
-```
-
-Now you can access to your configurations:
-```
->>> env.dev.SMTP_SERVER
-['smtp.yandex.ru', 'smtp.gmail.com']
-
->>> env.dev.SSL
-True
-
->>> env.dev.PORT
-456
-
->>> env.dev.SECRET_KEY
-'SECRET_KEY_HERE'
-
->>> env.test.SSL
-False
-
->>> env.test.SECRET_KEY
-'001110110100101100101010100010111010'
-```
+Full list of violations available [at the documentation](https://wemake-python-styleguide.readthedocs.io/en/latest/_pages/violations/index.html).
