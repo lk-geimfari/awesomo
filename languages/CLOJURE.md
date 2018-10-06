@@ -201,8 +201,6 @@ Example:
 
 [**Quil**](https://github.com/quil/quil) is a Clojure/ClojureScript library for creating interactive drawings and animations.
 
-![quil](https://camo.githubusercontent.com/90bc972502b59f7b670dd3c249a7cfc9796f8d23/687474703a2f2f636c6f75642e6769746875622e636f6d2f646f776e6c6f6164732f7175696c2f7175696c2f7175696c2e706e67)
-
 ## S
 
 [**Selmer**](https://github.com/yogthos/Selmer). A fast, Django inspired template system for Clojure.
