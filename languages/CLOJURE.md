@@ -84,11 +84,6 @@ This small Compojure application demonstrates creating a Ring handler from two r
 ```
 
 ---
-[**Cortex**](https://github.com/thinktopic/cortex). Neural networks, regression and feature learning in Clojure.
-
-Cortex has a 0.3.0 release meaning all libraries are released on clojars. This is very preliminary and I would expect quite a few things to change over time but it should allow you to train some initial classifiers or regressions.
-
----
 [**Cryogen**](http://cryogenweb.org/) is a simple static site generator built with Clojure. It's shipped on Leiningen so setup is fuss free and there's no need to mess with databases or other CMS systems.
 
 ![Cryogen Logo](https://avatars1.githubusercontent.com/u/10539940?s=200&v=4)
