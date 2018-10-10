@@ -32,17 +32,17 @@ The supported data models can be mixed in queries and allow ArangoDB to be the a
 
 ![caffe](https://cdn-images-1.medium.com/max/720/0*PuFfFqw5QvvXMdC7.png)
 
+---
+
+[**Chromium**](http://www.chromium.org) and is used by the [Atom
+editor](https://github.com/atom/atom) and many other [apps](http://electron.atom.io/apps).
+
+![electron](http://imgur.com/wuAM23t.png)
+
 ## E
 
 [**Electron**](https://github.com/electron/electron) lets you write cross-platform desktop applications
 using JavaScript, HTML and CSS. It is based on [Node.js](https://nodejs.org/) and
-
-## C
-
-[Chromium](http://www.chromium.org) and is used by the [Atom
-editor](https://github.com/atom/atom) and many other [apps](http://electron.atom.io/apps).
-
-![electron](http://imgur.com/wuAM23t.png)
 
 ## G
 
@@ -105,20 +105,19 @@ actor Main
 ![rdm](https://camo.githubusercontent.com/58c1eba58f659057d6db1ed01b0e7d4bd031414a/687474703a2f2f72656469736465736b746f702e636f6d2f7374617469632f696d672f66656174757265732f616c6c2e706e673f7632)
 
 ---
+
 [**RethinkDB**](https://github.com/rethinkdb/rethinkdb)   —  the first open-source scalable database built for realtime applications. It exposes a new database access model — instead of polling for changes, the developer can tell the database to continuously push updated query results to applications in realtime. RethinkDB allows developers to build scalable realtime apps in a fraction of the time with less effort.
 
 ![rethink](https://cdn-images-1.medium.com/max/720/0*oS0KanfC9ii0SKhM.png)
 
 ---
+
 [**Robomongo**](https://github.com/paralect/robomongo) is a shell-centric cross-platform MongoDB management tool. Unlike most other MongoDB admin UI tools, Robomongo embeds the actual mongo shell in a tabbed interface with access to a shell command line as well as GUI interaction.
 
 ![robomongo](https://robomongo.org/static/screens-transparent-6e2a44fd.png)
-
 
 ## W
 
 [**µWS**](https://github.com/uWebSockets/uWebSockets) is one of the most lightweight, efficient & scalable WebSocket server implementations available. It features an easy-to-use, fully async object-oriented interface and scales to millions of connections using only a fraction of memory compared to the competition. While performance and scalability are two of our top priorities, we consider security, stability and standards compliance paramount. License is zlib/libpng (very permissive & suits commercial applications).
 
 ![**uws**](https://cdn-images-1.medium.com/max/720/0*2wharBiKaEguzmkS.png)
-
----
