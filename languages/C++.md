@@ -50,7 +50,7 @@ using JavaScript, HTML and CSS. It is based on [Node.js](https://nodejs.org/) an
 
 ## I
 
-[i2pd](https://github.com/PurpleI2P/i2pd) is a full-featured C++ implementation of I2P client.
+[**i2pd**](https://github.com/PurpleI2P/i2pd) is a full-featured C++ implementation of I2P client.
 
 I2P (Invisible Internet Protocol) is a universal anonymous network layer. All communications over I2P are anonymous and end-to-end encrypted, participants don't reveal their real IP addresses. I2P allows people from all around the world to communicate and share information without restrictions.
 
