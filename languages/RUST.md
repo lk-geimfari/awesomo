@@ -111,6 +111,8 @@ Features:
   `find` :-).
 * Parallel command execution with a syntax similar to GNU Parallel.
 
+---
+
 [**fselect**](https://github.com/jhspetersson/fselect) is a command-line tool to search files with SQL-like queries.
 
 Why use fselect? Because it has these nice features:
