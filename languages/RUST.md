@@ -111,6 +111,21 @@ Features:
   `find` :-).
 * Parallel command execution with a syntax similar to GNU Parallel.
 
+---
+
+[**fselect**](https://github.com/jhspetersson/fselect) is a command-line tool to search files with SQL-like queries.
+
+Why use fselect? Because it has these nice features:
+
+* complex queries
+* SQL-like (not real SQL, but highly relaxed!) grammar easily understandable by humans
+* search within archives
+* `.gitignore` support (experimental)
+* search by width and height of images and videos
+* search by MP3 info
+* shortcuts to common file types
+* various output formatting (CSV, JSON, and others)
+
 ## G
 
 [**Gotham**](https://github.com/gotham-rs/gotham) - A flexible web framework that does not sacrifice safety, security or speed. The Gotham core team loves many of the elegant concepts that are found in dynamically typed web application frameworks, such as Rails, Phoenix and Django and aspire to achieve them with the type and memory safety guarantees provided by Rust.
