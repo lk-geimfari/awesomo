@@ -70,6 +70,7 @@ I2P (Invisible Internet Protocol) is a universal anonymous network layer. All co
 ![opencv](https://opencv.org/assets/theme/logo.png)
 
 ---
+
 [**openFrameworks**](https://github.com/openframeworks/openFrameworks) is an open source C++ toolkit for creative coding. It includes tools for 2D/3D graphics, audio, and video components along with many addons for integrations with everything from XBOX Kinects to OpenCV.
 
 The code is written to be massively cross-compatible. Right now they support five operating systems (Windows, OSX, Linux, iOS, Android) and four IDEs (XCode, Code::Blocks, and Visual Studio and Eclipse). The API is designed to be minimal and easy to grasp.
@@ -87,6 +88,9 @@ actor Main
   new create(env: Env) =>
     env.out.print("Hello, world!")
 ```
+
+---
+
 [**Proxygen**](https://github.com/facebook/proxygen). This project comprises the core C++ HTTP abstractions used at Facebook. Internally, it is used as the basis for building many HTTP servers, proxies, and clients. This release focuses on the common HTTP abstractions and our simple HTTPServer framework. Future releases will provide simple client APIs as well. The framework supports HTTP/1.1, SPDY/3, SPDY/3.1, and HTTP/2. The goal is to provide a simple, performant, and modern C++ HTTP library.
 
 
