@@ -173,6 +173,10 @@ fn main() {
 }
 ```
 
+## L
+
+[**Lojidoc**](https://github.com/JoshBrudnak/Lojidoc) is a command line tool that creates markdown documentation for java projects. Lojidoc parses the javadoc comments in the source code and uses the high level java declarations to provide consice and easily readable markdown documentation for each java file in a project.
+
 ## M
 
 [**Mio**](https://github.com/carllerche/mio) is a lightweight I/O library for Rust with a focus on adding as little overhead as possible over the OS abstractions.
@@ -339,7 +343,7 @@ button.add_event_listener( move |_: ClickEvent| {
 
 ## T
 
-[**TiKV**](https://github.com/pingcap/tikv) is a distributed Key-Value database which is based on the design of Google Spanner and HBase, but it is much simpler without dependency on any distributed file system. With the implementation of the Raft consensus algorithm in Rust and consensus state stored in RocksDB, it guarantees data consistency. Placement Driver which is introduced to implement sharding enables automatic data migration. The transaction model is similar to Google's Percolator with some performance improvements. TiKV also provides snapshot isolation (SI), snapshot isolation with lock (SQL: select ... for update), and externally consistent reads and writes in distributed transactions. 
+[**TiKV**](https://github.com/pingcap/tikv) is a distributed Key-Value database which is based on the design of Google Spanner and HBase, but it is much simpler without dependency on any distributed file system. With the implementation of the Raft consensus algorithm in Rust and consensus state stored in RocksDB, it guarantees data consistency. Placement Driver which is introduced to implement sharding enables automatic data migration. The transaction model is similar to Google's Percolator with some performance improvements. TiKV also provides snapshot isolation (SI), snapshot isolation with lock (SQL: select ... for update), and externally consistent reads and writes in distributed transactions.
 
 ## X
 
