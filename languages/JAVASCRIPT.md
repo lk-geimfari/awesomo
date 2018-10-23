@@ -242,6 +242,11 @@ db.replicate.to('http://example.com/mydb');
 
 reveal.js comes with a broad range of features including [nested slides](https://github.com/hakimel/reveal.js#markup), [Markdown contents](https://github.com/hakimel/reveal.js#markdown), [PDF export](https://github.com/hakimel/reveal.js#pdf-export), [speaker notes](https://github.com/hakimel/reveal.js#speaker-notes) and a [JavaScript API](https://github.com/hakimel/reveal.js#api). There's also a fully featured visual editor and platform for sharing reveal.js presentations at [slides.com](https://slides.com?ref=github).
 
+---
+[**ReLaXed**](https://github.com/RelaxedJS/ReLaXed) creates PDF documents interactively using HTML or Pug (a shorthand for HTML). It allows complex layouts to be defined with CSS and JavaScript, while writing the content in a friendly, minimal syntax close to Markdown or LaTeX.
+
+![ReLaXed](https://raw.githubusercontent.com/RelaxedJS/ReLaXed/master/logo-blue.png)
+
 ## S
 
 [**socket.io**](https://github.com/socketio/socket.io) —  Realtime application framework (Node.JS server).
