@@ -3,9 +3,9 @@
 |       |       |       |       |       |       |       |
 |---    |---    |---    |---    |---    |---    |    ---|
 |[A](#a)|[B](#b)|[C](#c)|[D](#d)|[E](#e)|[F](#f)|[G](#g)|
-|[H](#h)|[I](#i)|[J](#j)|[K](#k)|[L](#l)|[M](#m)|[N](#n)|
-|[P](#p)|[Q](#q)|[R](#r)|[S](#s)|[T](#t)|[U](#u)|[V](#v)|
-|[W](#w)|[X](#x)|[Y](#y)|[Z](#z)|       |       |       |
+|[H](#h)|[I](#i)|[J](#j)|[K](#k)|[L](#l)|[M](#m)|[P](#p)|
+|[Q](#q)|[R](#r)|[S](#s)|[T](#t)|[U](#u)|[V](#v)|[W](#w)|
+|[X](#x)|[Y](#y)|[Z](#z)|       |       |       |       |
 |       |       |       |       |       |       |       |
 
 <br>
@@ -176,6 +176,13 @@ Impress.js is inspired by the idea behind [Prezi](https://prezi.com/).
 
 ## M
 
+[**Mailspring**](https://github.com/Foundry376/Mailspring) is a new version of [Nylas Mail](https://github.com/nylas/nylas-mail) maintained by one of the original authors. It's faster, leaner, and shipping today! It replaces the JavaScript sync code in Nylas Mail with a new C++ sync engine based on Mailcore2. It uses roughly half the RAM and CPU of Nylas Mail and idles with almost zero "CPU Wakes", which translates to great battery life. It also has an entirely revamped composer and other great new features.
+
+Mailspring's UI is open source (GPLv3) and written in JavaScript with Electron and React - it's built on a plugin architecture and was designed to be easy to extend.
+
+![Mailspring Screenshot](https://github.com/Foundry376/Mailspring/raw/master/screenshots/hero_graphic_mac%402x.png)
+
+---
 [**Marko**](https://github.com/marko-js/marko) is a friendly and super fast UI library that makes building web apps fun!
 
 ![marko](https://user-images.githubusercontent.com/3771924/29725582-a043b5fe-899a-11e7-83f8-215fdc904256.png)
@@ -189,13 +196,6 @@ Impress.js is inspired by the idea behind [Prezi](https://prezi.com/).
 [**Moment.js**](https://github.com/moment/moment)  —  a lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
 
 ![moment.js](https://cdn-images-1.medium.com/max/720/0*DP6jZMrfJIt2znNM.png)
-
-## N
-
-[**N1 **](https://github.com/nylas/N1) —  an open-source mail client built on the modern web with Electron, React, and Flux. It is designed to be extensible, so it’s easy to create new experiences and workflows around email. N1 is built on the Nylas Sync Engine, which is also open-source free software.
-
-![logo](https://cdn-images-1.medium.com/max/720/0*47dEbQUDUuduqWTQ.)
-![main](https://cdn-images-1.medium.com/max/720/0*-hGOgH1DGkciuud9.)
 
 ## P
 
