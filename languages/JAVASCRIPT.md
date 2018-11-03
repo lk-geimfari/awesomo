@@ -178,7 +178,7 @@ Impress.js is inspired by the idea behind [Prezi](https://prezi.com/).
 
 [**Mailspring**](https://github.com/Foundry376/Mailspring) is a new version of [Nylas Mail](https://github.com/nylas/nylas-mail) maintained by one of the original authors. It's faster, leaner, and shipping today! It replaces the JavaScript sync code in Nylas Mail with a new C++ sync engine based on Mailcore2. It uses roughly half the RAM and CPU of Nylas Mail and idles with almost zero "CPU Wakes", which translates to great battery life. It also has an entirely revamped composer and other great new features.
 
-Mailspring's UI is open source (GPLv3) and written in JavaScript with Electron and React - it's built on a plugin architecture and was designed to be easy to extend
+Mailspring's UI is open source (GPLv3) and written in JavaScript with Electron and React - it's built on a plugin architecture and was designed to be easy to extend.
 
 ![Mailspring Screenshot](https://github.com/Foundry376/Mailspring/raw/master/screenshots/hero_graphic_mac%402x.png)
 
