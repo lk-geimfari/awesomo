@@ -219,6 +219,30 @@ To render a file we can call `render-file` instead:
 (render-file "home.html" {:name "Yogthos"})
 ```
 
+[**Specter**](https://github.com/nathanmarz/specter). Advanced data navigator. Specter rejects Clojure's restrictive approach to immutable data structure manipulation, instead exposing an elegant API to allow any sort of manipulation imaginable. Specter especially excels at querying and transforming nested and recursive data, important use cases that are very complex to handle with vanilla Clojure.
+
+```clojure
+(def data {:a [{:aa 1 :bb 2}
+               {:cc 3}]
+           :b [{:dd 4}]})
+
+;; Manual Clojure
+(defn map-vals [m afn]
+  (->> m (map (fn [[k v]] [k (afn v)])) (into (empty m))))
+
+(map-vals data
+  (fn [v]
+    (mapv
+      (fn [m]
+        (map-vals
+          m
+          (fn [v] (if (even? v) (inc v) v))))
+      v)))
+
+;; Specter
+(transform [MAP-VALS ALL MAP-VALS even?] inc data)
+```
+
 ## Y
 
 [**yada** ](https://github.com/juxt/yada) —  a web library for Clojure, designed to support the creation of production services via HTTP.
