@@ -33,6 +33,10 @@ This is a pure-Elixir, dependency-free implementation of release generation for 
 
 ## E
 
+[**emel**](https://github.com/mrdimosthenis/emel) Turn data into functions! A simple and functional machine learning library written in elixir.
+
+---
+
 [**ex_admin** ](https://github.com/smpallen99/ex_admin) —  an add on for an application using the Phoenix Framework to create an CRUD administration tool with little or no code. By running a few mix tasks to define which Ecto Models you want to administer, you will have something that works with no additional code.
 
 ![ex_admin](https://camo.githubusercontent.com/b67ecbe1c05460a6b838bec9f33286bec9a5db8a/687474703a2f2f657861646d696e2e696e666f2f646f632f65785f61646d696e5f626c75652e706e67)
