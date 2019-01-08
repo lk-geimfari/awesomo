@@ -197,6 +197,12 @@ Mailspring's UI is open source (GPLv3) and written in JavaScript with Electron a
 
 ![moment.js](https://cdn-images-1.medium.com/max/720/0*DP6jZMrfJIt2znNM.png)
 
+## O
+
+[**omniclone**](https://github.com/jfet97/omniclone)  —  An isomorphic and configurable javascript utility for objects deep cloning. 
+
+---
+
 ## P
 
 [**PhotoSwipe**](https://github.com/dimsemenov/PhotoSwipe)  —  JavaScript image gallery for mobile and desktop, modular, framework independent.
