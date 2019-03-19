@@ -24,6 +24,15 @@ Cowboy aims to provide a complete HTTP stack in a small code base. It is optimiz
 
 ![cowboy](https://ninenines.eu/img/projects/cowboy-home.png)
 
+---
+[**couchdb**](https://github.com/apache/couchdb)  — a document-oriented NoSQL database.
+
+
+## D
+
+[**disco**](https://github.com/discoproject/disco)  — a Map/Reduce framework for distributed computing.
+
+
 ## E
 
 [**ejabberd**](https://github.com/processone/ejabberd) is a distributed, fault-tolerant technology that allows the creation of large-scale instant messaging applications. The server can reliably support thousands of simultaneous users on a single node and has been designed to provide exceptional standards of fault tolerance. As an open source technology, based on industry-standards, ejabberd can be used to build bespoke solutions very cost effectively.
@@ -132,6 +141,10 @@ update_something() ->
 Ranch aims to provide everything you need to accept TCP connections with a small code base and low latency while being easy to use directly as an application or to embed into your own.
 
 Ranch provides a modular design, letting you choose which transport and protocol are going to be used for a particular listener. Listeners accept and manage connections on one port, and include facilities to limit the number of concurrent connections. Connections are sorted into pools, each pool having a different configurable limit.
+
+---
+[**riak**](https://github.com/basho/riak) is a decentralized datastore from Basho Technologies.
+
 
 ## V
 
