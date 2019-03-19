@@ -24,8 +24,6 @@
 
 [**Flow**](https://github.com/facebook/flow) is a static typechecker for JavaScript. To find out more about Flow, check out flowtype.org.
 
-![flow](https://flowtype.org/assets/flow-logo.png)
-
 ## I
 
 [**Infer**](https://github.com/facebook/infer) is a static analysis tool for Java, Objective-C and C, written in OCaml.
