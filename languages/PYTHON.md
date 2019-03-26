@@ -1,12 +1,11 @@
-
 ## Alphabetical index of projects in Python:
 
 |       |       |       |       |       |       |       |
 |---    |---    |---    |---    |---    |---    |    ---|
 |[A](#a)|[B](#b)|[C](#c)|[D](#d)|[E](#e)|[F](#f)|[G](#g)|
 |[H](#h)|[I](#i)|[J](#j)|[K](#k)|[L](#l)|[M](#m)|[N](#n)|
-|[P](#p)|[Q](#q)|[R](#r)|[S](#s)|[T](#t)|[U](#u)|[V](#v)|
-|[W](#w)|[X](#x)|[Y](#y)|[Z](#z)|       |       |       |
+|[O](#o)|[P](#p)|[Q](#q)|[R](#r)|[S](#s)|[T](#t)|[U](#u)|
+|[V](#v)|[W](#w)|[X](#x)|[Y](#y)|[Z](#z)|       |       |
 |       |       |       |       |       |       |       |
 
 <br>
@@ -956,3 +955,4 @@ $ flake8 your_package/
 ```
 
 Full list of violations available [at the documentation](https://wemake-python-styleguide.readthedocs.io/en/latest/_pages/violations/index.html).
+
