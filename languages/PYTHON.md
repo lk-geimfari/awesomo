@@ -676,6 +676,13 @@ optparse.py:472:29: E221 multiple spaces before operator
 optparse.py:544:21: W601 .has_key() is deprecated, use 'in'
 ```
 
+
+---
+[**Pyro**](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch. Maintained by Uber.
+
+![](https://raw.githubusercontent.com/pyro-ppl/pyro/dev/docs/source/_static/img/pyro_logo_with_text.png)
+
+
 ---
 [**python-fire**](https://github.com/google/python-fire) is a library for creating command line interfaces (CLIs) from
 absolutely any Python object.
