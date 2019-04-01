@@ -724,6 +724,13 @@ Supported: *Python 2.7/3.3+*
 ![](https://github.com/Cisco-Talos/pyrebox/raw/master/docs/media/pyrebox_logo_light_bg.png)
 
 
+---
+[**Pytorch**](https://github.com/pytorch/pytorch) - An open source deep learning platform that provides a seamless path from research prototyping to production deployment. Maintained by Facebook.
+
+![](https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png)
+
+
+
 ## R
 
 [**Rainbow Stream **](https://github.com/DTVD/rainbowstream) —  is a terminal-based Twitter Client. Realtime tweetstream, compose, search, favorite … and much more fun directly from terminal.
