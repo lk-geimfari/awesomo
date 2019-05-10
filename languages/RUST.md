@@ -202,6 +202,7 @@ fn main() {
 ## P
 
 [**Parity**](https://github.com/paritytech/parity) - fast, light, and robust Ethereum client.
+[**Plume**](https://github.com/Plume-org/Plume) - a federated blogging engine, powered by ActivityPub.
 
 ## R
 
