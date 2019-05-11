@@ -49,6 +49,15 @@ TypeScript is a language for application-scale JavaScript. TypeScript adds optio
 
 [Check out the live demo](http://www.typescriptlang.org/play/)
 
+---
+[**TypeScriptToLua**](https://github.com/TypeScriptToLua/TypeScriptToLua) - A TypeScript to Lua transpiler.
+
+A generic TypeScript to Lua transpiler. Write your code in TypeScript and publish Lua!
+
+Large projects written in lua can become hard to maintain and make it easy to make mistakes. Writing code in TypeScript instead improves maintainability, readability and robustness, with the added bonus of good IDE support. This project is useful in any environment where Lua code is accepted, with the powerful option of simply declaring any existing API using TypeScript declaration files.
+
+<img src="https://raw.githubusercontent.com/TypeScriptToLua/TypeScriptToLua/master/logo-hq.png" alt="TypeScriptToLua" width="256" />
+
 ## V
 
 [**Visual Studio Code**](https://github.com/Microsoft/vscode) - Open source code editor.
