@@ -24,6 +24,7 @@ If you are interested in [Open Source](https://en.wikipedia.org/wiki/Open-source
  - [Haskell](languages/HASKELL.md)
  - [Java](languages/JAVA.md)
  - [JavaScript](languages/JAVASCRIPT.md)
+ - [Kotlin](languages/KOTLIN.md)
  - [Lua](languages/LUA.md)
  - [Nim](languages/NIM.md)
  - [OCaml](languages/OCAML.md)
