@@ -341,6 +341,24 @@ See [hypothesis.works](http://hypothesis.works) for articles, tips, and testimon
 [the documentation](https://hypothesis.readthedocs.io) to get started; or
 [the repo](https://github.com/HypothesisWorks/hypothesis-python) to contribute.
 
+## I
+
+[**igcc**](https://gitlab.com/the-language/igcc) (Interactive GCC) is a read-eval-print loop (REPL) for C/C++ programmers.
+
+Examples:
+
+```bash
+$ ./igcc
+g++> int a = 5;
+g++> a += 2;
+g++> cout << a << endl;
+7
+g++> --a;
+g++> cout << a << endl;
+6
+g++>
+```
+
 ## J
 
 [**Japronto**](https://github.com/squeaky-pl/japronto) (from Portuguese "já pronto" /ˈʒa pɾõtu/ meaning "already done") is a screaming-fast, scalable, asynchronous Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser. It's targeted at speed enthusiasts, people who like plumbing and early adopters.
