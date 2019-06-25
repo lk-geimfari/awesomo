@@ -28,6 +28,13 @@
 ![hadolint](https://github.com/lukasmartinelli/hadolint/raw/master/screenshot.png)
 
 ---
+
+[**hnes**](https://github.com/dbousamra/hnes) is a NES emulator written in Haskell.
+
+<img src="https://github.com/dbousamra/hnes/raw/master/screenshots/mario-1.png" width="320" />
+
+---
+
 [**http-client**](https://github.com/snoyberg/http-client) is a mega-repo for housing the http-client family of packages for Haskell. These packages provide a low level HTTP client engine (http-client), different backends for providing SSL support (http-client-tls and http-client-openssl), and higher-level APIs for user convenience (http-conduit).
 
 --- 
