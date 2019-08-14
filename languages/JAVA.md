@@ -29,3 +29,8 @@ The project's site: https://appulse.io
 [**libGDX**](https://github.com/libgdx/libgdx) is a cross-platform Java game development framework based on OpenGL (ES) that works on Windows, Linux, Mac OS X, Android, your WebGL enabled browser and iOS.
 
 ![libgdx](https://camo.githubusercontent.com/f70f169cab179f13f70e892b3251e6f2032be66d/687474703a2f2f6c69626764782e6261646c6f67696367616d65732e636f6d2f696d672f6c6f676f2e706e67)
+
+## W
+[**World War of Ants**](https://github.com/warofants/wwa) is a game about managing lives of ants, making sure their colony is fed, maintained, defended and prosperous. 
+
+It is built with Java, and uses a command line interface for player input.
