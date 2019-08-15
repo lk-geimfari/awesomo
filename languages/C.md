@@ -102,5 +102,3 @@ It derives from the old Numeric code base and can be used as a replacement for N
 ## V
 
 [VeraCrypt](https://veracrypt.codeplex.com/) is an open-source utility used for on-the-fly encryption (OTFE). It can create a virtual encrypted disk within a file or encrypt a partition or the entire storage device with pre-boot authentication.
-
-![veracrypt](https://download-codeplex.sec.s-msft.com/Download?ProjectName=veracrypt&DownloadId=1527687&Build=21040)
