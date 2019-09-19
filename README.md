@@ -26,7 +26,6 @@ If you are interested in [Open Source](https://en.wikipedia.org/wiki/Open-source
  - [JavaScript](languages/JAVASCRIPT.md)
  - [Kotlin](languages/KOTLIN.md)
  - [Lua](languages/LUA.md)
- - [Natural Language](languages/NATURAL_LANGUAGE.md)
  - [OCaml](languages/OCAML.md)
  - [PHP](languages/PHP.md)
  - [Python](languages/PYTHON.md)
