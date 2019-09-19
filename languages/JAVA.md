@@ -32,9 +32,11 @@ The project's site: https://appulse.io
 
 ## O
 
-[**openVALIDATION**](https://github.com/openvalidation/openvalidation) OpenVALIDATION enables you to generate validation rules from natural language-like expressions in English and German without any knowledge in programming. The validation rules can be automatically translated by openVALIDATION into Java, JavaScript or C#, with more languages to come!
+[**openVALIDATION**](https://github.com/openvalidation/openvalidation) OpenVALIDATION written in Java enables you to generate validation rules from natural language-like expressions in English and German without any knowledge in programming. The validation rules can be automatically translated by openVALIDATION into Java, JavaScript or C#, with more languages to come!
 
 ![openVALIDATION](https://github.com/openvalidation/openvalidation/blob/master/docs/first-screen.png)
+
+[http://openvalidation.io](http://openvalidation.io)
 
 ## W
 [**World War of Ants**](https://github.com/warofants/wwa) is a game about managing lives of ants, making sure their colony is fed, maintained, defended and prosperous. 
