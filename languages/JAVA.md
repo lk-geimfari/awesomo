@@ -34,7 +34,7 @@ The project's site: https://appulse.io
 
 [**openVALIDATION**](https://github.com/openvalidation/openvalidation) OpenVALIDATION written in Java enables you to generate validation rules from natural language-like expressions in English and German without any knowledge in programming. The validation rules can be automatically translated by openVALIDATION into Java, JavaScript or C#, with more languages to come!
 
-![openVALIDATION](https://github.com/openvalidation/openvalidation/blob/master/docs/first-screen.png)
+![openVALIDATION](https://raw.githubusercontent.com/openvalidation/openvalidation/master/docs/first-screen.png)
 
 [http://openvalidation.io](http://openvalidation.io)
 
