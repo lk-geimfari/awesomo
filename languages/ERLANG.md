@@ -16,6 +16,18 @@
 
 ![](https://camo.githubusercontent.com/d78d100e5e6624221243114cfa64472f6023de42/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f755a515030505230426d6b47412f67697068792e676966)
 
+## B
+
+[**Binbo**](https://github.com/DOBRO/binbo)  —  a Chess representation written in pure Erlang using **Bitboards**. It is basically aimed to be used on game servers where people play chess online.
+
+It’s called `Binbo` because its ground is a **bin**ary **bo**ard containing only *zeros* and *ones* (`0` and `1`) since this is the main meaning of Bitboards as an internal chessboard representation.
+
+Binbo also uses the **Magic Bitboards** approach for a **blazing fast** move generation of sliding pieces (rook, bishop, and queen).
+
+**Note**: it’s not a chess engine but it could be a good starting point for it. It can play the role of a core (regarding move generation and validation) for multiple chess engines running on distributed Erlang nodes, since Binbo is an OTP application itself.
+
+![](https://user-images.githubusercontent.com/296845/61208986-40792d80-a701-11e9-93c8-d2c41c5ef00d.png)
+
 ## C
 
 [**Cowboy**](https://github.com/ninenines/cowboy)  —  a small, fast and modern HTTP server for Erlang/OTP. I think that everyone who interested in Erlang heard about a cowboy.
