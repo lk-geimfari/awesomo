@@ -268,7 +268,7 @@ reveal.js comes with a broad range of features including [nested slides](https:/
 
 [Check out the live demo](https://github.com/limonte/sweetalert2).
 
-![sweetalert](https://camo.githubusercontent.com/3144fa643139adee4eb7d01e2e0a63c12d0e0a72/68747470733a2f2f7261772e6769746875622e636f6d2f743474352f7377656574616c6572742f6d61737465722f7377656574616c6572742e676966)
+![sweetalert](https://raw.githubusercontent.com/sweetalert2/sweetalert2/master/assets/swal2-logo.png)
 
 ## T
 
