@@ -33,6 +33,14 @@ Know how to build websites? Then you already know how to build mobile apps. Ioni
 
 ![ionic](https://ionicframework.com/img/ionic-logo.png)
 
+## R
+
+[**RxJS**](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
+
+RxJS is a library for reactive programming using Observables, to make it easier to compose asynchronous or callback-based code. This project is a rewrite of Reactive-Extensions/RxJS with better performance, better modularity, better debuggable call stacks, while staying mostly backwards compatible, with some breaking changes that reduce the API surface
+
+![rxjs](https://rxjs-dev.firebaseapp.com/generated/images/marketing/home/Rx_Logo-512-512.png)
+
 ## S
 
 [**Stryker**](https://github.com/stryker-mutator/stryker)  —  A mutation testing framework for JavaScript.
