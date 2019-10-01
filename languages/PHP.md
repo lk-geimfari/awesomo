@@ -18,3 +18,16 @@ migrations,  Authentication and Authorizations, templating with Blade, routing, 
 ---
 
 [**Code Igniter**](https://codeigniter.com/) CodeIgniter is a powerful PHP framework with a very small footprint, built for developers who need a simple and elegant toolkit to create full-featured web applications.
+
+- Framework with a small footprint
+CodeIgniter 3 has a 2MB download, including the user guide. CodeIgniter 4 is a 1.2MB download, plus 6MB for the user guide.
+- Simple solutions over complexity
+CodeIgniter encourages MVC, but does not force it on you.
+- Clear documentation
+CodeIgniter consistently outperforms most of its competitors.
+- Exceptional performance
+CodeIgniter consistently outperforms most of its competitors.
+-Strong Security
+We take security seriously, with built-in protection against CSRF and XSS attacks. Version 4 adds context-sensitive escaping and CSP
+-Nearly zero configuration
+Much of the CodeIgniter configuration is done by convention, for instance putting models in a "models" folder. There are still a number of configuration options available, through scripts in the "config" folder.
