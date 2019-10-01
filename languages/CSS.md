@@ -32,31 +32,11 @@
 
 ---
 
-## C
-
-[**CSS Icon**](https://github.com/wentin/cssicon)  —  Icon set made with Pure CSS Code. No Dependencies. "Grab and Go" Icons.
-
----
-
 ## F
 
 [**Foundation**](https://github.com/zurb/foundation-sites)  —  The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 
 ![foundation](http://imgur.com/gMugT6l.png)
-
----
-
-## H
-
-[**Hack.css**](https://github.com/egoist/hack)  —  :skier: Dead simple CSS framework. Hack.css is perfect for the homepage of your open-source projects!
-
-![hack](http://imgur.com/EmerKkb.png)
-
----
-
-## M
-
-[**Material Design icons**](https://github.com/google/material-design-icons)  —  Material design icons are the official icon set from Google that are designed under the material design guidelines.
 
 ---
 
@@ -71,14 +51,6 @@
 [**Pure**](https://github.com/yahoo/pure)  —  A set of small, responsive CSS modules that you can use in every web project.
 
 ![pure](http://imgur.com/g0wa74Q.png)
-
----
-
-## S
-
-[**Strawberry**](https://github.com/jfet97/strawberry)  —  A new flexbox based CSS micro-framework: a set of common flexbox's utilities focused on making your life easier and faster with nested flexboxes.
-
-![strawberry](https://i.imgur.com/dlFIDAd.png)
 
 ---
 
