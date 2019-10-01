@@ -16,6 +16,10 @@
 
 ## L
 
+[**Lapis**](https://github.com/leafo/lapis) —  a web framework for Lua and OpenResty.
+
+---
+
 [**Lor**](https://github.com/sumory/lor) —  a fast and minimalist web framework based on OpenResty.
 
 Example:
