@@ -42,7 +42,6 @@
 
 ## M
 [**Materialize**](https://materializecss.com/) — A modern responsive front-end framework based on Material Design
-![materialize](https://imgur.com/FIGhT0j)
 
 ## P
 
@@ -61,8 +60,6 @@
 ## S
 
 [**Semantic UI**](https://semantic-ui.com/) — Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML.
-
-![semantic](https://imgur.com/CzUqCjh)
 
 ## T
 
