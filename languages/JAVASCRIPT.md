@@ -129,6 +129,11 @@ Gatsby is a blazing-fast static site generator for React. Powered By GraphQL and
 ![ghost](http://imgur.com/gLARrBe.png)
 
 ---
+[**Graphql designer**](https://github.com/GraphQL-Designer/graphqldesigner.com) is web-app tool to rapidly prototype a full stack implementation of GraphQL with React.
+
+![graphqldesigner](https://raw.githubusercontent.com/GraphQL-Designer/graphqldesigner.com/master/Screenshots/Screenshot-SchemaUpdated.png)
+
+---
 [**Gulp**](https://github.com/gulpjs/gulp)  — The streaming build system.
 
 ![gulp](http://imgur.com/92epDTJ.png)
