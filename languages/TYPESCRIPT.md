@@ -67,6 +67,11 @@ First and foremost, it is an editor that gets out of your way. The delightfully 
 
 ![vscode](https://cloud.githubusercontent.com/assets/11839736/16642200/6624dde0-43bd-11e6-8595-c81885ba0dc2.png)
 
+[**Vue.js**](https://github.com/vuejs/vue) - The Progressive JavaScript Framework
+
+Vue (pronounced /vjuː/, like view) is a **progressive framework** for building user interfaces. It is designed from the ground up to be incrementally adoptable, and can easily scale between a library and a framework depending on different use cases. It consists of an approachable core library that focuses on the view layer only, and an ecosystem of supporting libraries that helps you tackle complexity in large Single-Page Applications.
+![vue.js](https://vuejs.org/images/logo.png)
+
 ## X
 
 [**Xterm.js**](https://github.com/xtermjs/xterm.js) - A terminal frontend for the web platform
