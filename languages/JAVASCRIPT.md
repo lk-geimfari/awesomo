@@ -90,7 +90,7 @@ This is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 
 ---
 [**Docsify**](https://github.com/QingWei-Li/docsify)  —  :black_joker: A magical documentation site generator.
 
-![docsify](https://raw.githubusercontent.com/QingWei-Li/docsify/master/media/docsify.png)
+![docsify](https://docsify.js.org/_media/icon.svg)
 
 ## E
 
