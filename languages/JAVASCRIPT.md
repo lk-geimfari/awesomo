@@ -78,6 +78,13 @@ Chart.js provides two different builds that are available for your use. The Char
 ---
 [**date-fns**](https://github.com/date-fns/date-fns) — :hourglass: Modern JavaScript date utility library :hourglass:.
 
+Create a PWA presentation using Web Components, [Ionic](http://ionicframework.com) components and HTML or Markdown.
+
+Cherry on the cake 🍒🎂 [DeckDeckGo] comes with a [Progressive Web App](https://deckdeckgo.app) to remote control your slides 📱
+
+---
+[**DeckDeckGo**](https://github.com/deckgo/deckdeckgo) — :hourglass: The web open source editor for presentations  :hourglass:.
+
 date-fns provides the most comprehensive, yet simple and consistent toolset for manipulating JavaScript dates in a **Browser** & **Node.js**.
 
 ---
