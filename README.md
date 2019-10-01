@@ -4,7 +4,7 @@
   <b>A.W.E.S.O.M. O</b> is an extensive list of interesting open source projects written in various languages.
 </p>
 
-If you are interested in [Open Source](https://en.wikipedia.org/wiki/Open-source_software) and are considering to join the community of Open Source developers, then here you might find a project that will suit you.
+If you are interested in [Open Source](https://en.wikipedia.org/wiki/Open-source_software) and are considering to join the community of Open Source developers, then here you might find a project that will suits you.
 
 ## Languages
 
