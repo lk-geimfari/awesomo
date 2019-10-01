@@ -41,6 +41,8 @@ RxJS is a library for reactive programming using Observables, to make it easier 
 
 ![rxjs](https://rxjs-dev.firebaseapp.com/generated/images/marketing/home/Rx_Logo-512-512.png)
 
+[**React**](https://reactjs.org/) - A JavaScript library for building user interfaces
+
 ## S
 
 [**Stryker**](https://github.com/stryker-mutator/stryker)  —  A mutation testing framework for JavaScript.
