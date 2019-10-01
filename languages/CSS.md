@@ -40,6 +40,9 @@
 
 ---
 
+## M
+[**Materialize**](https://materializecss.com/) — A modern responsive front-end framework based on Material Design
+
 ## P
 
 [**PostCSS**](https://github.com/postcss/postcss)  —  Transforming styles with JS plugins. These plugins can lint your CSS, support variables and mixins, transpile future CSS syntax, inline images, and more.
@@ -53,6 +56,10 @@
 ![pure](http://imgur.com/g0wa74Q.png)
 
 ---
+
+## S
+
+[**Semantic UI**](https://semantic-ui.com/) — Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML.
 
 ## T
 
