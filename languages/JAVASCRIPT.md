@@ -64,10 +64,6 @@ Chart.js provides two different builds that are available for your use. The Char
 
 ![countly](https://count.ly/images/home/countly-overview.png?v2)
 
----
-[**Code Surfer**](https://github.com/pomber/code-surfer)  —  React component for scrolling, zooming and highlighting code samples <🏄/>
-
-![code-surfer](https://raw.githubusercontent.com/pomber/code-surfer/master/other/sample.gif)
 
 ## D
 
@@ -79,13 +75,6 @@ Chart.js provides two different builds that are available for your use. The Char
 [**date-fns**](https://github.com/date-fns/date-fns) — :hourglass: Modern JavaScript date utility library :hourglass:.
 
 date-fns provides the most comprehensive, yet simple and consistent toolset for manipulating JavaScript dates in a **Browser** & **Node.js**.
-
----
-[**Dillinger**](https://github.com/joemccann/dillinger) - Online Markdown Editor.
-
-This is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor. Allows importing of HTML files, exporting as Markdown/HTML/PDF, drag and drop files into the editor, and importing/saving files through GitHub, Dropbox, GooglDrive, and OneDrive.
-
-![dillinger](https://i.imgur.com/q4MHIi2.png)
 
 ---
 [**Docsify**](https://github.com/QingWei-Li/docsify)  —  :black_joker: A magical documentation site generator.
@@ -154,14 +143,6 @@ Impress.js is inspired by the idea behind [Prezi](https://prezi.com/).
 
 [Check out the live demo](http://impress.github.io/impress.js).
 
----
-[**Iroh**](https://github.com/maierfelix/Iroh) is a dynamic code analysis tool for JavaScript. Iroh allows to record your code flow in realtime, intercept runtime values and manipulate program behaviour on the fly.
-
-<p align="center">
-  <a href="//maierfelix.github.io/Iroh/">
-    <img alt="Iroh" src="http://i.imgur.com/q7DYXfF.png" height="175">
-  </a>
-</p>
 
 ## L
 
@@ -187,10 +168,6 @@ Mailspring's UI is open source (GPLv3) and written in JavaScript with Electron a
 
 ![marko](https://user-images.githubusercontent.com/3771924/29725582-a043b5fe-899a-11e7-83f8-215fdc904256.png)
 
----
-[**medium-editor**](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
-
-![me](https://camo.githubusercontent.com/d86c82faf35336867c2b66ed0b931209fe0be224/68747470733a2f2f7261772e6769746875622e636f6d2f79616277652f6d656469756d2d656469746f722f6d61737465722f64656d6f2f696d672f6d656469756d2d656469746f722e6a7067)
 
 ---
 [**Moment.js**](https://github.com/moment/moment)  —  a lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
@@ -231,11 +208,7 @@ db.replicate.to('http://example.com/mydb');
 
 ## R
 
-[**React Showroom**](https://github.com/OpusCapita/react-showroom-client) is a [react](https://github.com/facebook/react) based components catalog which provides you with markdown documentation and live examples.
 
-![React Showroom demo](https://raw.githubusercontent.com/OpusCapita/react-showroom-client/master/docs/demo.gif)
-
----
 [**Reveal.js**](https://github.com/hakimel/reveal.js)  — A framework for easily creating beautiful presentations using HTML.
 
 [Check out the live demo](http://lab.hakim.se/reveal-js/).
