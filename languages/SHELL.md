@@ -21,3 +21,6 @@
 
 ---
 [**Kerl**](https://github.com/kerl/kerl). Easy building and installing of Erlang/OTP instances. Kerl aims to be shell agnostic and its only dependencies, excluding what's required to actually build Erlang/OTP, are curl and git. All is done so that, once a specific release has been built, creating a new installation is as fast as possible.
+
+---
+[**Mal**](https://github.com/kanaka/mal). Mal is a Clojure inspired Lisp interpreter
