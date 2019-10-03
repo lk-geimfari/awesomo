@@ -42,6 +42,18 @@ This initial release should be considered to be pre-alpha software--it will have
 
 ![screen](https://cloud.githubusercontent.com/assets/4285147/21585004/2ebd0288-d06c-11e6-95d3-4a2889dbbd6f.png)
 
+## B
+
+[**bat**](https://github.com/sharkdp/bat) is a `cat` replacement with extended features like syntax highlighting and git integration.
+
+Syntax highlighting:
+
+![syntax highlighting](https://camo.githubusercontent.com/9d3d89364f2cc83ace8f29646a6236bc15ea1da0/68747470733a2f2f696d6775722e636f6d2f724773646e44652e706e67)
+
+Git integration:
+
+![git integration](https://camo.githubusercontent.com/67e44f4a68150325f74b3a46820b7473ff7b91a6/68747470733a2f2f692e696d6775722e636f6d2f326c53573452452e706e67)
+
 ## C
 
 [**coreutils**](https://github.com/uutils/coreutils) is an attempt at writing universal (as in cross-platform) CLI utils in Rust. This repo is to aggregate the GNU coreutils rewrites.
