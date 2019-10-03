@@ -560,6 +560,17 @@ Supported: *Python 2*
 
 ![nupic](https://cdn-images-1.medium.com/max/720/0*iYw1suOWr3weH9xq.)
 
+---
+[**NumPy**](https://numpy.org/) is the fundamental package for scientific computing with Python. Many scientific and machine learning packages are built on top of NumPy. Some key features of NumPy include multi-dimensional arrays and matrices, high-level mathematical functions for array operations, and tools for integrating C/C++ and Fortran code.
+
+Supported: *Python 2/3*
+
+<p align="center">
+    <a href="https://numpy.org">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1200px-NumPy_logo.svg.png">
+    </a>
+</p>
+
 ## P
 
 [**Pandas**](https://github.com/pandas-dev/pandas) is a Python package providing fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real world data analysis in Python. Additionally, it has the broader goal of becoming the most powerful and flexible open source data analysis / manipulation tool available in any language. It is already well on its way toward this goal.

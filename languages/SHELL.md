@@ -20,6 +20,9 @@
 ![ohmyzsh](https://camo.githubusercontent.com/5c385f15f3eaedb72cfcfbbaf75355b700ac0757/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6f686d797a73682f6f682d6d792d7a73682d6c6f676f2e706e67)
 
 ---
+[**Prezto**](https://github.com/sorin-ionescu/prezto) is a configuration framework for Zsh. It comes supplied with a variety of plugins and themes that can extend and customise your shell.
+
+---
 [**Kerl**](https://github.com/kerl/kerl). Easy building and installing of Erlang/OTP instances. Kerl aims to be shell agnostic and its only dependencies, excluding what's required to actually build Erlang/OTP, are curl and git. All is done so that, once a specific release has been built, creating a new installation is as fast as possible.
 
 ---

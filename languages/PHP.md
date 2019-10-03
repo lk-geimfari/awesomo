@@ -14,3 +14,9 @@
 efficient and concise API. It covers a lot of web developers needs: an ORM (named Eloquent) and DB
 migrations,  Authentication and Authorizations, templating with Blade, routing, Browser testing
 (named Laravel Dusk), API only (Lumen), assets compilation, etc. And all very well documented.
+
+
+---
+[**Symfony**](https://github.com/symfony/symfony) is a web development framework created natively for PHP. The leading PHP framework for creating Web sites and Web applications, with a large community, a passionate group of over 600,000 developers from more than 120 countries, all committed to helping PHP surpass the impossible.
+It covers a lot of web developers needs: an ORM (named Doctrine), Authentication and Authorizations(Voters), templating with Twig, routing, built on Symfony components, etc. And a very documented documentation.
+The Symfony Philosophy embrace and promote professionalism, best practices, standardization and interoperability of applications.
