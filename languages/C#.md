@@ -212,16 +212,10 @@ Use OpenTK to add cross-platform 3d graphics, audio, compute and haptics to your
 
 ## P
 
-[**Performance**](https://github.com/aspnet/Performance) - Performance tests and infrastructure for ASP.NET. This project is part of ASP.NET Core.
-
----
 [**PostProcessing**](https://github.com/Unity-Technologies/PostProcessing) is a new unity post-processing stack is an über effect that combines a complete set of image effects into a single post-process pipeline.
 
 ---
 [**PowerShell**](https://github.com/PowerShell/PowerShell) is a cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language and a framework for processing cmdlets.
-
----
-[**Proxy**](https://github.com/aspnet/Proxy) is a library for ASP.NET Core.
 
 ## Q
 
@@ -235,9 +229,6 @@ Use OpenTK to add cross-platform 3d graphics, audio, compute and haptics to your
 [**Radarr**](https://github.com/Radarr/Radarr) is a fork of Sonarr to work with movies à la Couchpotato. https://radarr.video
 
 ---
-[**Razor**](https://github.com/aspnet/Razor) is a part of ASP.NET Core. The Razor syntax provides a fast, terse, clean and lightweight way to combine server code with HTML to create dynamic web content. This repo contains the parser and the C# code generator for the Razor syntax.
-
----
 [**react-native-windows**](https://github.com/Microsoft/react-native-windows) is a framework for building native UWP and WPF apps with React. http://facebook.github.io/react-native/
 
 ---
@@ -246,30 +237,12 @@ Use OpenTK to add cross-platform 3d graphics, audio, compute and haptics to your
 ---
 [**Roslyn**](https://github.com/dotnet/roslyn) provides open-source C# and Visual Basic compilers with rich code analysis APIs. It enables building code analysis tools with the same APIs that are used by Visual Studio.
 
----
-[**Routing**](https://github.com/aspnet/Routing) is a middleware for routing requests to application logic.
-
 ## S
 
 [**Scaffolding**](https://github.com/aspnet/Scaffolding) - ASP.NET Scaffolding enables generating boilerplate code for web applications to speed up development.
 
 ---
-[**Security**](https://github.com/aspnet/Security) - Contains the security and authorization middlewares for ASP.NET Core.
-
----
-[**ServerTests**](https://github.com/aspnet/ServerTests) - This repo hosts HttpSysServer and Kestrel tests.
-
----
-[**Session**](https://github.com/aspnet/Session) - Session state middleware for ASP.NET Core
-
----
 [**Shadowsocks for Windows**](https://github.com/shadowsocks/shadowsocks-windows) is a secure socks5 proxy, designed to protect your Internet traffic.
-
----
-[**SharpDX**](https://github.com/sharpdx/SharpDX) is an open-source project delivering the full DirectX API for .Net on all Windows platforms, allowing the development of high performance game, 2D and 3D graphics rendering as well as realtime sound application.
-
----
-[**SignalR**](https://github.com/aspnet/SignalR) is a new library for ASP.NET Core developers that makes it incredibly simple to add real-time web functionality to your applications. What is "real-time web" functionality? It's the ability to have your server-side code push content to the connected clients as it happens, in real-time.
 
 ---
 [**SimpleInjector**](https://github.com/simpleinjector/SimpleInjector) is an open source dependency injection (DI) library for .NET.
@@ -292,9 +265,6 @@ Use OpenTK to add cross-platform 3d graphics, audio, compute and haptics to your
 
 ---
 [**websdk**](https://github.com/aspnet/websdk) - ASP.NET Web Sdk targets contains the tasks, targets and packages required to build and publish Web Applications.
-
----
-[**WebSockets**](https://github.com/aspnet/WebSockets) - Contains a managed implementation of the WebSocket protocol, along with server integration components.
 
 ---
 [**Wox**](https://github.com/Wox-launcher/Wox) is a launcher for Windows, an alternative to Alfred and Launchy.
