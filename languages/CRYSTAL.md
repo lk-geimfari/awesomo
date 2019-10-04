@@ -12,23 +12,23 @@
 
 ## A
 
-[**amber**](https://amberframework.org/) - a web application framework written in Crystal inspired by Kemal, Rails, Phoenix and other popular application frameworks
+[**Amber**](https://github.com/amberframework/amber) - a web application framework written in Crystal inspired by Kemal, Rails, Phoenix and other popular application frameworks
 
 ![amber](https://raw.githubusercontent.com/amberframework/site-assets/master/images/amber-horizontal.png)
 
 ## K
-[**kemal**](https://github.com/kemalcr/kemal) - Fast, Effective, Simple web framework for Crystal.
+[**Kemal**](https://github.com/kemalcr/kemal) - Fast, Effective, Simple web framework for Crystal.
 
 ![kemal](https://avatars3.githubusercontent.com/u/15321198?v=3&s=200)
 
 ## L
 
-[**Lucky**](https://luckyframework.org) - a web framework that helps you work quickly, catch bugs at compile time, and deliver blazing fast responses.
+[**Lucky**](https://github.com/luckyframework/lucky) - a web framework that helps you work quickly, catch bugs at compile time, and deliver blazing fast responses.
 
 ![lucky](https://luckyframework.org/assets/images/logo.png)
 
 ## O
 
-[**Onyx:HTTP**](https://onyxframework.org/http) - An opinionated web framework to build scalable web applications.
+[**Onyx:HTTP**](https://github.com/onyxframework/http) - An opinionated web framework to build scalable web applications.
 
 ![onyx](https://onyxframework.org/img/logo.svg)
