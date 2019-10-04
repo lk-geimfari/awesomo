@@ -266,6 +266,11 @@ reveal.js comes with a broad range of features including [nested slides](https:/
 ![webpack](http://imgur.com/i5lsaAm.png)
 
 ---
+[**web3.js - Ethereum JavaScript API**](https://github.com/ethereum/web3.js/)  — web3.js is a collection of libraries which allow you to interact with a local or remote ethereum node, using a HTTP or IPC connection.
+
+![web3.js](https://raw.githubusercontent.com/ethereum/web3.js/2.x/assets/web3js.svg?sanitize=true)
+
+---
 [**WebTorrent**](https://github.com/feross/webtorrent)  —  :zap: Streaming torrent client for the web.
 
 ![webtorrent](https://camo.githubusercontent.com/357343e823b1c8d37418edce5ac401832eda2d27/68747470733a2f2f776562746f7272656e742e696f2f696d672f576562546f7272656e742e706e67)
