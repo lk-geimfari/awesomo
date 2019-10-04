@@ -10,6 +10,10 @@
 
 <br>
 
+## A
+
+[**Aasm**](https://github.com/aasm/aasm) is a library for adding finite state machines to Ruby classes. Aasm started as the acts_as_state_machine plugin but has evolved into a more generic library that no longer targets only ActiveRecord models. It currently provides adapters for many ORMs but it can be used for any Ruby class, no matter what parent class it has (if any).
+
 ## B
 
 [**Better Errors**](https://github.com/charliesome/better_errors) replaces the standard Rails error page with a much better and more useful error page. It is also usable outside of Rails in any Rack app as Rack middleware.
@@ -18,12 +22,30 @@
 
 ## C
 
+[**CanCanCan**](https://github.com/CanCanCommunity/cancancan) is an authorization library for Ruby >= 2.2.0 and Ruby on Rails >= 4.2 which restricts what resources a given user is allowed to access.
+All permissions can be defined in one or multiple ability files and not duplicated across controllers, views, and database queries, keeping your permissions logic in one place for easy maintenance and testing.
+
+![cancancan](https://raw.githubusercontent.com/CanCanCommunity/cancancan/develop/logo/cancancan.jpg)
+
+---
 [**Capybara**](https://github.com/teamcapybara/capybara) helps you test web applications by simulating how a real user would interact with your app. It is agnostic about the driver running your tests and comes with Rack::Test and Selenium support built in. WebKit is supported through an external gem.
 
 ![capybara](http://3.bp.blogspot.com/-w0PgkPfQmPQ/U2CmD6r5IOI/AAAAAAAAAuA/Nz3biTN6izE/s1600/capybara-test-automation.png)
 
+
+## D
+
+[**Devise**](https://github.com/plataformatec/devise) is a flexible authentication solution for Rails based on Warden. It:
+* is Rack based;
+* is a complete MVC solution based on Rails engines;
+* allows you to have multiple models signed in at the same time;
+* is based on a modularity concept: use only what you really need.
+
 ## F
 
+[**FactoryBot**](https://github.com/thoughtbot/factory_bot) is a fixtures replacement with a straightforward definition syntax, support for multiple build strategies (saved instances, unsaved instances, attribute hashes, and stubbed objects), and support for multiple factories for the same class (user, admin_user, and so on), including factory inheritance.
+
+---
 [**Faraday**](https://github.com/lostisland/faraday) is an HTTP client lib that provides a common interface over many
 adapters (such as Net::HTTP) and embraces the concept of Rack middleware when
 processing the request/response cycle.
@@ -85,6 +107,14 @@ end
 [**Huginn**](https://github.com/cantino/huginn) is a system for building agents that perform automated tasks for you online. They can read the web, watch for events, and take actions on your behalf. Huginn's Agents create and consume events, propagating them along a directed graph. Think of it as a hackable Yahoo! Pipes plus IFTTT on your own server. You always know who has your data. You do.
 
 ![huginn](https://camo.githubusercontent.com/1614fd76b6df8c66cd3a6c8d07e19248ca4b948f/68747470733a2f2f7261772e6769746875622e636f6d2f63616e74696e6f2f687567696e6e2f6d61737465722f6d656469612f687567696e6e2d6c6f676f2e706e67)
+
+## J
+
+[**Jbuilder**](https://github.com/rails/jbuilder) gives you a simple DSL for declaring JSON structures that beats manipulating giant hash structures. This is particularly helpful when the generation process is fraught with conditionals and loops.
+
+## K
+
+[**Kaminari**](https://github.com/kaminari/kaminari) is a Scope & Engine based, clean, powerful, customizable and sophisticated paginator for modern web app frameworks and ORMs.
 
 ## O
 
