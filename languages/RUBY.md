@@ -22,11 +22,6 @@
 
 ![capybara](http://3.bp.blogspot.com/-w0PgkPfQmPQ/U2CmD6r5IOI/AAAAAAAAAuA/Nz3biTN6izE/s1600/capybara-test-automation.png)
 
----
-[**Celluloid**](https://github.com/celluloid/celluloid) provides a simple and natural way to build fault-tolerant concurrent programs in Ruby. With Celluloid, you can build systems out of concurrent objects just as easily as you build sequential programs out of regular objects. Recommended for any developer, including novices, Celluloid should help ease your worries about building multithreaded Ruby programs.
-
-![celluloid](https://camo.githubusercontent.com/93b2cbcbc8ab71c512eef53f30349f1efa53c567/68747470733a2f2f7261772e6769746875622e636f6d2f63656c6c756c6f69642f63656c6c756c6f69642d6c6f676f732f6d61737465722f63656c6c756c6f69642f63656c6c756c6f69642e706e67)
-
 ## F
 
 [**Faraday**](https://github.com/lostisland/faraday) is an HTTP client lib that provides a common interface over many
