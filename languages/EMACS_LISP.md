@@ -10,27 +10,6 @@
 
 <br>
 
-## A
-
----
-
-[**Alchemist** ](https://github.com/tonini/alchemist.el) —  an Elixir Tooling Integration Into Emacs. Alchemist comes with a bunch of features, which are:
-
- - Mix integration
- - Compile & Execution of Elixir code
- - Inline code evaluation
- - Inline macro expanding
- - Documentation lookup
- - Definition lookup
- - Powerful IEx integration
- - Smart code completion
- - Elixir project management
- - Phoenix support
- - Integration with company-mode
-
-![alchemist](https://raw.githubusercontent.com/tonini/alchemist.el/master/images/alchemist_logo.png)
-
----
 
 ## M
 
