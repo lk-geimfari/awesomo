@@ -63,6 +63,10 @@ Basics
 
 ---
 
+[**ex_aws** ](https://github.com/ex-aws/ex_aws) —  a flexible easy to use set of AWS APIs. Easy configuration, minimal dependencies. You can choose your favorite JSON codec and HTTP client. ExAws aims to provide a clear and consistent elixir wrapping around AWS APIs, not abstract them away entirely. For every action in a given AWS API there is a corresponding function within the appropriate module. Higher level abstractions like the aforementioned streams are in addition to and not instead of basic API calls.
+
+---
+
 ## F
 
 [**Faker**](https://github.com/igas/faker) is a pure Elixir library for generating fake data.
