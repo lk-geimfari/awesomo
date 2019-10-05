@@ -1,49 +1,9 @@
 ## Elm
 
-[**http**](https://github.com/elm-lang/http) - HTTP requests in Elm.
-
-```elm
-import Http
-import Json.Decode as Decode
-
-
--- GET A STRING
-
-getWarAndPeace : Http.Request String
-getWarAndPeace =
-  Http.getString "https://example.com/books/war-and-peace"
-
-
--- GET JSON
-
-getMetadata : Http.Request Metadata
-getMetadata =
-  Http.get "https://example.com/books/war-and-peace/metadata" decodeMetadata
-
-type alias Metadata =
-  { author : String
-  , pages : Int
-  }
-
-decodeMetadata : Decode.Decoder Metadata
-decodeMetadata =
-  Decode.map2 Metadata
-    (Decode.field "author" Decode.string)
-    (Decode.field "pages" Decode.int)
-
-
--- SEND REQUESTS
-
-type Msg
-  = LoadMetadata (Result Http.Error Metadata)
-
-send : Cmd Msg
-send =
-  Http.send LoadMetadata getMetadata
-```
+[**http**](https://github.com/elm/http) - Make HTTP requests in Elm. Talk to servers.
 
 ---
-[**elm-test**](https://github.com/elm-community/elm-test) - unit and fuzz tests for your Elm code, in Elm.
+[**elm-test**](https://github.com/elm-explorations/test) - unit and fuzz tests for your Elm code, in Elm.
 
 Here are three example tests:
 
@@ -85,11 +45,17 @@ suite =
 Example:
 
 ```elm
-import Time
 import Http
-import HttpBuilder exposing (..)
+import HttpBuilder
 import Json.Decode as Decode
 import Json.Encode as Encode
+import Url.Builder as UrlBuilder
+
+
+type Status a = Loading | Loaded a | Failure
+
+
+type alias Model = { items : Status (List String) }
 
 
 itemsDecoder : Decode.Decoder (List String)
@@ -103,22 +69,36 @@ itemEncoder item =
         [ ("item", Encode.string item) ]
 
 
-handleRequestComplete : Result Http.Error (List String) -> Msg
-handleRequestComplete result =
-    -- Handle the result
-
 {-| addItem will send a post request to
-`"http://example.com/api/items?hello=world"` with the given JSON body, a
-custom header, and cookies included. It'll try to decode with `itemsDecoder`.
+`"http://example.com/api/items?hello=world"` with the given JSON body and a
+custom header. It'll try to decode with `itemsDecoder`.
+
 -}
 addItem : String -> Cmd Msg
 addItem item =
-    HttpBuilder.post "http://example.com/api/items"
-        |> withQueryParams [ ("hello", "world") ]
-        |> withHeader "X-My-Header" "Some Header Value"
-        |> withJsonBody (itemEncoder item)
-        |> withTimeout (10 * Time.second)
-        |> withExpect (Http.expectJson itemsDecoder)
-        |> withCredentials
-        |> send handleRequestComplete
+    UrlBuilder.crossOrigin
+        "http://example.com"
+        [ "api", "items" ]
+        [ UrlBuilder.string "hello" "world" ]
+        |> HttpBuilder.post
+        |> HttpBuilder.withHeader "X-My-Header" "Some Header Value"
+        |> HttpBuilder.withJsonBody (itemEncoder item)
+        |> HttpBuilder.withTimeout 10000
+        |> HttpBuilder.withExpect (Http.expectJson GotItem itemsDecoder)
+        |> HttpBuilder.request
+
+
+type Msg = GotItem (Result Http.Error (List String))
+
+
+update : Msg -> Model -> ( Model, Cmd Msg )
+update msg model =
+    case msg of
+        GotItem (Ok items) ->
+          ( { model | items = Loaded items }
+          , Cmd.none
+          )
+
+        GotItem (Err err) ->
+          ( { model | items = Failure } , Cmd.none)
 ```
