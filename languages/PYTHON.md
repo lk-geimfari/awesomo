@@ -76,6 +76,13 @@ Supported: *Python 2/3*
 ![Services dashboard](https://dl.dropboxusercontent.com/s/cgpxe3929is2uar/cabot-service-dashboard.png?dl=1&token_hash=AAHrlDisUzWRxpg892LhlKQWFRNSkZKD7l_zdSxND-YKhw)
 
 ---
+[**Calibre**](https://github.com/kovidgoyal/calibre) is a free and open-source ebook manager. It allows you to view, convert and catalog all into your personal library, supporting all common ebook formats. It includes support for all common ebook readers, can automatically fetch metadata for your books and has support for newspapers.
+
+It runs on Windows, Linux and MacOs and has been in active development for over ten years! According to [its usage statistics page](https://calibre-ebook.com/dynamic/calibre-usage) it is used by nearly 3 Million users (5 Oct 2019) plus an unknown number that have disabled statistics.
+
+It also includes a build in server that allows reading your ebooks from anywhere.
+
+---
 [**cerberus**](https://github.com/nicolaiarocci/cerberus)  —  a lightweight and extensible data validation library for Python.
 
 Supported: *Python 2/3*
