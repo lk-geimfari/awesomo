@@ -251,6 +251,13 @@ reveal.js comes with a broad range of features including [nested slides](https:/
 
 ![three](http://www.awwwards.com/awards/images/2014/09/threejs-img8.jpg)
 
+---
+[**Tone.js**](https://github.com/Tonejs/Tone.js) is a framework for creating interactive music in the browser. It provides advanced scheduling capabilities, synths and effects, and intuitive musical abstractions built on top of the Web Audio API.
+
+[Check out the live demos.](https://tonejs.github.io/demos)
+
+![](https://miro.medium.com/max/678/1*CGFdBkwx1WsYf7ZIdXcXKA.png)
+
 ## V
 
 [**Video.js**](https://github.com/videojs/video.js)  —   An Open source HTML5 & Flash video player.
