@@ -28,10 +28,6 @@
 
 [**Infer**](https://github.com/facebook/infer) is a static analysis tool for Java, Objective-C and C, written in OCaml.
 
-## M
-
-[**mldonkey**](https://github.com/ygrek/mldonkey) is a cross-platform multi-network p2p daemon.
-
 ## R
 
 [**Reason**](https://github.com/facebook/reason) is a alternate syntax for OCaml. It's simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems 
