@@ -154,6 +154,16 @@ Organize Django settings into multiple files and directories. Easily override an
     </p>
 </a>
 
+[**plotly/dash**](https://github.com/plotly/dash)
+
+Dash is a Python framework for building analytical web applications. No JavaScript required.
+Built on top of Plotly.js, React and Flask, Dash ties modern UI elements like dropdowns, sliders, and graphs directly to your analytical Python code. Read our tutorial proudly crafted heart by Dash itself.
+
+<a href="https://plot.ly/dash/">
+    <p align="center">
+      <img src="https://plotly.cdn.prismic.io/plotly/c0613a8d44f04cc5ec0c438bc28cf9b92c0c3de8_oil-gas-app-2.png">
+    </p>
+</a>
 
 ## E
 
