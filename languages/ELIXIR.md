@@ -331,7 +331,7 @@ end
 
 ## Q
 
-[**Quantum**](https://github.com/c-rack/quantum-elixir) - is a Cron-like job scheduler for Elixir.
+[**Quantum**](https://github.com/quantum-elixir/quantum-core) - is a Cron-like job scheduler for Elixir.
 
 ## T
 
