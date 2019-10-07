@@ -144,7 +144,6 @@ Impress.js is inspired by the idea behind [Prezi](https://prezi.com/).
 
 [Check out the live demo](http://impress.github.io/impress.js).
 
-
 ## L
 
 [**LaTeX Resume Generator**](https://github.com/saadq/latexresu.me) is an easy to use webapp for creating elegant LaTeX resumes without the need to write any TeX code yourself. Built with Node.js and React.
@@ -169,11 +168,17 @@ Mailspring's UI is open source (GPLv3) and written in JavaScript with Electron a
 
 ![marko](https://user-images.githubusercontent.com/3771924/29725582-a043b5fe-899a-11e7-83f8-215fdc904256.png)
 
-
 ---
 [**Moment.js**](https://github.com/moment/moment)  —  a lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
 
 ![moment.js](https://cdn-images-1.medium.com/max/720/0*DP6jZMrfJIt2znNM.png)
+
+## N
+[**NSFW**](https://github.com/infinitered/nsfwjs) - Client-side indecent content checking
+
+A simple JavaScript library to help you quickly identify unseemly images; all in the client's browser. NSFWJS isn't perfect, but it's pretty accurate (~90% from our test set of 15,000 test images)... and it's getting more accurate all the time.
+
+![nsfwjs](https://github.com/infinitered/nsfwjs/raw/master/_art/nsfwjs_logo.jpg)
 
 ## P
 [**Phaser**](https://github.com/photonstorm/phaser)
