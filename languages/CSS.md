@@ -65,4 +65,7 @@
 
 [**Tachyons**](https://github.com/tachyons-css/tachyons)  —  Functional css for humans. Quickly build and design new UI without writing css.
 
+[**Tailwind CSS**](https://github.com/tailwindcss/tailwindcss) — A utility-first CSS framework for rapid UI development.
+
+
 ---
