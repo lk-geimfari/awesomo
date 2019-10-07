@@ -176,7 +176,16 @@ Mailspring's UI is open source (GPLv3) and written in JavaScript with Electron a
 ![moment.js](https://cdn-images-1.medium.com/max/720/0*DP6jZMrfJIt2znNM.png)
 
 ## P
+[**Phaser**](https://github.com/photonstorm/phaser)
+Phaser is a fast, free, and fun open source HTML5 game framework that offers WebGL and Canvas rendering across desktop and mobile web browsers. Games can be compiled to iOS, Android and native apps by using 3rd party tools. You can use JavaScript or TypeScript for development.
 
+Along with the fantastic open source community, Phaser is actively developed and maintained by Photon Storm. As a result of rapid support, and a developer friendly API, Phaser is currently one of the most starred game frameworks on GitHub.
+
+Thousands of developers from indie and multi-national digital agencies, and universities worldwide use Phaser. You can take a look at their incredible games.
+
+![Phaser Header](https://phaser.io/images/github/300/phaser-header.png "Phaser 3 Header Banner")
+
+---
 [**PM2**](http://github.com/Unitech/pm2) is a production process manager for Node.js applications with a built-in load balancer. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.
 
 ![Process listing](https://github.com/unitech/pm2/raw/master/pres/pm2-list.png)
