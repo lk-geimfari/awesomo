@@ -136,6 +136,14 @@ Gatsby is a blazing-fast static site generator for React. Powered By GraphQL and
 
 It is written in HTML, CSS & JavaScript.
 
+---
+[**Highcharts**](https://github.com/highcharts/highcharts)  —  A charting library written in pure JavaScript, offering an easy way of adding interactive charts to your web site or web application..
+
+![hyper](https://github.com/Pratyush2710/VassarAngularJS/blob/master/highchatrs.png?raw=true)
+
+It is based on HTML5/SVG/VML, meaning it requires no extra plugins and it also supports a wide range of charts like spline, column, bar, maps, angular gauges among others along with being free for personal use.
+
+
 ## I
 
 [**Impress.js**](https://github.com/impress/impress.js)  —  It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers.
