@@ -32,10 +32,24 @@ The supported data models can be mixed in queries and allow ArangoDB to be the a
 
 ---
 
+[**Catch2**](https://github.com/catchorg/Catch2) is a multi-paradigm test framework for unit-tests, TDD and BDD. It is primarily distributed as a single header file, although certain extensions may require additional headers.
+
+![catch2](https://github.com/catchorg/Catch2/blob/master/artwork/catch2-logo-small.png?raw=true)
+
+---
+
 [**Chromium**](http://www.chromium.org) and is used by the [Atom
 editor](https://github.com/atom/atom) and many other [apps](http://electron.atom.io/apps).
 
 ![electron](http://imgur.com/wuAM23t.png)
+
+## D
+
+[**Dear Imgui**](https://github.com/ocornut/imgui) is a bloat-free graphical user interface library. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline enabled application. It is fast, portable, renderer agnostic and self-contained (no external dependencies).
+
+Dear ImGui is designed to enable fast iterations and to empower programmers to create content creation tools and visualization / debug tools (as opposed to UI for the average end-user). It favors simplicity and productivity toward this goal.
+
+![dear imgui](https://raw.githubusercontent.com/wiki/ocornut/imgui/web/v167/v167-misc.png)
 
 ## E
 
@@ -117,6 +131,12 @@ actor Main
 [**Robomongo**](https://github.com/paralect/robomongo) is a shell-centric cross-platform MongoDB management tool. Unlike most other MongoDB admin UI tools, Robomongo embeds the actual mongo shell in a tabbed interface with access to a shell command line as well as GUI interaction.
 
 ![robomongo](https://robomongo.org/static/screens-transparent-6e2a44fd.png)
+
+## T
+
+[**TensorFlow**](https://github.com/tensorflow/tensorflow) is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications.
+
+![tensorflow](https://camo.githubusercontent.com/0905c7d634421f8aa4ab3ddf19a582572df568e1/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f74665f6c6f676f5f736f6369616c2e706e67)
 
 ## W
 
