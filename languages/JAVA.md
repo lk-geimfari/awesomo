@@ -42,6 +42,12 @@ is an open source testing framework for Java released under the MIT License. The
 
 [http://openvalidation.io](http://openvalidation.io)
 
+## S
+
+[**Spring Boot**](https://github.com/spring-projects/spring-boot) makes it easy to create Spring-powered, production-grade applications and services with absolute minimum fuss. It takes an opinionated view of the Spring platform so that new and existing users can quickly get to the bits they need. You can use Spring Boot to create stand-alone Java applications that can be started using java -jar or more traditional WAR deployments. We also provide a command line tool that runs spring scripts.
+
+[**SpringFox**](https://github.com/springfox/springfox) Automated JSON API documentation for API's built with Spring
+
 ## W
 [**World War of Ants**](https://github.com/warofants/wwa) is a game about managing lives of ants, making sure their colony is fed, maintained, defended and prosperous. 
 
