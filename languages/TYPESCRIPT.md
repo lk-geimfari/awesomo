@@ -16,7 +16,7 @@
 
 Angular is a development platform for building mobile and desktop web applications.
 
-![angular](https://angular.io/resources/images/logos/angular2/angular.png)
+![angular](https://angular.io/assets/images/logos/angular/angular.png)
 
 ---
 [**Angular Material**](https://github.com/angular/material2)  —  Material Design components for Angular 2.
