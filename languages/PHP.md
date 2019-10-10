@@ -20,3 +20,18 @@ migrations,  Authentication and Authorizations, templating with Blade, routing, 
 [**Symfony**](https://github.com/symfony/symfony) is a web development framework created natively for PHP. The leading PHP framework for creating Web sites and Web applications, with a large community, a passionate group of over 600,000 developers from more than 120 countries, all committed to helping PHP surpass the impossible.
 It covers a lot of web developers needs: an ORM (named Doctrine), Authentication and Authorizations(Voters), templating with Twig, routing, built on Symfony components, etc. And a very documented documentation.
 The Symfony Philosophy embrace and promote professionalism, best practices, standardization and interoperability of applications.
+
+
+---
+[**CakePHP**](https://github.com/cakephp/cakephp) is an open source MVC framework. It makes developing, deploying and maintaining applications much easier. CakePHP has number of libraries to reduce the overload of most common tasks. Following are the advantages of using CakePHP.
+- Open Source
+- MVC Framework
+- Templating Engine
+- Caching Operations
+- Search Engine Friendly URLs
+- Easy CRUD (Create, Read, Update, Delete) Database Interactions.
+- Libraries and Helpers
+- Built-in Validation
+- Localization
+- Email, Cookie, Security, Session, and Request Handling Components
+- View Helpers for AJAX, JavaScript, HTML Forms and More
