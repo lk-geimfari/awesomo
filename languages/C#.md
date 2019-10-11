@@ -44,6 +44,9 @@
 [**CefSharp**](https://github.com/cefsharp/CefSharp) is a .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework http://cefsharp.github.io/
 
 ---
+[**ClosedXML**](https://github.com/ClosedXML/ClosedXML) ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. It aims to provide an intuitive and user-friendly interface to dealing with the underlying OpenXML API.
+
+---
 [**Common**](https://github.com/aspnet/Common) is a repository for shared files to be consumed across the ASPNET repos.[**Configuration**](https://github.com/aspnet/Configuration) is a framework for accessing Key/Value based configuration settings in an application. Includes configuration providers for command line arguments, environment variables, INI files, JSON files, and XML files.
 
 ---
