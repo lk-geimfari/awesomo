@@ -254,18 +254,6 @@ fn main() {
     rocket::ignite().mount("/hello", routes![hello]).launch();
 }
 ```
-
----
-
-[**Rustful**](https://github.com/Ogeon/rustful) - A light HTTP framework for Rust, with REST-like features. The main purpose of Rustful is to create a simple, modular and non-intrusive foundation for HTTP applications. It has a mainly stateless structure, which naturally allows it to run both as one single server and as multiple instances in a cluster.
-
-Some of the features are:
-
-* Generic response handlers. Just use a function or implement the Handler trait.
-* Some handy macros reduces the risk for typos and makes life easier.
-* Variables in routes, that can capture parts of the requested path.
-* Pluggable request and response filtering.
-
 ---
 
 [**rustup**](https://github.com/rust-lang-nursery/rustup.rs) installs The Rust Programming Language from the official release channels, enabling you to easily switch between stable, beta, and nightly compilers and keep them updated. It makes cross-compiling simpler with binary builds of the standard library for common platforms. And it runs on all platforms Rust supports, including Windows.
