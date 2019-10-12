@@ -295,6 +295,10 @@ fn main() {
 
 ---
 
+[**Servo**](https://github.com/servo/servo) is a prototype web browser engine written in the Rust language. It is currently developed on 64-bit macOS, 64-bit Linux, 64-bit Windows, and Android..
+
+---
+
 [**sled**](https://github.com/spacejam/sled) - likes eating data: alpha modern embedded database.
 
 **Features**:
