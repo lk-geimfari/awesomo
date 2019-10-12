@@ -56,6 +56,10 @@ Git integration:
 
 ## C
 
+[**Clippy**](https://github.com/rust-lang/rust-clippy) is a collection of lints to catch common mistakes and improve your Rust code.
+
+---
+
 [**coreutils**](https://github.com/uutils/coreutils) is an attempt at writing universal (as in cross-platform) CLI utils in Rust. This repo is to aggregate the GNU coreutils rewrites.
 
 ---
