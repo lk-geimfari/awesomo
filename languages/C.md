@@ -10,6 +10,11 @@
 
 <br>
 
+## H
+[**Hashcat**](https://github.com/hashcat/hashcat) hashcat is the world's fastest and most advanced password recovery utility, supporting five unique modes of attack for over 200 highly-optimized hashing algorithms. hashcat currently supports CPUs, GPUs, and other hardware accelerators on Linux, Windows, and macOS, and has facilities to help enable distributed password cracking.
+![hashcat](https://hashcat.net/s/i/hashcat-icon.png)
+
+
 ## K
 
 [**Kore**](https://github.com/jorisvink/kore) is an easy to use web application framework for writing scalable web APIs in C. Its main goals are security, scalability and allowing rapid development and deployment of such APIs.
