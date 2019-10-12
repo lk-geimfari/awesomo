@@ -211,6 +211,11 @@ fn main() {
 
 [**nom**](https://github.com/Geal/nom) is a parser combinators library written in Rust. Its goal is to provide tools to build safe parsers without compromising the speed or memory consumption. To that end, it uses extensively Rust's strong typing, zero copy parsing, push streaming, pull streaming, and provides macros and traits to abstract most of the error prone plumbing.
 
+---
+
+[**nushell**](https://github.com/nushell/nushell) - A modern shell for the GitHub era.
+![](https://github.com/nushell/nushell/blob/master/images/nushell-autocomplete.gif)
+
 ## P
 
 [**Parity**](https://github.com/paritytech/parity) - fast, light, and robust Ethereum client.
