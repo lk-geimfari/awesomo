@@ -188,6 +188,11 @@ A simple JavaScript library to help you quickly identify unseemly images; all in
 
 ![nsfwjs](https://github.com/infinitered/nsfwjs/raw/master/_art/nsfwjs_logo.jpg)
 
+---
+[**NestJS**](https://github.com/nestjs/nest) is a framework for building efficient, scalable Node.js server-side applications. It uses modern JavaScript, is built with TypeScript (preserves compatibility with pure JavaScript) and combines elements of OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming).
+
+Under the hood, Nest makes use of Express, but also, provides compatibility with a wide range of other libraries, like e.g. Fastify, allowing for easy use of the myriad third-party plugins which are available.
+
 ## P
 [**Phaser**](https://github.com/photonstorm/phaser)
 Phaser is a fast, free, and fun open source HTML5 game framework that offers WebGL and Canvas rendering across desktop and mobile web browsers. Games can be compiled to iOS, Android and native apps by using 3rd party tools. You can use JavaScript or TypeScript for development.
