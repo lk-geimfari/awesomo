@@ -55,12 +55,12 @@ The Symfony Philosophy embrace and promote professionalism, best practices, stan
 [**Codeigniter**](https://github.com/bcit-ci/CodeIgniter) is an Open Source Application Development Framework - a toolkit - for people who build web sites using PHP. Its goal is to enable you to develop projects much faster than you could if you were writing code from scratch, by providing a rich set of libraries for commonly needed tasks, as well as a simple interface and logical structure to access these libraries. CodeIgniter lets you creatively focus on your project by minimizing the amount of code needed for a given task. Installation of cofeigniter is too easy than other php frameworks.
 
 Following are features of codeigniter.
--a framework with a small footprint.
--Provide exceptional performance.
--a framework that requires nearly zero configuration.
--a framework that does not require you to adhere to restrictive coding rules.
--if You are not interested in large-scale monolithic libraries like PEAR codeigniter is for you.
--no need broad compatibility with standard hosting accounts that run a variety of PHP versions and configurations.
+- a framework with a small footprint.
+- Provide exceptional performance.
+- a framework that requires nearly zero configuration.
+- a framework that does not require you to adhere to restrictive coding rules.
+- if You are not interested in large-scale monolithic libraries like PEAR codeigniter is for you.
+- no need broad compatibility with standard hosting accounts that run a variety of PHP versions and configurations.
 
 <p align="center">
     <a href="https://github.com/bcit-ci/CodeIgniter">
@@ -72,9 +72,9 @@ Following are features of codeigniter.
 [**FulePHP**](https://github.com/fuel/fuel) FuelPHP is a flexible, full-stack PHP framework first released in 2011. Apart from supporting the MVC design pattern, it has its own version called the hierarchical model view controller (HMVC). With HMVC, unlike with MVC, content doesn’t need to duplicate to show on multiple pages. As a result, it consumes less time and memory.
 
 Reasons to use FulePHP
--FuelPHP helps developers deliver end-to-end web solutions that are diverse in size and complexities.
--Key features include HMVC implementation, RESTful implementation, a URL routing system, vulnerability protection, and a caching system.
--It extends its security approach beyond ordinary security measures, making it a great option if security is crucial for your project. Because FuelPHP is relatively new, it offers less support and may present a steeper learning curve.
+- FuelPHP helps developers deliver end-to-end web solutions that are diverse in size and complexities.
+- Key features include HMVC implementation, RESTful implementation, a URL routing system, vulnerability protection, and a caching system.
+- It extends its security approach beyond ordinary security measures, making it a great option if security is crucial for your project. Because FuelPHP is relatively new, it offers less support and may present a steeper learning curve.
 
 <p align="center">
     <a href="https://github.com/fuel/fuel">
@@ -86,9 +86,9 @@ Reasons to use FulePHP
 [**Symfony**](https://github.com/symfony/symfony) The Symfony framework was launched in 2005, and although it’s been in existence for much longer than other frameworks on this list, it’s a reliable and mature platform. Symfony is an extensive PHP MVC framework and the only framework known to follow PHP and web standards to the tee.
 
 Reasons to use Symfony
--Symfony is the perfect choice for developing large-scale enterprise projects. It’s easy to install and configure on most platforms.
--One of its key features? It’s reusable PHP components. It also boasts database engine–independence, and it’s stable, complies with most web best practices and design patterns, and allows for integration with other vendor libraries.
--Symfony is also highly flexible and can integrate with bigger projects like Drupal. Symfony and Laravel have many common and unique features, which makes it difficult to say which of these frameworks is better.
+- Symfony is the perfect choice for developing large-scale enterprise projects. It’s easy to install and configure on most platforms.
+- One of its key features? It’s reusable PHP components. It also boasts database engine–independence, and it’s stable, complies with most web best practices and design patterns, and allows for integration with other vendor libraries.
+- Symfony is also highly flexible and can integrate with bigger projects like Drupal. Symfony and Laravel have many common and unique features, which makes it difficult to say which of these frameworks is better.
 
 <p align="center">
     <a href="https://github.com/symfony/symfony">
@@ -100,9 +100,9 @@ Reasons to use Symfony
 [**Zend Framework**](https://github.com/zendframework/zendframework) The Zend framework is a complete object-oriented framework, and the fact that it uses features such as interfaces and inheritance makes it extendable. It was built on the agile methodology, which helps you to deliver high-quality applications to enterprise clients. Zend is highly customizable and abides by PHP best practices—an important point for developers who want to add project-specific functionalities.
 
 Reasons to use Zend
--Zend framework is an excellent fit for complex, enterprise-level projects. It’s the preferred framework for large IT departments and banks.
--Some key features include MVC components, simple cloud API, data encryption, and session management.
--It can integrate with external libraries, and you can use only the components you want. The Zend framework comes with extremely good documentation and has a large community base. However, if you’re a mobile app builder, get ready for a steep learning curve.
+- Zend framework is an excellent fit for complex, enterprise-level projects. It’s the preferred framework for large IT departments and banks.
+- Some key features include MVC components, simple cloud API, data encryption, and session management.
+- It can integrate with external libraries, and you can use only the components you want. The Zend framework comes with extremely good documentation and has a large community base. However, if you’re a mobile app builder, get ready for a steep learning curve.
 
 <p align="center">
     <a href="https://github.com/zendframework/zendframework">
