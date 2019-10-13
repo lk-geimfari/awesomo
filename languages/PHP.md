@@ -14,6 +14,12 @@ efficient and concise API. It covers a lot of web developers needs: an ORM (name
 migrations,  Authentication and Authorizations, templating with Blade, routing, Browser testing
 (named Laravel Dusk), API only (Lumen), assets compilation, etc. And all very well documented.
 
+Reasons to use Laravel
+- Laravel is suitable when developing applications with complex backend requirements, whether small or large. Installing Laravel has been made easier by the introduction of Homestead, a prepackaged, all-in-one vagrant box.
+- It’s a PHP framework full of features that will help you customize complex apps. Among these: seamless data migration, MVC architecture support, security, routing, view template engine, and authentication, among many others.
+- Laravel is highly expressive, and its speed and security are in line with expectations for a modern web application. For developers who want to build B2B or enterprise websites that will evolve with changing web trends, Laravel is the way to go.
+
+
 <p align="center">
     <a href="https://github.com/laravel/laravel">
         <img src="https://raygun.com/blog/images/top-php-frameworks/laravel.png">
@@ -24,6 +30,11 @@ migrations,  Authentication and Authorizations, templating with Blade, routing, 
 [**Symfony**](https://github.com/symfony/symfony) is a web development framework created natively for PHP. The leading PHP framework for creating Web sites and Web applications, with a large community, a passionate group of over 600,000 developers from more than 120 countries, all committed to helping PHP surpass the impossible.
 It covers a lot of web developers needs: an ORM (named Doctrine), Authentication and Authorizations(Voters), templating with Twig, routing, built on Symfony components, etc. And a very documented documentation.
 The Symfony Philosophy embrace and promote professionalism, best practices, standardization and interoperability of applications.
+
+Reasons to use Symfony
+- Symfony is the perfect choice for developing large-scale enterprise projects. It’s easy to install and configure on most platforms.
+- One of its key features? It’s reusable PHP components. It also boasts database engine–independence, and it’s stable, complies with most web best practices and design patterns, and allows for integration with other vendor libraries.
+- Symfony is also highly flexible and can integrate with bigger projects like Drupal. Symfony and Laravel have many common and unique features, which makes it difficult to say which of these frameworks is better.
 
 <p align="center">
     <a href="https://github.com/symfony/symfony">
@@ -83,20 +94,6 @@ Reasons to use FulePHP
 </p>
 
 ---
-[**Symfony**](https://github.com/symfony/symfony) The Symfony framework was launched in 2005, and although it’s been in existence for much longer than other frameworks on this list, it’s a reliable and mature platform. Symfony is an extensive PHP MVC framework and the only framework known to follow PHP and web standards to the tee.
-
-Reasons to use Symfony
-- Symfony is the perfect choice for developing large-scale enterprise projects. It’s easy to install and configure on most platforms.
-- One of its key features? It’s reusable PHP components. It also boasts database engine–independence, and it’s stable, complies with most web best practices and design patterns, and allows for integration with other vendor libraries.
-- Symfony is also highly flexible and can integrate with bigger projects like Drupal. Symfony and Laravel have many common and unique features, which makes it difficult to say which of these frameworks is better.
-
-<p align="center">
-    <a href="https://github.com/symfony/symfony">
-        <img src="https://raygun.com/blog/images/top-php-frameworks/symfony.png">
-    </a>
-</p>
-
----
 [**Zend Framework**](https://github.com/zendframework/zendframework) The Zend framework is a complete object-oriented framework, and the fact that it uses features such as interfaces and inheritance makes it extendable. It was built on the agile methodology, which helps you to deliver high-quality applications to enterprise clients. Zend is highly customizable and abides by PHP best practices—an important point for developers who want to add project-specific functionalities.
 
 Reasons to use Zend
@@ -107,5 +104,20 @@ Reasons to use Zend
 <p align="center">
     <a href="https://github.com/zendframework/zendframework">
         <img src="https://raygun.com/blog/images/top-php-frameworks/zend.png">
+    </a>
+</p>
+
+---
+[**Yii**](https://github.com/yiisoft/yii) The Yii framework — which stands for Yes, it is! — is, in fact, simple and evolutionary. It’s a high-performance, component-based PHP framework for developing modern web applications. Yii is suitable for all kinds of web apps. For this reason, it’s a universal web programming framework.
+
+Reasons to use Yii
+- Yii has an easy installation process. Furthermore, its robust security features make the framework suitable for highly secure endeavors such as e-commerce projects, portals, CMS, forums, and many others.
+- It boasts excellent speed and performance, it’s highly extensible, and it lets developers avoid the complexity of writing repetitive SQL statements, as they can model the database data in terms of objects.
+- Yii has a core developer team and experts that contribute to its development. With a massive community using it, you can post issues on Yii forums and get help.
+- Yii is extremely extensible, and you can customize nearly every piece of the core’s code. However, if it’s your first time using it, be prepared for a steep learning curve.
+
+<p align="center">
+    <a href="https://github.com/yiisoft/yii">
+        <img src="https://raygun.com/blog/images/top-php-frameworks/yii.png">
     </a>
 </p>
