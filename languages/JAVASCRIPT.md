@@ -152,6 +152,12 @@ Impress.js is inspired by the idea behind [Prezi](https://prezi.com/).
 
 [Check out the live demo](http://impress.github.io/impress.js).
 
+## J
+
+[**jasmine**](https://github.com/jasmine/jasmine)  — Simple JavaScript testing framework for browsers and node.js.
+
+![jasmine](https://jasmine.github.io/images/jasmine-purple-horizontal.svg)
+
 ## L
 
 [**LaTeX Resume Generator**](https://github.com/saadq/latexresu.me) is an easy to use webapp for creating elegant LaTeX resumes without the need to write any TeX code yourself. Built with Node.js and React.
