@@ -241,6 +241,24 @@ db.replicate.to('http://example.com/mydb');
 [Learn how to use React in your own project](https://reactjs.org/docs/getting-started.html).
 
 ---
+[**Redux**](https://redux.js.org/) - A state management tool for any javascript frameworks
+
+* **Predictable** Redux helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test.
+* **Centralized** Centralizing your application's state and logic enables powerful capabilities like undo/redo, state persistence, and much more.
+* **Debuggable** The Redux DevTools make it easy to trace when, where, why, and how your application's state changed. Redux's architecture lets you log changes, use "time-travel debugging", and even send complete error reports to a server.
+* **Flexible** Redux works with any UI layer, and has a large ecosystem of addons to fit your needs.
+
+[Learn more about how to use Redux](https://redux.js.org/introduction/getting-started)
+
+---
+[**Redux Form**](https://redux-form.com) - The best way to manage your form state in Redux.
+
+* **Implimented** Most of the codes are already implimented. Just use higher level api to connect with your webapp and get data of it.
+* **Easy to Use** The framework has lots of example makes is easy to use
+
+[Learn how to use Redux Form](https://redux-form.com/8.2.2/docs/gettingstarted.md/)
+
+---
 [**Reveal.js**](https://github.com/hakimel/reveal.js)  — A framework for easily creating beautiful presentations using HTML.
 
 [Check out the live demo](http://lab.hakim.se/reveal-js/).
