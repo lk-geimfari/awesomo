@@ -143,6 +143,9 @@ It is written in HTML, CSS & JavaScript.
 
 It is based on HTML5/SVG/VML, meaning it requires no extra plugins and it also supports a wide range of charts like spline, column, bar, maps, angular gauges among others along with being free for personal use.
 
+---
+[**Hapi**](https://github.com/hapijs/hapi) is a rich framework for building applications and services. It enables developers to focus on writing reusable application logic instead of spending time building infrastructure.
+It is a configuration-driven pattern, traditionally modeled to control web server operations. A unique feature Hapi has is the ability to create a server on a specific IP, with features like the onPreHandler, we can do something with a request before it is completed by intercepting it and doing some pre-processing on the request.
 
 ## I
 
