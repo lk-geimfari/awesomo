@@ -17,7 +17,7 @@ migrations,  Authentication and Authorizations, templating with Blade, routing, 
 
 ---
 
-[**Code Igniter**](https://codeigniter.com/) CodeIgniter is a powerful PHP framework with a very small footprint, built for developers who need a simple and elegant toolkit to create full-featured web applications.
+[**Code Igniter**](https://github.com/bcit-ci/CodeIgniter) CodeIgniter is a powerful PHP framework with a very small footprint, built for developers who need a simple and elegant toolkit to create full-featured web applications.
 
 - Framework with a small footprint
 CodeIgniter 3 has a 2MB download, including the user guide. CodeIgniter 4 is a 1.2MB download, plus 6MB for the user guide.
