@@ -1,4 +1,4 @@
-## Alphabetical index of projects in Python:
+## Alphabetical index of projects in D:
 
 |       |       |       |       |       |       |       |
 |---    |---    |---    |---    |---    |---    |    ---|
