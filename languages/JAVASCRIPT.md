@@ -310,6 +310,16 @@ reveal.js comes with a broad range of features including [nested slides](https:/
 
 [Check out the live demo](http://www.videojs.com/).
 
+---
+
+[**Vue.js**](https://github.com/vuejs/vue) — Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. It is designed from the ground up to be incrementally adoptable, and can easily scale between a library and a framework depending on different use cases. It consists of an approachable core library that focuses on the view layer only, and an ecosystem of supporting libraries that helps you tackle complexity in large Single-Page Applications.
+
+[Learn how to use Vue.js in your own project](https://vuejs.org/v2/guide/).
+
+![vue.js](https://i.imgur.com/UuSsE61.png)
+
+---
+
 ## W
 
 [**Webpack**](https://github.com/webpack/webpack)  — Webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
