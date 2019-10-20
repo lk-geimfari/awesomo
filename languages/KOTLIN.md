@@ -33,3 +33,12 @@ expect: [1, 2, 3]        (java.util.Arrays$ArrayList <1287934450>)
         ❗❗ additional entries detected: 
            ⚬ entry 2: 3        (kotlin.Int <1741979653>)
 ```    
+---
+
+## C
+
+[**Corda**](https://github.com/corda/corda) is an open source blockchain project, designed for business from the start. Only Corda allows you to build interoperable blockchain networks that transact in strict privacy. Corda's smart contract technology allows businesses to transact directly, with value.
+
+![corda](https://i.imgur.com/0BWrSiq.png)
+
+---
