@@ -71,7 +71,7 @@
 
 ## U
 
-[**UIkit**](https://getuikit.com/) — A lightweight and modular front-end framework
+[**UIkit**](https://github.com/uikit/uikit) — A lightweight and modular front-end framework
 for developing fast and powerful web interfaces.
 
 ![uikit](https://i.imgur.com/ZUogrbz.png)
