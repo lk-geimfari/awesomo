@@ -31,6 +31,10 @@ The project's site: https://appulse.io
 ![libgdx](https://camo.githubusercontent.com/f70f169cab179f13f70e892b3251e6f2032be66d/687474703a2f2f6c69626764782e6261646c6f67696367616d65732e636f6d2f696d672f6c6f676f2e706e67)
 
 ## M
+
+[**Maven**](https://github.com/apache/maven-sources) is a build automation tool used primarily for Java projects. It addresses two aspects of building software: first, it describes how software is built, and second, it describes its dependencies. 
+It dynamically downloads Java libraries and Maven plug-ins from one or more repositories such as the Maven 2 Central Repository, and stores them in a local cache.
+
 [**Mockito**](https://github.com/mockito/mockito) is
 is an open source testing framework for Java released under the MIT License. The framework allows the creation of test double objects in automated unit tests for the purpose of test-driven development or behavior-driven development. The framework's name and logo are a play on mojitos, a type of drink.
 
