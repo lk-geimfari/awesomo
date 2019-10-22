@@ -591,6 +591,19 @@ Supported: *Python 2/3*
     </a>
 </p>
 
+## O
+[**Odoo**](https://github.com/odoo/odoo) Odoo is a suite of web based open source business apps.
+
+The main Odoo Apps include an Open Source CRM, Website Builder, eCommerce, Warehouse Management, Project Management, Billing & Accounting, Point of Sale, Human Resources, Marketing, Manufacturing, Purchase Management, ...
+
+Odoo Apps can be used as stand-alone applications, but they also integrate seamlessly so you get a full-featured Open Source ERP when you install several Apps.
+
+Odoo have a large community around the world and have a good documentation
+
+Odoo. Open Source Apps To Grow Your Business. 
+Site: https://www.odoo.com
+
+
 ## P
 
 [**Pandas**](https://github.com/pandas-dev/pandas) is a Python package providing fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real world data analysis in Python. Additionally, it has the broader goal of becoming the most powerful and flexible open source data analysis / manipulation tool available in any language. It is already well on its way toward this goal.

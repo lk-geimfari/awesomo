@@ -18,6 +18,15 @@ Druid excels as a data warehousing solution for fast aggregate queries on petaby
 
 Druid can load both streaming and batch data and integrates with Samza, Kafka, Storm, Spark, and Hadoop.
 
+[**Dbeaber**](https://github.com/dbeaver/dbeaver) is a Free multi-platform database tool for developers, SQL programmers, database administrators and analysts. Supports any database which has JDBC driver (which basically means - ANY database). EE version also supports non-JDBC datasources (WMI, MongoDB, Cassandra, Redis).
+
+Has a lot of features including metadata editor, SQL editor, rich data editor, ERD, data export/import/migration, SQL execution plans, etc.
+Based on Eclipse platform.
+ 
+Uses plugins architecture and provides additional functionality for the following databases: MySQL/MariaDB, PostgreSQL, Greenplum, Oracle, DB2 LUW, Exasol, SQL Server, Sybase/SAP ASE, SQLite, Firebird, H2, HSQLDB, Derby, Teradata, Vertica, Netezza, Informix, etc.
+
+The project's site: http://dbeaver.io
+
 ## E
 
 [**Encon**](https://github.com/appulse-projects/encon-java) - is a Java library, **E**rlang **N**ode **CON**nector, which allows your `JVM` app to duplex interact with `Erlang` or `Elixir` nodes. It is based on [Erlang Distribution Protocol](http://erlang.org/doc/apps/erts/erl_dist_protocol.html) and provides a convenient way to work with its components. The project consists of different sub-modules, start from basic elements like Erlang term serialization/deserialization, continue to Erlang distribution protocol itself and end with data mapping and Spring integration.
