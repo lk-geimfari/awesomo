@@ -37,6 +37,22 @@ app:run()
 
 ---
 
+[**Love2D**](https://love2d.org/) - a simple 2D game framework for Lua.
+
+Example:
+
+```lua
+function love.load()
+  whale = love.graphics.newImage('whale.png')
+end
+
+function love.draw()
+  love.graphics.draw(whale, 300, 200)
+end
+```
+
+---
+
 [**Luacheck**](https://github.com/mpeterv/luacheck)  —  a tool for linting and static analysis of Lua code.
 
 Usage:
