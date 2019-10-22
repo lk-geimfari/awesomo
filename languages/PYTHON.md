@@ -201,21 +201,9 @@ Supported: *Python 2/3*
 </p>
 
 ---
-[**Flask**](https://github.com/pallets/flask) is a microframework for Python based on Werkzeug and Jinja2.  It's intended for getting started very quickly and was developed with best intentions in mind.
+[**Flask**](https://github.com/pallets/flask) is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around Werkzeug and Jinja and has become one of the most popular Python web application frameworks.
 
-<p align="center">
-    <a href="https://github.com/pallets/flask">
-        <img src="http://flask.pocoo.org/static/logo/flask.png">
-    </a>
-</p>
-
-
----
-[**Flask-Base**](https://github.com/hack4impact/flask-base) - A Flask application template with the boilerplate code already done for you.
-
----
-[**fuckIt.py**](https://github.com/ajalt/fuckitpy) uses state-of-the-art technology to make sure your Python code runs whether it has any right to or not. Some code has an error? Fuck it.
-
+Flask offers suggestions, but doesn't enforce any dependencies or project layout. It is up to the developer to choose the tools and libraries they want to use. There are many extensions provided by the community that make adding new functionality easy.
 
 ## G
 
@@ -231,17 +219,6 @@ Supported: *Python 2/3*
 [**hug**](https://github.com/timothycrosley/hug) aims to make developing Python driven APIs as simple as possible, but no simpler. As a result, it drastically simplifies Python API development.
 
 ![hug](https://camo.githubusercontent.com/dc3f611ccdd6289ca11478dcb9ec4f9a1742248a/68747470733a2f2f7261772e6769746875622e636f6d2f74696d6f74687963726f736c65792f6875672f646576656c6f702f617274776f726b2f6578616d706c652e676966)
-
----
-[**http-prompt **](https://github.com/eliangcs/http-prompt) —  an interactive command-line HTTP client featuring autocomplete and syntax highlighting.
-
-Supported: *Python 2/3*
-
-<p align="center">
-    <a href="https://github.com/eliangcs/http-prompt">
-        <img src="https://cdn-images-1.medium.com/max/720/0*Oo5GWcygacE7F9LM.gif">
-    </a>
-</p>
 
 ---
 [**httpie**](https://github.com/jkbrzt/httpie)  —  a command line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. It provides a simple http command that allows for sending arbitrary HTTP requests using a simple and natural syntax, and displays colorized output. HTTPie can be used for testing, debugging, and generally interacting with HTTP servers.
@@ -299,11 +276,6 @@ See [hypothesis.works](http://hypothesis.works) for articles, tips, and testimon
 
 ## J
 
-[**Japronto**](https://github.com/squeaky-pl/japronto) (from Portuguese "já pronto" /ˈʒa pɾõtu/ meaning "already done") is a screaming-fast, scalable, asynchronous Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser. It's targeted at speed enthusiasts, people who like plumbing and early adopters.
-
-![](https://raw.githubusercontent.com/squeaky-pl/japronto/master/benchmarks/results.png)
-
----
 [**Jinja2**](https://github.com/pallets/jinja) is a template engine written in pure Python. It provides a Django inspired non-XML syntax but supports inline expressions and an optional sandboxed environment.
 
 Here a small example of a Jinja template:
@@ -361,9 +333,6 @@ Supported: *Python 2/3*
 
 ## M
 
-[**Mail-in-a-Box**](https://github.com/mail-in-a-box/mailinabox) helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
-
----
 [**marshmallow**](https://github.com/marshmallow-code/marshmallow) is an ORM/ODM/framework-agnostic library for converting complex datatypes, such as objects, to and from native Python datatypes.
 
 Example:
@@ -459,18 +428,6 @@ Basic Usage:
 
 >>> person.full_name(gender=Gender.FEMALE)
 'Antonetta Garrison'
-
->>> person.occupation()
-'Backend Developer'
-
->>> templates = ['U_d', 'U-d', 'l_d', 'l-d']
->>> for template in templates:
-...     person.username(template=template)
-
-'Adders_1893'
-'Abdel-1888'
-'constructor_1884'
-'chegre-2051'
 ```
 
 You can specify a locale when creating providers and they will return data that is appropriate for the language or country associated with that locale. Mimesis currently includes support for 32 different [locales](https://github.com/lk-geimfari/mimesis#locales).
@@ -713,13 +670,6 @@ Supported: *Python 2.7/3.3+*
 
 ## R
 
-[**Rainbow Stream **](https://github.com/DTVD/rainbowstream) —  is a terminal-based Twitter Client. Realtime tweetstream, compose, search, favorite … and much more fun directly from terminal.
-
-Supported: *Python 2/3*
-
-![main](https://raw.githubusercontent.com/DTVD/rainbowstream/master/screenshot/rs.gif)
-
----
 [**Records**](https://github.com/kennethreitz/records) is a very simple, but powerful, library for making raw SQL queries to most relational databases.
 
 Just write SQL. No bells, no whistles. This common task can be surprisingly difficult with the standard tools available. This library strives to make this workflow as simple as possible, while providing an elegant interface to work with your query results.
@@ -867,15 +817,6 @@ Supported: *Python 2/3*
 Supported: *Python 2/3*
 
 ![theano](https://cdn-images-1.medium.com/max/720/0*b-nP6iz23vKIVqys.png)
-
----
-[**Transcrypt**](http://www.transcrypt.org) is a Python 3.6 to Javascript compiler supporting e.g multiple inheritance, metaclasses and operator overloading. It generates fast, compact code that can run in your browser or on top of node.js. Transcrypt facilitates Python source level debugging and can use any Javascript library directly without conversion or special syntax.
-
-<a href="http://www.transcrypt.org">
-    <p align="center">
-      <img src="https://www.transcrypt.org/illustrations/logo_white_small.png" alt="Transcrypt">
-    </p>
-</a>
 
 ---
 [**tqdm**](https://github.com/tqdm/tqdm) - a fast, extensible progress bar for Python and CLI 
