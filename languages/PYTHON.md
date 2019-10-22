@@ -167,29 +167,6 @@ Built on top of Plotly.js, React and Flask, Dash ties modern UI elements like dr
 
 ## E
 
- [**eve**](https://github.com/nicolaiarocci/eve) —  an open source Python REST API framework designed for human beings. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services.
-
-Supported: *Python 2/3*
-
-Eve is powered by Flask, Redis, Cerberus, Events and offers support for both MongoDB and SQL backends.
-
-Example:
-
-```python
-from eve import Eve
-
-app = Eve()
-app.run()
-```
-
-The API is now live, ready to be consumed:
-
-```
-$ curl -i http://example.com/people
-HTTP/1.1 200 OK
-```
-
----
 [**Evennia**](https://github.com/evennia/evennia) is a modern library for creating [online multiplayer text games (MUD, MUSH, MUX, MUCK, MOO etc)](https://en.wikipedia.org/wiki/MUD) in pure Python.
 
 It allows game creators to design and flesh out their ideas with great freedom. Evennia is made available under the very friendly BSD license. Using Evennia you can have a fully-functioning online game up and running in minutes, including a telnet, ssh, website, and webclient.
@@ -205,40 +182,6 @@ Since Evennia is entirely programmed using Python, the tools used by professiona
         <img src="https://orig09.deviantart.net/a1d8/f/2017/236/a/5/evennia_logo_by_griatch_art-dbl6oip.png" alt="Evennia" width="300" height="300">
     </a>
 </p>
-
----
-[**Expynent**](https://github.com/lk-geimfari/expynent) is a tiny library that provides RegEx patterns. This can be useful if you don't want to write regular expression manually.
-
-<p align="center">
-    <a href="https://github.com/lk-geimfari/expynent/">
-        <img src="https://raw.githubusercontent.com/lk-geimfari/expynent/master/other/logo_2.png">
-    </a>
-</p>
-
-Examples:
-```python
-import re
-from expynent import patterns
-
-if re.match(patterns.ZIP_CODE['RU'], '43134'):
-    print('match')
-else:
-    print('not match')
-
-# Output: 'not match'
-```
-also you can use compiled patterns:
-
-```python
-from expynent.compiled import username
-
-u = input('Enter username: ')
-
-if username.match(u):
-    print('valid')
-else:
-    print('invalid')
-```
 
 ## F
 
