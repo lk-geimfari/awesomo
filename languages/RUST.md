@@ -54,6 +54,19 @@ Git integration:
 
 ![git integration](https://camo.githubusercontent.com/67e44f4a68150325f74b3a46820b7473ff7b91a6/68747470733a2f2f692e696d6775722e636f6d2f326c53573452452e706e67)
 
+---
+
+[**BoringTun**](https://github.com/cloudflare/boringtun) is an implementation of the [WireGuard<sup>®</sup>](https://www.wireguard.com/) protocol designed for portability and speed.
+
+The project consists of two parts:
+
+* The executable `boringtun`, a [userspace WireGuard](https://www.wireguard.com/xplatform/) implementation for Linux and macOS.
+* The library `boringtun` that can be used to implement fast and efficient WireGuard client apps on various platforms, including iOS and Android. It implements the underlying WireGuard protocol, without the network or tunnel stacks, those can be implemented in a platform idiomatic way.
+
+![BoringTun](https://i.imgur.com/7jKHtTJ.png)
+
+---
+
 ## C
 
 [**Clippy**](https://github.com/rust-lang/rust-clippy) is a collection of lints to catch common mistakes and improve your Rust code.
