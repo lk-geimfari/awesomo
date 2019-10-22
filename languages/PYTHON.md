@@ -28,13 +28,6 @@ Supported: *Python 2/3*
 </p>
 
 ---
-[**Automatron**](https://github.com/madflojo/automatron) is a framework for creating self-healing infrastructure. Simply put, it detects system events & takes action to correct them.
-
-The goal of Automatron is to allow users to automate the execution of common tasks performed during system events. These tasks can be as simple as sending an email to as complicated as restarting services across multiple hosts.
-
-![Automatron Dashboard](https://raw.githubusercontent.com/madflojo/automatron/develop/docs/img/dashboard.png)
-
----
 [**attrs**](https://github.com/python-attrs/attrs) is the Python package that will bring back the joy of writing classes by relieving you from the drudgery of implementing object protocols (aka dunder methods).
 
 <p align="center">
@@ -157,7 +150,7 @@ Organize Django settings into multiple files and directories. Easily override an
 
 <a href="https://github.com/sobolevn/django-split-settings">
     <p align="center">
-      <img src="https://raw.githubusercontent.com/sobolevn/django-split-settings/master/media/logo-black.png">
+      <img src="https://raw.githubusercontent.com/sobolevn/django-split-settings/master/docs/_static/logo-black.png">
     </p>
 </a>
 
