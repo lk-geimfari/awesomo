@@ -84,6 +84,8 @@ The [**corefx**](https://github.com/dotnet/corefx) repo contains the library imp
 
 [**EntityFramework6**](https://github.com/aspnet/EntityFramework6) is an object-relational mapper that enables .NET developers to work with relational data using domain-specific objects. It eliminates the need for most of the data-access code that developers usually need to write. Entity Framework is actively developed by the Entity Framework team in collaboration with a community of open source developers. Together we are dedicated to creating the best possible data access experience for .NET developers.
 
+[**Extensions**](https://github.com/aspnet/Extensions) is an open-source, cross-platform set of APIs for commonly used programming patterns and utilities, such as dependency injection, logging, and app configuration.
+
 ---
 [**Entropy**](https://github.com/aspnet/Entropy)  is "a measure of the disorder that exists in a system." This repo is a chaotic experimental playground for new features and ideas. Check here for small and simple samples for individual features.
 
@@ -98,10 +100,6 @@ The [**corefx**](https://github.com/dotnet/corefx) repo contains the library imp
 
 ---
 [**EventNotification**](https://github.com/aspnet/EventNotification) is the infrastructure for publishing notifications has moved to the .NET Framework. See the new DiagnosticSource and DiagnosticListener APIs in the System.Diagnostics.DiagnosticSource package. The infrastructure provided here is for subscribing to events using runtime-generated proxies.
-
-## F
-
-[**FileSystem**](https://github.com/aspnet/FileSystem) is a File Provider abstractions. Contains file system abstractions and file system globbing.
 
 ## H
 
