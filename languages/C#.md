@@ -213,9 +213,6 @@ Use OpenTK to add cross-platform 3d graphics, audio, compute and haptics to your
 ---
 [**OptiKey**](https://github.com/OptiKey/OptiKey) is an assistive on-screen keyboard which runs on Windows. It is designed to be used with an eye-tracking device to assist with keyboard and mouse control for those living with motor and speech limitations, such as Amyotrophic Lateral Sclerosis (ALS) / Motor Neuron Disease (MND).
 
----
-[**Options**](https://github.com/aspnet/Options) is a framework for accessing and configuring POCO settings.
-
 ## P
 
 [**PostProcessing**](https://github.com/Unity-Technologies/PostProcessing) is a new unity post-processing stack is an über effect that combines a complete set of image effects into a single post-process pipeline.
