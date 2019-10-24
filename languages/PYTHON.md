@@ -670,6 +670,12 @@ Supported: *Python 2.7/3.3+*
 
 ## R
 
+[**Ranger**](https://github.com/ranger/ranger) is a console file manager with VI keybindings. It has a minimalistic design and allows you to quickly navigate through your directories.
+
+![](https://raw.githubusercontent.com/ranger/ranger-assets/master/screenshots/screenshot.png)
+
+
+---
 [**Records**](https://github.com/kennethreitz/records) is a very simple, but powerful, library for making raw SQL queries to most relational databases.
 
 Just write SQL. No bells, no whistles. This common task can be surprisingly difficult with the standard tools available. This library strives to make this workflow as simple as possible, while providing an elegant interface to work with your query results.
