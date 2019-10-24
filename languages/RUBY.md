@@ -123,7 +123,13 @@ end
 ![octobox](https://cloud.githubusercontent.com/assets/1060/21510049/16ad341c-cc87-11e6-9a83-86c6be94535f.png)
 
 ## P
+[**Pagy**](https://github.com/ddnexus/pagy) is the coolest pagination gem that outperforms the others in each and every benchmark and comparison.
 
+* It is 40x times fater than other pagination gems like will_paginate and kaminari.
+* It is also 36 times lighter for total memory usage.
+* Totally agnostic. It doesn't need to know anything about your models, ORM or storage, so it doesn't add any code to them
+
+---
 [**Pry**](https://github.com/pry/pry) is a powerful alternative to the standard IRB shell for Ruby. It is
 written from scratch to provide a number of advanced features,
 including:
@@ -143,7 +149,7 @@ including:
 * Many convenience commands inspired by IPython, Smalltalk and other advanced REPLs
 * A wide-range number of [plugins](https://github.com/pry/pry/wiki/Available-plugins) that provide remote sessions, full debugging functionality, and more.
 
-![pry](https://camo.githubusercontent.com/c26ae0f28a595b15dc4d135fdcc113366f811853/68747470733a2f2f646c2e64726f70626f782e636f6d2f752f32363532313837352f70727925323073747566662f6c6f676f2f7072795f6c6f676f5f3335302e706e67)
+![pry](http://tyok.org/prying_ruby/img/pry_logo.png)
 
 
 ---
