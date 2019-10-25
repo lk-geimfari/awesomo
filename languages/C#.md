@@ -57,19 +57,7 @@ The [**corefx**](https://github.com/dotnet/corefx) repo contains the library imp
 [**Dapper**](https://github.com/StackExchange/dapper-dot-net) is a simple object mapper for .Net. Dapper is a NuGet library that you can add in to your project that will extend your IDbConnection interface.
 
 ---
-[**DataProtection**](https://github.com/aspnet/DataProtection) - Data Protection APIs for protecting and unprotecting data. This project is part of ASP.NET Core.
-
----
-[**DependencyInjection**](https://github.com/aspnet/DependencyInjection) - Contains common DI abstractions that ASP.NET Core and Entity Framework Core use.
-
----
-[**Diagnostics**](https://github.com/aspnet/Diagnostics) is a middleware for reporting info and handling exceptions and errors in ASP.NET Core, and diagnosing Entity Framework Core migrations errors.
-
----
 [**Docs**](https://github.com/aspnet/Docs) is a documentation for ASP.NET and ASP.NET Core https://docs.microsoft.com/aspnet
-
----
-[**DotNetTools**](https://github.com/aspnet/DotNetTools) is a command-line tools for the .NET Core CLI.
 
 ---
 [**DotNetty**](https://github.com/Azure/DotNetty) is a port of Netty, asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients.
@@ -79,6 +67,9 @@ The [**corefx**](https://github.com/dotnet/corefx) repo contains the library imp
 [**EntityFramework6**](https://github.com/aspnet/EntityFramework6) is an object-relational mapper that enables .NET developers to work with relational data using domain-specific objects. It eliminates the need for most of the data-access code that developers usually need to write. Entity Framework is actively developed by the Entity Framework team in collaboration with a community of open source developers. Together we are dedicated to creating the best possible data access experience for .NET developers.
 
 [**Extensions**](https://github.com/aspnet/Extensions) is an open-source, cross-platform set of APIs for commonly used programming patterns and utilities, such as dependency injection, logging, and app configuration.
+
+---
+[**EntityFrameworkCore**](https://github.com/aspnet/EntityFrameworkCore) is a lightweight and extensible version of the popular Entity Framework data access technology.
 
 ---
 [**Entropy**](https://github.com/aspnet/Entropy)  is "a measure of the disorder that exists in a system." This repo is a chaotic experimental playground for new features and ideas. Check here for small and simple samples for individual features.
@@ -92,42 +83,14 @@ The [**corefx**](https://github.com/dotnet/corefx) repo contains the library imp
 ---
 [**EventFlow**](https://github.com/eventflow/EventFlow) is a basic CQRS+ES framework designed to be easy to use.
 
----
-[**EventNotification**](https://github.com/aspnet/EventNotification) is the infrastructure for publishing notifications has moved to the .NET Framework. See the new DiagnosticSource and DiagnosticListener APIs in the System.Diagnostics.DiagnosticSource package. The infrastructure provided here is for subscribing to events using runtime-generated proxies.
-
-## H
-
-[**Hosting**](https://github.com/aspnet/Hosting) - The Hosting repo contains code required to host an ASP.NET Core application, it is the entry point used when self-hosting an application.
-
----
-[**HtmlAbstractions**](https://github.com/aspnet/HtmlAbstractions) is an abstractions used for building HTML content, including types such as HtmlString and IHtmlContent.
-
----
-[**HttpSysServer**](https://github.com/aspnet/HttpSysServer) - This repo contains a web server for ASP.NET Core based on the Windows Http Server API.
-
 ## I
-
-[**Identity**](https://github.com/aspnet/Identity) is the membership system for building ASP.NET Core web applications, including membership, login, and user data. ASP.NET Core Identity allows you to add login features to your application and makes it easy to customize data about the logged in user.
 
 ---
 [**IdentityServer4**](https://github.com/IdentityServer/IdentityServer4) is built against ASP.NET Core 1.1 using the RTM tooling that ships with Visual Studio 2017. This is the only configuration we support on the issue tracker.
 
----
-[**IISIntegration**](https://github.com/aspnet/IISIntegration) - This repo hosts the ASP.NET Core middleware for IIS integration. This project is part of ASP.NET Core.
-
 ## J
 
-[**JavaScriptServices**](https://github.com/aspnet/JavaScriptServices) - Microsoft ASP.NET Core JavaScript Services is a set of technologies for ASP.NET Core developers.
-
----
 [**Json.NET**](https://github.com/JamesNK/Newtonsoft.Json) is a personal open source project. Started in 2006, thousands of hours have been invested in refining and tuning Json.NET with the goal of making it not just the best JSON serializer for .NET but the best serializer for any computer language.
-
----
-[**JsonPatch**](https://github.com/aspnet/JsonPatch) is a library for ASP.NET Core.
-
-## K
-
-[**KestrelHttpServer**](https://github.com/aspnet/KestrelHttpServer) is a web server for ASP.NET Core based on libuv.
 
 ## L
 
@@ -138,12 +101,6 @@ The [**corefx**](https://github.com/dotnet/corefx) repo contains the library imp
 
 ---
 [**live.asp.net**](https://github.com/aspnet/live.asp.net) - Code for live.asp.net, which hosts the ASP.NET Community Stand-up
-
----
-[**Localization**](https://github.com/aspnet/Localization) - Localization abstractions and implementations for ASP.NET Core applications.
-
----
-[**Logging**](https://github.com/aspnet/Logging) is a common logging abstractions and a few implementations. This project is part of ASP.NET Core.
 
 ## M
 
@@ -156,19 +113,7 @@ The [**corefx**](https://github.com/dotnet/corefx) repo contains the library imp
 [**MaterialDesignInXamlToolkit**](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit) is a Google's Material Design in XAML & WPF, for C# & VB.Net. http://materialdesigninxaml.net
 
 ---
-[**Microsoft.Data.Sqlite**](https://github.com/aspnet/Microsoft.Data.Sqlite) - Contains SQLite implementations of the System.Data.Common interfaces.
-
----
 [**Mono**](https://github.com/mono/mono) is a software platform designed to allow developers to easily create cross platform applications. It is an open source implementation of Microsoft's .NET Framework based on the ECMA standards for C# and the Common Language Runtime.
-
----
-[**MusicStore**](https://github.com/aspnet/MusicStore) is a sample ASP.NET Core application.
-
----
-[**Mvc**](https://github.com/aspnet/Mvc) ASP.NET Core MVC is a model view controller framework for building dynamic web sites with clean separation of concerns, including the merged MVC, Web API, and Web Pages w/ Razor.
-
----
-[**MvcPrecompilation**](https://github.com/aspnet/MvcPrecompilation) - The Razor syntax provides a fast, terse, clean, and lightweight way to combine server code with HTML to create dynamic web content. This repo contains tooling that allows compilation of MVC Razor views as part of build and publish.
 
 ## N
 
@@ -227,9 +172,6 @@ Use OpenTK to add cross-platform 3d graphics, audio, compute and haptics to your
 [**react-native-windows**](https://github.com/Microsoft/react-native-windows) is a framework for building native UWP and WPF apps with React. http://facebook.github.io/react-native/
 
 ---
-[**ResponseCaching**](https://github.com/aspnet/ResponseCaching) is an ASP.NET Core middleware for caching responses.
-
----
 [**Roslyn**](https://github.com/dotnet/roslyn) provides open-source C# and Visual Basic compilers with rich code analysis APIs. It enables building code analysis tools with the same APIs that are used by Visual Studio.
 
 ## S
@@ -241,9 +183,6 @@ Use OpenTK to add cross-platform 3d graphics, audio, compute and haptics to your
 
 ---
 [**SimpleInjector**](https://github.com/simpleinjector/SimpleInjector) is an open source dependency injection (DI) library for .NET.
-
----
-[**StaticFiles**](https://github.com/aspnet/StaticFiles) - This repo contains middleware for handling requests for file system resources including files and directories.
 
 ## T
 
