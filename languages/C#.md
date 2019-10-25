@@ -15,6 +15,9 @@
 [**alba**](https://github.com/JasperFx/alba) is a tool for better integration testing against ASP.Net Core applications.
 
 ---
+[**AspNetCore**](https://github.com/aspnet/AspNetCore) - is an open-source and cross-platform framework for building modern cloud based internet connected applications, such as web apps, IoT apps and mobile backends.
+
+---
 [**AspNetKatana**](https://github.com/aspnet/AspNetKatana) is a flexible set of components for building and hosting OWIN-based web applications on .NET Framework.
 
 ---
@@ -22,9 +25,6 @@
 
 ---
 [**AutoMapper**](https://github.com/AutoMapper/AutoMapper) is a convention-based object-object mapper in .NET. http://automapper.org
-
----
-[**AzureIntegration**](https://github.com/aspnet/AzureIntegration) - Features that integrate ASP.NET Core with Azure.
 
 ## B
 
