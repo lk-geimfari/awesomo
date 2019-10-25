@@ -52,9 +52,6 @@
 ---
 The [**corefx**](https://github.com/dotnet/corefx) repo contains the library implementation for .NET Core. It includes System.Collections, System.IO, System.Xml, and many other components. You can see more information in Documentation. The corresponding .NET Core Runtime repo contains the runtime implementation (called "CoreCLR") for .NET Core. It includes RyuJIT, the .NET GC, and many other components. Runtime-specific library code - namely mscorlib - lives in the CoreCLR repo. It needs to be built and versioned in tandem with the runtime. The rest of CoreFX is agnostic of runtime-implementation and can be run on any compatible .NET runtime.
 
----
-[**CORS**](https://github.com/aspnet/CORS) is an implementations of common CORS policy and CORS middleware.
-
 ## D
 
 [**Dapper**](https://github.com/StackExchange/dapper-dot-net) is a simple object mapper for .Net. Dapper is a NuGet library that you can add in to your project that will extend your IDbConnection interface.
