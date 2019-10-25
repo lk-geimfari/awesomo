@@ -96,10 +96,6 @@ It derives from the old Numeric code base and can be used as a replacement for N
 
 ## T
 
-[**Torch**](https://github.com/torch/torch7) is a scientific computing framework with wide support for machine learning algorithms that puts GPUs first. It is easy to use and efficient, thanks to an easy and fast scripting language, LuaJIT, and an underlying C/CUDA implementation.
-
-![torch](https://cdn-images-1.medium.com/max/720/0*6tYC_KkQvSAAL6h3.png)
-
 ---
 [Tox](https://tox.chat) is a peer to peer (serverless) instant messenger aimed at making security and privacy easy to obtain for regular users. It uses [NaCl](https://nacl.cr.yp.to/) for its encryption and authentication.
 
