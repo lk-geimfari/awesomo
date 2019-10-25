@@ -31,9 +31,6 @@
 [**benchmarks**](https://github.com/aspnet/benchmarks) - Benchmarks for ASP.NET Core including (but not limited to) scenarios from the TechEmpower Web Framework Benchmarks.
 
 ---
-[**Blazor**](https://github.com/aspnet/Blazor) is a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly. https://blazor.net/
-
----
 [**BotBuilder**](https://github.com/Microsoft/BotBuilder) is one of three main components of the Microsoft Bot Framework. The Microsoft Bot Framework provides just what you need to build and connect intelligent bots that interact naturally wherever your users are talking, from text/SMS to Skype, Slack, Office 365 mail and other popular services. http://botframework.com
 
 ---
