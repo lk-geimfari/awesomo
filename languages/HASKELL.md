@@ -42,7 +42,7 @@
 
 [**postgrest**](https://github.com/begriffs/postgrest)  —  PostgREST serves a fully RESTful API from any existing PostgreSQL database. It provides a cleaner, more standards-compliant, faster API than you are likely to write from scratch. PostgREST written in Haskell.
 
-![postgrest](https://github.com/begriffs/postgrest/raw/master/static/logo.png)
+![postgrest](https://github.com/PostgREST/postgrest/blob/master/static/bigger-logo.png)
 
 
 ---
