@@ -39,7 +39,7 @@
 ---
 [**BuildTools**](https://github.com/aspnet/BuildTools) - Utilities used in the build system for projects that are used with ASP.NET Core and Entity Framework Core.
 
-[**BansheeEngine**](https://github.com/BearishSun/BansheeEngine.git)is a high-quality and modern game development toolkit. It provides a high-performance, multi-threaded game engine written in C++14. The engine includes math and utility libraries, Vulkan, DirectX 11 and OpenGL support, handles common tasks such as input, GUI, physics, audio, animation and scripting, and supports many popular resource formats (e.g. FBX, PNG, PSD, TTF, OGG, WAV).
+[**BansheeEngine**](https://github.com/BearishSun/BansheeEngine)is a high-quality and modern game development toolkit. It provides a high-performance, multi-threaded game engine written in C++14. The engine includes math and utility libraries, Vulkan, DirectX 11 and OpenGL support, handles common tasks such as input, GUI, physics, audio, animation and scripting, and supports many popular resource formats (e.g. FBX, PNG, PSD, TTF, OGG, WAV).
 
 ## C
 
