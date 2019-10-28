@@ -38,7 +38,7 @@ Libraries include:
 * Allow flexible processing of telemetry data on agent (e.g. filtering and decoration)
 * Provide powerful clustered control of telemetry workflows across small or large clusters
 
-<p align="center"><img src="http://snap-telemetry.io/assets/img/snappy-frontpage-banner.png"></p>
+<p align="center"><img src="https://cloud.githubusercontent.com/assets/1744971/20331694/e07e9148-ab5b-11e6-856a-e4e956540077.png"></p>
 
 ## <div align="center">Gitql</div>
 
