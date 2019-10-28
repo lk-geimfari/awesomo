@@ -62,12 +62,6 @@ Encoding example:
 
 ![Clojurecademy Homepage](https://github.com/clojurecademy/clojurecademy/raw/master/home.png)
 
-
----
-[**Clojure News**](https://github.com/ertugrulcetin/ClojureNews) is Hacker News clone for Clojurists.Entirely written in Clojure & ClojureScript.
-
-![Clojure News Demo](https://github.com/ertugrulcetin/ClojureNews/raw/master/github-img-clojure-news.png)
-
 ---
 [**compojure**](https://github.com/weavejester/compojure)  —  a small routing library for Ring that allows web applications to be composed of small, independent parts.
 
