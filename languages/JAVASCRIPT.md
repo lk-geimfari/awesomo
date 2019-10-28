@@ -284,6 +284,13 @@ reveal.js comes with a broad range of features including [nested slides](https:/
 
 ![sweetalert](https://raw.githubusercontent.com/sweetalert2/sweetalert2/master/assets/swal2-logo.png)
 
+---
+[**Serverless Framework**](https://github.com/serverless/serverless) - Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
+
+The Framework uses new event-driven compute services, like AWS Lambda, Google Cloud Functions, and more. It's a command-line tool, providing scaffolding, workflow automation and best practices for developing and deploying your serverless architecture. It's also completely extensible via plugins.
+
+![serverless](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxq60By29xNRo1HB8qT8Z7ypk6n_Daaivpvxh-7PhO5r_nnOrb&s)
+
 ## T
 
 [**TestCafe**](https://github.com/DevExpress/testcafe) is a pure node.js end-to-end solution for testing web apps. It takes care of all the stages: starting browsers, running tests, gathering test results and generating reports. TestCafe doesn’t need browser plugins - it works in all popular modern browsers out-of-the-box.
