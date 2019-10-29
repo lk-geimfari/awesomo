@@ -46,7 +46,7 @@ If you are interested in [Open Source](https://en.wikipedia.org/wiki/Open-source
 
 :point_up: However, keep in mind that we don't accept *mammoth's shit*. Only active and interesting projects with good documentation are added. Dead and abandoned projects will be removed.
 
-## Want to support us?
+## Hey Want to support us?
 
 Just share this list with your friends on [Twitter](https://twitter.com/), [Facebook](https://www.facebook.com/), [Medium](http://medium.com) or somewhere else.
 
