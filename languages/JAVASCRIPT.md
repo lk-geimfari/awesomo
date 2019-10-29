@@ -158,7 +158,7 @@ Impress.js is inspired by the idea behind [Prezi](https://prezi.com/).
 ---
 [**Ink**](https://github.com/vadimdemedes/ink) Ink provides the same component-based UI building experience that React provides, but for command-line apps.
 
-![lodash](http://imgur.com/dIzDcos.png)
+![ink](https://github.com/vadimdemedes/ink/blob/master/media/demo.svg)
 
 ## L
 
