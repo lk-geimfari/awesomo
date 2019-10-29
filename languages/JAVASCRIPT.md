@@ -155,6 +155,11 @@ Impress.js is inspired by the idea behind [Prezi](https://prezi.com/).
 
 [Check out the live demo](http://impress.github.io/impress.js).
 
+---
+[**Ink**](https://github.com/vadimdemedes/ink) provides the same component-based UI building experience that React provides, but for command-line apps.
+
+![ink](https://github.com/vadimdemedes/ink/blob/master/media/demo.svg)
+
 ## L
 
 [**LaTeX Resume Generator**](https://github.com/saadq/latexresu.me) is an easy to use webapp for creating elegant LaTeX resumes without the need to write any TeX code yourself. Built with Node.js and React.
