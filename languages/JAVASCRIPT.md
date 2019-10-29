@@ -180,6 +180,9 @@ Mailspring's UI is open source (GPLv3) and written in JavaScript with Electron a
 ![marko](https://user-images.githubusercontent.com/3771924/29725582-a043b5fe-899a-11e7-83f8-215fdc904256.png)
 
 ---
+[**mbgl-renderer**](https://github.com/consbio/mbgl-renderer) is a static map renderer based on Mapbox GL. Create static map images using Mapbox GL with a command line interface, an HTTP interface, and a NodeJS API.
+
+---
 [**Moment.js**](https://github.com/moment/moment)  —  a lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
 
 ![moment.js](https://cdn-images-1.medium.com/max/720/0*DP6jZMrfJIt2znNM.png)
