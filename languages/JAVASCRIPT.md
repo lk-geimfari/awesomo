@@ -55,11 +55,6 @@ Chart.js provides two different builds that are available for your use. The Char
 ![chart.js](https://cdn-images-1.medium.com/max/720/0*bFZZQzdNeZkoy3Ov.jpg)
 
 ---
-[**Clipboard.js**](https://github.com/zenorocha/clipboard.js)  —  Modern copy to clipboard. No Flash. Just 3kb gzipped.
-
-![clipboard.js](https://cloud.githubusercontent.com/assets/398893/16165747/a0f6fc46-349a-11e6-8c9b-c5fd58d9099c.png)
-
----
 [**Countly**](https://github.com/countly/countly-server)  —  A plugin-based, real-time mobile, web and desktop analytics platform with more than 10 different SDKs. Countly also includes an extensive push notifications and crash reporting service for mobile devices.
 
 ![countly](https://count.ly/images/home/countly-overview.png?v2)
