@@ -159,6 +159,9 @@ The [**corefx**](https://github.com/dotnet/corefx) repo contains the library imp
 [**MassTransit**](https://github.com/MassTransit/MassTransit) is a free, open-source distributed application framework for .NET. MassTransit makes it easy to create applications and services that leverage message-based, loosely-coupled asynchronous communication for higher availability, reliabililty, and scalability.
 
 ---
+[**MeredithCore**](https://github.com/whynotearth/meredith-core) A backend .net API which manages our database (postgres, google cloud). Data from this database is used by meredith-core to provide endpoints to any front end team. All content for websites, email marketing, ad buying, etc. is all stored in the same database, allowing easy content management for large brands and marketing agencies.
+
+---
 [**MaterialDesignInXamlToolkit**](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit) is a Google's Material Design in XAML & WPF, for C# & VB.Net. http://materialdesigninxaml.net
 
 ---
