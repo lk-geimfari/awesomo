@@ -95,6 +95,11 @@ Enzyme is unopinionated regarding which test runner or assertion library you use
 
 ![express](http://imgur.com/mSHVwME.png)
 
+---
+[**Exifr**](https://github.com/MikeKovarik/exifr) - The fastest and most versatile JS EXIF reading library.
+
+![exifr](https://raw.githubusercontent.com/MikeKovarik/exifr/master/logo/blue-mini.png)
+
 ## F
 
 [**Fabric.js**](https://github.com/kangax/fabric.js) is a framework that makes it easy to work with HTML5 canvas element. It is an interactive object model on top of canvas element. It is also an SVG-to-canvas parser.
