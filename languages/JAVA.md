@@ -57,6 +57,12 @@ is an open source testing framework for Java released under the MIT License. The
 
 [**SpringFox**](https://github.com/springfox/springfox) Automated JSON API documentation for API's built with Spring
 
+## V
+
+[**Virgil PureKit**](https://virgilsecurity.com/purekit/) is an open-source security framework for user passwords and data protection in a database with functionality against online and offline attacks. PureKit can be used within any database or login system that uses a password, so it’s applicable for a company of any industry or size. It's available for several different programming languages, including Java.
+
+![Virgil PureKit](https://cdn.virgilsecurity.com/assets/images/github/logos/purekit/PureKit_product.png)
+
 ## W
 [**World War of Ants**](https://github.com/warofants/wwa) is a game about managing lives of ants, making sure their colony is fed, maintained, defended and prosperous. 
 
