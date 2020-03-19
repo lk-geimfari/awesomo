@@ -168,6 +168,14 @@ Sidekiq is compatible with Resque. It uses the exact same message format as Resq
 ---
 [**Slim**](https://github.com/slim-template/slim) is a template language whose goal is to reduce the view syntax to the essential parts without becoming cryptic. It started as an exercise to see how much could be removed from a standard html template (<, >, closing tags, etc...). As more people took an interest in Slim, the functionality grew and so did the flexibility of the syntax.
 
+[**Solidus**](https://github.com/solidusio/solidus) is a free, open-source ecommerce platform that gives you complete control over your store.
+
+Have a large community, with more than 670 contribuitors around the world.
+
+Solidus, Rails eCommerce System. 
+Site: https://solidus.io/
+
+
 ## V
 
 [**vcr**](https://github.com/vcr/vcr). Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.

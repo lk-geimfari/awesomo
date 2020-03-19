@@ -42,3 +42,11 @@ expect: [1, 2, 3]        (java.util.Arrays$ArrayList <1287934450>)
 ![corda](https://i.imgur.com/0BWrSiq.png)
 
 ---
+
+## V
+
+[**Virgil PureKit**](https://github.com/VirgilSecurity/virgil-purekit-java) is an open-source security framework for user passwords and data protection in a database with functionality against online and offline attacks. PureKit can be used within any database or login system that uses a password, so it’s applicable for a company of any industry or size. It's available for several different programming languages, including Kotlin.
+
+![Virgil PureKit](https://cdn.virgilsecurity.com/assets/images/github/logos/purekit/PureKit_product.png)
+
+---

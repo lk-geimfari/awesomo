@@ -55,11 +55,6 @@ Chart.js provides two different builds that are available for your use. The Char
 ![chart.js](https://cdn-images-1.medium.com/max/720/0*bFZZQzdNeZkoy3Ov.jpg)
 
 ---
-[**Clipboard.js**](https://github.com/zenorocha/clipboard.js)  —  Modern copy to clipboard. No Flash. Just 3kb gzipped.
-
-![clipboard.js](https://cloud.githubusercontent.com/assets/398893/16165747/a0f6fc46-349a-11e6-8c9b-c5fd58d9099c.png)
-
----
 [**Countly**](https://github.com/countly/countly-server)  —  A plugin-based, real-time mobile, web and desktop analytics platform with more than 10 different SDKs. Countly also includes an extensive push notifications and crash reporting service for mobile devices.
 
 ![countly](https://count.ly/images/home/countly-overview.png?v2)
@@ -84,6 +79,11 @@ date-fns provides the most comprehensive, yet simple and consistent toolset for 
 
 ## E
 
+[eDEX-UI](https://github.com/GitSquared/edex-ui) is a fullscreen, cross-platform terminal emulator and system monitor that looks and feels like a sci-fi computer interface.
+
+![eDEX-UI](https://github.com/GitSquared/edex-ui/raw/master/media/screenshot_default.png)
+
+---
 [**Enzyme**](https://github.com/airbnb/enzyme) is a JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components’ output.
 
 Enzyme’s API is meant to be intuitive and flexible by mimicking jQuery’s API for DOM manipulation and traversal.
@@ -94,6 +94,11 @@ Enzyme is unopinionated regarding which test runner or assertion library you use
 [**Express**](https://github.com/expressjs/express)  — Fast, unopinionated, minimalist web framework for node.  
 
 ![express](http://imgur.com/mSHVwME.png)
+
+---
+[**Exifr**](https://github.com/MikeKovarik/exifr) - The fastest and most versatile JS EXIF reading library.
+
+![exifr](https://raw.githubusercontent.com/MikeKovarik/exifr/master/logo/blue-mini.png)
 
 ## F
 
@@ -155,6 +160,11 @@ Impress.js is inspired by the idea behind [Prezi](https://prezi.com/).
 
 [Check out the live demo](http://impress.github.io/impress.js).
 
+---
+[**Ink**](https://github.com/vadimdemedes/ink) provides the same component-based UI building experience that React provides, but for command-line apps.
+
+![ink](https://github.com/vadimdemedes/ink/blob/master/media/demo.svg)
+
 ## L
 
 [**LaTeX Resume Generator**](https://github.com/saadq/latexresu.me) is an easy to use webapp for creating elegant LaTeX resumes without the need to write any TeX code yourself. Built with Node.js and React.
@@ -183,6 +193,13 @@ Mailspring's UI is open source (GPLv3) and written in JavaScript with Electron a
 [**Moment.js**](https://github.com/moment/moment)  —  a lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
 
 ![moment.js](https://cdn-images-1.medium.com/max/720/0*DP6jZMrfJIt2znNM.png)
+
+---
+[**Meteor**](https://github.com/meteor/meteor) is an ultra-simple environment for building modern web applications.
+
+With Meteor you write apps in modern JavaScript that send data over the wire, rather than HTML using your choice of popular open-source libraries
+
+![meteor](https://user-images.githubusercontent.com/841294/26841702-0902bbee-4af3-11e7-9805-0618da66a246.png)
 
 ## N
 [**NSFW**](https://github.com/infinitered/nsfwjs) - Client-side indecent content checking
@@ -283,6 +300,13 @@ reveal.js comes with a broad range of features including [nested slides](https:/
 [Check out the live demo](https://github.com/limonte/sweetalert2).
 
 ![sweetalert](https://raw.githubusercontent.com/sweetalert2/sweetalert2/master/assets/swal2-logo.png)
+
+---
+[**Serverless Framework**](https://github.com/serverless/serverless) - Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
+
+The Framework uses new event-driven compute services, like AWS Lambda, Google Cloud Functions, and more. It's a command-line tool, providing scaffolding, workflow automation and best practices for developing and deploying your serverless architecture. It's also completely extensible via plugins.
+
+![serverless](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxq60By29xNRo1HB8qT8Z7ypk6n_Daaivpvxh-7PhO5r_nnOrb&s)
 
 ## T
 

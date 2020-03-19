@@ -84,6 +84,8 @@ The [**corefx**](https://github.com/dotnet/corefx) repo contains the library imp
 
 [**EntityFramework6**](https://github.com/aspnet/EntityFramework6) is an object-relational mapper that enables .NET developers to work with relational data using domain-specific objects. It eliminates the need for most of the data-access code that developers usually need to write. Entity Framework is actively developed by the Entity Framework team in collaboration with a community of open source developers. Together we are dedicated to creating the best possible data access experience for .NET developers.
 
+[**Extensions**](https://github.com/aspnet/Extensions) is an open-source, cross-platform set of APIs for commonly used programming patterns and utilities, such as dependency injection, logging, and app configuration.
+
 ---
 [**Entropy**](https://github.com/aspnet/Entropy)  is "a measure of the disorder that exists in a system." This repo is a chaotic experimental playground for new features and ideas. Check here for small and simple samples for individual features.
 
@@ -98,10 +100,6 @@ The [**corefx**](https://github.com/dotnet/corefx) repo contains the library imp
 
 ---
 [**EventNotification**](https://github.com/aspnet/EventNotification) is the infrastructure for publishing notifications has moved to the .NET Framework. See the new DiagnosticSource and DiagnosticListener APIs in the System.Diagnostics.DiagnosticSource package. The infrastructure provided here is for subscribing to events using runtime-generated proxies.
-
-## F
-
-[**FileSystem**](https://github.com/aspnet/FileSystem) is a File Provider abstractions. Contains file system abstractions and file system globbing.
 
 ## H
 
@@ -161,6 +159,9 @@ The [**corefx**](https://github.com/dotnet/corefx) repo contains the library imp
 [**MassTransit**](https://github.com/MassTransit/MassTransit) is a free, open-source distributed application framework for .NET. MassTransit makes it easy to create applications and services that leverage message-based, loosely-coupled asynchronous communication for higher availability, reliabililty, and scalability.
 
 ---
+[**MeredithCore**](https://github.com/whynotearth/meredith-core) A backend .net API which manages our database (postgres, google cloud). Data from this database is used by meredith-core to provide endpoints to any front end team. All content for websites, email marketing, ad buying, etc. is all stored in the same database, allowing easy content management for large brands and marketing agencies.
+
+---
 [**MaterialDesignInXamlToolkit**](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit) is a Google's Material Design in XAML & WPF, for C# & VB.Net. http://materialdesigninxaml.net
 
 ---
@@ -212,9 +213,6 @@ Use OpenTK to add cross-platform 3d graphics, audio, compute and haptics to your
 
 ---
 [**OptiKey**](https://github.com/OptiKey/OptiKey) is an assistive on-screen keyboard which runs on Windows. It is designed to be used with an eye-tracking device to assist with keyboard and mouse control for those living with motor and speech limitations, such as Amyotrophic Lateral Sclerosis (ALS) / Motor Neuron Disease (MND).
-
----
-[**Options**](https://github.com/aspnet/Options) is a framework for accessing and configuring POCO settings.
 
 ## P
 
@@ -274,6 +272,9 @@ Use OpenTK to add cross-platform 3d graphics, audio, compute and haptics to your
 
 ---
 [**Wox**](https://github.com/Wox-launcher/Wox) is a launcher for Windows, an alternative to Alfred and Launchy.
+
+---
+[**websocket-sharp**](https://github.com/sta/websocket-sharp) A C# implementation of the WebSocket protocol client and server.
 
 ## X
 
