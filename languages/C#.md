@@ -273,6 +273,9 @@ Use OpenTK to add cross-platform 3d graphics, audio, compute and haptics to your
 ---
 [**Wox**](https://github.com/Wox-launcher/Wox) is a launcher for Windows, an alternative to Alfred and Launchy.
 
+---
+[**websocket-sharp**](https://github.com/sta/websocket-sharp) A C# implementation of the WebSocket protocol client and server.
+
 ## X
 
 [**XUnit**](https://github.com/xunit/xunit)  is a free, open source, community-focused unit testing tool for the .NET Framework. Written by the original inventor of NUnit v2, xUnit.net is the latest technology for unit testing C#, F#, VB.NET and other .NET languages. xUnit.net works with ReSharper, CodeRush, TestDriven.NET and Xamarin.
