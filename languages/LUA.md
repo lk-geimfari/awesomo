@@ -37,7 +37,7 @@ app:run()
 
 ---
 
-[**Love2D**](https://love2d.org/) - a simple 2D game framework for Lua.
+[**Love2D**](https://github.com/love2d/love) - a simple 2D game framework for Lua.
 
 Example:
 
