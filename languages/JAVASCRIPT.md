@@ -194,6 +194,13 @@ Mailspring's UI is open source (GPLv3) and written in JavaScript with Electron a
 
 ![moment.js](https://cdn-images-1.medium.com/max/720/0*DP6jZMrfJIt2znNM.png)
 
+---
+[**Meteor**](https://github.com/meteor/meteor) is an ultra-simple environment for building modern web applications.
+
+With Meteor you write apps in modern JavaScript that send data over the wire, rather than HTML using your choice of popular open-source libraries
+
+![meteor](https://user-images.githubusercontent.com/841294/26841702-0902bbee-4af3-11e7-9805-0618da66a246.png)
+
 ## N
 [**NSFW**](https://github.com/infinitered/nsfwjs) - Client-side indecent content checking
 
