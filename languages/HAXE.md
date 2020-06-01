@@ -25,6 +25,11 @@
 ---
 [**HXElectron**](https://github.com/tong/hxelectron) - Haxe type definitions for electron, a framework for building cross-platform desktop applications with JavaScript, HTML, and CSS.
 
+## I
+[**Iron**](https://github.com/armory3d/iron) is a 3D engine core library built with Kha and Haxe. Powering Armory.
+
+![iron](https://camo.githubusercontent.com/860aa4e322ded52af47a88313e78cb7ef71d1071/68747470733a2f2f61726d6f727933642e6f72672f696d672f69726f6e2e6a7067)
+
 ## K
 [**Kha**](https://github.com/Kode/Kha) is a low level sdk for building games and media applications in a portable way.
 Think SDL, but super-charged. Based on the Haxe programming language and the krafix shader-compiler it can cross-compile your code and
