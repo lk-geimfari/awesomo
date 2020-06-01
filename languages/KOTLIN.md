@@ -52,6 +52,12 @@ KorGE is just the last layer of a larger stack (Korlibs) for multimedia developm
 
 ---
 
+[**KotlinPoet**](https://github.com/square/kotlinpoet) is a Kotlin and Java API for generating .kt source files.
+
+Source file generation can be useful when doing things such as annotation processing or interacting with metadata files (e.g., database schemas, protocol formats). By generating code, you eliminate the need to write boilerplate while also keeping a single source of truth for the metadata.
+
+---
+
 [**Ktor**](https://github.com/ktorio/ktor) is a framework for quickly creating web applications in Kotlin with minimal effort.
 
 ![ktor](https://camo.githubusercontent.com/ff8d543d1bc5951292d40f105ca2a96d6eeee1fa/687474703a2f2f6b746f722e696f2f6173736574732f696d616765732f6b746f725f6c6f676f2e706e67)
