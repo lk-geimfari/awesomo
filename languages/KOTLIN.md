@@ -52,6 +52,10 @@ KorGE is just the last layer of a larger stack (Korlibs) for multimedia developm
 
 ---
 
+[**Ktor**](https://github.com/ktorio/ktor) is a framework for quickly creating web applications in Kotlin with minimal effort.
+
+![ktor](https://camo.githubusercontent.com/ff8d543d1bc5951292d40f105ca2a96d6eeee1fa/687474703a2f2f6b746f722e696f2f6173736574732f696d616765732f6b746f725f6c6f676f2e706e67)
+
 ## V
 
 [**Virgil PureKit**](https://github.com/VirgilSecurity/virgil-purekit-java) is an open-source security framework for user passwords and data protection in a database with functionality against online and offline attacks. PureKit can be used within any database or login system that uses a password, so it’s applicable for a company of any industry or size. It's available for several different programming languages, including Kotlin.
