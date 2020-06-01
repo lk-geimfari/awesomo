@@ -43,6 +43,10 @@ expect: [1, 2, 3]        (java.util.Arrays$ArrayList <1287934450>)
 
 ---
 
+## J
+
+[**Jackson**](https://github.com/FasterXML/jackson-module-kotlin) - module that adds support for serialization/deserialization of Kotlin classes and data classes. Previously a default constructor must have existed on the Kotlin object for Jackson to deserialize into the object. With this module, single constructor classes can be used automatically, and those with secondary constructors or static factories are also supported.
+
 ## K
 [**KorGE**](https://github.com/korlibs/korge) is a modern multiplatform game engine for Kotlin. KorGE is fully written in Kotlin. KorGE gradle plugin allows to target each platform natively: JVM for Android, JS for the Web and Native code for iOS and Desktop. KorGE has a very small footprint. It has no external dependencies and only uses the libraries available on each platform. You can create small native games or games for the web, that are fast to download and require almost no space to store. The JS sample of this page is just 383 KB gzipped (1.9 MB uncompressed). No emscripten. Just plain JS generated using Kotlin/JS. Iterate fast, develop with pleasure
 Since KorGE targets the JVM, you can develop your game, try it, debug it and test it using IntelliJ IDEA (including Community, Ultimate and Android Studio) integrated debugger. And then deploy to the other targets by using the provided gradle tasks. You can also use KorGE as a library and for example integrated it in your android-only project. Tons of features out of the box
