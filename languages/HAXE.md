@@ -9,6 +9,15 @@
 |       |       |       |       |       |       |       |
 
 ## H
+[**HaxePunk**](https://github.com/HaxePunk/HaxePunk) is a powerful cross-platform 2D game engine, based on the FlashPunk AS3 library.
+
+* Builds for HTML5 (WebGL), Windows, Mac, Linux, iOS, and Android
+* Hardware acceleration and texture atlas support
+* Gamepad and multi-touch input
+
+![haxepunk](https://github.com/HaxePunk/HaxePunk/raw/dev/template/assets/HaxePunk.png?raw=HaxePunk)
+
+---
 [**Heaps**](https://github.com/HeapsIO/heaps) is a cross platform graphics engine designed for high performance games. It's designed to leverage modern GPUs that are commonly available on desktop, mobile and consoles.
 
 ![heaps](https://raw.githubusercontent.com/HeapsIO/heaps.io/master/assets/logo/logo-heaps-color.png)
