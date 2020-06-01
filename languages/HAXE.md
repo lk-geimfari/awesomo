@@ -8,6 +8,9 @@
 |[V](#v)|[W](#w)|[X](#x)|[Y](#y)|[Z](#z)|       |       |
 |       |       |       |       |       |       |       |
 
+## H
+[**HXElectron**](https://github.com/tong/hxelectron) - Haxe type definitions for electron, a framework for building cross-platform desktop applications with JavaScript, HTML, and CSS.
+
 ## K
 [**Kha**](https://github.com/Kode/Kha) is a low level sdk for building games and media applications in a portable way.
 Think SDL, but super-charged. Based on the Haxe programming language and the krafix shader-compiler it can cross-compile your code and
