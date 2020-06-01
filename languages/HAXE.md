@@ -9,6 +9,11 @@
 |       |       |       |       |       |       |       |
 
 ## H
+[**Heaps**](https://github.com/HeapsIO/heaps) is a cross platform graphics engine designed for high performance games. It's designed to leverage modern GPUs that are commonly available on desktop, mobile and consoles.
+
+![heaps](https://raw.githubusercontent.com/HeapsIO/heaps.io/master/assets/logo/logo-heaps-color.png)
+
+---
 [**HXElectron**](https://github.com/tong/hxelectron) - Haxe type definitions for electron, a framework for building cross-platform desktop applications with JavaScript, HTML, and CSS.
 
 ## K
