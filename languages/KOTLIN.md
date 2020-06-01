@@ -43,6 +43,15 @@ expect: [1, 2, 3]        (java.util.Arrays$ArrayList <1287934450>)
 
 ---
 
+## K
+[**KorGE**](https://github.com/korlibs/korge) is a modern multiplatform game engine for Kotlin. KorGE is fully written in Kotlin. KorGE gradle plugin allows to target each platform natively: JVM for Android, JS for the Web and Native code for iOS and Desktop. KorGE has a very small footprint. It has no external dependencies and only uses the libraries available on each platform. You can create small native games or games for the web, that are fast to download and require almost no space to store. The JS sample of this page is just 383 KB gzipped (1.9 MB uncompressed). No emscripten. Just plain JS generated using Kotlin/JS. Iterate fast, develop with pleasure
+Since KorGE targets the JVM, you can develop your game, try it, debug it and test it using IntelliJ IDEA (including Community, Ultimate and Android Studio) integrated debugger. And then deploy to the other targets by using the provided gradle tasks. You can also use KorGE as a library and for example integrated it in your android-only project. Tons of features out of the box
+KorGE is just the last layer of a larger stack (Korlibs) for multimedia development: Date and Time utilities, Image Loading, Vector Rasterization, Pathfinding, Sound, Data Structures, Fast Memory Access, Virtual File Systems, WebSockets... Also, it is extensible and include several plugins out of the box: DragonBones, Box2D, SWF and Admob. And more coming.
+
+![korge](https://github.com/korlibs/korge/raw/master/docs/landing.png)
+
+---
+
 ## V
 
 [**Virgil PureKit**](https://github.com/VirgilSecurity/virgil-purekit-java) is an open-source security framework for user passwords and data protection in a database with functionality against online and offline attacks. PureKit can be used within any database or login system that uses a password, so it’s applicable for a company of any industry or size. It's available for several different programming languages, including Kotlin.
