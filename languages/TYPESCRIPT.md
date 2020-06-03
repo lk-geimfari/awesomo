@@ -49,6 +49,13 @@ Stryker enables you to measure the quality of your unit tests by using a techniq
 
 ![stryker](http://stryker-mutator.github.io/images/stryker_205x205.png)
 
+---
+[**StPageFlip**](https://github.com/Nodlik/StPageFlip)  —  JavaScript library for creating realistic page turning effect.
+
+StPageFlip - simple, and flexible JS Library. Compatible with mobile devices, supports landscape and portrait screen mode. No dependencies.
+
+[Docs and live demo](https://nodlik.github.io/StPageFlip/)
+
 ## T
 
 [**TypeScript**](https://github.com/Microsoft/TypeScript) - The language itself.
