@@ -59,6 +59,10 @@ end
 
 ![luarocks](https://cdn-images-1.medium.com/max/720/0*sawSUbg8SqRSpEha.)
 
+## M
+
+[**MoonScript**](https://github.com/leafo/moonscript) - a programmer friendly language that compiles into Lua. It gives you the power of the fastest scripting language combined with a rich set of features.
+
 ## O
 
 [**OpenResty**](https://github.com/openresty/openresty)  —  a full-fledged web platform by integrating the standard Nginx core, LuaJIT, many carefully written Lua libraries, lots of high quality 3rd-party Nginx modules, and most of their external dependencies. It is designed to help developers easily build scalable web applications, web services, and dynamic web gateways.
