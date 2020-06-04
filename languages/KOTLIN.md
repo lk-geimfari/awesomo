@@ -42,3 +42,51 @@ expect: [1, 2, 3]        (java.util.Arrays$ArrayList <1287934450>)
 ![corda](https://i.imgur.com/0BWrSiq.png)
 
 ---
+
+## J
+
+[**Jackson**](https://github.com/FasterXML/jackson-module-kotlin) - module that adds support for serialization/deserialization of Kotlin classes and data classes. Previously a default constructor must have existed on the Kotlin object for Jackson to deserialize into the object. With this module, single constructor classes can be used automatically, and those with secondary constructors or static factories are also supported.
+
+## K
+[**KorGE**](https://github.com/korlibs/korge) is a modern multiplatform game engine for Kotlin. KorGE is fully written in Kotlin. KorGE gradle plugin allows to target each platform natively: JVM for Android, JS for the Web and Native code for iOS and Desktop. KorGE has a very small footprint. It has no external dependencies and only uses the libraries available on each platform. You can create small native games or games for the web, that are fast to download and require almost no space to store. The JS sample of this page is just 383 KB gzipped (1.9 MB uncompressed). No emscripten. Just plain JS generated using Kotlin/JS. Iterate fast, develop with pleasure
+Since KorGE targets the JVM, you can develop your game, try it, debug it and test it using IntelliJ IDEA (including Community, Ultimate and Android Studio) integrated debugger. And then deploy to the other targets by using the provided gradle tasks. You can also use KorGE as a library and for example integrated it in your android-only project. Tons of features out of the box
+KorGE is just the last layer of a larger stack (Korlibs) for multimedia development: Date and Time utilities, Image Loading, Vector Rasterization, Pathfinding, Sound, Data Structures, Fast Memory Access, Virtual File Systems, WebSockets... Also, it is extensible and include several plugins out of the box: DragonBones, Box2D, SWF and Admob. And more coming.
+
+![korge](https://github.com/korlibs/korge/raw/master/docs/landing.png)
+
+---
+
+[**KotlinPoet**](https://github.com/square/kotlinpoet) is a Kotlin and Java API for generating .kt source files.
+
+Source file generation can be useful when doing things such as annotation processing or interacting with metadata files (e.g., database schemas, protocol formats). By generating code, you eliminate the need to write boilerplate while also keeping a single source of truth for the metadata.
+
+---
+
+[**Ktor**](https://github.com/ktorio/ktor) is a framework for quickly creating web applications in Kotlin with minimal effort.
+
+![ktor](https://camo.githubusercontent.com/ff8d543d1bc5951292d40f105ca2a96d6eeee1fa/687474703a2f2f6b746f722e696f2f6173736574732f696d616765732f6b746f725f6c6f676f2e706e67)
+
+## T
+
+[**TornadoFX**](https://github.com/edvin/tornadofx) - lightweight JavaFX Framework for Kotlin.
+* Supports both MVC, MVP and their derivatives
+* Dependency injection
+* Type safe GUI builders
+* Type safe CSS builders
+* First class FXML support
+* Async task execution
+* EventBus with thread targeting
+* Hot reload of Views and Stylesheets
+* OSGi support
+* REST client with automatic JSON conversion
+* Zero config, no XML, no annotations
+
+![tornadofx](https://github.com/edvin/tornadofx/raw/master/graphics/tornado-fx-logo.png?raw=true)
+
+## V
+
+[**Virgil PureKit**](https://github.com/VirgilSecurity/virgil-purekit-java) is an open-source security framework for user passwords and data protection in a database with functionality against online and offline attacks. PureKit can be used within any database or login system that uses a password, so it’s applicable for a company of any industry or size. It's available for several different programming languages, including Kotlin.
+
+![Virgil PureKit](https://cdn.virgilsecurity.com/assets/images/github/logos/purekit/PureKit_product.png)
+
+---

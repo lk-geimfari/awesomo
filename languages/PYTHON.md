@@ -76,6 +76,31 @@ It runs on Windows, Linux and MacOs and has been in active development for over 
 It also includes a build in server that allows reading your ebooks from anywhere.
 
 ---
+[**Catalyst**](https://github.com/catalyst-team/catalyst) – high-level utils for PyTorch DL & RL research.
+It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing. Being able to research/develop something new, rather than write another regular train loop.
+
+Catalyst helps you write compact
+but full-featured DL & RL pipelines in a few lines of code.
+You get a training loop with metrics, early-stopping, model checkpointing
+and other features without the boilerplate.
+
+Features:
+- Universal train/inference loop.
+- Configuration files for model/data hyperparameters.
+- Reproducibility – all source code and environment variables will be saved.
+- Callbacks – reusable train/inference pipeline parts.
+- Training stages support.
+- Easy customization.
+- PyTorch best practices (SWA, OneCycle with warmup, Ranger optimizer, FP16 and more).
+
+
+<p align="center">
+    <a href="https://github.com/catalyst-team/catalyst">
+        <img src="https://raw.githubusercontent.com/catalyst-team/catalyst-pics/master/pics/catalyst_logo.png">
+    </a>
+</p>
+
+---
 [**cerberus**](https://github.com/nicolaiarocci/cerberus)  —  a lightweight and extensible data validation library for Python.
 
 Supported: *Python 2/3*
@@ -670,6 +695,12 @@ Supported: *Python 2.7/3.3+*
 
 ## R
 
+[**Ranger**](https://github.com/ranger/ranger) is a console file manager with VI keybindings. It has a minimalistic design and allows you to quickly navigate through your directories.
+
+![](https://raw.githubusercontent.com/ranger/ranger-assets/master/screenshots/screenshot.png)
+
+
+---
 [**Records**](https://github.com/kennethreitz/records) is a very simple, but powerful, library for making raw SQL queries to most relational databases.
 
 Just write SQL. No bells, no whistles. This common task can be surprisingly difficult with the standard tools available. This library strives to make this workflow as simple as possible, while providing an elegant interface to work with your query results.

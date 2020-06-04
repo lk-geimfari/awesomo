@@ -39,10 +39,14 @@ Cowboy aims to provide a complete HTTP stack in a small code base. It is optimiz
 ---
 [**couchdb**](https://github.com/apache/couchdb)  — a document-oriented NoSQL database.
 
+![couchdb](http://docs.couchdb.org/en/stable/_static/logo.png)
+
 
 ## D
 
 [**disco**](https://github.com/discoproject/disco)  — a Map/Reduce framework for distributed computing.
+
+![disco](https://raw.githubusercontent.com/discoproject/disco/develop/master/www/images/logo.png)
 
 
 ## E

@@ -49,10 +49,6 @@
 
 ## S
 
----
-
-[**http-client**](https://github.com/snoyberg/http-client) — is a mega-repo for housing the http-client family of packages for Haskell. These packages provide a low level HTTP client engine (http-client), different backends for providing SSL support (http-client-tls and http-client-openssl), and higher-level APIs for user convenience (http-conduit).
-
 [**Stack**](https://github.com/commercialhaskell/stack) is a cross-platform program for developing Haskell projects. It is intended for Haskellers both new and experienced.
 
 ---
