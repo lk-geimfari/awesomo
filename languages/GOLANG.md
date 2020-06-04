@@ -38,7 +38,7 @@ Libraries include:
 * Allow flexible processing of telemetry data on agent (e.g. filtering and decoration)
 * Provide powerful clustered control of telemetry workflows across small or large clusters
 
-<p align="center"><img src="http://snap-telemetry.io/assets/img/snappy-frontpage-banner.png"></p>
+<p align="center"><img src="https://cloud.githubusercontent.com/assets/1744971/20331694/e07e9148-ab5b-11e6-856a-e4e956540077.png"></p>
 
 ## <div align="center">Gitql</div>
 
@@ -390,4 +390,18 @@ Purpose of this tool is to provide a visual overview of your program by using th
 ## <div align="center">Gin</div>
 
 [**Gin**](https://github.com/gin-gonic/gin) is a web framework written in Go (Golang). It features a martini-like API with much better performance, up to 40 times faster thanks to httprouter. If you need performance and good productivity, you will love Gin.
+
+## <div align="center">Helm</div>
+
+[**Helm**](https://github.com/helm/helm) is a tool that streamlines installing and managing Kubernetes applications. Think of it like apt/yum/homebrew for Kubernetes.
+
+Use Helm to:
+ - Find and use popular software packaged as Helm Charts to run in Kubernetes
+ - Share your own applications as Helm Charts
+ - Create reproducible builds of your Kubernetes applications
+ - Intelligently manage your Kubernetes manifest files
+ - Manage releases of Helm packages
+
+<p align="center"><img src="https://miro.medium.com/max/400/1*ANDxSZMbvvhaxwqdI-6rPw.png"></p>
+
 

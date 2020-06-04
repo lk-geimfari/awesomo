@@ -28,13 +28,6 @@ Supported: *Python 2/3*
 </p>
 
 ---
-[**Automatron**](https://github.com/madflojo/automatron) is a framework for creating self-healing infrastructure. Simply put, it detects system events & takes action to correct them.
-
-The goal of Automatron is to allow users to automate the execution of common tasks performed during system events. These tasks can be as simple as sending an email to as complicated as restarting services across multiple hosts.
-
-![Automatron Dashboard](https://raw.githubusercontent.com/madflojo/automatron/develop/docs/img/dashboard.png)
-
----
 [**attrs**](https://github.com/python-attrs/attrs) is the Python package that will bring back the joy of writing classes by relieving you from the drudgery of implementing object protocols (aka dunder methods).
 
 <p align="center">
@@ -81,6 +74,31 @@ Supported: *Python 2/3*
 It runs on Windows, Linux and MacOs and has been in active development for over ten years! According to [its usage statistics page](https://calibre-ebook.com/dynamic/calibre-usage) it is used by nearly 3 Million users (5 Oct 2019) plus an unknown number that have disabled statistics.
 
 It also includes a build in server that allows reading your ebooks from anywhere.
+
+---
+[**Catalyst**](https://github.com/catalyst-team/catalyst) – high-level utils for PyTorch DL & RL research.
+It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing. Being able to research/develop something new, rather than write another regular train loop.
+
+Catalyst helps you write compact
+but full-featured DL & RL pipelines in a few lines of code.
+You get a training loop with metrics, early-stopping, model checkpointing
+and other features without the boilerplate.
+
+Features:
+- Universal train/inference loop.
+- Configuration files for model/data hyperparameters.
+- Reproducibility – all source code and environment variables will be saved.
+- Callbacks – reusable train/inference pipeline parts.
+- Training stages support.
+- Easy customization.
+- PyTorch best practices (SWA, OneCycle with warmup, Ranger optimizer, FP16 and more).
+
+
+<p align="center">
+    <a href="https://github.com/catalyst-team/catalyst">
+        <img src="https://raw.githubusercontent.com/catalyst-team/catalyst-pics/master/pics/catalyst_logo.png">
+    </a>
+</p>
 
 ---
 [**cerberus**](https://github.com/nicolaiarocci/cerberus)  —  a lightweight and extensible data validation library for Python.
@@ -157,7 +175,7 @@ Organize Django settings into multiple files and directories. Easily override an
 
 <a href="https://github.com/sobolevn/django-split-settings">
     <p align="center">
-      <img src="https://raw.githubusercontent.com/sobolevn/django-split-settings/master/media/logo-black.png">
+      <img src="https://raw.githubusercontent.com/sobolevn/django-split-settings/master/docs/_static/logo-black.png">
     </p>
 </a>
 
@@ -174,29 +192,6 @@ Built on top of Plotly.js, React and Flask, Dash ties modern UI elements like dr
 
 ## E
 
- [**eve**](https://github.com/nicolaiarocci/eve) —  an open source Python REST API framework designed for human beings. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services.
-
-Supported: *Python 2/3*
-
-Eve is powered by Flask, Redis, Cerberus, Events and offers support for both MongoDB and SQL backends.
-
-Example:
-
-```python
-from eve import Eve
-
-app = Eve()
-app.run()
-```
-
-The API is now live, ready to be consumed:
-
-```
-$ curl -i http://example.com/people
-HTTP/1.1 200 OK
-```
-
----
 [**Evennia**](https://github.com/evennia/evennia) is a modern library for creating [online multiplayer text games (MUD, MUSH, MUX, MUCK, MOO etc)](https://en.wikipedia.org/wiki/MUD) in pure Python.
 
 It allows game creators to design and flesh out their ideas with great freedom. Evennia is made available under the very friendly BSD license. Using Evennia you can have a fully-functioning online game up and running in minutes, including a telnet, ssh, website, and webclient.
@@ -212,40 +207,6 @@ Since Evennia is entirely programmed using Python, the tools used by professiona
         <img src="https://orig09.deviantart.net/a1d8/f/2017/236/a/5/evennia_logo_by_griatch_art-dbl6oip.png" alt="Evennia" width="300" height="300">
     </a>
 </p>
-
----
-[**Expynent**](https://github.com/lk-geimfari/expynent) is a tiny library that provides RegEx patterns. This can be useful if you don't want to write regular expression manually.
-
-<p align="center">
-    <a href="https://github.com/lk-geimfari/expynent/">
-        <img src="https://raw.githubusercontent.com/lk-geimfari/expynent/master/other/logo_2.png">
-    </a>
-</p>
-
-Examples:
-```python
-import re
-from expynent import patterns
-
-if re.match(patterns.ZIP_CODE['RU'], '43134'):
-    print('match')
-else:
-    print('not match')
-
-# Output: 'not match'
-```
-also you can use compiled patterns:
-
-```python
-from expynent.compiled import username
-
-u = input('Enter username: ')
-
-if username.match(u):
-    print('valid')
-else:
-    print('invalid')
-```
 
 ## F
 
@@ -265,21 +226,9 @@ Supported: *Python 2/3*
 </p>
 
 ---
-[**Flask**](https://github.com/pallets/flask) is a microframework for Python based on Werkzeug and Jinja2.  It's intended for getting started very quickly and was developed with best intentions in mind.
+[**Flask**](https://github.com/pallets/flask) is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around Werkzeug and Jinja and has become one of the most popular Python web application frameworks.
 
-<p align="center">
-    <a href="https://github.com/pallets/flask">
-        <img src="http://flask.pocoo.org/static/logo/flask.png">
-    </a>
-</p>
-
-
----
-[**Flask-Base**](https://github.com/hack4impact/flask-base) - A Flask application template with the boilerplate code already done for you.
-
----
-[**fuckIt.py**](https://github.com/ajalt/fuckitpy) uses state-of-the-art technology to make sure your Python code runs whether it has any right to or not. Some code has an error? Fuck it.
-
+Flask offers suggestions, but doesn't enforce any dependencies or project layout. It is up to the developer to choose the tools and libraries they want to use. There are many extensions provided by the community that make adding new functionality easy.
 
 ## G
 
@@ -295,17 +244,6 @@ Supported: *Python 2/3*
 [**hug**](https://github.com/timothycrosley/hug) aims to make developing Python driven APIs as simple as possible, but no simpler. As a result, it drastically simplifies Python API development.
 
 ![hug](https://camo.githubusercontent.com/dc3f611ccdd6289ca11478dcb9ec4f9a1742248a/68747470733a2f2f7261772e6769746875622e636f6d2f74696d6f74687963726f736c65792f6875672f646576656c6f702f617274776f726b2f6578616d706c652e676966)
-
----
-[**http-prompt **](https://github.com/eliangcs/http-prompt) —  an interactive command-line HTTP client featuring autocomplete and syntax highlighting.
-
-Supported: *Python 2/3*
-
-<p align="center">
-    <a href="https://github.com/eliangcs/http-prompt">
-        <img src="https://cdn-images-1.medium.com/max/720/0*Oo5GWcygacE7F9LM.gif">
-    </a>
-</p>
 
 ---
 [**httpie**](https://github.com/jkbrzt/httpie)  —  a command line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. It provides a simple http command that allows for sending arbitrary HTTP requests using a simple and natural syntax, and displays colorized output. HTTPie can be used for testing, debugging, and generally interacting with HTTP servers.
@@ -363,11 +301,6 @@ See [hypothesis.works](http://hypothesis.works) for articles, tips, and testimon
 
 ## J
 
-[**Japronto**](https://github.com/squeaky-pl/japronto) (from Portuguese "já pronto" /ˈʒa pɾõtu/ meaning "already done") is a screaming-fast, scalable, asynchronous Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser. It's targeted at speed enthusiasts, people who like plumbing and early adopters.
-
-![](https://raw.githubusercontent.com/squeaky-pl/japronto/master/benchmarks/results.png)
-
----
 [**Jinja2**](https://github.com/pallets/jinja) is a template engine written in pure Python. It provides a Django inspired non-XML syntax but supports inline expressions and an optional sandboxed environment.
 
 Here a small example of a Jinja template:
@@ -425,9 +358,6 @@ Supported: *Python 2/3*
 
 ## M
 
-[**Mail-in-a-Box**](https://github.com/mail-in-a-box/mailinabox) helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
-
----
 [**marshmallow**](https://github.com/marshmallow-code/marshmallow) is an ORM/ODM/framework-agnostic library for converting complex datatypes, such as objects, to and from native Python datatypes.
 
 Example:
@@ -523,18 +453,6 @@ Basic Usage:
 
 >>> person.full_name(gender=Gender.FEMALE)
 'Antonetta Garrison'
-
->>> person.occupation()
-'Backend Developer'
-
->>> templates = ['U_d', 'U-d', 'l_d', 'l-d']
->>> for template in templates:
-...     person.username(template=template)
-
-'Adders_1893'
-'Abdel-1888'
-'constructor_1884'
-'chegre-2051'
 ```
 
 You can specify a locale when creating providers and they will return data that is appropriate for the language or country associated with that locale. Mimesis currently includes support for 32 different [locales](https://github.com/lk-geimfari/mimesis#locales).
@@ -590,6 +508,19 @@ Supported: *Python 2/3*
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1200px-NumPy_logo.svg.png">
     </a>
 </p>
+
+## O
+[**Odoo**](https://github.com/odoo/odoo) Odoo is a suite of web based open source business apps.
+
+The main Odoo Apps include an Open Source CRM, Website Builder, eCommerce, Warehouse Management, Project Management, Billing & Accounting, Point of Sale, Human Resources, Marketing, Manufacturing, Purchase Management, ...
+
+Odoo Apps can be used as stand-alone applications, but they also integrate seamlessly so you get a full-featured Open Source ERP when you install several Apps.
+
+Odoo have a large community around the world and have a good documentation
+
+Odoo. Open Source Apps To Grow Your Business. 
+Site: https://www.odoo.com
+
 
 ## P
 
@@ -764,11 +695,10 @@ Supported: *Python 2.7/3.3+*
 
 ## R
 
-[**Rainbow Stream **](https://github.com/DTVD/rainbowstream) —  is a terminal-based Twitter Client. Realtime tweetstream, compose, search, favorite … and much more fun directly from terminal.
+[**Ranger**](https://github.com/ranger/ranger) is a console file manager with VI keybindings. It has a minimalistic design and allows you to quickly navigate through your directories.
 
-Supported: *Python 2/3*
+![](https://raw.githubusercontent.com/ranger/ranger-assets/master/screenshots/screenshot.png)
 
-![main](https://raw.githubusercontent.com/DTVD/rainbowstream/master/screenshot/rs.gif)
 
 ---
 [**Records**](https://github.com/kennethreitz/records) is a very simple, but powerful, library for making raw SQL queries to most relational databases.
@@ -918,15 +848,6 @@ Supported: *Python 2/3*
 Supported: *Python 2/3*
 
 ![theano](https://cdn-images-1.medium.com/max/720/0*b-nP6iz23vKIVqys.png)
-
----
-[**Transcrypt**](http://www.transcrypt.org) is a Python 3.6 to Javascript compiler supporting e.g multiple inheritance, metaclasses and operator overloading. It generates fast, compact code that can run in your browser or on top of node.js. Transcrypt facilitates Python source level debugging and can use any Javascript library directly without conversion or special syntax.
-
-<a href="http://www.transcrypt.org">
-    <p align="center">
-      <img src="https://www.transcrypt.org/illustrations/logo_white_small.png" alt="Transcrypt">
-    </p>
-</a>
 
 ---
 [**tqdm**](https://github.com/tqdm/tqdm) - a fast, extensible progress bar for Python and CLI 
