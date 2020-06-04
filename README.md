@@ -22,6 +22,7 @@ If you are interested in [Open Source](https://en.wikipedia.org/wiki/Open-source
  - [Erlang](languages/ERLANG.md)
  - [Go](languages/GOLANG.md)
  - [Haskell](languages/HASKELL.md)
+ - [Haxe](languages/HAXE.md)
  - [Java](languages/JAVA.md)
  - [JavaScript](languages/JAVASCRIPT.md)
  - [Kotlin](languages/KOTLIN.md)

@@ -121,6 +121,9 @@ The [**corefx**](https://github.com/dotnet/corefx) repo contains the library imp
 ---
 [**IISIntegration**](https://github.com/aspnet/IISIntegration) - This repo hosts the ASP.NET Core middleware for IIS integration. This project is part of ASP.NET Core.
 
+---
+[**ILSpy**](https://github.com/icsharpcode/ILSpy) is the open-source .NET assembly browser and decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
+
 ## J
 
 [**JavaScriptServices**](https://github.com/aspnet/JavaScriptServices) - Microsoft ASP.NET Core JavaScript Services is a set of technologies for ASP.NET Core developers.
