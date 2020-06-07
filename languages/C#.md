@@ -58,6 +58,12 @@ The [**corefx**](https://github.com/dotnet/corefx) repo contains the library imp
 ---
 [**CORS**](https://github.com/aspnet/CORS) is an implementations of common CORS policy and CORS middleware.
 
+---
+[**C-Sharp**](https://github.com/TheAlgorithms/C-Sharp) This repository contains algorithms and data structures implemented in C# for eductional purposes.
+
+---
+[**CppSharp**](https://github.com/mono/CppSharp) is a tool and set of libraries which allows programmers to use C/C++ libraries with high-level programming languages (such as C#).
+
 ## D
 
 [**Dapper**](https://github.com/StackExchange/dapper-dot-net) is a simple object mapper for .Net. Dapper is a NuGet library that you can add in to your project that will extend your IDbConnection interface.
