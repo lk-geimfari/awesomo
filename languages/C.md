@@ -12,6 +12,12 @@
 
 ## G
 
+[**GIMP**](https://github.com/GNOME/gimp) is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems. It is free software, you can change its source code and distribute your changes.
+
+Whether you are a graphic designer, photographer, illustrator, or scientist, GIMP provides you with sophisticated tools to get your job done. You can further enhance your productivity with GIMP thanks to many customization options and 3rd party plugins.
+
+![gimp](https://www.gimp.org/images/frontpage/wilber-big.png)
+
 [**GTK**](https://github.com/GNOME/gtk) is a multi-platform toolkit for creating graphical user interfaces. Offering a complete set of widgets, GTK is suitable for projects ranging from small one-off projects to complete application suites.
 
 GTK is free software and part of the GNU Project. However, the licensing terms for GTK, the GNU LGPL, allow it to be used by all developers, including those developing proprietary software, without any license fees or royalties.
