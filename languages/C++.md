@@ -51,6 +51,10 @@ Dear ImGui is designed to enable fast iterations and to empower programmers to c
 
 ![dear imgui](https://raw.githubusercontent.com/wiki/ocornut/imgui/web/v167/v167-misc.png)
 
+[**Defold**](https://github.com/defold/defold) is a free to use, source available, game engine with a developer-friendly license. Defold is owned and developed by the Defold Foundation.
+
+![defold](https://defold.com/images/logo/defold/logo/logo-ver-classic-white-160.png)
+
 ## E
 
 [**Electron**](https://github.com/electron/electron) lets you write cross-platform desktop applications
