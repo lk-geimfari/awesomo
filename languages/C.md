@@ -10,6 +10,14 @@
 
 <br>
 
+## G
+
+[**GTK**](https://github.com/GNOME/gtk) is a multi-platform toolkit for creating graphical user interfaces. Offering a complete set of widgets, GTK is suitable for projects ranging from small one-off projects to complete application suites.
+
+GTK is free software and part of the GNU Project. However, the licensing terms for GTK, the GNU LGPL, allow it to be used by all developers, including those developing proprietary software, without any license fees or royalties.
+
+![gtk](https://gitlab.gnome.org/uploads/-/system/project/avatar/665/gtk-logo.png?width=64)
+
 ## H
 [**Hashcat**](https://github.com/hashcat/hashcat) hashcat is the world's fastest and most advanced password recovery utility, supporting five unique modes of attack for over 200 highly-optimized hashing algorithms. hashcat currently supports CPUs, GPUs, and other hardware accelerators on Linux, Windows, and macOS, and has facilities to help enable distributed password cracking.
 
