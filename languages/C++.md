@@ -66,6 +66,12 @@ using JavaScript, HTML and CSS. It is based on [Node.js](https://nodejs.org/) an
 
 ![godot](https://raw.githubusercontent.com/godotengine/godot/master/logo.png)
 
+[**GTK**](https://github.com/GNOME/gtk) is a multi-platform toolkit for creating graphical user interfaces. Offering a complete set of widgets, GTK is suitable for projects ranging from small one-off projects to complete application suites.
+
+GTK is free software and part of the GNU Project. However, the licensing terms for GTK, the GNU LGPL, allow it to be used by all developers, including those developing proprietary software, without any license fees or royalties.
+
+![gtk](https://gitlab.gnome.org/uploads/-/system/project/avatar/665/gtk-logo.png?width=64)
+
 ## I
 
 [**i2pd**](https://github.com/PurpleI2P/i2pd) is a full-featured C++ implementation of I2P client.
