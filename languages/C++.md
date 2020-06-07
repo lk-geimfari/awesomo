@@ -147,3 +147,7 @@ actor Main
 [**µWS**](https://github.com/uWebSockets/uWebSockets) is one of the most lightweight, efficient & scalable WebSocket server implementations available. It features an easy-to-use, fully async object-oriented interface and scales to millions of connections using only a fraction of memory compared to the competition. While performance and scalability are two of our top priorities, we consider security, stability and standards compliance paramount. License is zlib/libpng (very permissive & suits commercial applications).
 
 ![**uws**](https://cdn-images-1.medium.com/max/720/0*2wharBiKaEguzmkS.png)
+
+[**wxWidgets**](https://github.com/wxWidgets/wxWidgets) is a C++ library that lets developers create applications for Windows, macOS, Linux and other platforms with a single code base. It has popular language bindings for Python, Perl, Ruby and many other languages, and unlike other cross-platform toolkits, wxWidgets gives applications a truly native look and feel because it uses the platform's native API rather than emulating the GUI. It's also extensive, free, open-source and mature.
+
+![wxwidgets](https://camo.githubusercontent.com/e1710a6a80fc77e6ca1b27761cd89c717fb95ac3/68747470733a2f2f7777772e7778776964676574732e6f72672f6173736574732f696d672f6865616465722d6c6f676f2e706e67)
