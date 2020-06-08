@@ -16,6 +16,7 @@ If you are interested in [Open Source](https://en.wikipedia.org/wiki/Open-source
  - [Crystal](languages/CRYSTAL.md)
  - [CSS](languages/CSS.md)
  - [D](languages/D.md)
+ - [Dart](languages/DART.md)
  - [Elixir](languages/ELIXIR.md)
  - [Elm](languages/ELM.md)
  - [Emacs Lisp](languages/EMACS_LISP.md)
