@@ -43,6 +43,12 @@
 ## M
 [**Materialize**](https://materializecss.com/) — A modern responsive front-end framework based on Material Design
 
+## N
+
+[**Normalize.css**](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
+
+![normalize-css](https://camo.githubusercontent.com/0d1347e7b4ede3d714150c863a44c932f3c4d84e/68747470733a2f2f6e65636f6c61732e6769746875622e696f2f6e6f726d616c697a652e6373732f6c6f676f2e737667)
+
 ## P
 
 [**PostCSS**](https://github.com/postcss/postcss)  —  Transforming styles with JS plugins. These plugins can lint your CSS, support variables and mixins, transpile future CSS syntax, inline images, and more.
