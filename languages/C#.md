@@ -24,6 +24,11 @@
 [**AutoMapper**](https://github.com/AutoMapper/AutoMapper) is a convention-based object-object mapper in .NET. http://automapper.org
 
 ---
+[**Avalonia**](https://github.com/AvaloniaUI/Avalonia/) is a cross-platform XAML-based UI framework providing a flexible styling system and supporting a wide range of Operating Systems such as Windows via .NET Framework and .NET Core, Linux via Xorg, macOS. Avalonia is ready for General-Purpose Desktop App Development. However, there may be some bugs and breaking changes as we continue along into this project's development.
+
+![avalonia](https://user-images.githubusercontent.com/6759207/84897744-cab6d800-b0ae-11ea-8214-e5174d71f5c8.png)
+
+---
 [**AzureIntegration**](https://github.com/aspnet/AzureIntegration) - Features that integrate ASP.NET Core with Azure.
 
 ## B
