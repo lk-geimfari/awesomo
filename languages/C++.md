@@ -144,6 +144,10 @@ actor Main
 
 ## W
 
+[**Warzone 2100**](https://github.com/Warzone2100/warzone2100) is 100% free & open-source, cross-platform, 3D real-time strategy game. It provides single-player, skirmish, and local and Internet multiplayer modes, and runs on Windows, macOS, Linux, FreeBSD, and more.
+
+![Warzone 2100](https://raw.githubusercontent.com/Warzone2100/wz2100.net/master/themes/wz2100net/static/img/wz2100-open-graph-template.png)
+
 [**µWS**](https://github.com/uWebSockets/uWebSockets) is one of the most lightweight, efficient & scalable WebSocket server implementations available. It features an easy-to-use, fully async object-oriented interface and scales to millions of connections using only a fraction of memory compared to the competition. While performance and scalability are two of our top priorities, we consider security, stability and standards compliance paramount. License is zlib/libpng (very permissive & suits commercial applications).
 
 ![**uws**](https://cdn-images-1.medium.com/max/720/0*2wharBiKaEguzmkS.png)
