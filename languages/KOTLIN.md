@@ -66,6 +66,23 @@ Source file generation can be useful when doing things such as annotation proces
 
 ![ktor](https://camo.githubusercontent.com/ff8d543d1bc5951292d40f105ca2a96d6eeee1fa/687474703a2f2f6b746f722e696f2f6173736574732f696d616765732f6b746f725f6c6f676f2e706e67)
 
+## L
+
+[**LibKTX**](https://github.com/libktx/ktx) aims to make LibGDX as Kotlin-friendly as possible without completely rewriting the API. It provides modular utilities and extensions for selected parts of LibGDX with poor native Kotlin support.  
+
+Examples of Kotlin language features used to improve usability, performance and readability of LibGDX APIs include:  
+
+* Operator overloads for collections and mathematical operations.
+* Extension methods with sensible default parameters.
+* Inline methods with reduced runtime overhead for various listeners, builders and loggers.
+* Nullable types which improve typing information of selected interfaces and functions.
+* Default interface methods for common interfaces, simplifying their implementations.
+* Type-safe builders for GUI, styling and physics engine.
+* Coroutines context providing concurrency utilities and non-blocking asset loading.
+* Reified types that simplify usage of methods normally consuming Class parameters.
+
+![ktx](https://github.com/libktx/ktx/raw/master/.github/ktx-logo.png)
+
 ## T
 
 [**TornadoFX**](https://github.com/edvin/tornadofx) - lightweight JavaFX Framework for Kotlin.
