@@ -38,10 +38,20 @@
 
 ![foundation](http://imgur.com/gMugT6l.png)
 
----
+## I
+
+[**iziToast**](https://github.com/marcelodolza/iziToast) - Elegant, responsive, flexible and lightweight notification plugin with no dependencies.
+
+![izitoast](https://camo.githubusercontent.com/89ec4ce1fcc545398d8f6c10c161174cbb16072d/687474703a2f2f692e696d6775722e636f6d2f4e4b6b3752786d2e706e67)
 
 ## M
 [**Materialize**](https://materializecss.com/) — A modern responsive front-end framework based on Material Design
+
+## N
+
+[**Normalize.css**](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
+
+![normalize-css](https://camo.githubusercontent.com/0d1347e7b4ede3d714150c863a44c932f3c4d84e/68747470733a2f2f6e65636f6c61732e6769746875622e696f2f6e6f726d616c697a652e6373732f6c6f676f2e737667)
 
 ## P
 
