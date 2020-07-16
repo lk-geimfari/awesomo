@@ -10,6 +10,14 @@
 
 <br>
 
+## A
+
+[**ActiveJ**](https://github.com/activej/activej) is a programming platform that was built from the ground to redefine Java for modern web, cloud, high-load, and microservices solutions.
+                                                  
+ActiveJ consists of several loosely coupled components that complement and empower each other: async core (Promise, Eventloop), efficient I/O processing (CSP, Datastream), high-performance Jetty and Netty alternatives (HTTP, Net), powerful DI library, handy boot utilities, and others.
+
+The project's site: [https://activej.io](https://activej.io)
+
 ## D
 
 [**Druid**](https://github.com/druid-io/druid) is a distributed, column-oriented, real-time analytics data store that is commonly used to power exploratory dashboards in multi-tenant environments.
