@@ -69,6 +69,10 @@ end
 
 ![or](https://cdn-images-1.medium.com/max/720/0*Cfdc37-ND1PhOI70.jpg)
 
+## S
+
+[**SILE**](https://github.com/sile-typesetter/sile) — a typesetting system for producing beautiful printed documents. Conceptually, SILE is similar to TeX –from which it borrows some concepts and even syntax and algorithms– but rather than being a derivative of the TeX family SILE is a new typesetting and layout engine written from the ground up using modern technologies and borrowing some ideas from graphical systems such as InDesign. Every aspect of the typesetting engine can be modified and extended using Lua.
+
 ## T
 
 [**Telize**](https://github.com/fcambus/telize) —  a REST API built on Nginx and Lua allowing to get a visitor IP address and to query location information from any IP address. It outputs JSON-encoded IP geolocation data, and supports both JSON and JSONP.
