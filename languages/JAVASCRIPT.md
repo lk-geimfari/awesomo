@@ -321,6 +321,11 @@ The Framework uses new event-driven compute services, like AWS Lambda, Google Cl
 ![](https://raw.githubusercontent.com/DevExpress/testcafe/master/media/install-and-run-test.gif)
 
 ---
+[**Themis**](https://github.com/cossacklabs/themis) - a multi-platform framework for solving typical data security tasks: secure data storage, secure messaging, zero-knowledge proof authentication, etc. Themis has unified easy-to-use hard-to-misuse API for 14 languages and platforms, so it's a best fit for multi-platform apps and apps with end-to-end encryption. It hides cryptographic details, so developers don't need to know the difference between AES CBC mode and AES GCM mode to encrypt the data. Recommended by OWASP MASVS. Themis supports WebAssembly and Node.js apps on JavaScript.
+
+![Themis encryption framework](https://raw.githubusercontent.com/wiki/cossacklabs/themis/images/logo.png)
+
+---
 [**Three.js**](https://github.com/mrdoob/three.js) is a cross-browser JavaScript library/API used to create and display animated 3D computer graphics in a web browser. Three.js uses WebGL.
 
 ![three](http://www.awwwards.com/awards/images/2014/09/threejs-img8.jpg)
