@@ -850,6 +850,13 @@ Supported: *Python 2/3*
 ![theano](https://cdn-images-1.medium.com/max/720/0*b-nP6iz23vKIVqys.png)
 
 ---
+[**Themis**](https://github.com/cossacklabs/themis) - a multi-platform framework for solving typical data security tasks: secure data storage, secure messaging, zero-knowledge proof authentication, etc. Themis has unified easy-to-use hard-to-misuse API for 14 languages and platforms, so it's a best fit for multi-platform apps and apps with end-to-end encryption. It hides cryptographic details, so developers don't need to know the difference between AES CBC mode and AES GCM mode to encrypt the data.
+
+Supported: *Python 3, older versions support Python 2/3*
+
+![Themis encryption framework](https://raw.githubusercontent.com/wiki/cossacklabs/themis/images/logo.png)
+
+---
 [**tqdm**](https://github.com/tqdm/tqdm) - a fast, extensible progress bar for Python and CLI 
 
 ```
