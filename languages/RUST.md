@@ -354,6 +354,12 @@ button.add_event_listener( move |_: ClickEvent| {
 
 [**TiKV**](https://github.com/pingcap/tikv) is a distributed Key-Value database which is based on the design of Google Spanner and HBase, but it is much simpler without dependency on any distributed file system. With the implementation of the Raft consensus algorithm in Rust and consensus state stored in RocksDB, it guarantees data consistency. Placement Driver which is introduced to implement sharding enables automatic data migration. The transaction model is similar to Google's Percolator with some performance improvements. TiKV also provides snapshot isolation (SI), snapshot isolation with lock (SQL: select ... for update), and externally consistent reads and writes in distributed transactions. 
 
+---
+
+[**Themis**](https://github.com/cossacklabs/themis) - a multi-platform framework for solving typical data security tasks: secure data storage, secure messaging, zero-knowledge proof authentication, etc. Themis has unified easy-to-use hard-to-misuse API for 14 languages and platforms, so it's a best fit for multi-platform apps and apps with end-to-end encryption. It hides cryptographic details, so developers don't need to know the difference between AES CBC mode and AES GCM mode to encrypt the data.
+
+![Themis encryption framework](https://raw.githubusercontent.com/wiki/cossacklabs/themis/images/logo.png)
+
 ## X
 
 [**xi editor**](https://github.com/google/xi-editor) is an attempt to build a high quality text editor, using modern software engineering techniques. It is initially built for Mac OS X, using Cocoa for the user interface, but other targets are planned.
