@@ -85,6 +85,12 @@ Examples of Kotlin language features used to improve usability, performance and 
 
 ## T
 
+[**Themis**](https://github.com/cossacklabs/themis) - a multi-platform framework for solving typical data security tasks: secure data storage, secure messaging, zero-knowledge proof authentication, etc. Themis has unified easy-to-use hard-to-misuse API for 14 languages and platforms, so it's a best fit for multi-platform apps and apps with end-to-end encryption. It hides cryptographic details, so developers don't need to know the difference between AES CBC mode and AES GCM mode to encrypt the data. Recommended by OWASP MASVS.
+
+![Themis encryption framework](https://raw.githubusercontent.com/wiki/cossacklabs/themis/images/logo.png)
+
+---
+
 [**TornadoFX**](https://github.com/edvin/tornadofx) - lightweight JavaFX Framework for Kotlin.
 * Supports both MVC, MVP and their derivatives
 * Dependency injection
