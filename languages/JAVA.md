@@ -45,6 +45,13 @@ The project's site: https://appulse.io
 
 ![JPA_LOGO](https://www.ambient-it.net/wp-content/uploads/2016/04/jpa-logo-175.png)
 
+[**Jolly day**](https://github.com/svendiedrichsen/jollyday) - is a Java library. This project solve the holiday 'problem'. The idea behind this is to have an independent API which can be used in any kind of environment. That means no network or database needed.
+
+There are two release branches which are based on different Java versions.
+
+- 0.4.x - Java 7 - uses JODA time API
+- 0.5.x - Java 8
+
 ## L
 
 [**libGDX**](https://github.com/libgdx/libgdx) is a cross-platform Java game development framework based on OpenGL (ES) that works on Windows, Linux, Mac OS X, Android, your WebGL enabled browser and iOS.
