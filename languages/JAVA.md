@@ -52,6 +52,11 @@ There are two release branches which are based on different Java versions.
 - 0.4.x - Java 7 - uses JODA time API
 - 0.5.x - Java 8
 
+[**JUnit 5**](https://github.com/junit-team/junit5/) - is a Java library. JUnit 5 is the next generation of JUnit. The goal is to create an up-to-date foundation for developer-side testing on the JVM. This includes focusing on Java 8 and above, as well as enabling many different styles of testing.
+JUnit 5 is the result of JUnit Lambda and its crowdfunding campaign on Indiegogo.
+
+![JUnit5_LOGO](https://cloudblogs.microsoft.com/uploads/prod/sites/37/2019/03/JUnit5-hero-image.png)
+
 ## L
 
 [**libGDX**](https://github.com/libgdx/libgdx) is a cross-platform Java game development framework based on OpenGL (ES) that works on Windows, Linux, Mac OS X, Android, your WebGL enabled browser and iOS.
