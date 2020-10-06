@@ -187,6 +187,17 @@ Example:
 
 ## S
 
+[![](https://raw.githubusercontent.com/lk-geimfari/secrets.clj/master/.github/logo-medium.png)](https://github.com/lk-geimfari/secrets.clj)
+
+The [`secrets`](https://github.com/lk-geimfari/secrets.clj) is a library designed to generate cryptographically strong random numbers suitable for managing data such as passwords, account authentication, security tokens, and related secrets.
+
+The [`secrets`](https://github.com/lk-geimfari/secrets.clj) is an implementation of the [`secrets`](https://docs.python.org/3/library/secrets.html) 
+module from Python's standard library for Clojure.
+
+See [«Recipes and best practices»](#recipes-and-best-practices) for usage examples.
+
+---
+
 [**Selmer**](https://github.com/yogthos/Selmer). A fast, Django inspired template system for Clojure.
 
 Selmer templates consist of plain text that contains embedded expression and filter tags. While Selmer
