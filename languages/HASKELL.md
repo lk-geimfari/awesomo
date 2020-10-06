@@ -12,6 +12,11 @@
 
 ## G
 
+[**Gifcurry**](https://github.com/lettier/gifcurry) is the open-source, Haskell-built video editor for GIF makers. Load a video, make some edits, and save it as a GIF—Gifcurry makes your life easy! Most video formats should work, so go wild. And since it's made with Haskell, you know it's good.
+
+![gifcurry](https://i.imgur.com/SJ8zovM.gif)
+
+---
 [**givegif**](https://github.com/passy/givegif) - GIFs on the command line.
 
 ![gg](https://github.com/passy/givegif/raw/master/media/usage.gif)
