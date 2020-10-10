@@ -63,7 +63,7 @@ JUnit 5 is the result of JUnit Lambda and its crowdfunding campaign on Indiegogo
 <br><br><br>
 ![libgdx](https://camo.githubusercontent.com/f70f169cab179f13f70e892b3251e6f2032be66d/687474703a2f2f6c69626764782e6261646c6f67696367616d65732e636f6d2f696d672f6c6f676f2e706e67)<br><br>
 
-[**Lombock**](https://github.com/rzwitserloot/lombok) Project **Lombok** is a java library that automatically plugs into your editor and build tools, spicing up your java.
+[**Lombok**](https://github.com/rzwitserloot/lombok) Project **Lombok** is a java library that automatically plugs into your editor and build tools, spicing up your java.
 Never write another getter or equals method again, with one annotation your class has a fully featured builder, Automate your logging variables, and much more.
 
 ## M
