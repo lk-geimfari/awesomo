@@ -16,6 +16,22 @@
 
 ![aleph](https://cdn-images-1.medium.com/max/720/0*5fSwMgOlFvdKvvKR.png)
 
+## B
+
+[**Babashka**](https://github.com/borkdude/babashka) is a Clojure babushka for the grey areas of Bash.
+
+**Goals**:
+
+* **Fast starting** Clojure scripting alternative for JVM Clojure
+* **Easy installation:** grab the self-contained binary and run. No JVM needed.
+* **Familiar:** targeted at JVM Clojure users
+* **Cross-platform:** supports linux, macOS and Windows
+* **Interop** with commonly used classes (`System`, `File`, `java.time.*`, `java.nio.*`)
+* **Multi-threading** support (`pmap`, `future`)
+* **Batteries included** (tools.cli, cheshire, ...)
+
+![bb](https://github.com/borkdude/babashka/raw/master/logo/babashka.svg)
+
 ## C
 
 [**Cheshire**](https://github.com/dakrone/cheshire) is fast JSON encoding, based off of clj-json and clojure-json, with additional features like Date/UUID/Set/Symbol encoding and SMILE support.
