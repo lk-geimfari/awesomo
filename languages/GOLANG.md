@@ -7,6 +7,20 @@
 |         |         |         |         |         |         |         |
 
 
+## Croc 
+
+[**Croc**](https://github.com/schollz/croc) - is a tool that allows any two computers to simply and securely transfer files and folders. AFAIK, croc is the only CLI file-transfer tool that does all of the following:
+
+* allows any two computers to transfer data (using a relay)
+* provides end-to-end encryption (using PAKE)
+* enables easy cross-platform transfers (Windows, Linux, Mac)
+* allows multiple file transfers
+* allows resuming transfers that are interrupted
+* local server or port-forwarding not needed
+* ipv6-first with ipv4 fallback
+
+![croc](https://user-images.githubusercontent.com/6550035/46709024-9b23ad00-cbf6-11e8-9fb2-ca8b20b7dbec.jpg)
+
 ## IPFS
 
 [**IPFS**](https://github.com/ipfs/ipfs) (the InterPlanetary File System) is a new hypermedia distribution protocol, addressed by content and identities. IPFS enables the creation of completely distributed applications. It aims to make the web faster, safer, and more open.
