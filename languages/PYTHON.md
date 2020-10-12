@@ -603,6 +603,23 @@ Supported: *Python 2/3*
 </p>
 
 ---
+[**ps_mem**](https://github.com/pixelb/ps_mem) - A utility to accurately report the in core memory usage for a program(s).
+
+An example output:
+```
+ Private  +   Shared  =  RAM used       Program
+
+ 34.6 MiB +   1.0 MiB =  35.7 MiB       gnome-terminal
+139.8 MiB +   2.3 MiB = 142.1 MiB       firefox
+291.8 MiB +   2.5 MiB = 294.3 MiB       gnome-shell
+272.2 MiB +  43.9 MiB = 316.1 MiB       chrome (12)
+913.9 MiB +   3.2 MiB = 917.1 MiB       thunderbird
+---------------------------------
+                          1.9 GiB
+=================================
+```
+
+---
 [**py.test**](https://github.com/pytest-dev/pytest) framework makes it easy to write small tests, yet scales to support complex functional testing for applications and libraries.
 
 Supported: *Python 2/3*
