@@ -8,7 +8,7 @@ If you are interested in [Open Source](https://en.wikipedia.org/wiki/Open-source
 
 ## Subscribe
 
-I have a Telegram channel where I post all the open-source goodies I found: [@the_art_of_development](https://t.me/the_art_of_development).
+We have a Telegram channel where we daily post news, announces and all the open-source goodies we found, so subscribe to us: [@the_art_of_development](https://t.me/the_art_of_development).
 
 ## Languages
 
