@@ -105,7 +105,7 @@ Nanobox creates isolated development environments (using Docker) which are stage
 ## Hyperd
 
 [**Hyperd**](https://github.com/hyperhq/hyperd) — is a hypervisor-agnostic technology that allows you to run Docker images on plain hypervisor.
-t
+
 ![hyperd](https://cdn-images-1.medium.com/max/720/0*_BKyRdNq1vIu-l-p.)
 
 ## Terraform
