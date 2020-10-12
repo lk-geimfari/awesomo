@@ -107,6 +107,11 @@ Enzyme is unopinionated regarding which test runner or assertion library you use
 ![fabric](https://raw.githubusercontent.com/kangax/fabric.js/master/lib/screenshot.png)
 
 ---
+[**filepond**](https://github.com/pqina/filepond) — is library that can upload anything you throw at it, optimizes images for faster uploads, and offers a great, accessible, silky smooth user experience.
+
+![filepond](https://github.com/pqina/filepond-github-assets/blob/master/logo.svg)
+
+---
 [**fullPage.js**](https://github.com/alvarotrigo/fullPage.js) - a simple and easy to use plugin to create fullscreen scrolling websites (also known as single page websites or onepage sites). It allows the creation of fullscreen scrolling websites, as well as adding some landscape sliders inside the sections of the site.
 
 ![fullpage](https://camo.githubusercontent.com/0a9ce533243ea122eb9fba3f93efb5426cc8b6e1/68747470733a2f2f7261772e6769746875622e636f6d2f616c7661726f747269676f2f66756c6c506167652e6a732f6d61737465722f6578616d706c65732f696d67732f696e74726f2e706e67)
