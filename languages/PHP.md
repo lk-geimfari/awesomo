@@ -80,7 +80,7 @@ Following are features of codeigniter.
 </p>
 
 ---
-[**FulePHP**](https://github.com/fuel/fuel) FuelPHP is a flexible, full-stack PHP framework first released in 2011. Apart from supporting the MVC design pattern, it has its own version called the hierarchical model view controller (HMVC). With HMVC, unlike with MVC, content doesn’t need to duplicate to show on multiple pages. As a result, it consumes less time and memory.
+[**FulePHP**](https://github.com/fuel/fuel) FuelPHP is a flexible, full-stack PHP framework first released in 2011. Apart from supporting the MVC design pattern, it has its own version called the hierarchical model view controller (HMVC). With HMVC, unlike with MVC, content doesn't need to duplicate to show on multiple pages. As a result, it consumes less time and memory.
 
 Reasons to use FulePHP
 - FuelPHP helps developers deliver end-to-end web solutions that are diverse in size and complexities.
