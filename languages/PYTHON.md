@@ -200,7 +200,7 @@ Evennia doesn't impose a particular style, genre, or set of game mechanics - ins
 
 Instead of using soft-code, Evennia allows you to program using the full power and flexibility of Python - simply extend the provided classes to implement almost anything you can dream of. All library code is heavily documented, and there are extensive manuals and tutorials, as well as an active community, to help you on your path to MU* perfection.
 
-Since Evennia is entirely programmed using Python, the tools used by professional developers across the world at at your fingertips - no need to learn a new language, and perfect for a beginner. Collaborate with the same tools you're used to for coding, debugging, and version management.
+Since Evennia is entirely programmed using Python, the tools used by professional developers across the world at your fingertips - no need to learn a new language, and perfect for a beginner. Collaborate with the same tools you're used to for coding, debugging, and version management.
 
 <p align="center">
     <a href="https://github.com/evennia/evennia">
@@ -879,7 +879,7 @@ Internally it is a combination of different `flake8` plugins and custom rules.
 It executes strict naming, consistency, and complexity checks that include but is not limited to `mccabe` and `jones`.
 It also has strict style validation of imports, types, strings, numbers, keywords. That goes way beyond PEP8.
 
-Since internally it is just a `flake8` plugin, all you need to to do is: run your `flake8`!
+Since internally it is just a `flake8` plugin, all you need to do is: run your `flake8`!
 
 ```
 $ flake8 your_module.py
