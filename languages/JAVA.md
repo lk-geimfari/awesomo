@@ -18,7 +18,7 @@ Druid excels as a data warehousing solution for fast aggregate queries on petaby
 
 Druid can load both streaming and batch data and integrates with Samza, Kafka, Storm, Spark, and Hadoop.
 
-[**Dbeaber**](https://github.com/dbeaver/dbeaver) is a Free multi-platform database tool for developers, SQL programmers, database administrators and analysts. Supports any database which has JDBC driver (which basically means - ANY database). EE version also supports non-JDBC datasources (WMI, MongoDB, Cassandra, Redis).
+[**Dbeaver**](https://github.com/dbeaver/dbeaver) is a Free multi-platform database tool for developers, SQL programmers, database administrators and analysts. Supports any database which has JDBC driver (which basically means - ANY database). EE version also supports non-JDBC datasources (WMI, MongoDB, Cassandra, Redis).
 
 Has a lot of features including metadata editor, SQL editor, rich data editor, ERD, data export/import/migration, SQL execution plans, etc.
 Based on Eclipse platform.
