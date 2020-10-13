@@ -119,7 +119,7 @@ Enzyme is unopinionated regarding which test runner or assertion library you use
 ## G
 [**Gatsby**](https://github.com/gatsbyjs/gatsby) - ⚛️📄🚀 Blazing-fast site generator for React
 
-Gatsby is a blazing-fast static site generator for React. Powered By GraphQL and super extensive
+Gatsby is a blazing-fast static site generator for React. Powered By GraphQL and super extensive.
 
 ![gatsby](https://camo.githubusercontent.com/ac31ac54c2013850b0fb8a3a4926f4718a398fb3/68747470733a2f2f7777772e6761747362796a732e6f72672f6d6f6e6f6772616d2e737667)
 
