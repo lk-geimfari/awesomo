@@ -94,6 +94,18 @@ Reasons to use FulePHP
 </p>
 
 ---
+[**Phalcon**](https://github.com/phalcon/cphalcon) Phalcon is an open source full stack framework for PHP, written as a C-extension. Phalcon is optimized for high performance. Its unique architecture allows the framework to always be memory resident, offering its functionality whenever it’s needed, without expensive file stats and file reads that traditional PHP frameworks employ.
+
+Reasons to use Phalcon
+- Feature rich tool, which they can use to develop powerful applications with low server consumption and high performance.
+
+<p align="center">
+    <a href="https://github.com/phalcon/cphalcon">
+        <img src="https://www.niagahoster.co.id/blog/wp-content/uploads/2019/05/phalcon.png">
+    </a>
+</p>
+
+---
 [**Zend Framework**](https://github.com/zendframework/zendframework) The Zend framework is a complete object-oriented framework, and the fact that it uses features such as interfaces and inheritance makes it extendable. It was built on the agile methodology, which helps you to deliver high-quality applications to enterprise clients. Zend is highly customizable and abides by PHP best practices—an important point for developers who want to add project-specific functionalities.
 
 Reasons to use Zend
