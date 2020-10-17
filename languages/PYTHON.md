@@ -741,8 +741,11 @@ u'{"type":"User"...'
 {u'disk_usage': 368627, u'private_gists': 484, ...}
 ```
 ---
-[**RobotFramework**](https://robotframework.org). 
-It is a generic open source automation framework. It can be used for test automation and robotic process automation (RPA).
+[**RobotFramework**](https://robotframework.org) is a generic open source automation framework. It can be used for test automation and robotic process automation (RPA) having following features:
+- It is open-source and extensible and can be integrated with virtually any other tool to create powerful and flexible automation solutions.
+- It has easy syntax, utilizing human-readable keywords. Its capabilities can be extended by libraries implemented with Python or Java.
+- Robot Framework project is hosted on [GitHub](https://github.com/robotframework/robotframework) where you can find further documentation, source code, and issue tracker. Downloads are hosted at [PyPI](https://pypi.python.org/pypi/robotframework).
+- Robot Framework is operating system and application independent. The core framework is implemented using Python and also runs on Jython (JVM) and IronPython (.NET).
 ![](https://moisio.fr/wp-content/uploads/2019/12/Robot-Framework-2000x1200.jpg)
 
 ---
