@@ -740,7 +740,10 @@ u'{"type":"User"...'
 >>> r.json()
 {u'disk_usage': 368627, u'private_gists': 484, ...}
 ```
-
+---
+[**RobotFramework**](https://robotframework.org) is a generic open source automation framework. It can be used for test automation and robotic process automation (RPA).
+![](https://www.google.com/url?sa=i&url=http%3A%2F%2Fravindranaik.com%2Fmobile-automation-testing-using-robotframework%2F&psig=AOvVaw2P-NIgqZiXV92sya9Md32t&ust=1603016931360000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjul8q1u-wCFQAAAAAdAAAAABAN)
+--
 ## S
 
 [**Saleor**](https://github.com/mirumee/saleor) is an open-source e-commerce storefront for Python and Django.
