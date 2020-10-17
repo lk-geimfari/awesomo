@@ -743,7 +743,7 @@ u'{"type":"User"...'
 ---
 [**RobotFramework**](https://robotframework.org). 
 It is a generic open source automation framework. It can be used for test automation and robotic process automation (RPA).
-![](https://i.ytimg.com/vi/WIIm6eeqKM4/maxresdefault.jpg)
+![](https://moisio.fr/wp-content/uploads/2019/12/Robot-Framework-2000x1200.jpg)
 
 ---
 ## S
