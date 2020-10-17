@@ -744,7 +744,8 @@ u'{"type":"User"...'
 [**RobotFramework**](https://robotframework.org). 
 It is a generic open source automation framework. It can be used for test automation and robotic process automation (RPA).
 ![](https://secureservercdn.net/160.153.138.177/dxa.0a2.myftpupload.com/wp-content/uploads/2020/05/robotframework-1.png)
---
+
+---
 ## S
 
 [**Saleor**](https://github.com/mirumee/saleor) is an open-source e-commerce storefront for Python and Django.
