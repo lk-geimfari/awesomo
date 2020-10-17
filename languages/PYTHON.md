@@ -741,8 +741,9 @@ u'{"type":"User"...'
 {u'disk_usage': 368627, u'private_gists': 484, ...}
 ```
 ---
-[**RobotFramework**](https://robotframework.org) is a generic open source automation framework. It can be used for test automation and robotic process automation (RPA).
-![](https://www.google.com/url?sa=i&url=http%3A%2F%2Fravindranaik.com%2Fmobile-automation-testing-using-robotframework%2F&psig=AOvVaw2P-NIgqZiXV92sya9Md32t&ust=1603016931360000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjul8q1u-wCFQAAAAAdAAAAABAN)
+[**RobotFramework**](https://robotframework.org). 
+It is a generic open source automation framework. It can be used for test automation and robotic process automation (RPA).
+![](https://secureservercdn.net/160.153.138.177/dxa.0a2.myftpupload.com/wp-content/uploads/2020/05/robotframework-1.png)
 --
 ## S
 
