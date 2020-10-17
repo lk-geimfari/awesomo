@@ -745,7 +745,7 @@ u'{"type":"User"...'
 - It is open-source and extensible and can be integrated with virtually any other tool to create powerful and flexible automation solutions.
 - It has easy syntax, utilizing human-readable keywords. Its capabilities can be extended by libraries implemented with Python or Java.
 - Robot Framework project is hosted on [GitHub](https://github.com/robotframework/robotframework) where you can find further documentation, source code, and issue tracker. Downloads are hosted at [PyPI](https://pypi.python.org/pypi/robotframework).
-- Robot Framework is operating system and application independent. The core framework is implemented using Python and also runs on Jython (JVM) and IronPython (.NET).
+- It is operating system and application independent. The core framework is implemented using Python and also runs on Jython (JVM) and IronPython (.NET).
 ![](https://moisio.fr/wp-content/uploads/2019/12/Robot-Framework-2000x1200.jpg)
 
 ---
