@@ -358,7 +358,7 @@ Supported: *Python 2/3*
 
 ## M
 
-[**manim**](https://github.com/3b1b/manim) is an animation engine for explanatory math videos. It's used to create precise animations programmatically, as seen in the videos at [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw).
+[**manim**](https://github.com/3b1b/manim) is an animation engine for explanatory math videos. It is used to create precise animations programmatically, as seen in the videos at [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw).
 
 ![manim](https://github.com/3b1b/manim/blob/master/logo/cropped.png?raw=true)
 
