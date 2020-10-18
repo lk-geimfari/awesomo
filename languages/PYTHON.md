@@ -358,6 +358,27 @@ Supported: *Python 2/3*
 
 ## M
 
+[**manim**](https://github.com/3b1b/manim) is an animation engine for explanatory math videos. It's used to create precise animations programmatically, as seen in the videos at [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw).
+
+![manim](https://github.com/3b1b/manim/blob/master/logo/cropped.png?raw=true)
+
+Example:
+```python
+from manimlib.imports import *
+
+class SquareToCircle(Scene):
+    def construct(self):
+        # Creating shapes
+        circle = Circle()
+        square = Square()
+
+        #Showing shapes
+        self.play(ShowCreation(square))
+        self.play(Transform(square, circle))
+        self.play(FadeOut(square))
+```
+
+---
 [**marshmallow**](https://github.com/marshmallow-code/marshmallow) is an ORM/ODM/framework-agnostic library for converting complex datatypes, such as objects, to and from native Python datatypes.
 
 Example:
