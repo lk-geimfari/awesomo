@@ -240,6 +240,14 @@ Thousands of developers from indie and multi-national digital agencies, and univ
 ![Process listing](https://github.com/unitech/pm2/raw/master/pres/pm2-list.png)
 
 ---
+[**Popper.js**](https://popper.js.org/) This JavaScript library will help you create delightful poppers on your site. If you’re wondering what a popper is, think of it like a little thought bubble bursting from an element! Popper.js gives you some fantastic ways to arrange them, make them stick to elements, and keep them operating smoothly on any screen size
+
+![Popper.js](https://popper.js.org/images/popper-og-image.jpg)
+
+---
+
+
+
 [**PouchDB**](https://github.com/pouchdb/pouchdb) is an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser.
 
 PouchDB was created to help web developers build applications that work as well offline as they do online.
@@ -264,6 +272,8 @@ db.replicate.to('http://example.com/mydb');
 
 ## R
 [**React**](https://github.com/facebook/react) - React is a JavaScript library for building user interfaces.
+![React](https://www.seekpng.com/png/detail/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png)
+
 
 * **Declarative:** React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes. Declarative views make your code more predictable, simpler to understand, and easier to debug.
 * **Component-Based:** Build encapsulated components that manage their own state, then compose them to make complex UIs. Since component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep state out of the DOM.
@@ -272,6 +282,27 @@ db.replicate.to('http://example.com/mydb');
 [Learn how to use React in your own project](https://reactjs.org/docs/getting-started.html).
 
 ---
+[**Redux**](https://github.com/facebook/react) -Redux is a predictable state container for JavaScript apps.
+
+![React](https://redux.js.org/img/redux-logo-landscape.png)
+
+
+* **Predictability of outcome**  There is always one source of truth, the store, with no confusion about how to sync the current state with actions and other parts of the application.
+
+* **Maintainability** Having a predictable outcome and strict structure makes the code easier to maintain.
+
+* **Server rendering** This is very useful, especially for the initial render, making for a better user experience or search engine optimization. Just pass the store created on the server to the client side.
+
+* **Organization** Redux is stricter about how code should be organized, which makes code more consistent and easier for a team to work with.
+
+* **Developer tools** Developers can track everything going on in the app in real time, from actions to state changes.
+
+* **Community and ecosystem** This is a huge plus whenever you’re learning or using any library or framework. Having a community behind Redux makes it even more appealing to use.
+
+* **Ease of testing** The first rule of writing testable code is to write small functions that do only one thing and that are independent. Redux’s code is mostly functions that are just that: small, pure and isolated.
+
+---
+
 [**Reveal.js**](https://github.com/hakimel/reveal.js)  — A framework for easily creating beautiful presentations using HTML.
 
 [Check out the live demo](http://lab.hakim.se/reveal-js/).
