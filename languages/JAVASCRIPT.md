@@ -386,7 +386,7 @@ The Framework uses new event-driven compute services, like AWS Lambda, Google Cl
 
 ---
 
-[**VuePress**](https://github.com/vuejs/vuepress) — VuePress is a Minimalistic Vue-powered static site generator with Vue component based layout and is the latest project from Vue creator Evan You. On the client side, a VuePress site is an SPA powered by Vue, Vue Router, and Webpack. It was originally created to support the documentation needs of Vue’s own subprojects and now it can serve your own needs. A VuePress site is in fact a SPA powered by Vue (opens new window), Vue Router (opens new window)and webpack (opens new window). If you’ve used Vue before, you will notice the familiar development experience when you are writing or developing custom themes. 
+[**VuePress**](https://github.com/vuejs/vuepress) — VuePress is a Minimalistic Vue-powered static site generator with Vue component based layout and is the latest project from Vue creator Evan You. On the client side, a VuePress site is an SPA powered by Vue, Vue Router and Webpack. It was originally created to support the documentation needs of Vue’s own subprojects and now it can serve your own needs. A VuePress site is in fact a SPA powered by Vue, Vue Router and webpack. If you’ve used Vue before, you will notice the familiar development experience when you are writing or developing custom themes. 
 
 [Learn how to use VuePress - official guide](https://vuepress.vuejs.org/guide).
 
