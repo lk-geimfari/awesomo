@@ -46,6 +46,12 @@ Efficient Augmented Reality for the Web built on A-Frame.
 
 ![babel](http://imgur.com/qiB3JcZ.png)
 
+## B
+
+[**BabylonJS**](https://github.com/BabylonJS) a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
+
+![babylon](https://d33wubrfki0l68.cloudfront.net/b39661bbf642a09168d424b5c1f48076d23c8fa3/44cb5/assets/img/babylonidentity.svg)
+
 ## C
 
 [**Chart.js**](https://github.com/chartjs/Chart.js)  —  a simple HTML5 Charts using the canvas element.
