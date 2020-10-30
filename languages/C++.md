@@ -16,7 +16,7 @@
 
 The supported data models can be mixed in queries and allow ArangoDB to be the aggregation point for your data.
 
-![arangodb](https://docs.arangodb.com/assets/arangodb_logo_2016_inverted.png)
+![arangodb](https://www.arangodb.com/wp-content/uploads/2016/10/ArangoDB-logo-bg.svg)
 
 ## B
 
@@ -34,14 +34,14 @@ The supported data models can be mixed in queries and allow ArangoDB to be the a
 
 [**Catch2**](https://github.com/catchorg/Catch2) is a multi-paradigm test framework for unit-tests, TDD and BDD. It is primarily distributed as a single header file, although certain extensions may require additional headers.
 
-![catch2](https://github.com/catchorg/Catch2/blob/master/artwork/catch2-logo-small.png?raw=true)
+![catch2](https://raw.githubusercontent.com/catchorg/Catch2/devel/data/artwork/catch2-logo-small.png)
 
 ---
 
 [**Chromium**](http://www.chromium.org) and is used by the [Atom
 editor](https://github.com/atom/atom) and many other [apps](http://electron.atom.io/apps).
 
-![electron](http://imgur.com/wuAM23t.png)
+![chromium](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Chromium_11_Wordmark_Logo.svg/1200px-Chromium_11_Wordmark_Logo.svg.png)
 
 ## D
 
@@ -59,6 +59,8 @@ Dear ImGui is designed to enable fast iterations and to empower programmers to c
 
 [**Electron**](https://github.com/electron/electron) lets you write cross-platform desktop applications
 using JavaScript, HTML and CSS. It is based on [Node.js](https://nodejs.org/) and
+
+![electron](https://camo.githubusercontent.com/627c774e3070482b180c3abd858ef2145d46303b/68747470733a2f2f656c656374726f6e6a732e6f72672f696d616765732f656c656374726f6e2d6c6f676f2e737667)
 
 ## G
 
@@ -116,7 +118,7 @@ actor Main
 
 [**Qt**](https://www.qt.io/) is an LGPL application framework supported on most platforms - including embedded -, and covers most of C++ application development needs : GUI widgets, event loop, networking, serialization, reflection, javascript engines, web browser integration... As well as a declarative reactive user-interface programming language based on Javascript, QML that can even be used for 3D content creation.
 
-![qt](http://doc.qt.io/qt-5/images/used-in-examples/gallery/images/qt-logo@2x.png)
+![qt](https://wiki.qt.io/skins/common/images/wiki.png?77d98)
 
 ## R
 
