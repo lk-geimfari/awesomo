@@ -136,6 +136,12 @@ actor Main
 
 ![robomongo](https://robomongo.org/static/screens-transparent-6e2a44fd.png)
 
+## S
+
+[**SDL**](https://www.libsdl.org/) (Simple DirectMedia Layer) is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software, emulators, and popular games including Valve's award winning catalog and many Humble Bundle games. Officially supports Windows, Mac OS X, Linux, iOS, and Android. Support for other platforms may be found in the source code. SDL 2.0 is distributed under the zlib license. This license allows you to use SDL freely in any software.
+
+![sdl](https://www.libsdl.org/media/SDL_logo.png)
+
 ## T
 
 [**TensorFlow**](https://github.com/tensorflow/tensorflow) is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications.
