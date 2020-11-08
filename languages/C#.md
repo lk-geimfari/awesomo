@@ -185,6 +185,9 @@ The [**corefx**](https://github.com/dotnet/corefx) repo contains the library imp
 [**Mono**](https://github.com/mono/mono) is a software platform designed to allow developers to easily create cross platform applications. It is an open source implementation of Microsoft's .NET Framework based on the ECMA standards for C# and the Common Language Runtime.
 
 ---
+[**MudBlazor**](https://github.com/Garderoben/MudBlazor) is an ambitious Material Design component framework for Blazor with an emphasis on ease of use and clear structure. It is perfect for .NET developers who want to rapidly build web applications without having to struggle with CSS and Javascript. ([Demo](https://mudblazor.com))
+
+---
 [**MusicStore**](https://github.com/aspnet/MusicStore) is a sample ASP.NET Core application.
 
 ---
