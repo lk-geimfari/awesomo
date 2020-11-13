@@ -76,6 +76,12 @@ I2P (Invisible Internet Protocol) is a universal anonymous network layer. All co
 
 ![i2pd](https://raw.githubusercontent.com/PurpleI2P/i2pd_docs_en/master/docs/media/i2pd-logo.png)
 
+## L
+
+[**Lina Engine**](https://github.com/inanevin/LinaEngine)  is a lightweight and ECS based open-source game engine. Initially it's a research project and is aimed to be a basis of development for more open-source game engine projects. Lina's architecture is designed to be as modular as possible and it focuses on creating replacable modules to customize for project-specific needs, rather than stacking thousands of features into one framework.  
+
+![lina](https://github.com/inanevin/LinaEngine/raw/master/Docs/Images/linalogofull_medium.png)
+
 ## M
 
 [**MXNet**](https://github.com/dmlc/mxnet) is a deep learning framework designed for both efficiency and flexibility. It allows you to mix the flavours of symbolic programming and imperative programming to maximize efficiency and productivity. In its core, a dynamic dependency scheduler that automatically parallelizes both symbolic and imperative operations on the fly. A graph optimization layer on top of that makes symbolic execution fast and memory efficient. The library is portable and lightweight, and it scales to multiple GPUs and multiple machines.
