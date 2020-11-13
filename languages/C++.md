@@ -108,6 +108,18 @@ The code is written to be massively cross-compatible. Right now they support fiv
 
 ![openFrameworks](https://y7v4p6k4.ssl.hwcdn.net/52917e5775d841507200025d/52eefbee87b962494e0006e5_openframeworks_logo.jpg)
 
+---
+
+[**Overload**](https://github.com/adriengivry/Overload) is an alternative game engine, inspired by industry standards, initiated by Benjamin VIRANIN, Max BRUN and Adrien GIVRY. Overload is now a community project, opened to any contribution.
+
+Overload pillars are:
+
+* Simplicity
+* Documentation
+* High-quality modern C++ code
+
+![overload](https://user-images.githubusercontent.com/33324216/94352497-cc8c2200-0033-11eb-93e1-1a30386133b9.png)
+
 ## P
 
 [**Pony**](https://github.com/ponylang/ponyc) is an open-source, actor-model, capabilities-secure, high performance programming language.
