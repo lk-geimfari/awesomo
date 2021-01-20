@@ -24,7 +24,7 @@ Ace's goal is to create a browser based editor that matches and extends the feat
 [Check out the live demo](http://ace.c9.io/).
 
 ---
-[**AR.js**](https://github.com/jeromeetienne/AR.js) - Augmented Reality for the Web
+[**AR.js**](https://github.com/jeromeetienne/AR.js) — Augmented Reality for the Web
 
 Efficient Augmented Reality for the Web built on A-Frame.
 
@@ -102,7 +102,7 @@ Enzyme is unopinionated regarding which test runner or assertion library you use
 ![express](http://imgur.com/mSHVwME.png)
 
 ---
-[**Exifr**](https://github.com/MikeKovarik/exifr) - The fastest and most versatile JS EXIF reading library.
+[**Exifr**](https://github.com/MikeKovarik/exifr) — The fastest and most versatile JS EXIF reading library.
 
 ![exifr](https://raw.githubusercontent.com/MikeKovarik/exifr/master/logo/blue-mini.png)
 
@@ -118,12 +118,12 @@ Enzyme is unopinionated regarding which test runner or assertion library you use
 ![filepond](https://github.com/pqina/filepond-github-assets/blob/master/logo.svg)
 
 ---
-[**fullPage.js**](https://github.com/alvarotrigo/fullPage.js) - a simple and easy to use plugin to create fullscreen scrolling websites (also known as single page websites or onepage sites). It allows the creation of fullscreen scrolling websites, as well as adding some landscape sliders inside the sections of the site.
+[**fullPage.js**](https://github.com/alvarotrigo/fullPage.js) — a simple and easy to use plugin to create fullscreen scrolling websites (also known as single page websites or onepage sites). It allows the creation of fullscreen scrolling websites, as well as adding some landscape sliders inside the sections of the site.
 
 ![fullpage](https://camo.githubusercontent.com/0a9ce533243ea122eb9fba3f93efb5426cc8b6e1/68747470733a2f2f7261772e6769746875622e636f6d2f616c7661726f747269676f2f66756c6c506167652e6a732f6d61737465722f6578616d706c65732f696d67732f696e74726f2e706e67)
 
 ## G
-[**Gatsby**](https://github.com/gatsbyjs/gatsby) - ⚛️📄🚀 Blazing-fast site generator for React
+[**Gatsby**](https://github.com/gatsbyjs/gatsby) — ⚛️📄🚀 Blazing-fast site generator for React
 
 Gatsby is a blazing-fast static site generator for React. Powered By GraphQL and super extensive.
 
@@ -189,7 +189,7 @@ Impress.js is inspired by the idea behind [Prezi](https://prezi.com/).
 ![](https://camo.githubusercontent.com/de0532955fea66f17b749ef96c7efdbfad2e8bd2/687474703a2f2f692e696d6775722e636f6d2f547665617065372e706e67)
 
 ---
-[**lodash**](https://github.com/lodash/lodash)  — A modern JavaScript utility library delivering modularity, performance, & extras.
+[**lodash**](https://github.com/lodash/lodash) — A modern JavaScript utility library delivering modularity, performance, & extras.
 
 ![lodash](http://imgur.com/dIzDcos.png)
 
@@ -207,7 +207,7 @@ Mailspring's UI is open source (GPLv3) and written in JavaScript with Electron a
 ![marko](https://user-images.githubusercontent.com/3771924/29725582-a043b5fe-899a-11e7-83f8-215fdc904256.png)
 
 ---
-[**Moment.js**](https://github.com/moment/moment)  —  a lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
+[**Moment.js**](https://github.com/moment/moment) — a lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
 
 ![moment.js](https://cdn-images-1.medium.com/max/720/0*DP6jZMrfJIt2znNM.png)
 
@@ -219,7 +219,7 @@ With Meteor you write apps in modern JavaScript that send data over the wire, ra
 ![meteor](https://user-images.githubusercontent.com/841294/26841702-0902bbee-4af3-11e7-9805-0618da66a246.png)
 
 ## N
-[**NSFW**](https://github.com/infinitered/nsfwjs) - Client-side indecent content checking
+[**NSFW**](https://github.com/infinitered/nsfwjs) — Client-side indecent content checking
 
 A simple JavaScript library to help you quickly identify unseemly images; all in the client's browser. NSFWJS isn't perfect, but it's pretty accurate (~90% from our test set of 15,000 test images)... and it's getting more accurate all the time.
 
@@ -277,7 +277,7 @@ db.replicate.to('http://example.com/mydb');
 ```
 
 ## R
-[**React**](https://github.com/facebook/react) - React is a JavaScript library for building user interfaces.
+[**React**](https://github.com/facebook/react) — React is a JavaScript library for building user interfaces.
 ![React](https://www.seekpng.com/png/detail/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png)
 
 
@@ -288,7 +288,7 @@ db.replicate.to('http://example.com/mydb');
 [Learn how to use React in your own project](https://reactjs.org/docs/getting-started.html).
 
 ---
-[**Redux**](https://github.com/facebook/react) -Redux is a predictable state container for JavaScript apps.
+[**Redux**](https://github.com/facebook/react) — Redux is a predictable state container for JavaScript apps.
 
 ![React](https://redux.js.org/img/redux-logo-landscape.png)
 
@@ -309,7 +309,7 @@ db.replicate.to('http://example.com/mydb');
 
 ---
 
-[**Reveal.js**](https://github.com/hakimel/reveal.js)  — A framework for easily creating beautiful presentations using HTML.
+[**Reveal.js**](https://github.com/hakimel/reveal.js) — A framework for easily creating beautiful presentations using HTML.
 
 [Check out the live demo](http://lab.hakim.se/reveal-js/).
 
@@ -322,35 +322,35 @@ reveal.js comes with a broad range of features including [nested slides](https:/
 
 ## S
 
-[**socket.io**](https://github.com/socketio/socket.io) —  Realtime application framework (Node.JS server).
+[**socket.io**](https://github.com/socketio/socket.io) — Realtime application framework (Node.JS server).
 
 ![socket.io](http://imgur.com/2p9ICjI.png)
 
 ---
-[**Strapi**](https://github.com/strapi/strapi)  —  The most advanced open-source Content Management Framework (headless-CMS) to build powerful API with no effort.
+[**Strapi**](https://github.com/strapi/strapi) — The most advanced open-source Content Management Framework (headless-CMS) to build powerful API with no effort.
 
 ![strapi](https://camo.githubusercontent.com/4f99be4e64e0babc77b1e0dadffd3eb5ba883ebb/68747470733a2f2f626c6f672e7374726170692e696f2f636f6e74656e742f696d616765732f323031382f30382f6769746875625f707265766965772d322e706e67)
 
 ---
-[**strider**](https://github.com/Strider-CD/strider)  —  an Open Source Continuous Deployment / Continuous Integration platform. It is written in Node.JS / JavaScript and uses MongoDB as a backing store. It is published under the BSD license.
+[**strider**](https://github.com/Strider-CD/strider) — an Open Source Continuous Deployment / Continuous Integration platform. It is written in Node.JS / JavaScript and uses MongoDB as a backing store. It is published under the BSD license.
 
 ![strider](https://cdn-images-1.medium.com/max/720/0*xth8wmt1O-zAf3Hy.jpg)
 
 ---
-[**Svelte**](https://github.com/sveltejs/svelte)  —  Svelte is a UI framework of sorts that borrows a lot or the great ideas from some of its peers like React and Vue.js, but brings about its own interesting ideas to the table. Plus, it’s not entirely a framework in the sense that we’re used to and is perhaps better seen as a compiler.
+[**Svelte**](https://github.com/sveltejs/svelte) — Svelte is a UI framework of sorts that borrows a lot or the great ideas from some of its peers like React and Vue.js, but brings about its own interesting ideas to the table. Plus, it’s not entirely a framework in the sense that we’re used to and is perhaps better seen as a compiler.
 
 
 ![svelte](https://svelte.dev/svelte-logo-horizontal.svg)
 
 ---
-[**SweetAlert2**](https://github.com/limonte/sweetalert2)  —  An awesome replacement for JavaScript's alert.
+[**SweetAlert2**](https://github.com/limonte/sweetalert2) — An awesome replacement for JavaScript's alert.
 
 [Check out the live demo](https://github.com/limonte/sweetalert2).
 
 ![sweetalert](https://raw.githubusercontent.com/sweetalert2/sweetalert2/master/assets/swal2-logo.png)
 
 ---
-[**Serverless Framework**](https://github.com/serverless/serverless) - Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
+[**Serverless Framework**](https://github.com/serverless/serverless) — Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
 
 The Framework uses new event-driven compute services, like AWS Lambda, Google Cloud Functions, and more. It's a command-line tool, providing scaffolding, workflow automation and best practices for developing and deploying your serverless architecture. It's also completely extensible via plugins.
 
@@ -376,7 +376,7 @@ The Framework uses new event-driven compute services, like AWS Lambda, Google Cl
 
 ## V
 
-[**Video.js**](https://github.com/videojs/video.js)  —   An Open source HTML5 & Flash video player.
+[**Video.js**](https://github.com/videojs/video.js) — An Open source HTML5 & Flash video player.
 
 > Video.js is a web video player built from the ground up for an HTML5 world. It supports HTML5 and Flash video, as well as YouTube and Vimeo (through [plugins][plugins]). It supports video playback on desktops and mobile devices. This project was started mid 2010, and the player is now used on over ~~50,000~~ ~~100,000~~ ~~200,000~~ [400,000 websites][builtwith].
 
@@ -400,29 +400,29 @@ The Framework uses new event-driven compute services, like AWS Lambda, Google Cl
 
 ## W
 
-[**Webpack**](https://github.com/webpack/webpack)  — Webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
+[**Webpack**](https://github.com/webpack/webpack) — Webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
 
 ![webpack](http://imgur.com/i5lsaAm.png)
 
 ---
-[**web3.js - Ethereum JavaScript API**](https://github.com/ethereum/web3.js/)  — web3.js is a collection of libraries which allow you to interact with a local or remote ethereum node, using a HTTP or IPC connection.
+[**web3.js - Ethereum JavaScript API**](https://github.com/ethereum/web3.js/) — web3.js is a collection of libraries which allow you to interact with a local or remote ethereum node, using a HTTP or IPC connection.
 
 ![web3.js](https://raw.githubusercontent.com/ethereum/web3.js/2.x/assets/web3js.svg?sanitize=true)
 
 ---
-[**WebTorrent**](https://github.com/feross/webtorrent)  —  :zap: Streaming torrent client for the web.
+[**WebTorrent**](https://github.com/feross/webtorrent) — :zap: Streaming torrent client for the web.
 
 ![webtorrent](https://camo.githubusercontent.com/357343e823b1c8d37418edce5ac401832eda2d27/68747470733a2f2f776562746f7272656e742e696f2f696d672f576562546f7272656e742e706e67)
 
 WebTorrent is a streaming torrent client for node.js and the browser.
 
 ---
-[**Wintersmith**](https://github.com/jnordberg/wintersmith)  —  A simple yet flexible static site generator. It takes contents (markdown, less, scripts, etc), transforms them using plugins and outputs a static website (html, css, images, etc) that you can host anywhere.
+[**Wintersmith**](https://github.com/jnordberg/wintersmith) — A simple yet flexible static site generator. It takes contents (markdown, less, scripts, etc), transforms them using plugins and outputs a static website (html, css, images, etc) that you can host anywhere.
 
 ![wintersmith](http://wintersmith.io/images/wintersmith.svg)
 
 ## Y
 
-[**yarn**](https://github.com/yarnpkg/yarn)  — :package::cat2: Fast, reliable, and secure dependency management.
+[**yarn**](https://github.com/yarnpkg/yarn) — :package::cat2: Fast, reliable, and secure dependency management.
 
 ![yarn](http://imgur.com/6tILzw8.png)
