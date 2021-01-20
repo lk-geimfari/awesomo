@@ -66,6 +66,12 @@ Carthage builds your dependencies and provides you with binary frameworks, but y
 
 ![sl](https://cdn-images-1.medium.com/max/720/0*J9saJJAgjFZjMykS.png)
 
+## T
+
+[**Themis**](https://github.com/cossacklabs/themis) - a multi-platform framework for solving typical data security tasks: secure data storage, secure messaging, zero-knowledge proof authentication, etc. Themis has unified easy-to-use hard-to-misuse API for 14 languages and platforms, so it's a best fit for multi-platform apps and apps with end-to-end encryption. It hides cryptographic details, so developers don't need to know the difference between AES CBC mode and AES GCM mode to encrypt the data. Recommended by OWASP MASVS.
+
+![Themis encryption framework](https://raw.githubusercontent.com/wiki/cossacklabs/themis/images/logo.png)
+
 ## V
 
 [**Vapor**](https://github.com/vapor/vapor) —  the most used web framework for Swift. It provides a beautifully expressive and easy to use foundation for your next website, API, or cloud project.
