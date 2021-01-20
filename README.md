@@ -6,11 +6,11 @@
 
 If you are interested in [Open Source](https://en.wikipedia.org/wiki/Open-source_software) and are considering to join the community of Open Source developers, then here you might find a project that will suit you.
 
-## Subscribe
+# Subscribe
 
 We have a Telegram channel where we daily post news, announces and all the open-source goodies we found, so subscribe to us: [@the_art_of_development](https://t.me/the_art_of_development).
 
-## Languages
+# Languages
 
  - [C](languages/C.md)
  - [C#](languages/C%23.md)
@@ -44,7 +44,7 @@ We have a Telegram channel where we daily post news, announces and all the open-
  - [Swift](languages/SWIFT.md)
  - [TypeScript](languages/TYPESCRIPT.md)
 
-## Want to add an interesting project?
+# Want to add an interesting project?
 
 - Simply [fork](https://github.com/lk-geimfari/awesomo/) this repository.
 - Add the project to the list using similar formatting of other projects.
@@ -52,11 +52,11 @@ We have a Telegram channel where we daily post news, announces and all the open-
 
 :point_up: However, keep in mind that we don't accept *mammoth's shit*. Only active and interesting projects with good documentation are added. Dead and abandoned projects will be removed.
 
-## Want to support us?
+# Want to support us?
 
 Just share this list with your friends on [Twitter](https://twitter.com/), [Facebook](https://www.facebook.com/), [Medium](http://medium.com) or somewhere else.
 
-## License
+# License
 
 `awesomo` by [@lk-geimfari](https://github.com/lk-geimfari)
 
