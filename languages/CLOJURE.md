@@ -74,6 +74,11 @@ Encoding example:
 ```
 
 ---
+[**clojure-lsp**](https://github.com/clojure-lsp/clojure-lsp) is a [LSP](https://microsoft.github.io/language-server-protocol/) server implementation for multiple IDEs written in clojure
+
+<img src="https://user-images.githubusercontent.com/7820865/103157675-3da6b700-4794-11eb-9771-d2da1dd9b7a7.png" width=180>
+
+---
 [**Clojurecademy**](https://github.com/clojurecademy/clojurecademy) is an interactive platform that provides Clojure based courses. It's like _Codecademy_ for Clojure.
 
 ![Clojurecademy Homepage](https://github.com/clojurecademy/clojurecademy/raw/master/home.png)
