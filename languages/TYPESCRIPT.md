@@ -66,6 +66,14 @@ Large projects written in lua can become hard to maintain and make it easy to ma
 
 <img src="https://raw.githubusercontent.com/TypeScriptToLua/TypeScriptToLua/master/logo-hq.png" alt="TypeScriptToLua" width="256" />
 
+[**tinyhttp**](https://github.com/talentlessguy/tinyhttp) — modern Express-like web-framework.
+
+tinyhttp is a modern Express-like web framework written in TypeScript and compiled to native ESM, that uses a bare minimum amount of dependencies trying to avoid legacy hell.
+
+Nowadays most of the JavaScript applications, both backend or frontend, are filled with a lot of `node_modules` bloat. While modern Node.js versions support almost all latest JavaScript features, frameworks still pull garbage dependencies like `array-flatten`, even though it has been added to Node in 2018. tinyhttp tries to solve this problem by not relying on any polyfills and targeting the latest stable ECMAScript standard (ES2019 is supported by Node 12 LTS). Moreover, the framework targets both CommonJS legacy modules and modern standard ESM modules which you can use in both LTS and modern versions of Node with no extra setup required.
+
+<img src="https://github.com/talentlessguy/tinyhttp/blob/master/site/static/images/logo.svg" alt="tinyhttp" width="300" />
+
 ## V
 
 [**Visual Studio Code**](https://github.com/Microsoft/vscode) - Open source code editor.
