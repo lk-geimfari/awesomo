@@ -236,6 +236,9 @@ Flask offers suggestions, but doesn't enforce any dependencies or project layout
 
 ![glences](https://raw.githubusercontent.com/nicolargo/glances/develop/docs/_static/screencast.gif)
 
+[**Gradio**](https://github.com/gradio-app/gradio) lets you easily convert your machine learning model into a GUI for demoing, debugging, or deploying.
+
+![gradio](https://github.com/gradio-app/gradio/raw/master/demo/screenshots/montage.gif)
 
 [**Graphene**](https://github.com/graphql-python/graphene) GraphQL framework for Python http://graphene-python.org/
 
