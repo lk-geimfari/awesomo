@@ -176,6 +176,13 @@ Impress.js is inspired by the idea behind [Prezi](https://prezi.com/).
 
 ![ink](https://github.com/vadimdemedes/ink/blob/master/media/demo.svg)
 
+---
+[**Insomnia**](https://github.com/Kong/insomnia) is a desktop cross-platform API client for REST and GraphQL, built on top of Electron. It takes the pain out of interacting with HTTP-based APIs. Insomnia combines an easy-to-use interface with advanced functionality like authentication helpers, code generation, and environment variables. It's an open source alternative to Postman which offers a simpler and cleaner user interface.
+
+The project's site: https://insomnia.rest/
+
+![insomnia](https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png)
+
 ## J
 
 [**jasmine**](https://github.com/jasmine/jasmine)  — Simple JavaScript testing framework for browsers and node.js.
