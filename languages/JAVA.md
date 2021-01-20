@@ -1,4 +1,4 @@
-## Alphabetical index of projects in Java:
+﻿## Alphabetical index of projects in Java:
 
 |         |         |         |         |         |         |         |
 | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
@@ -92,6 +92,10 @@ is an open source testing framework for Java released under the MIT License. The
 [**Virgil PureKit**](https://github.com/VirgilSecurity/virgil-purekit-java) is an open-source security framework for user passwords and data protection in a database with functionality against online and offline attacks. PureKit can be used within any database or login system that uses a password, so it’s applicable for a company of any industry or size. It's available for several different programming languages, including Java.
 
 ![Virgil PureKit](https://cdn.virgilsecurity.com/assets/images/github/logos/purekit/PureKit_product.png)
+
+[**Vaadin Framework**](https://github.com/vaadin/framework) allows you to build modern web apps efficiently in plain Java, without touching low level web technologies.Vaadin Platform (previously Vaadin Framework) allows the implementation of HTML5 web user interfaces using the Java programming language.
+
+![Vaadin Framework](https://github.com/vaadin/framework/blob/master/all/src/main/resources/WebContent/img/vaadin-logo.png)
 
 ## W
 
