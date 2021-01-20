@@ -1,6 +1,6 @@
 ## R
 
-[**Shiny**](https://github.com/rstudio/shiny) is a new package from RStudio that makes it incredibly easy to build interactive web applications with R.
+[**Shiny**](https://github.com/rstudio/shiny) is a new package from RStudio that makes it incredibly easy to build interactive web applications with R. Shiny combines the computational power of R with the interactivity of the modern web.
 
 ![shiny](https://cdn-images-1.medium.com/max/720/0*zbuzdqFqY_qyeB6b.png)
 
