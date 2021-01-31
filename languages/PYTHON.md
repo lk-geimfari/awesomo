@@ -827,6 +827,38 @@ Usage:
 
 ```
 
+--
+[**Schemathesis**](https://github.com/schemathesis/schemathesis) is a modern API testing tool for web applications built with Open API and GraphQL specifications.
+
+It reads the application schema and automatically generates test cases, which will ensure that your application is compliant with its schema.
+
+The application under test could be written in any language; the only thing you need is a valid API schema in a supported format.
+
+Simple to use and yet powerful to uncover hard-to-find errors thanks to the property-based testing approach backed by state-of-the-art [**Hypothesis**](http://hypothesis.works) library.
+
+You can use Schemathesis in the command line:
+
+```
+schemathesis run --stateful=links --checks all http://0.0.0.0:8081/schema.yaml
+```
+
+![schemathesis](https://raw.githubusercontent.com/schemathesis/schemathesis/master/img/schemathesis.gif)
+
+Or in your Python tests:
+
+```python
+import schemathesis
+
+schema = schemathesis.from_uri("http://0.0.0.0:8081/schema.yaml")
+
+
+@schema.parametrize()
+def test_api(case):
+    case.call_and_validate()
+```
+
+Both examples above will run hundreds of requests against the API under test and report all found failures and inconsistencies along with instructions to reproduce them.
+
 ---
 [**SciPy**](https://github.com/scipy/scipy) (pronounced "Sigh Pie") is open-source software for mathematics, science, and engineering. It includes modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more. It is also the name of a very popular conference on scientific programming with Python.
 
