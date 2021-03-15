@@ -344,7 +344,7 @@ reveal.js comes with a broad range of features including [nested slides](https:/
 ![strider](https://cdn-images-1.medium.com/max/720/0*xth8wmt1O-zAf3Hy.jpg)
 
 ---
-[**Svelte**](https://github.com/sveltejs/svelte) — Svelte is a UI framework of sorts that borrows a lot or the great ideas from some of its peers like React and Vue.js, but brings about its own interesting ideas to the table. Plus, it’s not entirely a framework in the sense that we’re used to and is perhaps better seen as a compiler.
+[**Svelte**](https://github.com/sveltejs/svelte) — Svelte is a UI framework of sorts that borrows a lot of the great ideas from some of its peers like React and Vue.js, but brings about its own interesting ideas to the table. Plus, it’s not entirely a framework in the sense that we’re used to and is perhaps better seen as a compiler.
 
 
 ![svelte](https://svelte.dev/svelte-logo-horizontal.svg)
