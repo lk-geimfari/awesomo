@@ -14,7 +14,7 @@
 
 [**asciinema**](https://github.com/asciinema/asciinema) is a terminal session recorder and the best companion of asciinema.org
 
-[![demo](https://asciinema.org/a/113463.png)](https://asciinema.org/a/113463?autoplay=1)
+[![demo](https://asciinema.org/a/335480.svg)](https://asciinema.org/a/335480?autoplay=1)
 
 ---
 [**astropy**](https://github.com/astropy/astropy)  —  a package intended to contain much of the core functionality and some common tools needed for performing astronomy and astrophysics with Python.
@@ -38,13 +38,14 @@ Supported: *Python 2/3*
 
 ## B
 
-[**BeeWare**](https://pybee.org/)  —  BeeWare is a collection of projects that can be used to help develop, debug and launch Python software. Each tool follows the Unix philosophy of doing one thing well. Each tool can be used in isolation, or they can be chained together to provide a rich set of programming tools.
+[**BeeWare**](https://beeware.org/)  —  BeeWare is a collection of projects that can be used to help develop, debug and launch Python software. Each tool follows the Unix philosophy of doing one thing well. Each tool can be used in isolation, or they can be chained together to provide a rich set of programming tools.
 
 <p align="center">
-    <a href="https://pybee.org/">
-        <img src="https://pybee.org/static/images/brutus-270.png?h=279716d8">
+    <a href="https://beeware.org/">
+        <img src="https://beeware.org/static/images/brutus-270.png">
     </a>
 </p>
+
 
 ---
 
@@ -321,10 +322,10 @@ Here a small example of a Jinja template:
 
 ## K
 
-[**keras**](https://github.com/fchollet/keras)  —  a high-level neural networks library, written in Python and capable of running on top of either TensorFlow or Theano. It was developed with a focus on enabling fast experimentation.
+[**keras**](https://github.com/keras-team/keras)  —  a high-level neural networks library, written in Python and capable of running on top of either TensorFlow or Theano. It was developed with a focus on enabling fast experimentation.
 
 <p align="center">
-    <a href="https://github.com/fchollet/keras">
+    <a href="https://github.com/keras-team/keras">
         <img src="https://cdn-images-1.medium.com/max/720/0*s57Cx2qO1WZkqNvX.jpg">
     </a>
 </p>
@@ -414,8 +415,8 @@ pprint(result.data, indent=2)
 
 ![matplotlib](http://matplotlib.org/_static/logo2.svg)
 
----
-[**Maya**](https://github.com/kennethreitz/maya). Datetimes are very frustrating to work with in Python, especially when dealing with different locales on different systems. This library exists to make the simple things much easier, while admitting that time is an illusion (timezones doubly so).
+--
+[**Maya**](https://github.com/timofurrer/maya). Datetimes are very frustrating to work with in Python, especially when dealing with different locales on different systems. This library exists to make the simple things much easier, while admitting that time is an illusion (timezones doubly so).
 
 Supported: *Python 3*
 
@@ -464,7 +465,7 @@ UTC
 
 <a href="https://github.com/lk-geimfari/mimesis/">
     <p align="center">
-      <img src="https://raw.githubusercontent.com/lk-geimfari/mimesis/master/media/readme-logo.png">
+      <img src="https://raw.githubusercontent.com/lk-geimfari/mimesis/master/.github/images/readme-logo.png">
     </p>
 </a>
 
@@ -550,7 +551,7 @@ Site: https://www.odoo.com
 
 [**Pandas**](https://github.com/pandas-dev/pandas) is a Python package providing fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real world data analysis in Python. Additionally, it has the broader goal of becoming the most powerful and flexible open source data analysis / manipulation tool available in any language. It is already well on its way toward this goal.
 
-![pandas](https://raw.githubusercontent.com/pandas-dev/pandas/master/doc/logo/pandas_logo.png)
+![pandas](https://pandas.pydata.org/static/img/pandas.svg)
 
 ---
 [**Pendulum**](https://github.com/sdispater/pendulum)  —  Python datetimes made easy.
@@ -606,14 +607,11 @@ Supported: *Python 2/3*
 ![pgcli](https://cdn-images-1.medium.com/max/720/0*jFR4zKWP5x7DunCJ.gif)
 
 ---
-[**Pipenv**](https://github.com/kennethreitz/pipenv) is an experimental project that aims to bring the best of all packaging worlds to the Python world. It harnesses Pipfile, pip, and virtualenv into one single toolchain. It features very pretty terminal colors.
+[**Pipenv**](https://github.com/pypa/pipenv) is a tool that aims to bring the best of all packaging worlds to the Python world. It harnesses Pipfile, pip, and virtualenv into one single toolchain. It features very pretty terminal colors.
 
 It automatically creates and manages a virtualenv for your projects, as well as adds/removes packages from your Pipfile as you install/uninstall packages. The lock command generates a lockfile (Pipfile.lock).
 
-<p align="center">
-  <img src="https://camo.githubusercontent.com/8539e8f5a32e427445e80669fbba317e3a823d9d/687474703a2f2f6d656469612e6b656e6e657468726569747a2e636f6d2e73332e616d617a6f6e6177732e636f6d2f73382e676966">
-  <br>
-</p>
+![GIF demonstrating Pipenv's usage](https://gist.githubusercontent.com/jlusk/855d611bbcfa2b159839db73d07f6ce9/raw/7f5743401809f7e630ee8ff458faa980e19924a0/pipenv.gif)
 
 ---
 [**plotly.py**](https://github.com/plotly/plotly.py) —  an interactive, browser-based charting library for Python.
@@ -633,7 +631,7 @@ Supported: *Python 2/3*
 
 <p align="center">
     <a href="https://github.com/pytest-dev/pytest">
-        <img src="https://camo.githubusercontent.com/8f3e1fe7073f8b9c4ec927c9af8d8961a74ad9af/687474703a2f2f646f63732e7079746573742e6f72672f656e2f6c61746573742f5f7374617469632f707974657374312e706e67">
+        <img src="https://github.com/pytest-dev/pytest/raw/main/doc/en/img/pytest_logo_curves.svg">
     </a>
 </p>
 
@@ -777,7 +775,7 @@ u'{"type":"User"...'
 
 [**Saleor**](https://github.com/mirumee/saleor) is an open-source e-commerce storefront for Python and Django.
 
-[![Saleor](http://getsaleor.com/mr-saleor-readme.png)](http://getsaleor.com)
+[![Saleor](https://user-images.githubusercontent.com/249912/71523206-4e45f800-28c8-11ea-84ba-345a9bfc998a.png)](http://getsaleor.com)
 
 ---
 [**Sanic**](https://github.com/channelcat/sanic) is a Flask-like Python 3.5+ web server that's written to go fast. It's based on the work done by the amazing folks at magicstack, and was inspired by this article: https://magic.io/blog/uvloop-blazing-fast-python-networking/.
