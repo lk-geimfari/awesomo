@@ -209,12 +209,6 @@ Some of rkt's key features and goals include:
 
 ![distribution](https://camo.githubusercontent.com/1e11d429705bf6695b79d24966cb1267c00b7df6/68747470733a2f2f7777772e646f636b65722e636f6d2f73697465732f64656661756c742f66696c65732f6f79737465722d72656769737472792d332e706e67)
 
-## Flynn
-
-[**Flynn**](https://github.com/flynn/flynn) — is an open source Platform as a Service. Flynn is designed to run anything that can run on Linux, not just stateless web apps. Flynn comes with highly available database appliances, including PostgreSQL, MySQL, and MongoDB.
-
-![flynn](https://camo.githubusercontent.com/001ca5e21f9c770f89f79a1060f79fe2a0022a58/68747470733a2f2f666c796e6e2e696f2f696d616765732f666c796e6e2d61636166393530392e737667)
-
 ## Convox Rack
 
 [**Convox Rack**](https://github.com/convox/rack) — is open source PaaS built on top of expert infrastructure automation and devops best practices.
