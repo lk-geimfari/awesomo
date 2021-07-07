@@ -29,7 +29,6 @@ IPFS is a distributed file system that seeks to connect all computing devices wi
 
 IPFS is becoming a new major subsystem of the internet. If built right, it could complement or replace HTTP. It could complement or replace even more. It sounds crazy. It is crazy.
 
-![ipfs](https://ipfs.io/ipfs/QmTgtbb4LckHaXh1YhpNcBu48cFY8zgT1Lh49q7q7ksf3M/raster-generated/ipfs-logo-text-512-ice.png)
 
 ## Nanopack
 
@@ -48,17 +47,6 @@ Libraries include:
 * [Shaman](https://github.com/nanopack/shaman) - Small, lightweight, api-driven dns server.
 * [Mist](https://github.com/nanopack/mist) - A distributed, tag-based pub-sub service for modern web applications and container-driven cloud.
 * [more...](https://github.com/nanopack)
-
-## Snap
-
-[**Snap**](https://github.com/intelsdi-x/snap) — is an open telemetry framework designed to simplify the collection, processing and publishing of system data through a single API. The goals of this project are to:
-
-* Empower systems to expose a consistent set of telemetry data
-* Simplify telemetry ingestion across ubiquitous storage systems
-* Allow flexible processing of telemetry data on agent (e.g. filtering and decoration)
-* Provide powerful clustered control of telemetry workflows across small or large clusters
-
-![snap](https://cloud.githubusercontent.com/assets/1744971/20331694/e07e9148-ab5b-11e6-856a-e4e956540077.png)
 
 ## Gitql
 
@@ -114,41 +102,25 @@ Nanobox creates isolated development environments (using Docker) which are stage
 
 ![terraform](https://cdn-images-1.medium.com/max/720/0*GcgyCyAseB52AkYh.png)
 
-## gago
-
-[**gago**](https://github.com/MaxHalford/gago) — genetic algorithm toolkit written in Go. The following example attempts to minimize the Drop-Wave function.
-
-![gago](https://camo.githubusercontent.com/7a371722fccb0f8742ebffa7a9d0e5a2dfb9b7b0/68747470733a2f2f646f63732e676f6f676c652e636f6d2f64726177696e67732f642f652f32504143582d3176527a4e685a636768576c2d785261796e4541516e346d6f5a65796836706d443868656c53303939654a37565f5452474d3964453665305435494639624f473753344b3632434b5a74535570616e732f7075623f773d34373726683d333037)
-
 ## Hugo
 
 [**Hugo**](https://github.com/spf13/hugo) — a static HTML and CSS website generator written in Go. It is optimized for speed, easy use and configurability. Hugo takes a directory with content and templates and renders them into a full HTML website.
-
-![hugo](https://raw.githubusercontent.com/spf13/hugo/master/docs/static/img/hugo-logo.png)
 
 ## Gin
 
 [**Gin**](https://github.com/gin-gonic/gin) — is a web framework written in Go. It features a martini-like API with much better performance, up to 40 times faster thanks to httprouter. If you need performance and good productivity, you will love Gin.
 
-![gin](https://camo.githubusercontent.com/5446861c45a2c71ec83244819c54bffb83c2a2ee/68747470733a2f2f67696e2d676f6e69632e6769746875622e696f2f67696e2f6f746865722f636f6e736f6c652e706e67)
-
 ## gobot
 
 [**gobot**](https://github.com/hybridgroup/gobot) — a framework using the Go programming language for robotics, physical computing, and the Internet of Things.
-
-![gobot](https://cdn-images-1.medium.com/max/720/0*cd4pZdaXZHsEDjwn.png)
 
 ## utron
 
 [**utron**](https://github.com/gernest/utron) — is a lightweight MVC framework in Go (Golang) for building fast, scalable and robust database-driven web applications.
 
-![utron](https://github.com/gernest/utron/raw/master/utron.png)
-
 ## Caddy
 
 [**Caddy**](https://github.com/mholt/caddy) — a general-purpose web server for Windows, Mac, Linux, BSD, and Android. It is a capable but easier alternative to other popular web servers.
-
-![caddy](https://cloud.githubusercontent.com/assets/1128849/25305033/12916fce-2731-11e7-86ec-580d4d31cb16.png)
 
 ## gitea
 
@@ -160,8 +132,6 @@ Nanobox creates isolated development environments (using Docker) which are stage
 
 [**gogs**](https://github.com/gogits/gogs) — Gogs (Go Git Service) is a painless self-hosted Git service.
 
-![gogs](https://github.com/gogits/gogs/raw/master/public/img/gogs-large-resize.png?raw=true)
-
 ## tile38
 
 [**tile38**](https://github.com/tidwall/tile38) — an open source, in-memory geolocation data store, spatial index, and realtime geofence. It supports a variety of object types including lat/lon points, bounding boxes, XYZ tiles, Geohashes, and GeoJSON.
@@ -170,25 +140,17 @@ Nanobox creates isolated development environments (using Docker) which are stage
 
 [**logrus**](https://github.com/Sirupsen/logrus) — a structured logger for Golang, completely API compatible with the standard library logger.
 
-![logrus](https://cdn-images-1.medium.com/max/720/0*rj8FuIZS1ecrE3Js.)
-
 ## traefik
 
 [**traefik**](https://github.com/containous/traefik) — a modern HTTP reverse proxy and load balancer made to deploy microservices with ease. It supports several backends (Docker, Swarm, Kubernetes, Marathon, Mesos, Consul, Etcd, Zookeeper, BoltDB, Eureka, Rest API, file…) to manage its configuration automatically and dynamically.
-
-![traefik](https://github.com/containous/traefik/raw/master/docs/img/traefik.logo.png)
 
 ## dry
 
 [**dry**](https://github.com/moncho/dry) — a terminal application to manage Docker containers and images. It aims to be an alternative to the official Docker CLI when it is needed to repeatedly execute commands on existing containers and images, and also as a tool to monitor Docker containers from a terminal.
 
-![dry](https://camo.githubusercontent.com/b6f78ecdce46d5f3988dcb338f057af12295e4e3/68747470733a2f2f61736369696e656d612e6f72672f612f33353832352e706e67)
-
 ## pgweb
 
 [**pgweb**](https://github.com/sosedoff/pgweb) — Web-based PostgreSQL database browser written in Go.
-
-![pgweb](https://cdn-images-1.medium.com/max/720/0*IKNNhkpuX3wAab8y.png)
 
 ## rkt
 
@@ -200,14 +162,9 @@ Some of rkt's key features and goals include:
  - *Composability*: rkt is designed for first-class integration with init systems (systemd, upstart) and cluster orchestration tools (fleet, Kubernetes, Nomad), and supports swappable execution engines.
  - *Open standards and compatibility*: rkt implements the appc specification, supports the Container Networking Interface specification, can also run Docker images, and OCI images via docker2aci. Native OCI image support is in development.
 
-
-![rkt](https://github.com/coreos/rkt/raw/master/logos/rkt-horizontal-color.png)
-
 ## Distribution
 
 [**Distribution**](https://github.com/docker/distribution) — The Docker toolset to pack, ship, store, and deliver content.
-
-![distribution](https://camo.githubusercontent.com/1e11d429705bf6695b79d24966cb1267c00b7df6/68747470733a2f2f7777772e646f636b65722e636f6d2f73697465732f64656661756c742f66696c65732f6f79737465722d72656769737472792d332e706e67)
 
 ## Convox Rack
 
