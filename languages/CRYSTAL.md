@@ -26,9 +26,3 @@
 [**Lucky**](https://github.com/luckyframework/lucky) - a web framework that helps you work quickly, catch bugs at compile time, and deliver blazing fast responses.
 
 ![lucky](https://luckyframework.org/assets/images/logo.png)
-
-## O
-
-[**Onyx:HTTP**](https://github.com/onyxframework/http) - An opinionated web framework to build scalable web applications.
-
-![onyx](https://onyxframework.org/img/logo.svg)
