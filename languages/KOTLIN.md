@@ -39,8 +39,6 @@ expect: [1, 2, 3]        (java.util.Arrays$ArrayList <1287934450>)
 
 [**Corda**](https://github.com/corda/corda) is an open source blockchain project, designed for business from the start. Only Corda allows you to build interoperable blockchain networks that transact in strict privacy. Corda's smart contract technology allows businesses to transact directly, with value.
 
-![corda](https://i.imgur.com/0BWrSiq.png)
-
 ---
 
 ## J
@@ -52,8 +50,6 @@ expect: [1, 2, 3]        (java.util.Arrays$ArrayList <1287934450>)
 Since KorGE targets the JVM, you can develop your game, try it, debug it and test it using IntelliJ IDEA (including Community, Ultimate and Android Studio) integrated debugger. And then deploy to the other targets by using the provided gradle tasks. You can also use KorGE as a library and for example integrated it in your android-only project. Tons of features out of the box
 KorGE is just the last layer of a larger stack (Korlibs) for multimedia development: Date and Time utilities, Image Loading, Vector Rasterization, Pathfinding, Sound, Data Structures, Fast Memory Access, Virtual File Systems, WebSockets... Also, it is extensible and include several plugins out of the box: DragonBones, Box2D, SWF and Admob. And more coming.
 
-![korge](https://github.com/korlibs/korge/raw/master/docs/landing.png)
-
 ---
 
 [**KotlinPoet**](https://github.com/square/kotlinpoet) is a Kotlin and Java API for generating .kt source files.
@@ -63,8 +59,6 @@ Source file generation can be useful when doing things such as annotation proces
 ---
 
 [**Ktor**](https://github.com/ktorio/ktor) is a framework for quickly creating web applications in Kotlin with minimal effort.
-
-![ktor](https://camo.githubusercontent.com/ff8d543d1bc5951292d40f105ca2a96d6eeee1fa/687474703a2f2f6b746f722e696f2f6173736574732f696d616765732f6b746f725f6c6f676f2e706e67)
 
 ## L
 
@@ -81,13 +75,9 @@ Examples of Kotlin language features used to improve usability, performance and 
 * Coroutines context providing concurrency utilities and non-blocking asset loading.
 * Reified types that simplify usage of methods normally consuming Class parameters.
 
-![ktx](https://github.com/libktx/ktx/raw/master/.github/ktx-logo.png)
-
 ## T
 
 [**Themis**](https://github.com/cossacklabs/themis) - a multi-platform framework for solving typical data security tasks: secure data storage, secure messaging, zero-knowledge proof authentication, etc. Themis has unified easy-to-use hard-to-misuse API for 14 languages and platforms, so it's a best fit for multi-platform apps and apps with end-to-end encryption. It hides cryptographic details, so developers don't need to know the difference between AES CBC mode and AES GCM mode to encrypt the data. Recommended by OWASP MASVS.
-
-![Themis encryption framework](https://raw.githubusercontent.com/wiki/cossacklabs/themis/images/logo.png)
 
 ---
 
@@ -104,12 +94,6 @@ Examples of Kotlin language features used to improve usability, performance and 
 * REST client with automatic JSON conversion
 * Zero config, no XML, no annotations
 
-![tornadofx](https://github.com/edvin/tornadofx/raw/master/graphics/tornado-fx-logo.png?raw=true)
-
 ## V
 
 [**Virgil PureKit**](https://github.com/VirgilSecurity/virgil-purekit-java) is an open-source security framework for user passwords and data protection in a database with functionality against online and offline attacks. PureKit can be used within any database or login system that uses a password, so it’s applicable for a company of any industry or size. It's available for several different programming languages, including Kotlin.
-
-![Virgil PureKit](https://cdn.virgilsecurity.com/assets/images/github/logos/purekit/PureKit_product.png)
-
----
