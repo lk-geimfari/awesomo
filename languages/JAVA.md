@@ -96,9 +96,3 @@ is an open source testing framework for Java released under the MIT License. The
 [**Vaadin Framework**](https://github.com/vaadin/framework) allows you to build modern web apps efficiently in plain Java, without touching low level web technologies.Vaadin Platform (previously Vaadin Framework) allows the implementation of HTML5 web user interfaces using the Java programming language.
 
 ![Vaadin Framework](https://github.com/vaadin/framework/blob/master/all/src/main/resources/WebContent/img/vaadin-logo.png)
-
-## W
-
-[**World War of Ants**](https://github.com/warofants/wwa) is a game about managing lives of ants, making sure their colony is fed, maintained, defended and prosperous.
-
-It is built with Java, and uses a command line interface for player input.
