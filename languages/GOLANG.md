@@ -122,12 +122,6 @@ Nanobox creates isolated development environments (using Docker) which are stage
 
 [**Caddy**](https://github.com/mholt/caddy) — a general-purpose web server for Windows, Mac, Linux, BSD, and Android. It is a capable but easier alternative to other popular web servers.
 
-## gitea
-
-[**gitea**](https://gitea.io/en-US/) — a community managed [fork of Gogs](https://github.com/go-gitea/gitea), delivering a lightweight code hosting solution written in Go and published under the MIT license.
-
-![gitea](https://gitea.io/images/gitea.png?raw=true)
-
 ## gogs
 
 [**gogs**](https://github.com/gogits/gogs) — Gogs (Go Git Service) is a painless self-hosted Git service.
