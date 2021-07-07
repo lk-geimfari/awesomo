@@ -30,6 +30,3 @@
 
 
 [**ReScript**](https://github.com/rescript-lang/rescript-compiler) is a JavaScript backend for OCaml focused on smooth integration and clean generated code.
-
-## T
-[**Tezos**](https://github.com/tezos/tezos/) is a distributed consensus platform with meta-consensus capability. Tezos not only comes to consensus about state, like BTC or ETH. It also comes to consensus about how the protocol and the nodes should adapt and upgrade.
