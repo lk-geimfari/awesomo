@@ -20,23 +20,6 @@
 
 ---
 
-[**Lor**](https://github.com/sumory/lor) —  a fast and minimalist web framework based on OpenResty.
-
-Example:
-
-```lua
-local lor = require("lor.index")
-local app = lor()
-
-app:get("/", function(req, res, next)
-    res:send("hello world!")
-end)
-
-app:run()
-```
-
----
-
 [**Love2D**](https://github.com/love2d/love) - a simple 2D game framework for Lua.
 
 Example:
