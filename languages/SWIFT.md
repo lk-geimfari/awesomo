@@ -49,10 +49,6 @@ Carthage builds your dependencies and provides you with binary frameworks, but y
 
 ![kf](https://cdn-images-1.medium.com/max/720/0*lHU8xnXxXuQOZSAB.png)
 
----
-[**Kitura**](https://github.com/IBM-Swift/Kitura) is a web framework and web server that is created for web services written in Swift. For more information, visit www.kitura.io.
-
-![kitura](https://cdn-images-1.medium.com/max/720/0*sSG4Ngh4HbxpByBS.png)
 
 ## Q
 
