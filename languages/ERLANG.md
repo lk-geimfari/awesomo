@@ -42,23 +42,12 @@ Cowboy aims to provide a complete HTTP stack in a small code base. It is optimiz
 ![couchdb](http://docs.couchdb.org/en/stable/_static/logo.png)
 
 
-## D
-
-[**disco**](https://github.com/discoproject/disco)  — a Map/Reduce framework for distributed computing.
-
-![disco](https://raw.githubusercontent.com/discoproject/disco/develop/master/www/images/logo.png)
-
-
 ## E
 
 [**ejabberd**](https://github.com/processone/ejabberd) is a distributed, fault-tolerant technology that allows the creation of large-scale instant messaging applications. The server can reliably support thousands of simultaneous users on a single node and has been designed to provide exceptional standards of fault tolerance. As an open source technology, based on industry-standards, ejabberd can be used to build bespoke solutions very cost effectively.
 
-![ejabberd](https://cdn-images-1.medium.com/max/720/0*-Fn3L0VxHoCKDRX1.jpg)
-
 ---
 [**emqttd** ](https://github.com/emqtt/emqttd) — is a distributed, massively scalable, highly extensible MQTT message broker written in Erlang/OTP. EMQ is fully open source and licensed under the Apache Version 2.0. EMQ implements both MQTT V3.1 and V3.1.1 protocol specifications, and supports MQTT-SN, CoAP, WebSocket, STOMP and SockJS at the same time. The 1.0 release of the EMQ broker has scaled to 1.3 million concurrent MQTT connections on a 12 Core, 32G CentOS server.
-
-![emqttd](http://emqttd-docs.readthedocs.io/en/latest/_images/emqtt.png)
 
 ## H
 
