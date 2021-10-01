@@ -112,6 +112,8 @@ Enzyme is unopinionated regarding which test runner or assertion library you use
 
 ![fabric](https://raw.githubusercontent.com/kangax/fabric.js/master/lib/screenshot.png)
 
+![faker](https://raw.githubusercontent.com/Marak/faker.js/master/logo.png) - is a library that helps you to generate massive amounts of fake data in the browser and node.js
+
 ---
 [**filepond**](https://github.com/pqina/filepond) — is library that can upload anything you throw at it, optimizes images for faster uploads, and offers a great, accessible, silky smooth user experience.
 
