@@ -211,6 +211,15 @@ Since Evennia is entirely programmed using Python, the tools used by professiona
 
 ## F
 
+[**FastAPI** ](https://github.com/tiangolo/fastapi) —  FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
+
+Supported: *Python 3.6+*
+
+<p align="center">
+    <a href="https://fastapi.tiangolo.com"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI"></a>
+</p>
+
+---
 [**the fuck** ](https://github.com/nvbn/thefuck) —  is a magnificent app which corrects your previous console command.
 
 Supported: *Python 2/3*
