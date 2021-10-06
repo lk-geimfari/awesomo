@@ -41,6 +41,8 @@ All permissions can be defined in one or multiple ability files and not duplicat
 * allows you to have multiple models signed in at the same time;
 * is based on a modularity concept: use only what you really need.
 
+[**Discordrb**](https://github.com/discordrb/discordrb) is a library you be able to create bots and automations in yours servers at discord.
+
 ## F
 
 [**FactoryBot**](https://github.com/thoughtbot/factory_bot) is a fixtures replacement with a straightforward definition syntax, support for multiple build strategies (saved instances, unsaved instances, attribute hashes, and stubbed objects), and support for multiple factories for the same class (user, admin_user, and so on), including factory inheritance.
@@ -178,7 +180,7 @@ Sidekiq is compatible with Resque. It uses the exact same message format as Resq
 
 Have a large community, with more than 670 contribuitors around the world.
 
-Solidus, Rails eCommerce System. 
+Solidus, Rails eCommerce System.
 Site: https://solidus.io/
 
 
