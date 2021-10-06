@@ -46,6 +46,9 @@ All permissions can be defined in one or multiple ability files and not duplicat
 [**FactoryBot**](https://github.com/thoughtbot/factory_bot) is a fixtures replacement with a straightforward definition syntax, support for multiple build strategies (saved instances, unsaved instances, attribute hashes, and stubbed objects), and support for multiple factories for the same class (user, admin_user, and so on), including factory inheritance.
 
 ---
+[**Faker**](https://github.com/faker-ruby/faker) is a library to generates random data, used in factories to can test differents cases in the same situation
+
+
 [**Faraday**](https://github.com/lostisland/faraday) is an HTTP client lib that provides a common interface over many
 adapters (such as Net::HTTP) and embraces the concept of Rack middleware when
 processing the request/response cycle.
@@ -178,7 +181,7 @@ Sidekiq is compatible with Resque. It uses the exact same message format as Resq
 
 Have a large community, with more than 670 contribuitors around the world.
 
-Solidus, Rails eCommerce System. 
+Solidus, Rails eCommerce System.
 Site: https://solidus.io/
 
 
