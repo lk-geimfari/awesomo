@@ -117,6 +117,8 @@ end
 [**Kaminari**](https://github.com/kaminari/kaminari) is a Scope & Engine based, clean, powerful, customizable and sophisticated paginator for modern web app frameworks and ORMs.
 
 ## O
+[**Octokit**](git@github.com:octokit/octokit.rb.git) is a library to access the github data and improve yours automation
+
 
 [**Octobox**](https://github.com/octobox/octobox). Take back control of your GitHub Notifications.
 
@@ -178,7 +180,7 @@ Sidekiq is compatible with Resque. It uses the exact same message format as Resq
 
 Have a large community, with more than 670 contribuitors around the world.
 
-Solidus, Rails eCommerce System. 
+Solidus, Rails eCommerce System.
 Site: https://solidus.io/
 
 
