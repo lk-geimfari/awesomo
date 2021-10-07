@@ -39,6 +39,7 @@ We have a Telegram channel where we daily post news, announces and all the open-
  - [Ruby](languages/RUBY.md)
  - [Rust](languages/RUST.md)
  - [Scala](languages/SCALA.md)
+ - [Solidity](languages/SOLIDITY.md)
  - [Shell](languages/SHELL.md)
  - [SVG](languages/SVG.md)
  - [Swift](languages/SWIFT.md)
