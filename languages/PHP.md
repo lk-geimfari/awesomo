@@ -77,3 +77,11 @@ Reasons to use PHPunit
 - It is the most used php testing framework in the community
 - Integrate with CI/CD tool for higher software quality
 - Documentation in many languages
+
+---
+[**Collision**](https://github.com/nunomaduro/collision) Collision was created by, and is maintained by Nuno Maduro, and is a package designed to give you beautiful error reporting when interacting with your app through the command line.
+
+Reasons to use Collision
+- It's included on Laravel, the most popular free, open-source PHP framework in the world.
+- Built on top of the Whoops error handler.
+- Supports Laravel, Symfony, PHPUnit, and many other frameworks.
