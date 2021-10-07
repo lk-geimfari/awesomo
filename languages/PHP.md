@@ -68,3 +68,12 @@ Reasons to use Yii
 - It boasts excellent speed and performance, it’s highly extensible, and it lets developers avoid the complexity of writing repetitive SQL statements, as they can model the database data in terms of objects.
 - Yii has a core developer team and experts that contribute to its development. With a massive community using it, you can post issues on Yii forums and get help.
 - Yii is extremely extensible, and you can customize nearly every piece of the core’s code. However, if it’s your first time using it, be prepared for a steep learning curve.
+
+---
+[**PHPUnit**](https://github.com/sebastianbergmann/phpunit) The PHPUnit is a programmer-oriented testing framework for PHP. It is an instance of the xUnit architecture for unit testing frameworks.
+
+Reasons to use PHPunit
+- Ensure the operation of your application with unit and integration testing
+- It is the most used php testing framework in the community
+- Integrate with CI/CD tool for higher software quality
+- Documentation in many languages
