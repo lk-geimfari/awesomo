@@ -312,6 +312,10 @@ See [hypothesis.works](http://hypothesis.works) for articles, tips, and testimon
 [the documentation](https://hypothesis.readthedocs.io) to get started; or
 [the repo](https://github.com/HypothesisWorks/hypothesis-python) to contribute.
 
+## I
+
+[**imgclsmob**](https://github.com/osmr/imgclsmob) is a repository that contains implementations of many pretrained image classification models and more. Supports many popular ML frameworks like TensorFlow, PyTorch, MXNet, etc.  
+
 ## J
 
 [**Jinja2**](https://github.com/pallets/jinja) is a template engine written in pure Python. It provides a Django inspired non-XML syntax but supports inline expressions and an optional sandboxed environment.
@@ -526,13 +530,6 @@ Using locales:
 
 ## N
 
-[**The Numenta Platform for Intelligent Computing (NUPIC)**](https://github.com/numenta/nupic) is a machine intelligence platform that implements the HTM learning algorithms. HTM is a detailed computational theory of the neocortex. At the core of HTM are time-based continuous learning algorithms that store and recall spatial and temporal patterns. NuPIC is suited to a variety of problems, particularly anomaly detection and prediction of streaming data sources.
-
-Supported: *Python 2*
-
-![nupic](https://cdn-images-1.medium.com/max/720/0*iYw1suOWr3weH9xq.)
-
----
 [**NumPy**](https://numpy.org/) is the fundamental package for scientific computing with Python. Many scientific and machine learning packages are built on top of NumPy. Some key features of NumPy include multi-dimensional arrays and matrices, high-level mathematical functions for array operations, and tools for integrating C/C++ and Fortran code.
 
 Supported: *Python 2/3*
