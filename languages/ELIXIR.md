@@ -10,6 +10,12 @@
 
 <br>
 
+## B
+
+[**broadway**](https://github.com/dashbitco/broadway) Concurrent and multi-stage data ingestion and data processing with Elixir.
+
+---
+
 ## C
 
 [**cachex**](https://github.com/whitfin/cachex) A powerful caching library for Elixir with support for transactions, fallbacks and expirations.
