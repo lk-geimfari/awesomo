@@ -33,7 +33,7 @@ All permissions can be defined in one or multiple ability files and not duplicat
 ![capybara](http://3.bp.blogspot.com/-w0PgkPfQmPQ/U2CmD6r5IOI/AAAAAAAAAuA/Nz3biTN6izE/s1600/capybara-test-automation.png)
 
 
-## Df
+## D
 
 [**Devise**](https://github.com/plataformatec/devise) is a flexible authentication solution for Rails based on Warden. It:
 * is Rack based;
