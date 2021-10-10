@@ -165,6 +165,7 @@ including:
 [**Rails**](https://github.com/rails/rails) a web-application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern. Also called Ruby ​​on Rails
 Understanding the MVC pattern is key to understanding Rails. MVC divides your application into three layers: Model, View, and Controller, each with a specific responsibility. A great help for developers by allowing them to abstract and simplify common repetitive tasks.
 
+[**Rails ERD**](https://github.com/voormedia/rails-erd) is a gem that allows you to easily generate a diagram based on your application's Active Record models. The diagram gives an overview of how your models are related. Having a diagram that describes your models is perfect documentation for your application.
 ## S
 
 [**Scientist**](https://github.com/github/scientist) - a Ruby library for carefully refactoring critical paths.
