@@ -33,7 +33,7 @@ All permissions can be defined in one or multiple ability files and not duplicat
 ![capybara](http://3.bp.blogspot.com/-w0PgkPfQmPQ/U2CmD6r5IOI/AAAAAAAAAuA/Nz3biTN6izE/s1600/capybara-test-automation.png)
 
 
-## D
+## Df
 
 [**Devise**](https://github.com/plataformatec/devise) is a flexible authentication solution for Rails based on Warden. It:
 * is Rack based;
@@ -159,6 +159,8 @@ including:
 
 ---
 [**Puma**](https://github.com/puma/puma) is a simple, fast, threaded, and highly concurrent HTTP 1.1 server for Ruby/Rack applications. Puma is intended for use in both development and production environments. In order to get the best throughput, it is highly recommended that you use a Ruby implementation with real threads like Rubinius or JRuby.
+
+[**Pundit**](https://github.com/varvet/pundit) is an authorization library for Ruby which restricts what resources a given user is allowed to access.
 
 ## R
 
