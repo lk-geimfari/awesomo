@@ -6,7 +6,7 @@
 
 If you are interested in [Open Source](https://en.wikipedia.org/wiki/Open-source_software) and are considering to join the community of Open Source developers, then here you might find a project that will suit you.
 
-# [Subscribe](t.me/the_art_of_development)
+# [Subscribe](https://t.me/software_dev_channel)
 
 We have a Telegram channel where we daily post news, announces and all the open-source goodies we found, so subscribe to us: [@software_dev_channel](https://t.me/software_dev_channel).
 
