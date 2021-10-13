@@ -42,6 +42,17 @@ This initial release should be considered to be pre-alpha software--it will have
 
 ![screen](https://cloud.githubusercontent.com/assets/4285147/21585004/2ebd0288-d06c-11e6-95d3-4a2889dbbd6f.png)
 
+---
+
+[**Amethyst**](https://github.com/amethyst/amethyst) is a data-driven and data-oriented game engine aiming to be fast and as configurable as possible written in Rust.
+
+**Principles**:
+
+* Massively parallel architecture
+* Powered by a correct [Entity Component System](https://en.wikipedia.org/wiki/Entity%E2%80%93component%E2%80%93system) model
+* Rapid prototyping with [RON](https://github.com/ron-rs/ron) files for prefabs and an abstract scripting API
+* Strong focus on encouraging reusability and clean interfaces
+
 ## B
 
 [**bat**](https://github.com/sharkdp/bat) is a `cat` replacement with extended features like syntax highlighting and git integration.
