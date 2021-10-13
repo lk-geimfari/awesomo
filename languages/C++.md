@@ -26,11 +26,6 @@ The supported data models can be mixed in queries and allow ArangoDB to be the a
 
 ## C
 
-[**Caffe**](https://github.com/BVLC/caffe) is a deep learning framework made with expression, speed, and modularity in mind. It is developed by the Berkeley Vision and Learning Center (BVLC) and community contributors.
-
-![caffe](https://cdn-images-1.medium.com/max/720/0*PuFfFqw5QvvXMdC7.png)
-
----
 
 [**Catch2**](https://github.com/catchorg/Catch2) is a multi-paradigm test framework for unit-tests, TDD and BDD. It is primarily distributed as a single header file, although certain extensions may require additional headers.
 
