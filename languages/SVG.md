@@ -10,10 +10,19 @@
 
 <br>
 
-## A
+## I
 
-[**Atom Custom Icons**](https://github.com/HackeSta/atom-icons)  —  Atom Custom Icons is a collection of custom icons for Atom Editor. Custom Icons are inspired from various themes, flags of countries, football/soccer teams, etc.
-
-![atom-icons](https://raw.githubusercontent.com/HackeSta/atom-icons/master/promo.png)
+[**icons**](https://github.com/twbs/icons)  —  Official open source SVG icon library for Bootstrap with over 1,400 icons.
+[![Bootstrap Icons preview](https://github.com/twbs/icons/blob/main/.github/preview.png)](https://icons.getbootstrap.com)
 
 ---
+
+## S
+
+[**SuperTinyIcons**](https://github.com/edent/SuperTinyIcons)  —  Super Tiny Web Icons are minuscule SVG versions of your favourite logos. The average size is under 465 bytes!
+The logos have a 512x512 viewbox, they will fit in a circle with radius 256. 
+
+---
+
+
+
