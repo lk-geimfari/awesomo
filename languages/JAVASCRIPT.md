@@ -24,13 +24,7 @@ Ace's goal is to create a browser based editor that matches and extends the feat
 [Check out the live demo](http://ace.c9.io/).
 
 ---
-[**AR.js**](https://github.com/jeromeetienne/AR.js) — Augmented Reality for the Web
 
-Efficient Augmented Reality for the Web built on A-Frame.
-
-![AR.js](https://user-images.githubusercontent.com/252962/27472386-0d11e59a-57f3-11e7-9fa5-34332c5484f7.png)
-
----
 [**async**](https://github.com/caolan/async)  —  a utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript. Although originally designed for use with Node.js and installable via npm install --save async, it can also be used directly in the browser.
 
 ![async](https://cdn-images-1.medium.com/max/720/0*MB_a8lRqGYBy276_.jpg)
@@ -322,10 +316,7 @@ db.replicate.to('http://example.com/mydb');
 
 reveal.js comes with a broad range of features including [nested slides](https://github.com/hakimel/reveal.js#markup), [Markdown contents](https://github.com/hakimel/reveal.js#markdown), [PDF export](https://github.com/hakimel/reveal.js#pdf-export), [speaker notes](https://github.com/hakimel/reveal.js#speaker-notes) and a [JavaScript API](https://github.com/hakimel/reveal.js#api). There's also a fully featured visual editor and platform for sharing reveal.js presentations at [slides.com](https://slides.com?ref=github).
 
----
-[**ReLaXed**](https://github.com/RelaxedJS/ReLaXed) creates PDF documents interactively using HTML or Pug (a shorthand for HTML). It allows complex layouts to be defined with CSS and JavaScript, while writing the content in a friendly, minimal syntax close to Markdown or LaTeX.
 
-![ReLaXed](https://raw.githubusercontent.com/RelaxedJS/ReLaXed/master/logo-blue.png)
 
 ## S
 
@@ -423,10 +414,6 @@ The Framework uses new event-driven compute services, like AWS Lambda, Google Cl
 
 WebTorrent is a streaming torrent client for node.js and the browser.
 
----
-[**Wintersmith**](https://github.com/jnordberg/wintersmith) — A simple yet flexible static site generator. It takes contents (markdown, less, scripts, etc), transforms them using plugins and outputs a static website (html, css, images, etc) that you can host anywhere.
-
-![wintersmith](http://wintersmith.io/images/wintersmith.svg)
 
 ## Y
 
