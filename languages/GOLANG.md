@@ -90,11 +90,6 @@ Nanobox creates isolated development environments (using Docker) which are stage
 
 ![cobra](https://cdn-images-1.medium.com/max/720/0*ZPG-FROnGxX9lIfN.png)
 
-## Hyperd
-
-[**Hyperd**](https://github.com/hyperhq/hyperd) — is a hypervisor-agnostic technology that allows you to run Docker images on plain hypervisor.
-
-![hyperd](https://cdn-images-1.medium.com/max/720/0*_BKyRdNq1vIu-l-p.)
 
 ## Terraform
 
@@ -114,9 +109,6 @@ Nanobox creates isolated development environments (using Docker) which are stage
 
 [**gobot**](https://github.com/hybridgroup/gobot) — a framework using the Go programming language for robotics, physical computing, and the Internet of Things.
 
-## utron
-
-[**utron**](https://github.com/gernest/utron) — is a lightweight MVC framework in Go (Golang) for building fast, scalable and robust database-driven web applications.
 
 ## Caddy
 
@@ -146,15 +138,6 @@ Nanobox creates isolated development environments (using Docker) which are stage
 
 [**pgweb**](https://github.com/sosedoff/pgweb) — Web-based PostgreSQL database browser written in Go.
 
-## rkt
-
-[**rkt**](https://github.com/coreos/rkt) — (pronounced "rock-it") is a CLI for running app containers on Linux. rkt is designed to be secure, composable, and standards-based.
-
-Some of rkt's key features and goals include:
-
- - *Security*: rkt is developed with a principle of "secure-by-default", and includes a number of important security features like support for SELinux, TPM measurement, and running app containers in hardware-isolated VMs.
- - *Composability*: rkt is designed for first-class integration with init systems (systemd, upstart) and cluster orchestration tools (fleet, Kubernetes, Nomad), and supports swappable execution engines.
- - *Open standards and compatibility*: rkt implements the appc specification, supports the Container Networking Interface specification, can also run Docker images, and OCI images via docker2aci. Native OCI image support is in development.
 
 ## Distribution
 
@@ -260,12 +243,6 @@ Operationally, NSQ is easy to configure and deploy (all parameters are specified
 [**Blackfriday**](https://github.com/russross/blackfriday) — is a Markdown processor implemented in Go. It is paranoid about its input (so you can safely feed it user-supplied data), it is fast, it supports common extensions (tables, smart punctuation substitutions, etc.), and it is safe for all utf-8 (unicode) input.
 
 HTML output is currently supported, along with Smartypants extensions. An experimental LaTeX output engine is also included.
-
-## IronFunctions
-
-[**IronFunctions**](https://github.com/iron-io/functions) — is an open source serverless platform, or as we like to refer to it, Functions as a Service (FaaS) platform that you can run anywhere.
-
-![ironfunctions](https://raw.githubusercontent.com/iron-io/functions/master/docs/assets/logo-black-400w.png)
 
 ## Gizmo
 
