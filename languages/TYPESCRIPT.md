@@ -33,6 +33,14 @@ Know how to build websites? Then you already know how to build mobile apps. Ioni
 
 ![ionic](https://ionicframework.com/img/ionic-logo.png)
 
+## N
+
+[**NativeScript**](https://github.com/NativeScript/NativeScript)  —  Framework to develop mobile apps for iOS and Android platforms.
+
+NativeScript empowers you to access native APIs from JavaScript directly. The framework currently provides iOS and Android runtimes for rich mobile development and can be utilized in a number of diverse use cases.
+
+<img alt="NativeScript" src="https://d1lfyz5kwt8vu9.cloudfront.net/nativescript-logo-2021.png" width="200"/>
+
 ## R
 
 [**RxJS**](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
