@@ -50,6 +50,10 @@
 
 ---
 
+[**Stan**](https://kowainik.github.io/projects/stan) is a static analyzer for Haskell programs. It reports common programming errors and suggest coding style improvements as well as changes that would make the project be more resilient, secure and bug free.
+
+---
+
 ## T
 
 [**Termonad**](https://github.com/cdepillabout/termonad) is a full featured terminal emulator written in Haskell. It can be used as a replacement to iTerm2, Gnome Terminal, KTerm and many other terminal emulators.
