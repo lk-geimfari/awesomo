@@ -50,6 +50,10 @@
 
 ---
 
+[**Stan**](https://kowainik.github.io/projects/stan) is a static analyzer for Haskell programs. It reports common programming errors and suggest coding style improvements as well as changes that would make the project be more resilient, secure and bug free.
+
+---
+
 ## X
 
 [**XMonad**](https://github.com/xmonad/xmonad) is a dynamically tiled window manager which is fully configurable in Haskell. It automates windows positioning, reducing time spent aligning new windows and searching for them.
