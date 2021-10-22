@@ -54,6 +54,12 @@
 
 ---
 
+## T
+
+[**Termonad**](https://github.com/cdepillabout/termonad) is a full featured terminal emulator written in Haskell. It can be used as a replacement to iTerm2, Gnome Terminal, KTerm and many other terminal emulators.
+
+---
+
 ## X
 
 [**XMonad**](https://github.com/xmonad/xmonad) is a dynamically tiled window manager which is fully configurable in Haskell. It automates windows positioning, reducing time spent aligning new windows and searching for them.
