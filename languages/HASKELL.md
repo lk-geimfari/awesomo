@@ -50,6 +50,14 @@
 
 ---
 
+## X
+
+[**XMonad**](https://xmonad.org/) is a dynamically tiled window manager which is fully configurable in Haskell. It automates windows positioning, reducing time spent aligning new windows and searching for them.
+
+![xmonad](https://wiki.haskell.org/wikiupload/thumb/b/b2/Byorgey-config.png/800px-Byorgey-config.png)
+
+---
+
 ## Y
 
 [**Yesod**](https://github.com/yesodweb/yesod)  —  an advanced RESTful web framework using the Haskell programming language.
