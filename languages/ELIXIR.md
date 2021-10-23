@@ -37,12 +37,6 @@ This is a pure-Elixir, dependency-free implementation of release generation for 
 
 ---
 
-## E
-
-[**ex_admin** ](https://github.com/smpallen99/ex_admin) —  an add on for an application using the Phoenix Framework to create an CRUD administration tool with little or no code. By running a few mix tasks to define which Ecto Models you want to administer, you will have something that works with no additional code.
-
----
-
 [**ExVCR**](https://github.com/parroty/exvcr). Record and replay HTTP interactions library for elixir. It's inspired by Ruby's VCR (https://github.com/vcr/vcr), and trying to provide similar functionalities.
 
 Basics
