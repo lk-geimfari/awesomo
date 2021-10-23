@@ -163,6 +163,10 @@ The core currency of authentication in Guardian is JSON Web Tokens (JWT). You ca
 
 ![phoenix](https://raw.githubusercontent.com/phoenixframework/phoenix/master/priv/static/phoenix.png)
 
+[**Plausible**](https://github.com/plausible/analytics)  -  Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+
+![plausible](https://raw.githubusercontent.com/plausible/analytics/master/assets/static/images/icon/plausible_logo.png)
+
 ---
 
 ## Q
