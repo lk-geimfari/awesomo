@@ -160,6 +160,8 @@ including:
 ---
 [**Puma**](https://github.com/puma/puma) is a simple, fast, threaded, and highly concurrent HTTP 1.1 server for Ruby/Rack applications. Puma is intended for use in both development and production environments. In order to get the best throughput, it is highly recommended that you use a Ruby implementation with real threads like Rubinius or JRuby.
 
+[**Pundit**](https://github.com/varvet/pundit) is an authorization library for Ruby which restricts what resources a given user is allowed to access.
+
 ## R
 
 [**Rails**](https://github.com/rails/rails) a web-application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern. Also called Ruby ​​on Rails
