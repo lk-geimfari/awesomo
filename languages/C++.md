@@ -77,6 +77,12 @@ I2P (Invisible Internet Protocol) is a universal anonymous network layer. All co
 
 ![lina](https://github.com/inanevin/LinaEngine/raw/master/Docs/Images/linalogofull_medium.png)
 
+[**Lithium**](https://matt-42.github.io/lithium/) is the fastest open-source HTTP framework written in c++17. Lithium HTTP server and SQL drivers are benchmarked againts 200+ other framesworks at [TechEmpower](https://www.techempower.com/benchmarks) . As of November 2020, it is ranked first. Pre-2010 C++ was a pretty low-level language and zero-runtime-cost abstractions where only possible using complex template meta-programming tricks. The C++ standard committee addressed those issues by publishing new C++ standard, making C++ programs much more simpler and fun to write. These recent language evolutions has created inside the language a C++ subset that is easy to grasp for beginners and less error prone than C++ itself: using RAII instead of manual memory management, using constexpr instead of template meta-programming, etc...
+Could this subset of C++ lead to a web framework that is as easy to grasp than javascript alternatives while keeping the performances of C++ ?
+The goal of Lithium is to prove that this is feasible.
+
+![lithium](https://github.com/matt-42/lithium/raw/master/images/lithium_logo.png)
+
 ## M
 
 [**MXNet**](https://github.com/dmlc/mxnet) is a deep learning framework designed for both efficiency and flexibility. It allows you to mix the flavours of symbolic programming and imperative programming to maximize efficiency and productivity. In its core, a dynamic dependency scheduler that automatically parallelizes both symbolic and imperative operations on the fly. A graph optimization layer on top of that makes symbolic execution fast and memory efficient. The library is portable and lightweight, and it scales to multiple GPUs and multiple machines.
