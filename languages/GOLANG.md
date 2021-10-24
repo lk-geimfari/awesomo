@@ -87,6 +87,27 @@ Build Once. Ship Anywhere.
 
 [**fasthttp**](https://github.com/valyala/fasthttp) — is a fast HTTP implementation for Go.
 
+[**Fiber**](https://github.com/gofiber/fiber) — is an [Express](https://github.com/expressjs/express) inspired web framework built on top of [Fasthttp](https://github.com/valyala/fasthttp), the fastest HTTP engine for [Go](https://golang.org/doc/). Designed to ease things up for fast development with zero memory allocation and performance in mind.
+
+![Fiber](https://raw.githubusercontent.com/gofiber/docs/master/static/fiber_v2_logo.svg)
+
+Quickstart example:
+```go
+package main
+
+import "github.com/gofiber/fiber/v2"
+
+func main() {
+    app := fiber.New()
+
+    app.Get("/", func(c *fiber.Ctx) error {
+        return c.SendString("Hello, World 👋!")
+    })
+
+    app.Listen(":3000")
+}
+```
+
 [**frp**](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
 * Expose any http and https service behind a NAT or firewall to the internet by a server with public IP address(Name-based Virtual Host Support).
