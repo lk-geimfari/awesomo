@@ -185,6 +185,10 @@ Sidekiq is compatible with Resque. It uses the exact same message format as Resq
 ---
 [**Slim**](https://github.com/slim-template/slim) is a template language whose goal is to reduce the view syntax to the essential parts without becoming cryptic. It started as an exercise to see how much could be removed from a standard html template (<, >, closing tags, etc...). As more people took an interest in Slim, the functionality grew and so did the flexibility of the syntax.
 
+---
+[**Spidr**](https://github.com/postmodern/spidr)  is a versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
+
+---
 [**Solidus**](https://github.com/solidusio/solidus) is a free, open-source ecommerce platform that gives you complete control over your store.
 
 Have a large community, with more than 670 contribuitors around the world.
