@@ -38,7 +38,11 @@ All permissions can be defined in one or multiple ability files and not duplicat
 
 ![capybara](http://3.bp.blogspot.com/-w0PgkPfQmPQ/U2CmD6r5IOI/AAAAAAAAAuA/Nz3biTN6izE/s1600/capybara-test-automation.png)
 
+---
 
+[**Cryptopunks**](https://github.com/cryptopunksnotdead/cryptopunks) Tool to mint your own 24×24 pixel punk images off chain from the True Official Genuine CryptoPunks™ sha256-verified original 10 000 unique character collection.
+
+![cryptopunks](https://i.imgur.com/yZ7FpiF.png)
 ## D
 
 [**Devise**](https://github.com/plataformatec/devise) is a flexible authentication solution for Rails based on Warden. It:
