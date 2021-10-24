@@ -104,7 +104,8 @@ conn.get do |req|
   req.options.open_timeout = 2      # connection open timeout in seconds
 end
 ```
-
+## G
+[**Graphql-Ruby**](https://github.com/rmosolgo/graphql-ruby) is a Ruby implementation for Graphql lovers.
 ## H
 
 [**Huginn**](https://github.com/cantino/huginn) is a system for building agents that perform automated tasks for you online. They can read the web, watch for events, and take actions on your behalf. Huginn's Agents create and consume events, propagating them along a directed graph. Think of it as a hackable Yahoo! Pipes plus IFTTT on your own server. You always know who has your data. You do.
