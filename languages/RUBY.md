@@ -119,6 +119,8 @@ end
 
 [**Kaminari**](https://github.com/kaminari/kaminari) is a Scope & Engine based, clean, powerful, customizable and sophisticated paginator for modern web app frameworks and ORMs.
 
+## M
+[**MetaTags**](https://github.com/kpumuk/meta-tags). Gem to make your Rails application SEO-friendly
 ## O
 [**Octokit**](https://github.com/octokit/octokit.rb) is a library to access the github data and improve yours automation
 
