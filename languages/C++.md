@@ -26,11 +26,6 @@ The supported data models can be mixed in queries and allow ArangoDB to be the a
 
 ## C
 
-[**Caffe**](https://github.com/BVLC/caffe) is a deep learning framework made with expression, speed, and modularity in mind. It is developed by the Berkeley Vision and Learning Center (BVLC) and community contributors.
-
-![caffe](https://cdn-images-1.medium.com/max/720/0*PuFfFqw5QvvXMdC7.png)
-
----
 
 [**Catch2**](https://github.com/catchorg/Catch2) is a multi-paradigm test framework for unit-tests, TDD and BDD. It is primarily distributed as a single header file, although certain extensions may require additional headers.
 
@@ -81,6 +76,12 @@ I2P (Invisible Internet Protocol) is a universal anonymous network layer. All co
 [**Lina Engine**](https://github.com/inanevin/LinaEngine)  is a lightweight and ECS based open-source game engine. Initially it's a research project and is aimed to be a basis of development for more open-source game engine projects. Lina's architecture is designed to be as modular as possible and it focuses on creating replacable modules to customize for project-specific needs, rather than stacking thousands of features into one framework.  
 
 ![lina](https://github.com/inanevin/LinaEngine/raw/master/Docs/Images/linalogofull_medium.png)
+
+[**Lithium**](https://github.com/matt-42/lithium) is the fastest open-source HTTP framework written in c++17. Lithium HTTP server and SQL drivers are benchmarked againts 200+ other framesworks at [TechEmpower](https://www.techempower.com/benchmarks) . As of November 2020, it is ranked first. Pre-2010 C++ was a pretty low-level language and zero-runtime-cost abstractions where only possible using complex template meta-programming tricks. The C++ standard committee addressed those issues by publishing new C++ standard, making C++ programs much more simpler and fun to write. These recent language evolutions has created inside the language a C++ subset that is easy to grasp for beginners and less error prone than C++ itself: using RAII instead of manual memory management, using constexpr instead of template meta-programming, etc...
+Could this subset of C++ lead to a web framework that is as easy to grasp than javascript alternatives while keeping the performances of C++ ?
+The goal of Lithium is to prove that this is feasible.
+
+![lithium](https://github.com/matt-42/lithium/raw/master/images/lithium_logo.png)
 
 ## M
 

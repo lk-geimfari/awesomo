@@ -20,6 +20,12 @@
 
 ![image](https://i.imgur.com/6zBGAAb.png)
 
+---
+
+[**Bullet**](https://github.com/flyerhzm/bullet) This project is designed to help you increase your application's performance by reducing the number of queries it makes. It will watch your queries while you develop your application and notify you when you should add eager loading (N+1 queries), when you're using eager loading that isn't necessary and when you should use counter cache.
+
+![image](https://i.imgur.com/AGnvor7.png)
+
 ## C
 
 [**CanCanCan**](https://github.com/CanCanCommunity/cancancan) is an authorization library for Ruby >= 2.2.0 and Ruby on Rails >= 4.2 which restricts what resources a given user is allowed to access.
@@ -46,6 +52,9 @@ All permissions can be defined in one or multiple ability files and not duplicat
 [**FactoryBot**](https://github.com/thoughtbot/factory_bot) is a fixtures replacement with a straightforward definition syntax, support for multiple build strategies (saved instances, unsaved instances, attribute hashes, and stubbed objects), and support for multiple factories for the same class (user, admin_user, and so on), including factory inheritance.
 
 ---
+[**Faker**](https://github.com/faker-ruby/faker) is a library to generates random data, used in factories to can test differents cases in the same situation
+
+
 [**Faraday**](https://github.com/lostisland/faraday) is an HTTP client lib that provides a common interface over many
 adapters (such as Net::HTTP) and embraces the concept of Rack middleware when
 processing the request/response cycle.
@@ -117,6 +126,8 @@ end
 [**Kaminari**](https://github.com/kaminari/kaminari) is a Scope & Engine based, clean, powerful, customizable and sophisticated paginator for modern web app frameworks and ORMs.
 
 ## O
+[**Octokit**](https://github.com/octokit/octokit.rb) is a library to access the github data and improve yours automation
+
 
 [**Octobox**](https://github.com/octobox/octobox). Take back control of your GitHub Notifications.
 
@@ -155,11 +166,14 @@ including:
 ---
 [**Puma**](https://github.com/puma/puma) is a simple, fast, threaded, and highly concurrent HTTP 1.1 server for Ruby/Rack applications. Puma is intended for use in both development and production environments. In order to get the best throughput, it is highly recommended that you use a Ruby implementation with real threads like Rubinius or JRuby.
 
+[**Pundit**](https://github.com/varvet/pundit) is an authorization library for Ruby which restricts what resources a given user is allowed to access.
+
 ## R
 
 [**Rails**](https://github.com/rails/rails) a web-application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern. Also called Ruby ​​on Rails
 Understanding the MVC pattern is key to understanding Rails. MVC divides your application into three layers: Model, View, and Controller, each with a specific responsibility. A great help for developers by allowing them to abstract and simplify common repetitive tasks.
 
+[**Rails ERD**](https://github.com/voormedia/rails-erd) is a gem that allows you to easily generate a diagram based on your application's Active Record models. The diagram gives an overview of how your models are related. Having a diagram that describes your models is perfect documentation for your application.
 ## S
 
 [**Scientist**](https://github.com/github/scientist) - a Ruby library for carefully refactoring critical paths.
@@ -178,7 +192,7 @@ Sidekiq is compatible with Resque. It uses the exact same message format as Resq
 
 Have a large community, with more than 670 contribuitors around the world.
 
-Solidus, Rails eCommerce System. 
+Solidus, Rails eCommerce System.
 Site: https://solidus.io/
 
 

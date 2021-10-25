@@ -79,11 +79,7 @@ Encoding example:
 <img src="https://user-images.githubusercontent.com/7820865/103157675-3da6b700-4794-11eb-9771-d2da1dd9b7a7.png" width=180>
 
 ---
-[**Clojurecademy**](https://github.com/clojurecademy/clojurecademy) is an interactive platform that provides Clojure based courses. It's like _Codecademy_ for Clojure.
 
-![Clojurecademy Homepage](https://github.com/clojurecademy/clojurecademy/raw/master/home.png)
-
----
 [**compojure**](https://github.com/weavejester/compojure)  —  a small routing library for Ring that allows web applications to be composed of small, independent parts.
 
 This small Compojure application demonstrates creating a Ring handler from two routes:
@@ -151,19 +147,6 @@ Checkout [Klipse blog with interactive code snippets](http://blog.klipse.tech/) 
 
 ## L
 
-[**Liberator**](https://github.com/clojure-liberator/liberator) is a Clojure library for building RESTful applications.
-
-Example:
-```clojure
-(ns example
-  (:use [liberator.core :only [defresource]]))
-
-(defresource hello-world
-  :available-media-types ["text/plain"]
-  :handle-ok "Hello, world!")
-```
-
----
 [**Luminus**](http://www.luminusweb.net/) is a Clojure micro-framework based on a set of lightweight libraries. It aims to provide a robust, scalable, and easy to use platform. 
 
 ![Luminus Logo](https://avatars1.githubusercontent.com/u/9609230?s=200&v=4)
@@ -268,18 +251,3 @@ To render a file we can call `render-file` instead:
 (transform [MAP-VALS ALL MAP-VALS even?] inc data)
 ```
 
-## Y
-
-[**yada** ](https://github.com/juxt/yada) —  a web library for Clojure, designed to support the creation of production services via HTTP.
-
-Typically, yada handlers are created from a configuation expressed in data.
-
-```clojure
-(require '[yada.yada :as yada])
-
-(yada/handler
-  {:methods
-    {:get
-      {:produces "text/html"
-       :response "<h1>Hello World!</h1>"}}})
-```
