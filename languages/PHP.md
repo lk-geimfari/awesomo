@@ -85,3 +85,13 @@ Reasons to use Collision
 - It's included on Laravel, the most popular free, open-source PHP framework in the world.
 - Built on top of the Whoops error handler.
 - Supports Laravel, Symfony, PHPUnit, and many other frameworks.
+
+---
+[**Slim**](https://github.com/slimphp/Slim) Slim is a PHP micro-framework that helps you quickly write simple yet powerful web applications and APIs.
+
+Reasons to use Slim Framework
+- HTTP Router: Slim provides a fast and powerful router that maps route callbacks to specific HTTP request methods and URIs. It supports parameters and pattern matching.
+- Middleware: Build your application with concentric middleware to tweak the HTTP request and response objects around your Slim app PSR-7 Support.
+- PSR-7 Support: Slim supports any PSR-7 HTTP message implementation so you may inspect and manipulate HTTP message method, status, URI, headers, cookies, and body.
+- Dependency Injection: Slim supports dependency injection so you have complete control of your external tools. Use any Container-Interop container.
+
