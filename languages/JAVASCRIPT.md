@@ -129,9 +129,6 @@ Gatsby is a blazing-fast static site generator for React. Powered By GraphQL and
 ![ghost](http://imgur.com/gLARrBe.png)
 
 ---
-[**graphql-schema-typescript**](https://github.com/dangcuuson/graphql-schema-typescript) - A GraphQL utility to generate Typescript from Schema Definition
-
----
 [**Gulp**](https://github.com/gulpjs/gulp)  — The streaming build system.
 
 ![gulp](http://imgur.com/92epDTJ.png)

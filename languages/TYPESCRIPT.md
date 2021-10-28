@@ -25,6 +25,10 @@ Angular Material brings high-quality UI components built with Angular 2 and Type
 
 [Check out the available components](https://material.angular.io/components)
 
+## G
+
+[**graphql-schema-typescript**](https://github.com/dangcuuson/graphql-schema-typescript) - A GraphQL utility to generate Typescript from Schema Definition
+
 ## I
 
 [**Ionic**](https://github.com/driftyco/ionic)  —  A complete mobile toolkit, built for web developers.
