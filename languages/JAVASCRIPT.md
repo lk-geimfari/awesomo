@@ -190,6 +190,11 @@ The project's site: https://insomnia.rest/
 ![](https://camo.githubusercontent.com/de0532955fea66f17b749ef96c7efdbfad2e8bd2/687474703a2f2f692e696d6775722e636f6d2f547665617065372e706e67)
 
 ---
+[**Leaflet**](https://github.com/Leaflet/Leaflet) — The leading open-source JavaScript library for mobile-friendly interactive maps.
+
+![leaflet](https://camo.githubusercontent.com/1a8472d37458cb6e12c17497d95f7752b7e63d0b60f95c507863efca493a04d3/68747470733a2f2f7261776769742e636f6d2f4c6561666c65742f4c6561666c65742f6d61737465722f7372632f696d616765732f6c6f676f2e737667)
+
+---
 [**lodash**](https://github.com/lodash/lodash) — A modern JavaScript utility library delivering modularity, performance, & extras.
 
 ![lodash](http://imgur.com/dIzDcos.png)
