@@ -150,6 +150,14 @@ Ranch provides a modular design, letting you choose which transport and protocol
 ---
 [**riak**](https://github.com/basho/riak) is a decentralized datastore from Basho Technologies.
 
+---
+[**rebar3**](https://github.com/erlang/rebar3) is an Erlang tool that makes it easy to create, develop, and release Erlang libraries, applications, and systems in a repeatable manner.
+
+## S
+
+[**Sheldon**](https://github.com/inaka/sheldon) the Erlang spell checker.
+
+![](https://camo.githubusercontent.com/e41448a6971ae07808beb79fb81fd3e8bda268bc88a9c6427b21ac0d1fec93b8/687474703a2f2f692e67697068792e636f6d2f4d33455a744c55444c735950362e676966)
 
 ## V
 
