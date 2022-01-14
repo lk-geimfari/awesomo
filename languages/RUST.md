@@ -332,6 +332,24 @@ fn main() {
 
 ---
 
+[**Starship**](https://github.com/starship/starship) is a minimal, blazing-fast, and infinitely customizable prompt for any shell.
+
+- **Fast:** it's fast – _really really_ fast! 🚀
+- **Customizable:** configure every aspect of your prompt.
+- **Universal:** works on any shell, on any operating system.
+- **Intelligent:** shows relevant information at a glance.
+- **Feature rich:** support for all your favorite tools.
+- **Easy:** quick to install – start using it in minutes.
+
+<img
+  src="https://raw.githubusercontent.com/starship/starship/master/media/demo.gif"
+  alt="Starship with iTerm2 and the Snazzy theme"
+  width="70%"
+  align="center"
+/>
+
+---
+
 [**stdweb**](https://github.com/koute/stdweb) is a set of bindings to the client-side Web APIs which makes it easy to interact with the DOM, embed JavaScript code directly into Rust and to marshal data between the two. Supports WebAssembly.
 
 A few simple examples of what you can do with it:
