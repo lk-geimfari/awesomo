@@ -259,7 +259,7 @@ Flask offers suggestions, but doesn't enforce any dependencies or project layout
 ![hug](https://camo.githubusercontent.com/dc3f611ccdd6289ca11478dcb9ec4f9a1742248a/68747470733a2f2f7261772e6769746875622e636f6d2f74696d6f74687963726f736c65792f6875672f646576656c6f702f617274776f726b2f6578616d706c652e676966)
 
 ---
-[**Hugging Face**](https://huggingface.co/) - democratisating AI. Provides thousands of state of the art models (mostly transformers) for numerous NLP and CV tasks and is backed by PyTorch, Tensorflow and JAX. It also hosts more than 2500 datasets for Machine Learning, provides inexpensive accelerated inference API and hosts numerous Machine Learning projects under the hood of spaces.
+[**Hugging Face**](https://huggingface.co/) - democratizing AI. Provides thousands of state of the art models (mostly transformers) for numerous NLP and CV tasks and is backed by PyTorch, Tensorflow and JAX. It also hosts more than 2500 datasets for Machine Learning, provides inexpensive accelerated inference API and hosts numerous Machine Learning projects under the hood of spaces.
 
 Supported: *Python 3.6+*
 
