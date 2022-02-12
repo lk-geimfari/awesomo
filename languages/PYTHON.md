@@ -261,6 +261,8 @@ Flask offers suggestions, but doesn't enforce any dependencies or project layout
 ---
 [**Hugging Face**](https://huggingface.co/) - democratisating AI. Provides thousands of state of the art models (mostly transformers) for numerous NLP and CV tasks and is backed by PyTorch, Tensorflow and JAX. It also hosts more than 2500 datasets for Machine Learning, provides inexpensive accelerated inference API and hosts numerous Machine Learning projects under the hood of spaces.
 
+Supported: *Python 3.6+*
+
 ![Hugging Face](https://camo.githubusercontent.com/b253a30b83a0724f3f74f3f58236fb49ced8d7b27cb15835c9978b54e444ab08/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f68756767696e67666163652f646f63756d656e746174696f6e2d696d616765732f7265736f6c76652f6d61696e2f7472616e73666f726d6572735f6c6f676f5f6e616d652e706e67)
 
 ---
