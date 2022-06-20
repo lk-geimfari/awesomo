@@ -107,7 +107,3 @@ It derives from the old Numeric code base and can be used as a replacement for N
 [Tox](https://tox.chat) is a peer to peer (serverless) instant messenger aimed at making security and privacy easy to obtain for regular users. It uses [NaCl](https://nacl.cr.yp.to/) for its encryption and authentication.
 
 ![tox](https://raw.github.com/TokTok/toxcore/master/other/tox.png)
-
-## V
-
-[VeraCrypt](https://veracrypt.codeplex.com/) is an open-source utility used for on-the-fly encryption (OTFE). It can create a virtual encrypted disk within a file or encrypt a partition or the entire storage device with pre-boot authentication.
