@@ -78,12 +78,6 @@ date-fns provides the most comprehensive, yet simple and consistent toolset for 
 ![docsify](https://docsify.js.org/_media/icon.svg)
 
 ## E
-
-[eDEX-UI](https://github.com/GitSquared/edex-ui) is a fullscreen, cross-platform terminal emulator and system monitor that looks and feels like a sci-fi computer interface.
-
-![eDEX-UI](https://github.com/GitSquared/edex-ui/raw/master/media/screenshot_default.png)
-
----
 [**Enzyme**](https://github.com/airbnb/enzyme) is a JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components’ output.
 
 Enzyme’s API is meant to be intuitive and flexible by mimicking jQuery’s API for DOM manipulation and traversal.
