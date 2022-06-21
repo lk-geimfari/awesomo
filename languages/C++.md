@@ -4,8 +4,8 @@
 | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
 | [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) |
 | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) |
-| [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) |
-| [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) |         |         |
+| [O](#o) | [P](#p) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | 
+| [W](#w) | [X](#x) | [Y](#y) | [Z](#z) |         |         |         |
 |         |         |         |         |         |         |         |
 
 <br>
@@ -136,13 +136,6 @@ actor Main
 ---
 
 [**Proxygen**](https://github.com/facebook/proxygen). This project comprises the core C++ HTTP abstractions used at Facebook. Internally, it is used as the basis for building many HTTP servers, proxies, and clients. This release focuses on the common HTTP abstractions and our simple HTTPServer framework. Future releases will provide simple client APIs as well. The framework supports HTTP/1.1, SPDY/3, SPDY/3.1, and HTTP/2. The goal is to provide a simple, performant, and modern C++ HTTP library.
-
-
-## Q
-
-[**Qt**](https://www.qt.io/) is an LGPL application framework supported on most platforms - including embedded -, and covers most of C++ application development needs : GUI widgets, event loop, networking, serialization, reflection, javascript engines, web browser integration... As well as a declarative reactive user-interface programming language based on Javascript, QML that can even be used for 3D content creation.
-
-![qt](https://wiki.qt.io/skins/common/images/wiki.png?77d98)
 
 ## R
 
