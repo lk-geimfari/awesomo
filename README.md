@@ -8,7 +8,7 @@ If you are interested in [Open Source](https://en.wikipedia.org/wiki/Open-source
 
 # [Subscribe](https://t.me/software_dev_channel)
 
-We have a Telegram channel where we daily post news, announces and all the open-source goodies we found, so subscribe to us: [@software_dev_channel](https://t.me/software_dev_channel).
+We have a Telegram [channel](https://t.me/software_dev_channel) where we daily post news, announces and all the open-source goodies we found, so subscribe to us:
 
 [![OnS](https://user-images.githubusercontent.com/15812620/179353096-8fe1e1e6-21ea-4061-886f-82fc1becdf07.png)](https://t.me/software_dev_channel)
 
