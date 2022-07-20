@@ -63,6 +63,15 @@ Basics
 
 ---
 
+[**Firezone**](https://github.com/firezone/firezone) is a remote access manager written in Elixir.
+* Manage remote access through an intuitive web interface and CLI utility.
+* Deploy on your own infrastructure to keep control of your network traffic.
+* Built on WireGuard® to be stable, performant, and lightweight.
+
+<img src="https://user-images.githubusercontent.com/52545545/173246039-a1b37ef2-d885-4535-bca7-f5cd57da21a2.png" width="500"/>
+
+---
+
 [**Floki**](https://github.com/philss/floki) is a simple HTML parser that enables search for nodes using CSS selectors.
 
 Take this HTML as an example:
