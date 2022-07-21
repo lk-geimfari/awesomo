@@ -10,3 +10,6 @@
 ![1](https://cdn-images-1.medium.com/max/720/0*qKFhFOHQDC3ilPYB.)
 ![2](https://cdn-images-1.medium.com/max/720/0*lgkWbqk4NNUdQUYo.)
 ![3](https://cdn-images-1.medium.com/max/720/0*CpPpyI96hTsYRcGr.)
+
+---
+[**Tidyverse**](https://github.com/tidyverse/tidyverse/) is a set of R compatible packages covering most modern data science tasks.
