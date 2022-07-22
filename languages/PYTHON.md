@@ -30,6 +30,8 @@ Here is an example of how you can apply some pixel-level augmentations from Albu
     </a>
 </p>
 
+---
+
 [**asciinema**](https://github.com/asciinema/asciinema) is a terminal session recorder and the best companion of asciinema.org
 
 [![demo](https://asciinema.org/a/335480.svg)](https://asciinema.org/a/335480?autoplay=1)
