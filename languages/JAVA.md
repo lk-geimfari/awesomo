@@ -82,6 +82,8 @@ is an open source testing framework for Java released under the MIT License. The
 
 ## T
 
+---
+
 [**trino**](https://github.com/trinodb/trino) — is a fast distributed SQL query engine for big data analytics.
 
 Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL
