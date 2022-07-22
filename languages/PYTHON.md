@@ -32,6 +32,8 @@ Use Airflow to author workflows as directed acyclic graphs (DAGs) of tasks. The 
     </a>
 </p>
 
+---
+
 [**asciinema**](https://github.com/asciinema/asciinema) is a terminal session recorder and the best companion of asciinema.org
 
 [![demo](https://asciinema.org/a/335480.svg)](https://asciinema.org/a/335480?autoplay=1)
