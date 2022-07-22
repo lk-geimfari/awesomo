@@ -80,3 +80,14 @@ is an open source testing framework for Java released under the MIT License. The
 
 [**SpringFox**](https://github.com/springfox/springfox) Automated JSON API documentation for API's built with Spring
 
+## T
+
+[**trino**](https://github.com/trinodb/trino) — is a fast distributed SQL query engine for big data analytics.
+
+Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL
+
+<p align="center">
+    <a href="https://trino.io/">
+        <img src="https://github.com/trinodb/trino/raw/master/.github/homepage.png">
+    </a>
+</p>
