@@ -12,6 +12,28 @@
 
 ## A
 
+[**Apache Airflow**](https://github.com/apache/airflow) is a platform to programmatically author, schedule, and monitor workflows
+
+<p align="center">
+    <a href="https://github.com/apache/airflow">
+        <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png"
+             width="200"
+        >
+    </a>
+</p>
+
+When workflows are defined as code, they become more maintainable, versionable, testable, and collaborative.
+
+Use Airflow to author workflows as directed acyclic graphs (DAGs) of tasks. The Airflow scheduler executes your tasks on an array of workers while following the specified dependencies. Rich command line utilities make performing complex surgeries on DAGs a snap. The rich user interface makes it easy to visualize pipelines running in production, monitor progress, and troubleshoot issues when needed.
+
+<p align="center">
+    <a href="https://airflow.apache.org/docs/apache-airflow/stable/">
+        <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/airflow.gif">
+    </a>
+</p>
+
+---
+
 [**asciinema**](https://github.com/asciinema/asciinema) is a terminal session recorder and the best companion of asciinema.org
 
 [![demo](https://asciinema.org/a/335480.svg)](https://asciinema.org/a/335480?autoplay=1)
