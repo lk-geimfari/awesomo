@@ -12,6 +12,28 @@
 
 ## A
 
+[**Apache Airflow**](https://github.com/apache/airflow) is a platform to programmatically author, schedule, and monitor workflows
+
+<p align="center">
+    <a href="https://github.com/apache/airflow">
+        <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png"
+             width="200"
+        >
+    </a>
+</p>
+
+When workflows are defined as code, they become more maintainable, versionable, testable, and collaborative.
+
+Use Airflow to author workflows as directed acyclic graphs (DAGs) of tasks. The Airflow scheduler executes your tasks on an array of workers while following the specified dependencies. Rich command line utilities make performing complex surgeries on DAGs a snap. The rich user interface makes it easy to visualize pipelines running in production, monitor progress, and troubleshoot issues when needed.
+
+<p align="center">
+    <a href="https://airflow.apache.org/docs/apache-airflow/stable/">
+        <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/airflow.gif">
+    </a>
+</p>
+
+---
+
 [**albumentations**](https://github.com/albumentations-team/albumentations) is a fast image augmentation library and an easy-to-use wrapper around other libraries.
 
 <p align="center">
@@ -900,6 +922,19 @@ If you’ve never used Ansible before, you might find these playbooks useful to 
 The original author's background and motivations might be of interest. tl;dr: frustrations with Google Apps and concerns about privacy and long-term support.
 
 Sovereign offers useful cloud services while being reasonably secure and low-maintenance. Use it to set up your server, SSH in every couple weeks, but mostly forget about it.
+
+---
+[**streamlit**](https://github.com/streamlit/streamlit) — The fastest way to build data apps in Python ![]("https://docs.streamlit.io/logo.svg")
+
+The fastest way to build and share data apps.
+
+Streamlit lets you turn data scripts into sharable web apps in minutes, not weeks. It’s all Python, open-source, and free! And once you’ve created an app you can use their cloud platform to deploy, manage, and share your app!
+
+<p align="center">
+    <a href="https://streamlit.io/">
+        <img src="https://github.com/streamlit/docs/raw/main/public/images/Streamlit_overview.gif">
+    </a>
+</p>
 
 ---
 [**sqlmap**](https://github.com/sqlmapproject/sqlmap) is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers. It comes with a powerful detection engine, many niche features for the ultimate penetration tester and a broad range of switches lasting from database fingerprinting, over data fetching from the database, to accessing the underlying file system and executing commands on the operating system via out-of-band connections.
