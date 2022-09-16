@@ -34,6 +34,26 @@ Use Airflow to author workflows as directed acyclic graphs (DAGs) of tasks. The 
 
 ---
 
+[**albumentations**](https://github.com/albumentations-team/albumentations) is a fast image augmentation library and an easy-to-use wrapper around other libraries.
+
+<p align="center">
+    <a href="https://albumentations.ai/">
+        <img src="https://avatars.githubusercontent.com/u/57894582?s=200&v=4">
+    </a>
+</p>
+
+Albumentations is a Python library for image augmentation. Image augmentation is used in deep learning and computer vision tasks to increase the quality of trained models. The purpose of image augmentation is to create new training samples from the existing data.
+
+Here is an example of how you can apply some pixel-level augmentations from Albumentations to create new images from the original one:
+
+<p align="center">
+    <a href="https://github.com/albumentations-team/albumentations">
+        <img src="https://camo.githubusercontent.com/3bb6e4bb500d96ad7bb4e4047af22a63ddf3242a894adf55ebffd3e184e4d113/68747470733a2f2f686162726173746f726167652e6f72672f776562742f62642f6e652f72762f62646e6572763563746b75646d73617a6e687734637273646669772e6a706567">
+    </a>
+</p>
+
+---
+
 [**asciinema**](https://github.com/asciinema/asciinema) is a terminal session recorder and the best companion of asciinema.org
 
 [![demo](https://asciinema.org/a/335480.svg)](https://asciinema.org/a/335480?autoplay=1)
