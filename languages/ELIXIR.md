@@ -37,6 +37,12 @@ This is a pure-Elixir, dependency-free implementation of release generation for 
 
 ---
 
+## E
+
+[**Ecto**](https://github.com/elixir-ecto/ecto). A toolkit for data mapping and language integrated query. 
+
+Ecto is commonly used to interact with databases, such as PostgreSQL and MySQL via `Ecto.Adapters.SQL` (source code). Ecto is also commonly used to map data from any source into Elixir structs, whether they are backed by a database or not.
+
 [**ExVCR**](https://github.com/parroty/exvcr). Record and replay HTTP interactions library for elixir. It's inspired by Ruby's VCR (https://github.com/vcr/vcr), and trying to provide similar functionalities.
 
 Basics
