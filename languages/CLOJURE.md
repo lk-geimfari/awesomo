@@ -79,6 +79,17 @@ Encoding example:
 <img src="https://user-images.githubusercontent.com/7820865/103157675-3da6b700-4794-11eb-9771-d2da1dd9b7a7.png" width=180>
 
 ---
+[**clojurescript**](https://github.com/clojure/clojurescript) is a compiler for Clojure that targets JavaScript. It is designed to emit JavaScript code which is compatible with the advanced compilation mode of the Google Closure optimizing compiler.
+Official web site: [https://clojurescript.org](https://clojurescript.org/)
+
+<img src="https://raw.githubusercontent.com/github/explore/b1c13b29315ff30876640afcef2cc122680a3c6c/topics/clojurescript/clojurescript.png" width=180>
+
+---
+[**clojure-koans**](https://github.com/functional-koans/clojure-koans) are a fun way to get started with Clojure - no experience assumed or required. Clojure Koans are exercises meant to initiate you to the mysteries of the Clojure language. By following along the path set before you, you will touch on all the major aspects of the language, from simple datatypes to macros, from tail recursion to Java interoperability. Many will find Clojure quite different from any programming language they've used before. The koans' incremental, interactive approach to learning the language will help make the transition feel natural. By the time you are finished with them, Clojure will not be so mysterious at all.
+
+<img src="https://avatars3.githubusercontent.com/u/458337?s=400&v=4" width=180>
+
+---
 
 [**compojure**](https://github.com/weavejester/compojure)  —  a small routing library for Ring that allows web applications to be composed of small, independent parts.
 
