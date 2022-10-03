@@ -96,6 +96,16 @@ First and foremost, it is an editor that gets out of your way. The delightfully 
 Vue (pronounced /vjuː/, like view) is a **progressive framework** for building user interfaces. It is designed from the ground up to be incrementally adoptable, and can easily scale between a library and a framework depending on different use cases. It consists of an approachable core library that focuses on the view layer only, and an ecosystem of supporting libraries that helps you tackle complexity in large Single-Page Applications.
 ![vue.js](https://vuejs.org/images/logo.png)
 
+[**Vite**](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
+
+Vite (French word for "quick", pronounced /vit/, like "veet") is a build tool that aims to provide a faster and leaner development experience for modern web projects. It consists of two major parts:
+- A dev server that provides rich feature enhancements over native ES modules, for example extremely fast Hot Module Replacement (HMR).
+- A build command that bundles your code with Rollup, pre-configured to output highly optimized static assets for production.
+Vite is opinionated and comes with sensible defaults out of the box, but is also highly extensible via its Plugin API and JavaScript API with full typing support.
+
+![Vite](https://vitejs.dev/logo.svg)
+
+
 ## X
 
 [**Xterm.js**](https://github.com/xtermjs/xterm.js) - A terminal frontend for the web platform

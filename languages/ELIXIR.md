@@ -37,6 +37,14 @@ This is a pure-Elixir, dependency-free implementation of release generation for 
 
 ---
 
+## E
+
+[**Ecto**](https://github.com/elixir-ecto/ecto). A toolkit for data mapping and language integrated query.
+
+Ecto is commonly used to interact with databases, such as PostgreSQL and MySQL via `Ecto.Adapters.SQL` (source code). Ecto is also commonly used to map data from any source into Elixir structs, whether they are backed by a database or not.
+
+[**Elixir XDR**](https://github.com/kommitters/elixir_xdr) is an open data format, specified in [RFC 4506](http://tools.ietf.org/html/rfc4506.html). This library provides a way to decode and encode XDR data from Elixir. Extend with ease to other XDR types.
+
 [**ExVCR**](https://github.com/parroty/exvcr). Record and replay HTTP interactions library for elixir. It's inspired by Ruby's VCR (https://github.com/vcr/vcr), and trying to provide similar functionalities.
 
 Basics
@@ -137,7 +145,7 @@ Floki.find(html, ".headline, a")
 ## G
 
 [**guardian**](https://github.com/ueberauth/guardian)  —  an authentication framework for use with Elixir applications.
-Guardian is based on similar ideas to Warden but is re-imagined for modern systems where Elixir manages the authentication requirements. 
+Guardian is based on similar ideas to Warden but is re-imagined for modern systems where Elixir manages the authentication requirements.
 
 Guardian remains a functional system. It integrates with Plug, but can be used outside of it. If you’re implementing a TCP/UDP protocol directly, or want to utilize your authentication via channels, Guardian is your friend.
 The core currency of authentication in Guardian is JSON Web Tokens (JWT). You can use the JWT to authenticate web endpoints, channels, and TCP sockets and it can contain any authenticated assertions that the issuer wants to include.
@@ -175,6 +183,14 @@ The core currency of authentication in Guardian is JSON Web Tokens (JWT). You ca
 ## Q
 
 [**Quantum**](https://github.com/quantum-elixir/quantum-core) - is a Cron-like job scheduler for Elixir.
+
+## S
+
+[**Stellar Base**](https://github.com/kommitters/stellar_base) is an Elixir library that provides a complete set of functions to read, write, hash, and sign XDR constructs used in [stellar-core](https://github.com/stellar/stellar-core).
+
+[**Stellar SDK**](https://github.com/kommitters/stellar_sdk) enables the construction, signing and encoding of Stellar [transactions](https://developers.stellar.org/docs/glossary/transactions) and [operations](https://developers.stellar.org/docs/start/list-of-operations) in **Elixir**, as well as provides a client for interfacing with [Horizon](https://developers.stellar.org/api/introduction) server REST endpoints to retrieve ledger information, and to submit transactions.
+
+This library is aimed at developers building Elixir applications that interact with the [**Stellar network**](https://www.stellar.org/).
 
 ## T
 
