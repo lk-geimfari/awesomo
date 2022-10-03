@@ -184,6 +184,10 @@ The core currency of authentication in Guardian is JSON Web Tokens (JWT). You ca
 
 [**Quantum**](https://github.com/quantum-elixir/quantum-core) - is a Cron-like job scheduler for Elixir.
 
+## S
+
+[**Stellar Base**](https://github.com/kommitters/stellar_base) is an Elixir library that provides a complete set of functions to read, write, hash, and sign XDR constructs used in [stellar-core](https://github.com/stellar/stellar-core).
+
 ## T
 
 [**timex** ](https://github.com/bitwalker/timex) —  a rich, comprehensive Date/Time library for Elixir projects, with full timezone support via the :tzdata package. If you need to manipulate dates, times, datetimes, timestamps, etc., then Timex is for you! It is very easy to use Timex types in place of default Erlang types, as well as Ecto types via the timex_ecto package.
