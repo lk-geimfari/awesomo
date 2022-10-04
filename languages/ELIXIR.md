@@ -192,6 +192,9 @@ The core currency of authentication in Guardian is JSON Web Tokens (JWT). You ca
 
 This library is aimed at developers building Elixir applications that interact with the [**Stellar network**](https://www.stellar.org/).
 
+[**Swoosh**](https://github.com/swoosh/swoosh) - Compose, deliver and test your emails easily in Elixir
+Swoosh comes with many adapters, including SendGrid, Mandrill, Mailgun, Postmark and SMTP.
+
 ## T
 
 [**timex** ](https://github.com/bitwalker/timex) —  a rich, comprehensive Date/Time library for Elixir projects, with full timezone support via the :tzdata package. If you need to manipulate dates, times, datetimes, timestamps, etc., then Timex is for you! It is very easy to use Timex types in place of default Erlang types, as well as Ecto types via the timex_ecto package.
