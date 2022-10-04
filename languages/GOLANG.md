@@ -226,6 +226,12 @@ Kubernetes builds upon a decade and a half of experience at Google running produ
 
 ![kubernets](https://www.mirantis.com/wp-content/uploads/2016/02/Kubernetes.png)
 
+[**kube-green**](https://kube-green.dev/) - kube-green is a simple k8s addon that automatically shuts down (some of) your resources when you don't need them.
+
+How many of your dev/preview pods stay on during weekends? Or at night? It's a waste of resources! And money! But fear not, kube-green is here to the rescue.
+
+![kube-green](https://raw.githubusercontent.com/kube-green/kube-green/main/logo/logo.svg)
+
 ---
 
 ## L
