@@ -226,9 +226,16 @@ A simple JavaScript library to help you quickly identify unseemly images; all in
 ![nsfwjs](https://github.com/infinitered/nsfwjs/raw/master/_art/nsfwjs_logo.jpg)
 
 ---
-[**NestJS**](https://github.com/nestjs/nest) is a framework for building efficient, scalable Node.js server-side applications. It uses modern JavaScript, is built with TypeScript (preserves compatibility with pure JavaScript) and combines elements of OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming).
+[**NestJS**](https://github.com/vercel/next.js) is a framework for building efficient, scalable Node.js server-side applications. It uses modern JavaScript, is built with TypeScript (preserves compatibility with pure JavaScript) and combines elements of OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming).
 
 Under the hood, Nest makes use of Express, but also, provides compatibility with a wide range of other libraries, like e.g. Fastify, allowing for easy use of the myriad third-party plugins which are available.
+
+---
+[**Next.js**](https://github.com/nestjs/nest) is an open-source web development framework created by Vercel enabling React-based web applications with server-side rendering and generating static websites
+
+Next.js gives you the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more. No config needed.
+
+![next.js](https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png)
 
 ## P
 [**Phaser**](https://github.com/photonstorm/phaser)
