@@ -301,6 +301,13 @@ Flask offers suggestions, but doesn't enforce any dependencies or project layout
 ![hug](https://camo.githubusercontent.com/dc3f611ccdd6289ca11478dcb9ec4f9a1742248a/68747470733a2f2f7261772e6769746875622e636f6d2f74696d6f74687963726f736c65792f6875672f646576656c6f702f617274776f726b2f6578616d706c652e676966)
 
 ---
+[**Hugging Face**](https://huggingface.co/) - democratizing AI. Provides thousands of state of the art models (mostly transformers) for numerous NLP and CV tasks and is backed by PyTorch, Tensorflow and JAX. It also hosts more than 2500 datasets for Machine Learning, provides inexpensive accelerated inference API and hosts numerous Machine Learning projects under the hood of spaces.
+
+Supported: *Python 3.6+*
+
+![Hugging Face](https://camo.githubusercontent.com/b253a30b83a0724f3f74f3f58236fb49ced8d7b27cb15835c9978b54e444ab08/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f68756767696e67666163652f646f63756d656e746174696f6e2d696d616765732f7265736f6c76652f6d61696e2f7472616e73666f726d6572735f6c6f676f5f6e616d652e706e67)
+
+---
 [**httpie**](https://github.com/jkbrzt/httpie)  —  a command line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. It provides a simple http command that allows for sending arbitrary HTTP requests using a simple and natural syntax, and displays colorized output. HTTPie can be used for testing, debugging, and generally interacting with HTTP servers.
 
 Supported: *Python 2/3*
