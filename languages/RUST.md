@@ -65,6 +65,10 @@ Git integration:
 
 ![git integration](https://camo.githubusercontent.com/67e44f4a68150325f74b3a46820b7473ff7b91a6/68747470733a2f2f692e696d6775722e636f6d2f326c53573452452e706e67)
 
+---
+
+[**bevy**](https://github.com/bevyengine/bevy) is a refreshingly simple data-driven game engine built in Rust.
+
 ## C
 
 [**Clippy**](https://github.com/rust-lang/rust-clippy) is a collection of lints to catch common mistakes and improve your Rust code.
