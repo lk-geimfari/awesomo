@@ -230,6 +230,13 @@ A simple JavaScript library to help you quickly identify unseemly images; all in
 
 Under the hood, Nest makes use of Express, but also, provides compatibility with a wide range of other libraries, like e.g. Fastify, allowing for easy use of the myriad third-party plugins which are available.
 
+---
+[**Next.js**](https://github.com/nestjs/nest) is an open-source web development framework created by Vercel enabling React-based web applications with server-side rendering and generating static websites
+
+Next.js gives you the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more. No config needed.
+
+![next.js](https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png)
+
 ## P
 [**Phaser**](https://github.com/photonstorm/phaser)
 Phaser is a fast, free, and fun open source HTML5 game framework that offers WebGL and Canvas rendering across desktop and mobile web browsers. Games can be compiled to iOS, Android and native apps by using 3rd party tools. You can use JavaScript or TypeScript for development.
