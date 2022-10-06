@@ -44,3 +44,8 @@ The [**Play**](https://github.com/playframework/playframework) Framework combine
 [**Apache Spark**](https://github.com/apache/spark) - a unified analytics engine for large-scale data processing. It provides high-level APIs in Scala, Java, Python, and R, and an optimized engine that supports general computation graphs for data analysis. It also supports a rich set of higher-level tools including Spark SQL for SQL and DataFrames, MLlib for machine learning, GraphX for graph processing, and Structured Streaming for stream processing.
 
 ![spark](https://spark.apache.org/images/spark-logo-trademark.png)
+
+---
+[**Lila**](https://github.com/lichess-org/lila) - Lila (li[chess in sca]la) is a free online chess game server used by [Lichess.org](https://lichess.org) as its main backend. Lila is focused on realtime gameplay and ease of use.
+
+![lila](https://raw.githubusercontent.com/lichess-org/lila/master/public/images/home-bicolor.png)
