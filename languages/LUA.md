@@ -12,6 +12,8 @@
 
 ## K
 
+[**Kong**](https://github.com/Kong/kong) —  a cloud-native, platform-agnostic, scalable API Gateway.
+
 [**KOReader**](https://github.com/koreader/koreader)  —  a document viewer application, originally created for Kindle e-ink readers. It currently runs on Kindle, Kobo, PocketBook, Ubuntu Touch and Android (2.3+) devices. Developers can also run KOReader emulator for development purpose on desktop PC with Linux and Windows and Mac OSX (experimental for now).
 
 ## L
