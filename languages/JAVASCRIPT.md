@@ -231,7 +231,7 @@ A simple JavaScript library to help you quickly identify unseemly images; all in
 Under the hood, Nest makes use of Express, but also, provides compatibility with a wide range of other libraries, like e.g. Fastify, allowing for easy use of the myriad third-party plugins which are available.
 
 ---
-[**Next.js**](https://github.com/nestjs/nest) is an open-source web development framework created by Vercel enabling React-based web applications with server-side rendering and generating static websites
+[**Next.js**](https://github.com/vercel/next.js/) is an open-source web development framework created by Vercel enabling React-based web applications with server-side rendering and generating static websites
 
 Next.js gives you the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more. No config needed.
 
