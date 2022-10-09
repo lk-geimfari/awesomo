@@ -51,6 +51,12 @@ RxJS is a library for reactive programming using Observables, to make it easier 
 
 ## S
 
+[**Solid**](https://github.com/solidjs/solid)  —  A declarative, efficient, and flexible JavaScript library for building user interfaces.
+
+Solid is a declarative JavaScript library for creating user interfaces. Instead of using a Virtual DOM, it compiles its templates to real DOM nodes and updates them with fine-grained reactions. Declare your state and use it throughout your app, and when a piece of state changes, only the code that depends on it will rerun.
+
+![solid](https://assets.solidjs.com/banner?project=Library&type=core)
+
 [**Stryker**](https://github.com/stryker-mutator/stryker)  —  A mutation testing framework for JavaScript.
 
 Stryker enables you to measure the quality of your unit tests by using a technique called mutation testing. Stryker will insert small bugs (mutations) into your code and check if your tests can detect the bugs.
