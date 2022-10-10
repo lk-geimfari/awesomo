@@ -41,6 +41,16 @@ NativeScript empowers you to access native APIs from JavaScript directly. The fr
 
 <img alt="NativeScript" src="https://d1lfyz5kwt8vu9.cloudfront.net/nativescript-logo-2021.png" width="200"/>
 
+## Q
+
+[**qwik**](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
+
+Qwik is a new kind of web framework that can deliver instant loading web applications at any size or complexity. Your sites and apps can boot with about 1kb of JS (regardless of application complexity), and achieve consistent performance at scale. Qwik is so fast because it allows fully interactive sites to load with almost no JavaScript and pickup from where the server left off.
+
+As users interact with the site, only the necessary parts of the site load on-demand. This precision lazy-loading is what makes Qwik so quick.
+
+<img alt="Qwik Logo" width="400" src="https://raw.githubusercontent.com/BuilderIO/qwik/main/.github/assets/qwik-logo.svg" />
+
 ## R
 
 [**RxJS**](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
