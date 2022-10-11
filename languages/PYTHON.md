@@ -557,6 +557,36 @@ Using locales:
 ```
 
 ---
+[**MoviePy**](https://github.com/Zulko/moviepy)
+
+MoviePy is a python library that lets you edit videos ranging from basic operations like cut, concatenations, title insertions to more advanced operations like creating Gifs, add credits, and also add custom drawings to frames. 
+
+Supported: *Python 2/3*
+
+The guide for using the library can be found at ![MoviePy Guide](https://zulko.github.io/moviepy/)
+
+The following piece of code extracts video clip between t=50s and t=60s, while also adding a title at the center and saves the result to a new video file
+```
+from moviepy import *
+
+video = VideoFileClip("myHolidays.mp4").subclip(50,60)
+
+# Make the text. Many more options are available.
+txt_clip = ( TextClip("My Holidays 2013",fontsize=70,color='white')
+             .with_position('center')
+             .with_duration(10) )
+
+result = CompositeVideoClip([video, txt_clip]) # Overlay text on video
+result.write_videofile("myHolidays_edited.webm",fps=25) # Many options...
+```
+
+<a href="https://github.com/Zulko/moviepy">
+    <p align="center">
+      <img src="https://zulko.github.io/moviepy/_images/logo.png">
+    </p>
+</a>
+
+---
 [**mycli**](https://github.com/dbcli/mycli) - a command line client for MySQL that can do auto-completion and syntax highlighting.
 
 ![mycli](https://raw.githubusercontent.com/dbcli/mycli/master/screenshots/main.gif)
