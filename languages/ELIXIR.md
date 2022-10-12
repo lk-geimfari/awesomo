@@ -10,6 +10,12 @@
 
 <br>
 
+## A
+
+[**analytics**](https://github.com/plausible/analytics) Simple, open-source, lightweight and privay-friendly web analytics to Google Analytics.
+
+---
+
 ## B
 
 [**broadway**](https://github.com/dashbitco/broadway) Concurrent and multi-stage data ingestion and data processing with Elixir.
