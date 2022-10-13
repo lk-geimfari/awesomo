@@ -12,6 +12,8 @@
 
 ## B
 
+[**Bandit**](https://github.com/mtrudel/bandit) - a pure Elixir web server supporting HTTP1, HTTP2 and WebSockets connections.
+
 [**broadway**](https://github.com/dashbitco/broadway) Concurrent and multi-stage data ingestion and data processing with Elixir.
 
 ---
