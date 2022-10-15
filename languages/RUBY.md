@@ -14,6 +14,15 @@
 
 [**Aasm**](https://github.com/aasm/aasm) is a library for adding finite state machines to Ruby classes. Aasm started as the acts_as_state_machine plugin but has evolved into a more generic library that no longer targets only ActiveRecord models. It currently provides adapters for many ORMs but it can be used for any Ruby class, no matter what parent class it has (if any).
 
+---
+
+  [**Awesome Print**](https://github.com/awesome-print/awesome_print) Awesome Print is a Ruby library that pretty prints Ruby objects in full color exposing their internal structure with proper indentation. Rails ActiveRecord objects and usage within Rails templates are supported via included mixins.
+
+Regular output | With Awesome Print
+---------------|---------------------
+![regular_ouput](https://i.imgur.com/wzEilLQ.png) | ![regular_ouput](https://i.imgur.com/JjIeV9l.png) 
+
+
 ## B
 
 [**Better Errors**](https://github.com/charliesome/better_errors) replaces the standard Rails error page with a much better and more useful error page. It is also usable outside of Rails in any Rack app as Rack middleware.
