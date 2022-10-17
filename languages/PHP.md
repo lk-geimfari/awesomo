@@ -95,3 +95,13 @@ Reasons to use Slim Framework
 - PSR-7 Support: Slim supports any PSR-7 HTTP message implementation so you may inspect and manipulate HTTP message method, status, URI, headers, cookies, and body.
 - Dependency Injection: Slim supports dependency injection so you have complete control of your external tools. Use any Container-Interop container.
 
+---
+[**Fat-Free Framework**](https://github.com/bcosca/fatfree) A powerful yet easy-to-use PHP micro-framework designed to help you build dynamic and robust Web applications - fast! The philosophy behind the framework and its approach to software architecture is towards minimalism in structural components, avoiding application complexity and striking a balance between code elegance, application performance and programmer productivity.
+
+Reasons to use Fat-Free Framework
+- No complex configuration required.
+- No convoluted directory structures.
+- Supports both SQL and NoSQL databases off-the-shelf: MySQL, SQLite, MSSQL/Sybase, PostgreSQL, DB2, and MongoDB.
+- Fast and clean template engine.
+- Unit testing toolkit.
+- Comes with optional plug-ins that extend its capabilities.
