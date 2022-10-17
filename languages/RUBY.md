@@ -215,6 +215,10 @@ Have a large community, with more than 670 contribuitors around the world.
 Solidus, Rails eCommerce System.
 Site: https://solidus.io/
 
+---
+[**Sorbet**](https://github.com/sorbet/sorbet) is a powerful type checker for Ruby implemented by Stripe. It introduces type-checking for variables, function arguments, and return values. It helps reduce the number of bugs in software and increases the development speed. 
+
+Site: https://sorbet.org/
 
 ## V
 
