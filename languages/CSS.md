@@ -32,6 +32,12 @@
 
 ---
 
+## C
+
+[**Codrop**](https://tympanus.net/codrops/css_reference/)  —  An extensive CSS reference made by codrops. It contain with all the important properties and info to learn CSS from the basics
+
+![codrops](https://tympanus.net/codrops/wp-content/themes/codropstheme03/images/codrops-logo-1.svg)
+
 ## F
 
 [**Foundation**](https://github.com/zurb/foundation-sites)  —  The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
