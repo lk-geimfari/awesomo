@@ -423,6 +423,6 @@ WebTorrent is a streaming torrent client for node.js and the browser.
 
 ## Y
 
-[**yarn**](https://github.com/yarnpkg/yarn) — :package::cat2: Fast, reliable, and secure dependency management.
+[**yarn**](https://github.com/yarnpkg/berry) — :package::cat2: Fast, reliable, and secure dependency management.
 
 ![yarn](http://imgur.com/6tILzw8.png)
