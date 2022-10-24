@@ -99,5 +99,5 @@ Reasons to use Slim Framework
 [**DesignPatternsPHP**](https://github.com/DesignPatternsPHP/DesignPatternsPHP) Collection of known design patterns and some sample codes on how to implement them in PHP. Every pattern has a small list of examples.
 
 Reasons to use DesignPatternsPHP
-- Problem with patterns is that often people do know them but don't know when to apply which. In this lib every patter have examples which helps to understand the mbetter.
+- Problem with patterns is that often people do know them but don't know when to apply which. In this library every patter have examples which helps to understand them better.
 
