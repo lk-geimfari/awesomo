@@ -150,6 +150,13 @@ end
 ![octobox](https://cloud.githubusercontent.com/assets/1060/21510049/16ad341c-cc87-11e6-9a83-86c6be94535f.png)
 
 ## P
+[**PaperTrail**](https://github.com/paper-trail-gem/paper_trail) is a gem that helps track changes to your models, for auditing or versioning. A few features of this gem are:
+
+* The PaperTrail gem allows you to track changes made to your Rails models over time. 
+* Any time a tracked record in your database is changed, it creates a corresponding entry in a PaperTrail::Version table. 
+* It accomplishes this by tying into the ActiveRecord callback chain and storing a new version when the record is created, updated, or destroyed.
+
+---
 [**Pagy**](https://github.com/ddnexus/pagy) is the coolest pagination gem that outperforms the others in each and every benchmark and comparison.
 
 * It is 40x times fater than other pagination gems like will_paginate and kaminari.
