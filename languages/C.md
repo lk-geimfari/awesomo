@@ -73,11 +73,16 @@ your own itches and making Lwan hum the way you want it to is possible.
 ![](https://camo.githubusercontent.com/99dde2976b3b18edb59dd185404d6395196b04d1/68747470733a2f2f6e6368616e2e696f2f6769746875622d6c6f676f2e706e67)
 
 ---
+
+<p align="center">
+  <a href="https://github.com/firehol/netdata" targt="_blank">
+    <img src="https://user-images.githubusercontent.com/1153921/95268672-a3665100-07ec-11eb-8078-db619486d6ad.png" width="500"/>
+  </a>
+</p>
+
 [**netdata**](https://github.com/firehol/netdata) is a system for distributed real-time performance and health monitoring. It provides unparalleled insights, in real-time, of everything happening on the system it runs (including applications such as web and database servers), using modern interactive web dashboards.
 
 netdata is fast and efficient, designed to permanently run on all systems (physical & virtual servers, containers, IoT devices), without disrupting their core function.
-
-![g1](https://cloud.githubusercontent.com/assets/2662304/14092712/93b039ea-f551-11e5-822c-beadbf2b2a2e.gif)
 
 ---
 
