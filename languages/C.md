@@ -68,15 +68,19 @@ your own itches and making Lwan hum the way you want it to is possible.
 
 ## N
 
-[**Nchan**](https://github.com/slact/nchan) is a scalable, flexible pub/sub server for the modern web, built as a module for the Nginx web server. It can be configured as a standalone server, or as a shim between your application and hundreds, thousands, or millions of live subscribers. It can buffer messages in memory, on-disk, or via Redis. All connections are handled asynchronously and distributed among any number of worker processes. It can also scale to many Nginx servers with Redis.
+<p align="center">
+  <a href="https://github.com/slact/nchan" targt="_blank">
+    <img src="https://nchan.io/img/nchan_logo.png" width="300"/>
+  </a>
+</p>
 
-![](https://camo.githubusercontent.com/99dde2976b3b18edb59dd185404d6395196b04d1/68747470733a2f2f6e6368616e2e696f2f6769746875622d6c6f676f2e706e67)
+[**Nchan**](https://github.com/slact/nchan) is a scalable, flexible pub/sub server for the modern web, built as a module for the Nginx web server. It can be configured as a standalone server, or as a shim between your application and hundreds, thousands, or millions of live subscribers. It can buffer messages in memory, on-disk, or via Redis. All connections are handled asynchronously and distributed among any number of worker processes. It can also scale to many Nginx servers with Redis.
 
 ---
 
 <p align="center">
   <a href="https://github.com/firehol/netdata" targt="_blank">
-    <img src="https://user-images.githubusercontent.com/1153921/95268672-a3665100-07ec-11eb-8078-db619486d6ad.png" width="500"/>
+    <img src="https://user-images.githubusercontent.com/1153921/95268672-a3665100-07ec-11eb-8078-db619486d6ad.png" width="350"/>
   </a>
 </p>
 
