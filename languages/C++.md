@@ -106,6 +106,12 @@ The goal of Lithium is to prove that this is feasible.
 
 ---
 
+[**Opera**](https://www.opera.com/) Opera is an Internet browser that uses Google Chrome's base, but seeks to differentiate itself from this and other competitors with a lot of extra features that are very useful for a number of users. One of the oldest Internet browsers still in use, since it is heir to the old Netscape, Opera has a loyal legion of fans and always attracts attention with the introduction of innovative functions that, in most cases, end up being copied by rivals.
+
+![opera](https://upload.wikimedia.org/wikipedia/commons/4/45/Opera_Software_logo.png)
+
+---
+
 [**openFrameworks**](https://github.com/openframeworks/openFrameworks) is an open source C++ toolkit for creative coding. It includes tools for 2D/3D graphics, audio, and video components along with many addons for integrations with everything from XBOX Kinects to OpenCV.
 
 The code is written to be massively cross-compatible. Right now they support five operating systems (Windows, OSX, Linux, iOS, Android) and four IDEs (XCode, Code::Blocks, and Visual Studio and Eclipse). The API is designed to be minimal and easy to grasp.
