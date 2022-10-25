@@ -53,7 +53,9 @@ Following are features of codeigniter.
 - a framework that does not require you to adhere to restrictive coding rules.
 - if You are not interested in large-scale monolithic libraries like PEAR codeigniter is for you.
 - no need broad compatibility with standard hosting accounts that run a variety of PHP versions and configurations.
-
+- default seo friendly url
+- provides complete freedom for the users as they don't need to depend on the MVC development pattern. Moreover, it allows third-party plugins which can be useful to implement complicated functionalities.
+- 
 ---
 [**Phalcon**](https://github.com/phalcon/cphalcon) Phalcon is an open source full stack framework for PHP, written as a C-extension. Phalcon is optimized for high performance. Its unique architecture allows the framework to always be memory resident, offering its functionality whenever it’s needed, without expensive file stats and file reads that traditional PHP frameworks employ.
 
