@@ -23,6 +23,12 @@
 ![heaps](https://raw.githubusercontent.com/HeapsIO/heaps.io/master/assets/logo/logo-heaps-color.png)
 
 ---
+[**Haxe CheckStyle Documentation**](https://haxecheckstyle.github.io/docs/haxe-checkstyle/home.html) - Haxe Checkstyle is a static analysis tool to help developers write Haxe code that adheres to a coding standard. Not only improve readability, but also allows other team members to better understand each other’s code. Ideal for any project that wants to enforce coding conventions.
+
+---
+[**HaxeFoundation**](https://github.com/HaxeFoundation/haxe) - Active repository and websites that offer examples, usage and guidances for using Hexe. Whole the Cross-Platform Toolkit
+
+---
 [**HXElectron**](https://github.com/tong/hxelectron) - Haxe type definitions for electron, a framework for building cross-platform desktop applications with JavaScript, HTML, and CSS.
 
 ## I
