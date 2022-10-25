@@ -32,9 +32,13 @@ GTK is free software and part of the GNU Project. However, the licensing terms f
 
 ## K
 
-[**Kore**](https://github.com/jorisvink/kore) is an easy to use web application framework for writing scalable web APIs in C. Its main goals are security, scalability and allowing rapid development and deployment of such APIs.
+<p align="center">
+  <a href="https://github.com/jorisvink/kore" targt="_blank">
+    <img src="https://kore.io/images/logo-front.png" width="370"/>
+  </a>
+</p>
 
-![kore](https://kore.io/images/logos/logo-front.png)
+[**Kore**](https://github.com/jorisvink/kore) is an easy to use web application framework for writing scalable web APIs in C. Its main goals are security, scalability and allowing rapid development and deployment of such APIs.
 
 ## L
 
