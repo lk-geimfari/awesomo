@@ -33,12 +33,6 @@ The supported data models can be mixed in queries and allow ArangoDB to be the a
 ## C
 
 
-<p align="center">
-  <a href="https://github.com/blender/blender" targt="_blank">
-    <img src="https://en.bitcoin.it/w/images/en/c/cb/BC_Logotype.png" width="300"/>
-  </a>
-</p>
-
 [**Catch2**](https://github.com/catchorg/Catch2) is a multi-paradigm test framework for unit-tests, TDD and BDD. It is primarily distributed as a single header file, although certain extensions may require additional headers.
 
 <br><br>
