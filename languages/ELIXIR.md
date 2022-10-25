@@ -10,6 +10,20 @@
 
 <br>
 
+## A
+
+[**Azimutt**](https://github.com/azimuttapp/azimutt) - Powerful database explorer, open-source and privacy-friendly
+
+<a href="https://azimutt.app" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azimuttapp/azimutt/main/backend/priv/static/images/logo_light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azimuttapp/azimutt/main/backend/priv/static/images/logo_dark.svg">
+    <img alt="Azimutt logo" src="https://raw.githubusercontent.com/azimuttapp/azimutt/main/backend/priv/static/images/logo_dark.svg">
+  </picture>
+</a>
+
+---
+
 ## B
 
 [**Bandit**](https://github.com/mtrudel/bandit) - a pure Elixir web server supporting HTTP1, HTTP2 and WebSockets connections.
