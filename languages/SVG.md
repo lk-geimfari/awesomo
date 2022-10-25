@@ -19,9 +19,13 @@
 
 ## S
 
+[**StyledIcons**](https://github.com/styled-icons/styled-icons)  — Awesome, Material Design, and Octicons, available as React Styled Components.Available in various styles and topics. 
+
 [**SuperTinyIcons**](https://github.com/edent/SuperTinyIcons)  —  Super Tiny Web Icons are minuscule SVG versions of your favourite logos. The average size is under 465 bytes!
 The logos have a 512x512 viewbox, they will fit in a circle with radius 256. 
 
+
+[**SVG REPO**](https://www.svgrepo.com/)  — More than 300.000 SVTG files, packed and catgoriezed. Ready to use for commercial and personal project. 
 ---
 
 
