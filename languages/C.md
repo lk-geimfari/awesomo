@@ -38,11 +38,31 @@ GTK is free software and part of the GNU Project. However, the licensing terms f
 
 ## L
 
+<p align="center">
+  <a href="https://github.com/libuv/libuv" targt="_blank">
+    <img src="https://raw.githubusercontent.com/libuv/libuv/master/img/banner.png" width="370"/>
+  </a>
+</p>
+
 [**libuv**](https://github.com/libuv/libuv) is a multi-platform support library with a focus on asynchronous I/O. It was primarily developed for use by Node.js, but it's also used by Luvit, Julia, pyuv, and others.
 
-![libduv](https://cdn-images-1.medium.com/max/720/0*_Gj_yjlEAdE7x8Hi.png)
+Feature highlights:
+
+ * Full-featured event loop backed by epoll, kqueue, IOCP, event ports.
+ * Asynchronous TCP and UDP sockets
+ * Asynchronous DNS resolution
+ * Asynchronous file and file system operations
+ * File system events
+ * ANSI escape code controlled TTY
+ * IPC with socket sharing, using Unix domain sockets or named pipes (Windows)
+ * Child processes
+ * Thread pool
+ * Signal handling
+ * High resolution clock
+ * Threading and synchronization primitives
 
 ---
+
 [**Lwan**](https://github.com/lpereira/lwan/) is a high-performance & scalable web server for glibc/Linux
 platforms.
 
