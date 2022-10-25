@@ -80,6 +80,13 @@ netdata is fast and efficient, designed to permanently run on all systems (physi
 ![g1](https://cloud.githubusercontent.com/assets/2662304/14092712/93b039ea-f551-11e5-822c-beadbf2b2a2e.gif)
 
 ---
+
+<p align="center">
+  <a href="https://github.com/numpy/numpy" targt="_blank">
+    <img src="https://numpy.org/images/logo.svg" width="250"/>
+  </a>
+</p>
+
 [**NumPy**](https://github.com/numpy/numpy) is the fundamental package needed for scientific computing with Python.
 This package contains:
 
@@ -90,24 +97,8 @@ This package contains:
 
 It derives from the old Numeric code base and can be used as a replacement for Numeric. It also adds the features introduced by numarray and can be used to replace numarray.
 
-![numpy](http://www.numpy.org/_static/numpy_logo.png)
-
 ---
-
-[**no-more-secrets**](https://github.com/bartobri/no-more-secrets ) is a command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
-
-![Screenshot](http://www.brianbarto.info/extern/images/nms/sneakers.gif)
 
 ## S
 
 [**Skynet**](https://github.com/cloudwu/skynet) is a lightweight online game framework, and it can be used in many other fields.
-
-## T
-
-<p align="center">
-  <a href="https://tox.chat" targt="_blank">
-    <img src="https://raw.github.com/TokTok/toxcore/master/other/tox.png" width="400"/>
-  </a>
-</p>
-
-[Tox](https://tox.chat) is a peer to peer (serverless) instant messenger aimed at making security and privacy easy to obtain for regular users. It uses [NaCl](https://nacl.cr.yp.to/) for its encryption and authentication.
