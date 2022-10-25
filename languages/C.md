@@ -104,6 +104,10 @@ It derives from the old Numeric code base and can be used as a replacement for N
 
 ## T
 
-[Tox](https://tox.chat) is a peer to peer (serverless) instant messenger aimed at making security and privacy easy to obtain for regular users. It uses [NaCl](https://nacl.cr.yp.to/) for its encryption and authentication.
+<p align="center">
+  <a href="https://tox.chat" targt="_blank">
+    <img src="https://raw.github.com/TokTok/toxcore/master/other/tox.png" width="400"/>
+  </a>
+</p>
 
-![tox](https://raw.github.com/TokTok/toxcore/master/other/tox.png)
+[Tox](https://tox.chat) is a peer to peer (serverless) instant messenger aimed at making security and privacy easy to obtain for regular users. It uses [NaCl](https://nacl.cr.yp.to/) for its encryption and authentication.
