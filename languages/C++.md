@@ -18,6 +18,14 @@ The supported data models can be mixed in queries and allow ArangoDB to be the a
 
 ![arangodb](https://www.arangodb.com/wp-content/uploads/2016/10/ArangoDB-logo-bg.svg)
 
+---
+
+[**AREG SDK**](https://github.com/aregtech/areg-sdk/) is an interface-centric real-time asynchronous communication engine to enable [distributed-](https://en.wikipedia.org/wiki/Distributed_computing) and [mist-](https://csrc.nist.gov/publications/detail/sp/500-325/final)computing, where Things interact and provide services, as if they act like thin distributed servers.
+
+Traditionally, devices are connected clients to stream data to the cloud or fog servers for further processing. Since data is generated and collected at the edge of the network (mist network), it makes sense to change the role of connected Things and provide network accessible (_Public_) services directly on devices. This extends _Cloud_ to the extreme edge.
+
+![areg sdk](https://github.com/aregtech/areg-sdk/raw/master/docs/img/areg-sdk-1280x360px-logo.png)
+
 ## B
 
 [**Bitcoin**](https://bitcoin.org/) is an innovative payment network and a new kind of money. Bitcoin uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of bitcoins is carried out collectively by the network. Bitcoin is open-source; its design is public, nobody owns or controls Bitcoin and [everyone can take part](https://bitcoin.org/en/support-bitcoin). Through many of its unique properties, Bitcoin allows exciting uses that could not be covered by any previous payment system.
