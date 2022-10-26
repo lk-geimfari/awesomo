@@ -77,7 +77,7 @@ Following are features of codeigniter.
 - no need broad compatibility with standard hosting accounts that run a variety of PHP versions and configurations.
 - default seo friendly url
 - provides complete freedom for the users as they don't need to depend on the MVC development pattern. Moreover, it allows third-party plugins which can be useful to implement complicated functionalities.
-- 
+
 ---
 [**Phalcon**](https://github.com/phalcon/cphalcon) Phalcon is an open source full stack framework for PHP, written as a C-extension. Phalcon is optimized for high performance. Its unique architecture allows the framework to always be memory resident, offering its functionality whenever it’s needed, without expensive file stats and file reads that traditional PHP frameworks employ.
 
@@ -125,3 +125,13 @@ Reasons to use Slim Framework
 Reasons to use DesignPatternsPHP
 - Problem with patterns is that often people do know them but don't know when to apply which. In this library every patter have examples which helps to understand them better.
 
+---
+[**Fat-Free Framework**](https://github.com/bcosca/fatfree) A powerful yet easy-to-use PHP micro-framework designed to help you build dynamic and robust Web applications - fast! The philosophy behind the framework and its approach to software architecture is towards minimalism in structural components, avoiding application complexity and striking a balance between code elegance, application performance and programmer productivity.
+
+Reasons to use Fat-Free Framework
+- No complex configuration required.
+- No convoluted directory structures.
+- Supports both SQL and NoSQL databases off-the-shelf: MySQL, SQLite, MSSQL/Sybase, PostgreSQL, DB2, and MongoDB.
+- Fast and clean template engine.
+- Unit testing toolkit.
+- Comes with optional plug-ins that extend its capabilities.
