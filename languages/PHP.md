@@ -7,13 +7,13 @@ blog to the most popular websites in the world. PHP is distributed under the
 
 PHP was created by Rasmus Lerdorf in 1994 but appeared in the market in 1995. PHP 8.1 is the latest version of PHP, which was released on 30 August 2022.
 
--PHP stands for Hypertext Preprocessor.
--PHP is an interpreted language.
--PHP is a server-side scripting language.
--PHP can be embedded into HTML.
--PHP is an object-oriented language.
--PHP is an open-source scripting.
--PHP is simple and easy to learn.
+- PHP stands for Hypertext Preprocessor.
+- PHP is an interpreted language.
+- PHP is a server-side scripting language.
+- PHP can be embedded into HTML.
+- PHP is an object-oriented language.
+- PHP is an open-source scripting.
+- PHP is simple and easy to learn.
 
 
 ## Documentation
