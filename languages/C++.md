@@ -16,6 +16,12 @@
 
 The supported data models can be mixed in queries and allow ArangoDB to be the aggregation point for your data.
 
+<br><br>
+
+[**AREG SDK**](https://github.com/aregtech/areg-sdk/) is an interface-centric real-time asynchronous communication engine to enable [distributed-](https://en.wikipedia.org/wiki/Distributed_computing) and [mist-](https://csrc.nist.gov/publications/detail/sp/500-325/final)computing, where Things interact and provide services, as if they act like thin distributed servers.
+
+Traditionally, devices are connected clients to stream data to the cloud or fog servers for further processing. Since data is generated and collected at the edge of the network (mist network), it makes sense to change the role of connected Things and provide network accessible (_Public_) services directly on devices. This extends _Cloud_ to the extreme edge.
+
 ## B
 
 <p align="center">
