@@ -1,5 +1,27 @@
 ## PHP
+[**PHP**](https://github.com/php) is an open-source, interpreted, and object-oriented scripting language that can be executed at the server-side.
+PHP is a popular general-purpose scripting language that is especially suited to
+web development. Fast, flexible and pragmatic, PHP powers everything from your
+blog to the most popular websites in the world. PHP is distributed under the
+[PHP License v3.01](LICENSE).
 
+PHP was created by Rasmus Lerdorf in 1994 but appeared in the market in 1995. PHP 8.1 is the latest version of PHP, which was released on 30 August 2022.
+
+-PHP stands for Hypertext Preprocessor.
+-PHP is an interpreted language.
+-PHP is a server-side scripting language.
+-PHP can be embedded into HTML.
+-PHP is an object-oriented language.
+-PHP is an open-source scripting.
+-PHP is simple and easy to learn.
+
+
+## Documentation
+
+The PHP manual is available at [php.net/docs](https://php.net/docs).
+
+
+---
 [**Guzzle**](https://github.com/guzzle/guzzle) is a PHP HTTP client that makes it easy to send HTTP requests and trivial to integrate with web services.
 
 - Simple interface for building query strings, POST requests, streaming large uploads, streaming large downloads, using HTTP cookies, uploading JSON data, etc...
