@@ -740,6 +740,12 @@ optparse.py:544:21: W601 .has_key() is deprecated, use 'in'
 
 
 ---
+[**pyModeS**](https://github.com/junzis/pyModeS) - An Automatic Dependent Surveillance–Broadcast (ADS-B) aircraft message decoder written in python.
+
+![](https://raw.githubusercontent.com/junzis/pyModeS/master/doc/modeslive-screenshot.png)
+
+
+---
 [**Pyro**](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch. Maintained by Uber.
 
 ![](https://raw.githubusercontent.com/pyro-ppl/pyro/dev/docs/source/_static/img/pyro_logo_with_text.png)
