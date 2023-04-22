@@ -1,8 +1,5 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/15812620/233777162-c9a974e8-5f04-422f-864d-f1482a34b08f.png"></p>
+<b>A.W.E.S.O.M. O</b> is an extensive list of interesting open source projects written in various languages.
 
-<p align="center">
-  <b>A.W.E.S.O.M. O</b> is an extensive list of interesting open source projects written in various languages.
-</p>
 
 
 If you are interested in [Open Source](https://en.wikipedia.org/wiki/Open-source_software) and are considering to join the community of Open Source developers, then here you might find a project that will suit you.
