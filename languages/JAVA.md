@@ -1,15 +1,3 @@
-﻿## Alphabetical index of projects in Java:
-
-|         |         |         |         |         |         |         |
-| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) |
-| [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) |
-| [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) |
-| [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) |         |         |
-|         |         |         |         |         |         |         |
-
-<br>
-
 ## D
 
 [**Druid**](https://github.com/druid-io/druid) is a distributed, column-oriented, real-time analytics data store that is commonly used to power exploratory dashboards in multi-tenant environments.
@@ -17,6 +5,8 @@
 Druid excels as a data warehousing solution for fast aggregate queries on petabyte sized data sets. Druid supports a variety of flexible filters, exact calculations, approximate algorithms, and other useful calculations.
 
 Druid can load both streaming and batch data and integrates with Samza, Kafka, Storm, Spark, and Hadoop.
+
+<br>
 
 [**Dbeaver**](https://github.com/dbeaver/dbeaver) is a Free multi-platform database tool for developers, SQL programmers, database administrators and analysts. Supports any database which has JDBC driver (which basically means - ANY database). EE version also supports non-JDBC datasources (WMI, MongoDB, Cassandra, Redis).
 
@@ -43,7 +33,7 @@ The project's site: https://appulse.io
 - O-R mapping metadata
 - The query language
 
-![JPA_LOGO](https://www.ambient-it.net/wp-content/uploads/2016/04/jpa-logo-175.png)
+<br>
 
 [**Jolly day**](https://github.com/svendiedrichsen/jollyday) - is a Java library. This project solve the holiday 'problem'. The idea behind this is to have an independent API which can be used in any kind of environment. That means no network or database needed.
 
@@ -55,13 +45,11 @@ There are two release branches which are based on different Java versions.
 [**JUnit 5**](https://github.com/junit-team/junit5/) - is a Java library. JUnit 5 is the next generation of JUnit. The goal is to create an up-to-date foundation for developer-side testing on the JVM. This includes focusing on Java 8 and above, as well as enabling many different styles of testing.
 JUnit 5 is the result of JUnit Lambda and its crowdfunding campaign on Indiegogo.
 
-![JUnit5_LOGO](https://cloudblogs.microsoft.com/uploads/prod/sites/37/2019/03/JUnit5-hero-image.png)
-
 ## L
 
 [**libGDX**](https://github.com/libgdx/libgdx) is a cross-platform Java game development framework based on OpenGL (ES) that works on Windows, Linux, Mac OS X, Android, your WebGL enabled browser and iOS.
-<br><br><br>
-![libgdx](https://camo.githubusercontent.com/f70f169cab179f13f70e892b3251e6f2032be66d/687474703a2f2f6c69626764782e6261646c6f67696367616d65732e636f6d2f696d672f6c6f676f2e706e67)<br><br>
+
+<br>
 
 [**Lombok**](https://github.com/rzwitserloot/lombok) Project **Lombok** is a java library that automatically plugs into your editor and build tools, spicing up your java.
 Never write another getter or equals method again, with one annotation your class has a fully featured builder, Automate your logging variables, and much more.
@@ -71,9 +59,6 @@ Never write another getter or equals method again, with one annotation your clas
 [**Mockito**](https://github.com/mockito/mockito) is
 is an open source testing framework for Java released under the MIT License. The framework allows the creation of test double objects in automated unit tests for the purpose of test-driven development or behavior-driven development. The framework's name and logo are a play on mojitos, a type of drink.
 
-![Mockito_logo](https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo%402x.png)
-
-
 ## S
 
 [**Spring Boot**](https://github.com/spring-projects/spring-boot) makes it easy to create Spring-powered, production-grade applications and services with absolute minimum fuss. It takes an opinionated view of the Spring platform so that new and existing users can quickly get to the bits they need. You can use Spring Boot to create stand-alone Java applications that can be started using java -jar or more traditional WAR deployments. We also provide a command line tool that runs spring scripts.
@@ -82,14 +67,6 @@ is an open source testing framework for Java released under the MIT License. The
 
 ## T
 
----
-
 [**trino**](https://github.com/trinodb/trino) — is a fast distributed SQL query engine for big data analytics.
 
 Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL
-
-<p align="center">
-    <a href="https://trino.io/">
-        <img src="https://github.com/trinodb/trino/raw/master/.github/homepage.png">
-    </a>
-</p>
