@@ -2,11 +2,8 @@
 
 [**Woo**](https://github.com/fukamachi/woo) is a fast non-blocking HTTP server built on top of libev. Although Woo is written in Common Lisp, it aims to be the fastest web server written in any programming language.
 
-How fast?
+<br>
 
-![woo](https://github.com/fukamachi/woo/raw/master/images/benchmark.png)
-
----
 [**Clack**](https://github.com/fukamachi/clack) is a web application environment for Common Lisp inspired by Python’s WSGI and Ruby’s Rack.
 
 Example:
