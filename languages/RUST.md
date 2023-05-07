@@ -1,20 +1,8 @@
-## Alphabetical index of projects in Rust:
-
-|         |         |         |         |         |         |         |
-| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) |
-| [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) |
-| [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) |
-| [W](#w) | [X](#x) | [Y](#y) | [Z](#z) |         |         |         |
-|         |         |         |         |         |         |         |
-
-<br>
-
 ## A
 
 [**Actix**](https://github.com/actix/actix) is a Rust actors framework.
 
----
+<br>
 
 [**Actix web**](https://github.com/actix/actix-web) is a simple, pragmatic and extremely fast web framework for Rust.
 
@@ -34,15 +22,13 @@
 * Includes an asynchronous [HTTP client](https://actix.rs/actix-web/actix_web/client/index.html)
 * Built on top of [Actix actor framework](https://github.com/actix/actix)
 
----
+<br>
 
 [**Alacritty**](https://github.com/jwilm/alacritty) is focused on simplicity and performance. The performance goal means it should be faster than any other terminal emulator available. The simplicity goal means that it doesn't have many features like tabs or scroll back as in other terminals. Instead, it is expected that users of Alacritty make use of a terminal multiplexer such as tmux.
 
 This initial release should be considered to be pre-alpha software--it will have issues. Once Alacritty reaches an alpha level of readiness, precompiled binaries will be provided for supported operating systems.
 
-![screen](https://cloud.githubusercontent.com/assets/4285147/21585004/2ebd0288-d06c-11e6-95d3-4a2889dbbd6f.png)
-
----
+<br>
 
 [**Amethyst**](https://github.com/amethyst/amethyst) is a data-driven and data-oriented game engine aiming to be fast and as configurable as possible written in Rust.
 
@@ -57,15 +43,7 @@ This initial release should be considered to be pre-alpha software--it will have
 
 [**bat**](https://github.com/sharkdp/bat) is a `cat` replacement with extended features like syntax highlighting and git integration.
 
-Syntax highlighting:
-
-![syntax highlighting](https://camo.githubusercontent.com/9d3d89364f2cc83ace8f29646a6236bc15ea1da0/68747470733a2f2f696d6775722e636f6d2f724773646e44652e706e67)
-
-Git integration:
-
-![git integration](https://camo.githubusercontent.com/67e44f4a68150325f74b3a46820b7473ff7b91a6/68747470733a2f2f692e696d6775722e636f6d2f326c53573452452e706e67)
-
----
+<br>
 
 [**bevy**](https://github.com/bevyengine/bevy) is a refreshingly simple data-driven game engine built in Rust.
 
@@ -73,11 +51,11 @@ Git integration:
 
 [**Clippy**](https://github.com/rust-lang/rust-clippy) is a collection of lints to catch common mistakes and improve your Rust code.
 
----
+<br>
 
 [**coreutils**](https://github.com/uutils/coreutils) is an attempt at writing universal (as in cross-platform) CLI utils in Rust. This repo is to aggregate the GNU coreutils rewrites.
 
----
+<br>
 
 [**Cursive**](https://github.com/gyscos/Cursive)  is a TUI (Text User Interface) library for rust, which allows you to build rich user interfaces for terminal applications.
 
@@ -103,25 +81,19 @@ fn main() {
 }
 ```
 
-Result:
-
-![](https://raw.githubusercontent.com/gyscos/Cursive/master/doc/cursive_example.png)
-
 ## D
 
 [**Deno**](https://github.com/denoland/deno) is a simple, modern and secure runtime for JavaScript, TypeScript, and WebAssembly that uses V8 and is built in Rust.
 
-[**Diesel**](https://github.com/diesel-rs/diesel) gets rid of the boilerplate for database interaction and eliminates runtime errors, without sacrificing performance. It takes full advantage of Rust's type system to create a low overhead query builder that "feels like Rust".
+<br>
 
-![diesel](https://camo.githubusercontent.com/69d97ac8a4dbf2dbb46ad66eda5b8cc6dc170eb7/687474703a2f2f64696573656c2e72732f6173736574732f696d616765732f64696573656c5f6c6f676f5f737461636b65645f626c61636b2e706e67)
+[**Diesel**](https://github.com/diesel-rs/diesel) gets rid of the boilerplate for database interaction and eliminates runtime errors, without sacrificing performance. It takes full advantage of Rust's type system to create a low overhead query builder that "feels like Rust".
 
 ## E
 
 [**exa**](https://the.exa.website/) is a replacement for `ls` written in Rust.
 
-![](https://raw.githubusercontent.com/ogham/exa/master/screenshots.png)
-
----
+<br>
 
 [**Exonum**](https://github.com/exonum/exonum) is an extensible open-source framework for creating blockchain applications. Exonum can be used to create cryptographically powered distributed ledgers in virtually any problem domain, including FinTech, GovTech, and LegalTech. The Exonum framework is oriented towards creating permissioned blockchains, that is, blockchains with the known set of blockchain infrastructure providers.
 
@@ -144,7 +116,7 @@ Features:
   `find` :-).
 * Parallel command execution with a syntax similar to GNU Parallel.
 
----
+<br>
 
 [**fselect**](https://github.com/jhspetersson/fselect) is a command-line tool to search files with SQL-like queries.
 
@@ -177,7 +149,7 @@ Why use fselect? Because it has these nice features:
 - Provide a low barrier to entry
 - Are language agnostic
 
----
+<br>
 
 [**hyper**](https://github.com/hyperium/hyper) is a fast, modern HTTP implementation written in and for Rust. It is a low-level typesafe abstraction over raw HTTP, providing an elegant layer over "stringly-typed" HTTP.
 
@@ -228,11 +200,11 @@ fn main() {
 }
 ```
 
----
+<br>
 
 [**nom**](https://github.com/Geal/nom) is a parser combinators library written in Rust. Its goal is to provide tools to build safe parsers without compromising the speed or memory consumption. To that end, it uses extensively Rust's strong typing, zero copy parsing, push streaming, pull streaming, and provides macros and traits to abstract most of the error prone plumbing.
 
----
+<br>
 
 [**nushell**](https://github.com/nushell/nushell) - A modern shell for the GitHub era.
 ![](https://github.com/nushell/nushell/blob/master/images/nushell-autocomplete.gif)
@@ -245,23 +217,21 @@ fn main() {
 
 [**RACER**](https://github.com/racer-rust/racer) is a utility intended to provide Rust code completion for editors and IDEs. Maybe one day the 'er' bit will be exploring + refactoring or something.
 
----
+<br>
 
 [**Rayon**](https://github.com/rayon-rs/rayon) is a data-parallelism library for Rust. It is extremely lightweight and makes it easy to convert a sequential computation into a parallel one. It also guarantees data-race freedom.
 
----
+<br>
 
 [**redox**](https://github.com/redox-os/redox)  —  an operating system written in Rust, a language with focus on safety and high performance. Redox, following the microkernel design, aims to be secure, usable, and free. Redox is inspired by previous kernels and operating systems, such as SeL4, Minix, Plan 9, and BSD.
 
----
+<br>
 
 [**ripgrep**](https://github.com/BurntSushi/ripgrep) — a line oriented search tool that combines the usability of The Silver Searcher (similar to ack) with the raw speed of GNU grep. ripgrep works by recursively searching your current directory for a regex pattern. ripgrep has first class support on Windows, Mac and Linux, with binary downloads available for every release.
 
 Detailed benchmarks [show](http://blog.burntsushi.net/ripgrep/) that it is the fastest avaiable tool of this kind.
 
-![ripgrep](http://burntsushi.net/stuff/ripgrep1.png)
-
----
+<br>
 
 [**Rocket**](https://github.com/SergioBenitez/Rocket) is web framework for Rust (nightly) with a focus on ease-of-use, expressibility, and speed. Here's an example of a complete Rocket application:
 
@@ -280,7 +250,8 @@ fn main() {
     rocket::ignite().mount("/hello", routes![hello]).launch();
 }
 ```
----
+
+<br>
 
 [**rustup**](https://github.com/rust-lang-nursery/rustup.rs) installs The Rust Programming Language from the official release channels, enabling you to easily switch between stable, beta, and nightly compilers and keep them updated. It makes cross-compiling simpler with binary builds of the standard library for common platforms. And it runs on all platforms Rust supports, including Windows.
 
@@ -319,11 +290,11 @@ fn main() {
 }
 ```
 
----
+<br>
 
 [**Servo**](https://github.com/servo/servo) is a prototype web browser engine written in the Rust language. It is currently developed on 64-bit macOS, 64-bit Linux, 64-bit Windows, and Android..
 
----
+<br>
 
 [**sled**](https://github.com/spacejam/sled) - likes eating data: alpha modern embedded database.
 
@@ -336,7 +307,7 @@ fn main() {
 * cpu-scalable lock-free implementation
 * SSD-optimized log-structured storage
 
----
+<br>
 
 [**Starship**](https://github.com/starship/starship) is a minimal, blazing-fast, and infinitely customizable prompt for any shell.
 
@@ -347,14 +318,7 @@ fn main() {
 - **Feature rich:** support for all your favorite tools.
 - **Easy:** quick to install – start using it in minutes.
 
-<img
-  src="https://raw.githubusercontent.com/starship/starship/master/media/demo.gif"
-  alt="Starship with iTerm2 and the Snazzy theme"
-  width="70%"
-  align="center"
-/>
-
----
+<br>
 
 [**stdweb**](https://github.com/koute/stdweb) is a set of bindings to the client-side Web APIs which makes it easy to interact with the DOM, embed JavaScript code directly into Rust and to marshal data between the two. Supports WebAssembly.
 
@@ -378,12 +342,6 @@ button.add_event_listener( move |_: ClickEvent| {
     }
 });
 ```
-
-<p align="center">
-    <a href="https://github.com/koute/stdweb">
-        <img src="https://github.com/koute/stdweb/raw/master/info/logo.png">
-    </a>
-</p>
 
 ## T
 
