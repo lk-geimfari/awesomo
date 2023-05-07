@@ -27,7 +27,6 @@ If you are interested in [Open Source](https://en.wikipedia.org/wiki/Open-source
  - [Kotlin](languages/KOTLIN.md)
  - [Lua](languages/LUA.md)
  - [OCaml](languages/OCAML.md)
- - [PHP](languages/PHP.md)
  - [Python](languages/PYTHON.md)
  - [R](languages/R.md)
  - [Ruby](languages/RUBY.md)
