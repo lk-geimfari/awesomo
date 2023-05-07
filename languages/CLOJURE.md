@@ -2,8 +2,6 @@
 
 [**4clojure**](https://github.com/4clojure/4clojure) is an interactive problem website for learning Clojure
 
-<img src="https://pbs.twimg.com/profile_images/1564188249/4clj-gus_400x400.png" width=180>
-
 ## A
 
 [**Aleph**](https://github.com/ztellman/aleph) exposes data from the network as a Manifold stream, which can easily be transformed into a java.io.InputStream, core.async channel, Clojure sequence, or many other byte representations. It exposes simple default wrappers for HTTP, TCP, and UDP, but allows access to full performance and flexibility of the underlying Netty library.
