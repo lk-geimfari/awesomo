@@ -1,15 +1,3 @@
-## Alphabetical index of projects in Clojure:
-
-|       |       |       |       |       |       |       |
-|---    |---    |---    |---    |---    |---    |    ---|
-|[4](#4)|[A](#a)|[B](#b)|[C](#c)|[D](#d)|[E](#e)|[F](#f)|
-|[G](#g)|[H](#h)|[I](#i)|[J](#j)|[K](#k)|[L](#l)|[M](#m)|
-|[N](#n)|[O](#o)|[P](#p)|[Q](#q)|[R](#r)|[S](#s)|[T](#t)|
-|[U](#u)|[V](#v)|[W](#w)|[X](#x)|[Y](#y)|[Z](#z)|       |
-|       |       |       |       |       |       |       |
-
-<br>
-
 ## 4
 
 [**4clojure**](https://github.com/4clojure/4clojure) is an interactive problem website for learning Clojure
@@ -19,8 +7,6 @@
 ## A
 
 [**Aleph**](https://github.com/ztellman/aleph) exposes data from the network as a Manifold stream, which can easily be transformed into a java.io.InputStream, core.async channel, Clojure sequence, or many other byte representations. It exposes simple default wrappers for HTTP, TCP, and UDP, but allows access to full performance and flexibility of the underlying Netty library.
-
-![aleph](https://cdn-images-1.medium.com/max/720/0*5fSwMgOlFvdKvvKR.png)
 
 ## B
 
@@ -35,8 +21,6 @@
 * **Interop** with commonly used classes (`System`, `File`, `java.time.*`, `java.nio.*`)
 * **Multi-threading** support (`pmap`, `future`)
 * **Batteries included** (tools.cli, cheshire, ...)
-
-![bb](https://github.com/borkdude/babashka/raw/master/logo/babashka.svg)
 
 ## C
 
@@ -79,29 +63,24 @@ Encoding example:
 ;; => "{\"FOO\":\"bar\"}"
 ```
 
----
+<br>
+
 [**clojure-lsp**](https://github.com/clojure-lsp/clojure-lsp) is a [LSP](https://microsoft.github.io/language-server-protocol/) server implementation for multiple IDEs written in clojure
 
-<img src="https://user-images.githubusercontent.com/7820865/103157675-3da6b700-4794-11eb-9771-d2da1dd9b7a7.png" width=180>
+<br>
 
----
 [**clojurescript**](https://github.com/clojure/clojurescript) is a compiler for Clojure that targets JavaScript. It is designed to emit JavaScript code which is compatible with the advanced compilation mode of the Google Closure optimizing compiler.
 Official web site: [https://clojurescript.org](https://clojurescript.org/)
 
-<img src="https://raw.githubusercontent.com/github/explore/b1c13b29315ff30876640afcef2cc122680a3c6c/topics/clojurescript/clojurescript.png" width=180>
+<br>
 
----
 [**clojure-koans**](https://github.com/functional-koans/clojure-koans) are a fun way to get started with Clojure - no experience assumed or required. Clojure Koans are exercises meant to initiate you to the mysteries of the Clojure language. By following along the path set before you, you will touch on all the major aspects of the language, from simple datatypes to macros, from tail recursion to Java interoperability. Many will find Clojure quite different from any programming language they've used before. The koans' incremental, interactive approach to learning the language will help make the transition feel natural. By the time you are finished with them, Clojure will not be so mysterious at all.
 
-<img src="https://avatars3.githubusercontent.com/u/458337?s=400&v=4" width=180>
-
----
+<br>
 
 [**clojupyter**](https://github.com/clojupyter/clojupyter) is a Jupyter kernel for Clojure - run Clojure code in Jupyter Lab, Notebook and Console.
 
-<img src="https://raw.githubusercontent.com/clojupyter/clojupyter/master/resources/clojupyter/assets/logo-350x80.png" width=180>
-
----
+<br>
 
 [**compojure**](https://github.com/weavejester/compojure)  —  a small routing library for Ring that allows web applications to be composed of small, independent parts.
 
@@ -119,13 +98,13 @@ This small Compojure application demonstrates creating a Ring handler from two r
 ---
 [**Cryogen**](http://cryogenweb.org/) is a simple static site generator built with Clojure. It's shipped on Leiningen so setup is fuss free and there's no need to mess with databases or other CMS systems.
 
-![Cryogen Logo](https://avatars1.githubusercontent.com/u/10539940?s=200&v=4)
+<br>
 
 ## D
 
 [**Datascript**](https://github.com/tonsky/datascript)  —  an immutable in-memory database and Datalog query engine in Clojure and ClojureScript.
 
-![datascript](https://cdn-images-1.medium.com/max/720/1*VcZuVmpc41Vduc3ZUFXz3g.png)
+<br>
 
 ## H
 
@@ -172,13 +151,9 @@ Checkout [Klipse blog with interactive code snippets](http://blog.klipse.tech/) 
 
 [**Luminus**](http://www.luminusweb.net/) is a Clojure micro-framework based on a set of lightweight libraries. It aims to provide a robust, scalable, and easy to use platform. 
 
-![Luminus Logo](https://avatars1.githubusercontent.com/u/9609230?s=200&v=4)
-
 ## M
 
 [**Metabase**](https://github.com/metabase/metabase) is the easy, open source way for everyone in your company to ask questions and learn from data.
-
-![metabase](https://cdn-images-1.medium.com/max/720/0*1hEfM4l394n4NlkR.png)
 
 ## O
 
@@ -214,8 +189,6 @@ Checkout [Klipse blog with interactive code snippets](http://blog.klipse.tech/) 
 
 ## S
 
-[![](https://raw.githubusercontent.com/lk-geimfari/secrets.clj/master/.github/logo-medium.png)](https://github.com/lk-geimfari/secrets.clj)
-
 The [`secrets`](https://github.com/lk-geimfari/secrets.clj) is a library designed to generate cryptographically strong random numbers suitable for managing data such as passwords, account authentication, security tokens, and related secrets.
 
 The [`secrets`](https://github.com/lk-geimfari/secrets.clj) is an implementation of the [`secrets`](https://docs.python.org/3/library/secrets.html) 
@@ -223,7 +196,7 @@ module from Python's standard library for Clojure.
 
 See [«Recipes and best practices»](#recipes-and-best-practices) for usage examples.
 
----
+<br>
 
 [**Selmer**](https://github.com/yogthos/Selmer). A fast, Django inspired template system for Clojure.
 
