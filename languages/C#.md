@@ -1,15 +1,3 @@
-## Alphabetical index of projects in C35:
-
-|       |       |       |       |       |       |       |
-|---    |---    |---    |---    |---    |---    |    ---|
-|[A](#a)|[B](#b)|[C](#c)|[D](#d)|[E](#e)|[F](#f)|[G](#g)|
-|[H](#h)|[I](#i)|[J](#j)|[K](#k)|[L](#l)|[M](#m)|[N](#n)|
-|[O](#o)|[P](#p)|[Q](#q)|[R](#r)|[S](#s)|[T](#t)|[U](#u)|
-|[V](#v)|[W](#w)|[X](#x)|[Y](#y)|[Z](#z)|       |       |
-|       |       |       |       |       |       |       |
-
-<br>
-
 ## A
 
 [**alba**](https://github.com/JasperFx/alba) is a tool for better integration testing against ASP.Net Core applications.
@@ -27,12 +15,6 @@
 [**AutoMapper**](https://github.com/AutoMapper/AutoMapper) is a convention-based object-object mapper in .NET.
 
 <br>
-
-<p align="center">
-  <a href="https://github.com/AvaloniaUI/Avalonia/" targt="_blank">
-    <img src="https://user-images.githubusercontent.com/6759207/84897744-cab6d800-b0ae-11ea-8214-e5174d71f5c8.png" width="300"/>
-  </a>
-</p>
 
 [**Avalonia**](https://github.com/AvaloniaUI/Avalonia/) is a cross-platform XAML-based UI 
 framework providing a flexible styling system and supporting a wide range of Operating Systems 
