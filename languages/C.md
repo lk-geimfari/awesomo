@@ -1,22 +1,4 @@
-## Alphabetical index of projects in C:
-
-|       |       |       |       |       |       |       |
-|---    |---    |---    |---    |---    |---    |    ---|
-|[A](#a)|[B](#b)|[C](#c)|[D](#d)|[E](#e)|[F](#f)|[G](#g)|
-|[H](#h)|[I](#i)|[J](#j)|[K](#k)|[L](#l)|[M](#m)|[N](#n)|
-|[O](#o)|[P](#p)|[Q](#q)|[R](#r)|[S](#s)|[T](#t)|[U](#u)|
-|[V](#v)|[W](#w)|[X](#x)|[Y](#y)|[Z](#z)|       |       |
-|       |       |       |       |       |       |       |
-
-<br>
-
 ## G
-
-<p align="center">
-  <a href="https://github.com/GNOME/gimp" targt="_blank">
-    <img src="https://www.gimp.org/images/wilbericon.svg" width="200"/>
-  </a>
-</p>
 
 [**GIMP**](https://github.com/GNOME/gimp) is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems. It is free software, you can change its source code and distribute your changes.
 
@@ -29,21 +11,9 @@ Whether you are a graphic designer, photographer, illustrator, or scientist, GIM
 
 ## K
 
-<p align="center">
-  <a href="https://github.com/jorisvink/kore" targt="_blank">
-    <img src="https://kore.io/images/logo-front.png" width="370"/>
-  </a>
-</p>
-
 [**Kore**](https://github.com/jorisvink/kore) is an easy to use web application framework for writing scalable web APIs in C. Its main goals are security, scalability and allowing rapid development and deployment of such APIs.
 
 ## L
-
-<p align="center">
-  <a href="https://github.com/libuv/libuv" targt="_blank">
-    <img src="https://raw.githubusercontent.com/libuv/libuv/master/img/banner.png" width="370"/>
-  </a>
-</p>
 
 [**libuv**](https://github.com/libuv/libuv) is a multi-platform support library with a focus on asynchronous I/O. It was primarily developed for use by Node.js, but it's also used by Luvit, Julia, pyuv, and others.
 
@@ -89,33 +59,15 @@ your own itches and making Lwan hum the way you want it to is possible.
 
 ## N
 
-<p align="center">
-  <a href="https://github.com/slact/nchan" targt="_blank">
-    <img src="https://nchan.io/img/nchan_logo.png" width="300"/>
-  </a>
-</p>
-
 [**Nchan**](https://github.com/slact/nchan) is a scalable, flexible pub/sub server for the modern web, built as a module for the Nginx web server. It can be configured as a standalone server, or as a shim between your application and hundreds, thousands, or millions of live subscribers. It can buffer messages in memory, on-disk, or via Redis. All connections are handled asynchronously and distributed among any number of worker processes. It can also scale to many Nginx servers with Redis.
 
----
-
-<p align="center">
-  <a href="https://github.com/firehol/netdata" targt="_blank">
-    <img src="https://user-images.githubusercontent.com/1153921/95268672-a3665100-07ec-11eb-8078-db619486d6ad.png" width="350"/>
-  </a>
-</p>
+<br>
 
 [**netdata**](https://github.com/firehol/netdata) is a system for distributed real-time performance and health monitoring. It provides unparalleled insights, in real-time, of everything happening on the system it runs (including applications such as web and database servers), using modern interactive web dashboards.
 
 netdata is fast and efficient, designed to permanently run on all systems (physical & virtual servers, containers, IoT devices), without disrupting their core function.
 
----
-
-<p align="center">
-  <a href="https://github.com/numpy/numpy" targt="_blank">
-    <img src="https://numpy.org/images/logo.svg" width="250"/>
-  </a>
-</p>
+<br>
 
 [**NumPy**](https://github.com/numpy/numpy) is the fundamental package needed for scientific computing with Python.
 This package contains:
@@ -127,7 +79,6 @@ This package contains:
 
 It derives from the old Numeric code base and can be used as a replacement for Numeric. It also adds the features introduced by numarray and can be used to replace numarray.
 
----
 
 ## S
 
