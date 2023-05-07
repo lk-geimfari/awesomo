@@ -1,20 +1,6 @@
-## Alphabetical index of projects in OCAML:
-
-|       |       |       |       |       |       |       |
-|---    |---    |---    |---    |---    |---    |    ---|
-|[A](#a)|[B](#b)|[C](#c)|[D](#d)|[E](#e)|[F](#f)|[G](#g)|
-|[H](#h)|[I](#i)|[J](#j)|[K](#k)|[L](#l)|[M](#m)|[N](#n)|
-|[O](#o)|[P](#p)|[Q](#q)|[R](#r)|[S](#s)|[T](#t)|[U](#u)|
-|[V](#v)|[W](#w)|[X](#x)|[Y](#y)|[Z](#z)|       |       |
-|       |       |       |       |       |       |       |
-
-<br>
-
-## C
+# # C
 
 [**Coq**](https://github.com/coq/coq) is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
-
-![coq](https://cdn-images-1.medium.com/max/720/0*aPH6qIRV-1xlUZat.png)
 
 ## F
 
