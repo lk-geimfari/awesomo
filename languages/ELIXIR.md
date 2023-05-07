@@ -1,48 +1,22 @@
-## Alphabetical index of projects in Elixir
-
-|       |       |       |       |       |       |       |
-|---    |---    |---    |---    |---    |---    |    ---|
-|[A](#a)|[B](#b)|[C](#c)|[D](#d)|[E](#e)|[F](#f)|[G](#g)|
-|[H](#h)|[I](#i)|[J](#j)|[K](#k)|[L](#l)|[M](#m)|[N](#n)|
-|[O](#o)|[P](#p)|[Q](#q)|[R](#r)|[S](#s)|[T](#t)|[U](#u)|
-|[V](#v)|[W](#w)|[X](#x)|[Y](#y)|[Z](#z)|       |       |
-|       |       |       |       |       |       |       |
-
-<br>
-
 ## A
 
 [**Azimutt**](https://github.com/azimuttapp/azimutt) - Powerful database explorer, open-source and privacy-friendly
-
-<a href="https://azimutt.app" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azimuttapp/azimutt/main/backend/priv/static/images/logo_light.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azimuttapp/azimutt/main/backend/priv/static/images/logo_dark.svg">
-    <img alt="Azimutt logo" src="https://raw.githubusercontent.com/azimuttapp/azimutt/main/backend/priv/static/images/logo_dark.svg">
-  </picture>
-</a>
-
----
 
 ## B
 
 [**Bandit**](https://github.com/mtrudel/bandit) - a pure Elixir web server supporting HTTP1, HTTP2 and WebSockets connections.
 
-[**broadway**](https://github.com/dashbitco/broadway) Concurrent and multi-stage data ingestion and data processing with Elixir.
+<br>
 
----
+[**broadway**](https://github.com/dashbitco/broadway) Concurrent and multi-stage data ingestion and data processing with Elixir.
 
 ## C
 
 [**cachex**](https://github.com/whitfin/cachex) A powerful caching library for Elixir with support for transactions, fallbacks and expirations.
 
----
+<br>
 
 [**credo**](https://github.com/rrrene/credo)  —  a static code analysis tool for the Elixir language with a focus on teaching and code consistency.
-
-![credo](https://cdn-images-1.medium.com/max/720/0*wJ4w0yXU-HCsyPdt.)
-
----
 
 ## D
 
@@ -51,15 +25,17 @@ Every alchemist requires good tools, and one of the greatest tools in the alchem
 
 This is a pure-Elixir, dependency-free implementation of release generation for Elixir projects. It is currently a standalone package, but may be integrated into Mix at some point in the future.
 
----
-
 ## E
 
 [**Ecto**](https://github.com/elixir-ecto/ecto). A toolkit for data mapping and language integrated query.
 
 Ecto is commonly used to interact with databases, such as PostgreSQL and MySQL via `Ecto.Adapters.SQL` (source code). Ecto is also commonly used to map data from any source into Elixir structs, whether they are backed by a database or not.
 
+<br>
+
 [**Elixir XDR**](https://github.com/kommitters/elixir_xdr) is an open data format, specified in [RFC 4506](http://tools.ietf.org/html/rfc4506.html). This library provides a way to decode and encode XDR data from Elixir. Extend with ease to other XDR types.
+
+<br>
 
 [**ExVCR**](https://github.com/parroty/exvcr). Record and replay HTTP interactions library for elixir. It's inspired by Ruby's VCR (https://github.com/vcr/vcr), and trying to provide similar functionalities.
 
@@ -79,22 +55,18 @@ Basics
 - HTTP interactions are recorded as JSON file.
     - The JSON file can be recorded automatically (vcr_cassettes) or manually updated (custom_cassettes)
 
----
-
 ## F
 
 [**Faker**](https://github.com/igas/faker) is a pure Elixir library for generating fake data.
 
----
+<br>
 
 [**Firezone**](https://github.com/firezone/firezone) is a remote access manager written in Elixir.
 * Manage remote access through an intuitive web interface and CLI utility.
 * Deploy on your own infrastructure to keep control of your network traffic.
 * Built on WireGuard® to be stable, performant, and lightweight.
 
-<img src="https://user-images.githubusercontent.com/52545545/173246039-a1b37ef2-d885-4535-bca7-f5cd57da21a2.png" width="500"/>
-
----
+<br>
 
 [**Floki**](https://github.com/philss/floki) is a simple HTML parser that enables search for nodes using CSS selectors.
 
@@ -156,8 +128,6 @@ Floki.find(html, ".headline, a")
 # =>  {"a", [{"href", "https://hex.pm/packages/floki"}], ["Hex package"]}]
 ```
 
----
-
 ## G
 
 [**guardian**](https://github.com/ueberauth/guardian)  —  an authentication framework for use with Elixir applications.
@@ -166,35 +136,23 @@ Guardian is based on similar ideas to Warden but is re-imagined for modern syste
 Guardian remains a functional system. It integrates with Plug, but can be used outside of it. If you’re implementing a TCP/UDP protocol directly, or want to utilize your authentication via channels, Guardian is your friend.
 The core currency of authentication in Guardian is JSON Web Tokens (JWT). You can use the JWT to authenticate web endpoints, channels, and TCP sockets and it can contain any authenticated assertions that the issuer wants to include.
 
----
-
 ## H
 
 [**httpoison** ](https://github.com/edgurgel/httpoison) —  yet another HTTP client for Elixir powered by hackney.
 
-![httpoison](https://camo.githubusercontent.com/e7895297ccdfb59b971ea721eb617dc0faa9d94d/687474703a2f2f692e696d6775722e636f6d2f5777714e384a4f2e706e67)
-
 ## K
-
----
 
 [**kitto** ](https://github.com/kittoframework/kitto) —  a framework to help you create dashboards, written in Elixir/React.
 
-![kitto](https://camo.githubusercontent.com/fd5296f52cb944cc4bbec6b62f98bd395488bf84/687474703a2f2f692e696d6775722e636f6d2f59675a696258552e706e67)
-
----
 
 ## P
 
 [**Phoenix**](http://www.phoenixframework.org/)  —  Productive. Reliable. Fast. A productive web framework that does not compromise speed and maintainability.
 
-![phoenix](https://raw.githubusercontent.com/phoenixframework/phoenix/master/priv/static/phoenix.png)
+<br>
 
 [**Plausible**](https://github.com/plausible/analytics)  -  Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
-![plausible](https://raw.githubusercontent.com/plausible/analytics/master/assets/static/images/icon/plausible_logo.png)
-
----
 
 ## Q
 
@@ -204,9 +162,13 @@ The core currency of authentication in Guardian is JSON Web Tokens (JWT). You ca
 
 [**Stellar Base**](https://github.com/kommitters/stellar_base) is an Elixir library that provides a complete set of functions to read, write, hash, and sign XDR constructs used in [stellar-core](https://github.com/stellar/stellar-core).
 
+<br>
+
 [**Stellar SDK**](https://github.com/kommitters/stellar_sdk) enables the construction, signing and encoding of Stellar [transactions](https://developers.stellar.org/docs/glossary/transactions) and [operations](https://developers.stellar.org/docs/start/list-of-operations) in **Elixir**, as well as provides a client for interfacing with [Horizon](https://developers.stellar.org/api/introduction) server REST endpoints to retrieve ledger information, and to submit transactions.
 
 This library is aimed at developers building Elixir applications that interact with the [**Stellar network**](https://www.stellar.org/).
+
+<br>
 
 [**Swoosh**](https://github.com/swoosh/swoosh) - Compose, deliver and test your emails easily in Elixir
 Swoosh comes with many adapters, including SendGrid, Mandrill, Mailgun, Postmark and SMTP.
@@ -245,5 +207,3 @@ Here’s a few simple examples:
 > Timex.parse!(strftime_str, "%FT%T%:z", :strftime)
 #<DateTime(2016-02-29T12:30:30.120+00:00 Etc/Utc)
 ```
-
----
