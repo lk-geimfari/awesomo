@@ -1,15 +1,3 @@
-## Alphabetical index of projects in Kotlin:
-
-|       |       |       |       |       |       |       |
-|---    |---    |---    |---    |---    |---    |    ---|
-|[A](#a)|[B](#b)|[C](#c)|[D](#d)|[E](#e)|[F](#f)|[G](#g)|
-|[H](#h)|[I](#i)|[J](#j)|[K](#k)|[L](#l)|[M](#m)|[N](#n)|
-|[O](#o)|[P](#p)|[Q](#q)|[R](#r)|[S](#s)|[T](#t)|[U](#u)|
-|[V](#v)|[W](#w)|[X](#x)|[Y](#y)|[Z](#z)|       |       |
-|       |       |       |       |       |       |       |
-
-<br>
-
 ## A
 
 [**Atrium**](https://atriumlib.org/) is a multiplatform assertion library for Kotlin with support for i18n.
@@ -33,13 +21,10 @@ expect: [1, 2, 3]        (java.util.Arrays$ArrayList <1287934450>)
         ❗❗ additional entries detected: 
            ⚬ entry 2: 3        (kotlin.Int <1741979653>)
 ```    
----
 
 ## C
 
 [**Corda**](https://github.com/corda/corda) is an open source blockchain project, designed for business from the start. Only Corda allows you to build interoperable blockchain networks that transact in strict privacy. Corda's smart contract technology allows businesses to transact directly, with value.
-
----
 
 ## J
 
@@ -50,13 +35,13 @@ expect: [1, 2, 3]        (java.util.Arrays$ArrayList <1287934450>)
 Since KorGE targets the JVM, you can develop your game, try it, debug it and test it using IntelliJ IDEA (including Community, Ultimate and Android Studio) integrated debugger. And then deploy to the other targets by using the provided gradle tasks. You can also use KorGE as a library and for example integrated it in your android-only project. Tons of features out of the box
 KorGE is just the last layer of a larger stack (Korlibs) for multimedia development: Date and Time utilities, Image Loading, Vector Rasterization, Pathfinding, Sound, Data Structures, Fast Memory Access, Virtual File Systems, WebSockets... Also, it is extensible and include several plugins out of the box: DragonBones, Box2D, SWF and Admob. And more coming.
 
----
+<br>
 
 [**KotlinPoet**](https://github.com/square/kotlinpoet) is a Kotlin and Java API for generating .kt source files.
 
 Source file generation can be useful when doing things such as annotation processing or interacting with metadata files (e.g., database schemas, protocol formats). By generating code, you eliminate the need to write boilerplate while also keeping a single source of truth for the metadata.
 
----
+<br>
 
 [**Ktor**](https://github.com/ktorio/ktor) is a framework for quickly creating web applications in Kotlin with minimal effort.
 
@@ -78,8 +63,6 @@ Examples of Kotlin language features used to improve usability, performance and 
 ## T
 
 [**Themis**](https://github.com/cossacklabs/themis) - a multi-platform framework for solving typical data security tasks: secure data storage, secure messaging, zero-knowledge proof authentication, etc. Themis has unified easy-to-use hard-to-misuse API for 14 languages and platforms, so it's a best fit for multi-platform apps and apps with end-to-end encryption. It hides cryptographic details, so developers don't need to know the difference between AES CBC mode and AES GCM mode to encrypt the data. Recommended by OWASP MASVS.
-
----
 
 [**TornadoFX**](https://github.com/edvin/tornadofx) - lightweight JavaFX Framework for Kotlin.
 * Supports both MVC, MVP and their derivatives
