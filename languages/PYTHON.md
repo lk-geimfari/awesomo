@@ -1,105 +1,38 @@
-## Alphabetical index of projects in Python:
-
-|       |       |       |       |       |       |       |
-|---    |---    |---    |---    |---    |---    |    ---|
-|[A](#a)|[B](#b)|[C](#c)|[D](#d)|[E](#e)|[F](#f)|[G](#g)|
-|[H](#h)|[I](#i)|[J](#j)|[K](#k)|[L](#l)|[M](#m)|[N](#n)|
-|[O](#o)|[P](#p)|[Q](#q)|[R](#r)|[S](#s)|[T](#t)|[U](#u)|
-|[V](#v)|[W](#w)|[X](#x)|[Y](#y)|[Z](#z)|       |       |
-|       |       |       |       |       |       |       |
-
-<br>
-
 ## A
 
 [**Apache Airflow**](https://github.com/apache/airflow) is a platform to programmatically author, schedule, and monitor workflows
-
-<p align="center">
-    <a href="https://github.com/apache/airflow">
-        <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png"
-             width="200"
-        >
-    </a>
-</p>
 
 When workflows are defined as code, they become more maintainable, versionable, testable, and collaborative.
 
 Use Airflow to author workflows as directed acyclic graphs (DAGs) of tasks. The Airflow scheduler executes your tasks on an array of workers while following the specified dependencies. Rich command line utilities make performing complex surgeries on DAGs a snap. The rich user interface makes it easy to visualize pipelines running in production, monitor progress, and troubleshoot issues when needed.
 
-<p align="center">
-    <a href="https://airflow.apache.org/docs/apache-airflow/stable/">
-        <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/airflow.gif">
-    </a>
-</p>
-
----
+<br>
 
 [**albumentations**](https://github.com/albumentations-team/albumentations) is a fast image augmentation library and an easy-to-use wrapper around other libraries.
 
-<p align="center">
-    <a href="https://albumentations.ai/">
-        <img src="https://avatars.githubusercontent.com/u/57894582?s=200&v=4">
-    </a>
-</p>
-
-Albumentations is a Python library for image augmentation. Image augmentation is used in deep learning and computer vision tasks to increase the quality of trained models. The purpose of image augmentation is to create new training samples from the existing data.
-
-Here is an example of how you can apply some pixel-level augmentations from Albumentations to create new images from the original one:
-
-<p align="center">
-    <a href="https://github.com/albumentations-team/albumentations">
-        <img src="https://camo.githubusercontent.com/3bb6e4bb500d96ad7bb4e4047af22a63ddf3242a894adf55ebffd3e184e4d113/68747470733a2f2f686162726173746f726167652e6f72672f776562742f62642f6e652f72762f62646e6572763563746b75646d73617a6e687734637273646669772e6a706567">
-    </a>
-</p>
-
----
+<br>
 
 [**asciinema**](https://github.com/asciinema/asciinema) is a terminal session recorder and the best companion of asciinema.org
 
-[![demo](https://asciinema.org/a/335480.svg)](https://asciinema.org/a/335480?autoplay=1)
+<br>
 
----
 [**astropy**](https://github.com/astropy/astropy)  —  a package intended to contain much of the core functionality and some common tools needed for performing astronomy and astrophysics with Python.
 
 Supported: *Python 2/3*
 
-<p align="center">
-    <a href="https://github.com/astropy/astropy">
-        <img src="https://cdn-images-1.medium.com/max/720/0*rMpYXhi1ZuZnSunq.png">
-    </a>
-</p>
+<br>
 
----
 [**attrs**](https://github.com/python-attrs/attrs) is the Python package that will bring back the joy of writing classes by relieving you from the drudgery of implementing object protocols (aka dunder methods).
-
-<p align="center">
-    <a href="https://github.com/python-attrs/attrs">
-        <img src="https://camo.githubusercontent.com/cad2a3dc96384acf8c4beaf30b2a7f4e54bebd50/687474703a2f2f7777772e61747472732e6f72672f656e2f6c61746573742f5f7374617469632f61747472735f6c6f676f2e706e67">
-    </a>
-</p>
 
 ## B
 
 [**BeeWare**](https://beeware.org/)  —  BeeWare is a collection of projects that can be used to help develop, debug and launch Python software. Each tool follows the Unix philosophy of doing one thing well. Each tool can be used in isolation, or they can be chained together to provide a rich set of programming tools.
 
-<p align="center">
-    <a href="https://beeware.org/">
-        <img src="https://beeware.org/static/images/brutus-270.png">
-    </a>
-</p>
-
-
----
+<br>
 
 [**bokeh**](https://github.com/bokeh/bokeh)  —  a Python interactive visualization library, enables beautiful and meaningful visual presentation of data in modern web browsers. With Bokeh, you can quickly and easily create interactive plots, dashboards, and data applications.
 
 Supported: *Python 2/3*
-
-<p align="center">
-    <a href="https://github.com/bokeh/bokeh">
-        <img src="https://cdn-images-1.medium.com/max/720/0*L6wK5yefN55iBsRx.jpg">
-    </a>
-</p>
 
 ## C
 
@@ -109,16 +42,16 @@ It provides a web interface that allows you to monitor services (e.g. "Stage Red
 
 Supported: *Python 2/3*
 
-![Services dashboard](https://dl.dropboxusercontent.com/s/cgpxe3929is2uar/cabot-service-dashboard.png?dl=1&token_hash=AAHrlDisUzWRxpg892LhlKQWFRNSkZKD7l_zdSxND-YKhw)
+<br>
 
----
 [**Calibre**](https://github.com/kovidgoyal/calibre) is a free and open-source ebook manager. It allows you to view, convert and catalog all into your personal library, supporting all common ebook formats. It includes support for all common ebook readers, can automatically fetch metadata for your books and has support for newspapers.
 
 It runs on Windows, Linux and MacOs and has been in active development for over ten years! According to [its usage statistics page](https://calibre-ebook.com/dynamic/calibre-usage) it is used by nearly 3 Million users (5 Oct 2019) plus an unknown number that have disabled statistics.
 
 It also includes a build in server that allows reading your ebooks from anywhere.
 
----
+<br>
+
 [**Catalyst**](https://github.com/catalyst-team/catalyst) – high-level utils for PyTorch DL & RL research.
 It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing. Being able to research/develop something new, rather than write another regular train loop.
 
@@ -137,13 +70,8 @@ Features:
 - PyTorch best practices (SWA, OneCycle with warmup, Ranger optimizer, FP16 and more).
 
 
-<p align="center">
-    <a href="https://github.com/catalyst-team/catalyst">
-        <img src="https://raw.githubusercontent.com/catalyst-team/catalyst-pics/master/pics/catalyst_logo.png">
-    </a>
-</p>
+<br>
 
----
 [**cerberus**](https://github.com/nicolaiarocci/cerberus)  —  a lightweight and extensible data validation library for Python.
 
 Supported: *Python 2/3*
@@ -154,7 +82,8 @@ Supported: *Python 2/3*
 True
 ```
 
----
+<br>
+
 [**Certbot**](https://github.com/certbot/certbot) is part of EFF’s effort to encrypt the entire Internet. Secure communication over the Web relies on HTTPS, which requires the use of a digital certificate that lets browsers verify the identify of web servers (e.g., is that really google.com?). Web servers obtain their certificates from trusted third parties called certificate authorities (CAs). Certbot is an easy-to-use client that fetches a certificate from Let’s Encrypt—an open certificate authority launched by the EFF, Mozilla, and others—and deploys it to a web server.
 
 Anyone who has gone through the trouble of setting up a secure website knows what a hassle getting and maintaining a certificate is. Certbot and Let’s Encrypt can automate away the pain and let you turn on and manage HTTPS with simple commands. Using Certbot and Let's Encrypt is free, so there’s no need to arrange payment.
@@ -165,25 +94,20 @@ If you’re using a hosted service and don’t have direct access to your web se
 
 Certbot is a fully-featured, extensible client for the Let's Encrypt CA (or any other CA that speaks the ACME protocol) that can automate the tasks of obtaining certificates and configuring webservers to use them. This client runs on Unix-based operating systems.
 
-<p align="center">
-    <a href="https://github.com/certbot/certbot">
-        <img src="https://certbot.eff.org/images/certbot-logo-1A.svg">
-    </a>
-</p>
+<br>
 
----
 [**Click**](http://click.pocoo.org/5/) - Click is a Python package for creating beautiful command line interfaces in a composable way with as little code as necessary. It’s the “Command Line Interface Creation Kit”. It’s highly configurable but comes with sensible defaults out of the box.
 
 It aims to make the process of writing command line tools quick and fun while also preventing any frustration caused by the inability to implement an intended CLI API.
 
----
+<br>
+
 [**CuPy**](https://github.com/cupy/cupy) is an implementation of NumPy-compatible multi-dimensional array on CUDA.
 CuPy consists of the core multi-dimensional array class, `cupy.ndarray`, and many functions on it.
 It supports a subset of `numpy.ndarray` interface.
 
-<div align="center"><img src="https://raw.githubusercontent.com/cupy/cupy/master/docs/image/cupy_logo_1000px.png" width="400"/></div>
+<br>
 
----
 [**coala**](https://github.com/coala/coala) provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 
 With coala, users can create rules and standards to be followed in the source code. coala has an user-friendly interface that is completely customizable. It can be used in any environment and is completely modular.
@@ -192,46 +116,24 @@ coala has a set of official bears (plugins) for several languages, including pop
 
 Supported: *Python 2/3*
 
-![coala](https://cloud.githubusercontent.com/assets/7521600/15992701/ef245fd4-30ef-11e6-992d-275c5ca7c3a0.jpg)
+<br>
 
----
 [**compose** ](https://github.com/docker/compose) —  a tool for defining and running multi-container Docker applications. With Compose, you use a Compose file to configure your application’s services. Then, using a single command, you create and start all the services from your configuration.
-
-Supported: *Python 2/3*
-
-<p align="center">
-    <a href="https://github.com/docker/compose">
-        <img src="https://cdn-images-1.medium.com/max/720/0*SdJayWyknC_r8Js9.">
-    </a>
-</p>
 
 ## D
 
 [**Django**](https://github.com/django/django) is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
 
-![django](https://www.djangoproject.com/s/img/logos/django-logo-positive.png)
+<br>
 
----
 [**django-split-settings**](https://github.com/sobolevn/django-split-settings)
 
 Organize Django settings into multiple files and directories. Easily override and modify settings. Use wildcards in settings file paths and mark settings files as optional.
 
-<a href="https://github.com/sobolevn/django-split-settings">
-    <p align="center">
-      <img src="https://raw.githubusercontent.com/sobolevn/django-split-settings/master/docs/_static/logo-black.png">
-    </p>
-</a>
+<br>
 
-[**plotly/dash**](https://github.com/plotly/dash)
-
-Dash is a Python framework for building analytical web applications. No JavaScript required.
+[Dash](https://github.com/plotly/dash) is a Python framework for building analytical web applications. No JavaScript required.
 Built on top of Plotly.js, React and Flask, Dash ties modern UI elements like dropdowns, sliders, and graphs directly to your analytical Python code. Read our tutorial proudly crafted heart by Dash itself.
-
-<a href="https://plot.ly/dash/">
-    <p align="center">
-      <img src="https://plotly.cdn.prismic.io/plotly/c0613a8d44f04cc5ec0c438bc28cf9b92c0c3de8_oil-gas-app-2.png">
-    </p>
-</a>
 
 ## E
 
@@ -245,39 +147,20 @@ Instead of using soft-code, Evennia allows you to program using the full power a
 
 Since Evennia is entirely programmed using Python, the tools used by professional developers across the world at your fingertips - no need to learn a new language, and perfect for a beginner. Collaborate with the same tools you're used to for coding, debugging, and version management.
 
-<p align="center">
-    <a href="https://github.com/evennia/evennia">
-        <img src="https://orig09.deviantart.net/a1d8/f/2017/236/a/5/evennia_logo_by_griatch_art-dbl6oip.png" alt="Evennia" width="300" height="300">
-    </a>
-</p>
-
 ## F
 
 [**FastAPI** ](https://github.com/tiangolo/fastapi) —  FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
 
-Supported: *Python 3.6+*
+<br>
 
-<p align="center">
-    <a href="https://fastapi.tiangolo.com"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI"></a>
-</p>
-
----
 [**the fuck** ](https://github.com/nvbn/thefuck) —  is a magnificent app which corrects your previous console command.
 
-Supported: *Python 2/3*
+<br>
 
----
 [**falcon** ](https://github.com/falconry/falcon) —  is a high-performance Python framework for building cloud APIs. It encourages the REST architectural style, and tries to do as little as possible while remaining highly effective.
 
-Supported: *Python 2/3*
+<br>
 
-<p align="center">
-    <a href="https://github.com/falconry/falcon">
-        <img src="https://cdn-images-1.medium.com/max/720/0*q9KGh0C5nrVelow1.png">
-    </a>
-</p>
-
----
 [**Flask**](https://github.com/pallets/flask) is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around Werkzeug and Jinja and has become one of the most popular Python web application frameworks.
 
 Flask offers suggestions, but doesn't enforce any dependencies or project layout. It is up to the developer to choose the tools and libraries they want to use. There are many extensions provided by the community that make adding new functionality easy.
@@ -286,11 +169,11 @@ Flask offers suggestions, but doesn't enforce any dependencies or project layout
 
 [**Glances**](https://github.com/nicolargo/glances) is a cross-platform curses-based system monitoring tool written in Python.
 
-![glences](https://raw.githubusercontent.com/nicolargo/glances/develop/docs/_static/screencast.gif)
+<br>
 
 [**Gradio**](https://github.com/gradio-app/gradio) lets you easily convert your machine learning model into a GUI for demoing, debugging, or deploying.
 
-![gradio](https://github.com/gradio-app/gradio/raw/master/demo/screenshots/montage.gif)
+<br>
 
 [**Graphene**](https://github.com/graphql-python/graphene) GraphQL framework for Python http://graphene-python.org/
 
@@ -298,20 +181,12 @@ Flask offers suggestions, but doesn't enforce any dependencies or project layout
 
 [**hug**](https://github.com/timothycrosley/hug) aims to make developing Python driven APIs as simple as possible, but no simpler. As a result, it drastically simplifies Python API development.
 
-![hug](https://camo.githubusercontent.com/dc3f611ccdd6289ca11478dcb9ec4f9a1742248a/68747470733a2f2f7261772e6769746875622e636f6d2f74696d6f74687963726f736c65792f6875672f646576656c6f702f617274776f726b2f6578616d706c652e676966)
+<br>
 
----
 [**httpie**](https://github.com/jkbrzt/httpie)  —  a command line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. It provides a simple http command that allows for sending arbitrary HTTP requests using a simple and natural syntax, and displays colorized output. HTTPie can be used for testing, debugging, and generally interacting with HTTP servers.
 
-Supported: *Python 2/3*
+<br>
 
-<p align="center">
-    <a href="https://github.com/jkbrzt/httpie">
-        <img src="https://cdn-images-1.medium.com/max/720/0*_Tq3t5elxAb9-VPD.png">
-    </a>
-</p>
-
----
 [**Hypothesis**](http://hypothesis.works) is a powerful testing library. 
 
 It lets you write tests which are parametrized by a source of examples, then generates the 
@@ -379,31 +254,15 @@ Here a small example of a Jinja template:
 
 [**keras**](https://github.com/keras-team/keras)  —  a high-level neural networks library, written in Python and capable of running on top of either TensorFlow or Theano. It was developed with a focus on enabling fast experimentation.
 
-<p align="center">
-    <a href="https://github.com/keras-team/keras">
-        <img src="https://cdn-images-1.medium.com/max/720/0*s57Cx2qO1WZkqNvX.jpg">
-    </a>
-</p>
+<br>
 
----
 [**Khal**](https://github.com/pimutils/khal) is a standards based CLI and terminal calendar program, able to synchronize with CalDAV servers through vdirsyncer.
 
-<p align="center">
-    <a href="https://github.com/pimutils/khal">
-        <img src="https://camo.githubusercontent.com/a372d6b085f1f11909094a69f9653b7f5ba56e2b/687474703a2f2f6c6f73747061636b6574732e64652f696d616765732f6b68616c2e706e67">
-    </a>
-</p>
+<br>
 
----
 [**Kivy**](https://github.com/kivy/kivy) is an open source, cross-platform Python framework for the development of applications that make use of innovative, multi-touch user interfaces. The aim is to allow for quick and easy interaction design and rapid prototyping whilst making your code reusable and deployable.
 
 Kivy is written in Python and Cython, based on OpenGL ES 2, supports various input devices and has an extensive widget library. With the same codebase, you can target Windows, OS X, Linux, Android and iOS. All Kivy widgets are built with multitouch support.
-
-<p align="center">
-    <a href="https://github.com/kivy/kivy">
-        <img src="https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png">
-    </a>
-</p>
 
 ## L
 
@@ -413,13 +272,9 @@ The idea is that during a test, a swarm of locusts will attack your website. The
 
 Locust is completely event-based, and therefore it's possible to support thousands of concurrent users on a single machine. In contrast to many other event-based apps it doesn't use callbacks. Instead it uses light-weight processes, through gevent. Each locust swarming your site is actually running inside its own process (or greenlet, to be correct). This allows you to write very expressive scenarios in Python without complicating your code with callbacks.
 
-Supported: *Python 2/3*
-
 ## M
 
 [**manim**](https://github.com/3b1b/manim) is an animation engine for explanatory math videos. It is used to create precise animations programmatically, as seen in the videos at [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw).
-
-![manim](https://github.com/3b1b/manim/blob/master/logo/cropped.png?raw=true)
 
 Example:
 ```python
@@ -437,7 +292,8 @@ class SquareToCircle(Scene):
         self.play(FadeOut(square))
 ```
 
----
+<br>
+
 [**marshmallow**](https://github.com/marshmallow-code/marshmallow) is an ORM/ODM/framework-agnostic library for converting complex datatypes, such as objects, to and from native Python datatypes.
 
 Example:
@@ -465,12 +321,12 @@ pprint(result.data, indent=2)
 #   'title': 'Hunky Dory'}
 ```
 
----
+<br>
+
 [**matplotlib**](https://github.com/matplotlib/matplotlib) is a Python 2D plotting library which produces publication-quality figures in a variety of hardcopy formats and interactive environments across platforms. matplotlib can be used in Python scripts, the Python and IPython shell (ala MATLAB or Mathematica), web application servers, and various graphical user interface toolkits.
 
-![matplotlib](http://matplotlib.org/_static/logo2.svg)
+<br>
 
---
 [**Maya**](https://github.com/timofurrer/maya). Datetimes are very frustrating to work with in Python, especially when dealing with different locales on different systems. This library exists to make the simple things much easier, while admitting that time is an illusion (timezones doubly so).
 
 Supported: *Python 3*
@@ -514,15 +370,9 @@ datetime.datetime(2016, 12, 16, 13, 23, 45, 423992)
 UTC
 ```
 
----
+<br>
+
 [**Mimesis**](https://github.com/lk-geimfari/mimesis) is a fast and easy to use library for Python, which helps generate mock data for a variety of purposes. This data can be particularly useful during software development and testing. For example, it could be used to populate a testing database for a web application (Django, Flask, etc.) with user information such as email addresses, usernames, first names, last names, etc. The library was written with the use of tools from the standard Python library, and therefore, it does not have any side dependencies. Currently the library supports 33 languages and 22 class providers, supplying various data.
-
-
-<a href="https://github.com/lk-geimfari/mimesis/">
-    <p align="center">
-      <img src="https://raw.githubusercontent.com/lk-geimfari/mimesis/master/.github/images/readme-logo.png">
-    </p>
-</a>
 
 Basic Usage:
 
@@ -556,7 +406,8 @@ Using locales:
 'Rósa Þórlindsdóttir'
 ```
 
----
+<br>
+
 [**MoviePy**](https://github.com/Zulko/moviepy)
 
 MoviePy is a python library that lets you edit videos ranging from basic operations like cut, concatenations, title insertions to more advanced operations like creating Gifs, add credits, and also add custom drawings to frames. 
@@ -580,37 +431,17 @@ result = CompositeVideoClip([video, txt_clip]) # Overlay text on video
 result.write_videofile("myHolidays_edited.webm",fps=25) # Many options...
 ```
 
-<a href="https://github.com/Zulko/moviepy">
-    <p align="center">
-      <img src="https://zulko.github.io/moviepy/_images/logo.png">
-    </p>
-</a>
+<br>
 
----
 [**mycli**](https://github.com/dbcli/mycli) - a command line client for MySQL that can do auto-completion and syntax highlighting.
 
-![mycli](https://raw.githubusercontent.com/dbcli/mycli/master/screenshots/main.gif)
+<br>
 
----
 [**mypy**](https://github.com/python/mypy) is an optional static type checker for Python. You can add type hints ([PEP 484](https://www.python.org/dev/peps/pep-0484/)) to your Python programs, and use mypy to type check them statically. Find bugs in your programs without even running them!
-
-<a href="https://github.com/python/mypy/">
-    <p align="center">
-      <img src="https://user-images.githubusercontent.com/12005495/29493671-1c07a672-859b-11e7-89d1-eef0cf7c922b.png">
-    </p>
-</a>
 
 ## N
 
 [**NumPy**](https://numpy.org/) is the fundamental package for scientific computing with Python. Many scientific and machine learning packages are built on top of NumPy. Some key features of NumPy include multi-dimensional arrays and matrices, high-level mathematical functions for array operations, and tools for integrating C/C++ and Fortran code.
-
-Supported: *Python 2/3*
-
-<p align="center">
-    <a href="https://numpy.org">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1200px-NumPy_logo.svg.png">
-    </a>
-</p>
 
 ## O
 [**Odoo**](https://github.com/odoo/odoo) Odoo is a suite of web based open source business apps.
@@ -629,9 +460,8 @@ Site: https://www.odoo.com
 
 [**Pandas**](https://github.com/pandas-dev/pandas) is a Python package providing fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real world data analysis in Python. Additionally, it has the broader goal of becoming the most powerful and flexible open source data analysis / manipulation tool available in any language. It is already well on its way toward this goal.
 
-![pandas](https://pandas.pydata.org/static/img/pandas.svg)
+<br>
 
----
 [**Pendulum**](https://github.com/sdispater/pendulum)  —  Python datetimes made easy.
 
 Supported: *Python 2/3*
@@ -677,41 +507,25 @@ Example:
 '2013-03-31T03:00:00+02:00'
 ```
 
----
+<br>
+
 [**pgcli**](https://github.com/dbcli/pgcli)  —  Postgres CLI with autocompletion and syntax highlighting. pgcli written in Python.
 
 Supported: *Python 2/3*
 
-![pgcli](https://cdn-images-1.medium.com/max/720/0*jFR4zKWP5x7DunCJ.gif)
+<br>
 
----
 [**Pipenv**](https://github.com/pypa/pipenv) is a tool that aims to bring the best of all packaging worlds to the Python world. It harnesses Pipfile, pip, and virtualenv into one single toolchain. It features very pretty terminal colors.
 
 It automatically creates and manages a virtualenv for your projects, as well as adds/removes packages from your Pipfile as you install/uninstall packages. The lock command generates a lockfile (Pipfile.lock).
 
-![GIF demonstrating Pipenv's usage](https://gist.githubusercontent.com/jlusk/855d611bbcfa2b159839db73d07f6ce9/raw/7f5743401809f7e630ee8ff458faa980e19924a0/pipenv.gif)
+<br>
 
----
 [**plotly.py**](https://github.com/plotly/plotly.py) —  an interactive, browser-based charting library for Python.
 
-Supported: *Python 2/3*
+<br>
 
-<p align="center">
-    <a href="https://github.com/plotly/plotly.py">
-        <img src="https://cdn-images-1.medium.com/max/720/0*dV4zYWbHRFlXk4UB.">
-    </a>
-</p>
-
----
 [**py.test**](https://github.com/pytest-dev/pytest) framework makes it easy to write small tests, yet scales to support complex functional testing for applications and libraries.
-
-Supported: *Python 2/3*
-
-<p align="center">
-    <a href="https://github.com/pytest-dev/pytest">
-        <img src="https://github.com/pytest-dev/pytest/raw/main/doc/en/img/pytest_logo_curves.svg">
-    </a>
-</p>
 
 An example of a simple test:
 ```python
@@ -722,7 +536,8 @@ def test_answer():
     assert inc(3) == 5
 ```
 
----
+<br>
+
 [**pycodestyle**](https://github.com/PyCQA/pycodestyle) is a tool to check your Python code against some of the style conventions in PEP 8.
 
 Example usage:
@@ -739,13 +554,12 @@ optparse.py:544:21: W601 .has_key() is deprecated, use 'in'
 ```
 
 
----
+<br>
+
 [**Pyro**](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch. Maintained by Uber.
 
-![](https://raw.githubusercontent.com/pyro-ppl/pyro/dev/docs/source/_static/img/pyro_logo_with_text.png)
+<br>
 
-
----
 [**python-fire**](https://github.com/google/python-fire) is a library for creating command line interfaces (CLIs) from
 absolutely any Python object.
 
@@ -764,48 +578,35 @@ if __name__ == '__main__':
   fire.Fire(Calculator)
 ```
 
----
+<br>
+
 [**python-prompt-toolkit** ](https://github.com/jonathanslenders/python-prompt-toolkit) —  a library for building powerful interactive command lines and terminal applications in Python.
 
 Supported: *Python 2/3*
 
-![ppt](https://cdn-images-1.medium.com/max/720/0*1pyfbQd0UNohXpTs.png)
+<br>
 
----
 [**python-telegram-bot**](https://github.com/python-telegram-bot/python-telegram-bot) - This library provides a pure Python interface for the Telegram Bot API. It's compatible with Python versions 2.7, 3.3+ and PyPy. It also works with Google App Engine.
 
 In addition to the pure API implementation, this library features a number of high-level classes to make the development of bots easy and straightforward. These classes are contained in the telegram.ext submodule.
 
-Supported: *Python 2.7/3.3+*
+<br>
 
-[![python-telegram-bot](https://raw.githubusercontent.com/python-telegram-bot/logos/master/logo-text/png/ptb-logo-text_768.png)](https://github.com/python-telegram-bot/python-telegram-bot)
-
----
 [**PyREBox**](https://github.com/Cisco-Talos/pyrebox) is a Python scriptable Reverse Engineering sandbox. It is based on QEMU, and its goal is to aid reverse engineering by providing dynamic analysis and debugging capabilities from a different perspective. PyREBox allows to inspect a running QEMU VM, modify its memory or registers, and to instrument its execution, by creating simple scripts in python to automate any kind of analysis. QEMU (when working as a whole-system-emulator) emulates a complete system (CPU, memory, devices...). By using VMI techniques, it does not require to perform any modification into the guest operating system, as it transparently retrieves information from its memory at run-time.
 
-![](https://github.com/Cisco-Talos/pyrebox/raw/master/docs/media/pyrebox_logo_light_bg.png)
+<br>
 
-
----
 [**Pytorch**](https://github.com/pytorch/pytorch) - An open source deep learning platform that provides a seamless path from research prototyping to production deployment. Maintained by Facebook.
-
-![](https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png)
-
-
 
 ## R
 
 [**Ranger**](https://github.com/ranger/ranger) is a console file manager with VI keybindings. It has a minimalistic design and allows you to quickly navigate through your directories.
 
-![](https://raw.githubusercontent.com/ranger/ranger-assets/master/screenshots/screenshot.png)
+<br>
 
-
----
 [**Records**](https://github.com/kennethreitz/records) is a very simple, but powerful, library for making raw SQL queries to most relational databases.
 
 Just write SQL. No bells, no whistles. This common task can be surprisingly difficult with the standard tools available. This library strives to make this workflow as simple as possible, while providing an elegant interface to work with your query results.
-
-Supported: *Python 2/3*
 
 Example:
 ```python
@@ -818,7 +619,8 @@ rows = db.query('select * from active_users')
 <Record {"username": "model-t", "active": true, "name": "Henry Ford", "user_email": "model-t@gmail.com", "timezone": "2016-02-06 22:28:23.894202"}>
 ```
 
----
+<br>
+
 [**Requests**](https://github.com/kennethreitz/requests). Python HTTP Requests for Humans™
 
 Requests allows you to send organic, grass-fed HTTP/1.1 requests, without the need for manual labor. There's no need to manually add query strings to your URLs, or to form-encode your POST data. Keep-alive and HTTP connection pooling are 100% automatic, powered by urllib3, which is embedded within Requests.
@@ -840,22 +642,21 @@ u'{"type":"User"...'
 >>> r.json()
 {u'disk_usage': 368627, u'private_gists': 484, ...}
 ```
----
+
+<br>
+
 [**RobotFramework**](https://robotframework.org) is a generic open source automation framework. It can be used for test automation and robotic process automation (RPA) having following features:
 - It is open-source and extensible and can be integrated with virtually any other tool to create powerful and flexible automation solutions.
 - It has easy syntax, utilizing human-readable keywords. Its capabilities can be extended by libraries implemented with Python or Java.
 - Robot Framework project is hosted on [GitHub](https://github.com/robotframework/robotframework) where you can find further documentation, source code, and issue tracker. Downloads are hosted at [PyPI](https://pypi.python.org/pypi/robotframework).
 - It is operating system and application independent. The core framework is implemented using Python and also runs on Jython (JVM) and IronPython (.NET).
-![](https://moisio.fr/wp-content/uploads/2019/12/Robot-Framework-2000x1200.jpg)
 
----
 ## S
 
 [**Saleor**](https://github.com/mirumee/saleor) is an open-source e-commerce storefront for Python and Django.
 
-[![Saleor](https://user-images.githubusercontent.com/249912/71523206-4e45f800-28c8-11ea-84ba-345a9bfc998a.png)](http://getsaleor.com)
+<br>
 
----
 [**Sanic**](https://github.com/channelcat/sanic) is a Flask-like Python 3.5+ web server that's written to go fast. It's based on the work done by the amazing folks at magicstack, and was inspired by this article: https://magic.io/blog/uvloop-blazing-fast-python-networking/.
 
 On top of being Flask-like, Sanic supports async request handlers. This means you can use the new shiny async/await syntax from Python 3.5, making your code non-blocking and speedy.
@@ -879,7 +680,8 @@ if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8000)
 ```
 
----
+<br>
+
 [**schema**](https://github.com/keleshev/schema) is a library for validating Python data structures, such as those obtained from config-files, forms, external services or command-line parsing, converted from JSON/YAML (or something else) to Python data-types.
 
 Usage:
@@ -903,7 +705,8 @@ Usage:
 
 ```
 
---
+<br>
+
 [**Schemathesis**](https://github.com/schemathesis/schemathesis) is a modern API testing tool for web applications built with Open API and GraphQL specifications.
 
 It reads the application schema and automatically generates test cases, which will ensure that your application is compliant with its schema.
@@ -935,16 +738,18 @@ def test_api(case):
 
 Both examples above will run hundreds of requests against the API under test and report all found failures and inconsistencies along with instructions to reproduce them.
 
----
+<br>
+
 [**SciPy**](https://github.com/scipy/scipy) (pronounced "Sigh Pie") is open-source software for mathematics, science, and engineering. It includes modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more. It is also the name of a very popular conference on scientific programming with Python.
 
 The SciPy library depends on NumPy, which provides convenient and fast N-dimensional array manipulation. The SciPy library is built to work with NumPy arrays, and provides many user-friendly and efficient numerical routines such as routines for numerical integration and optimization. Together, they run on all popular operating systems, are quick to install, and are free of charge. NumPy and SciPy are easy to use, but powerful enough to be depended upon by some of the world's leading scientists and engineers. If you need to manipulate numbers on a computer and display or publish the results, give SciPy a try!
 
----
-[**sonnet**](https://github.com/deepmind/sonnet) is a library built on top of TensorFlow for building complex neural networks.
-![](https://github.com/deepmind/sonnet/raw/master/images/sonnet_logo.png)
+<br>
 
----
+[**sonnet**](https://github.com/deepmind/sonnet) is a library built on top of TensorFlow for building complex neural networks.
+
+<br>
+
 [**Sovereign**](https://github.com/sovereign/sovereign) is a set of Ansible playbooks that you can use to build and maintain your own personal cloud based entirely on open source software, so you’re in control.
 
 If you’ve never used Ansible before, you might find these playbooks useful to learn from, since they show off a fair bit of what the tool can do.
@@ -953,56 +758,38 @@ The original author's background and motivations might be of interest. tl;dr: fr
 
 Sovereign offers useful cloud services while being reasonably secure and low-maintenance. Use it to set up your server, SSH in every couple weeks, but mostly forget about it.
 
----
+<br>
+
 [**streamlit**](https://github.com/streamlit/streamlit) — The fastest way to build data apps in Python ![]("https://docs.streamlit.io/logo.svg")
 
 The fastest way to build and share data apps.
 
 Streamlit lets you turn data scripts into sharable web apps in minutes, not weeks. It’s all Python, open-source, and free! And once you’ve created an app you can use their cloud platform to deploy, manage, and share your app!
 
-<p align="center">
-    <a href="https://streamlit.io/">
-        <img src="https://github.com/streamlit/docs/raw/main/public/images/Streamlit_overview.gif">
-    </a>
-</p>
+<br>
 
----
 [**sqlmap**](https://github.com/sqlmapproject/sqlmap) is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers. It comes with a powerful detection engine, many niche features for the ultimate penetration tester and a broad range of switches lasting from database fingerprinting, over data fetching from the database, to accessing the underlying file system and executing commands on the operating system via out-of-band connections.
 
-![sqlmap](https://camo.githubusercontent.com/59311a2d7a509adeee5c722cff84bf6de7a0b695/68747470733a2f2f7261772e6769746875622e636f6d2f77696b692f73716c6d617070726f6a6563742f73716c6d61702f696d616765732f73716c6d61705f73637265656e73686f742e706e67)
+<br>
 
----
 [**superset** ](https://github.com/airbnb/superset) —  a data exploration platform designed to be visual, intuitive and interactive.
 
 Supported: *Python 2/3*
 
-![superset](https://cdn-images-1.medium.com/max/720/0*EIcb12FSCzgxLinu.png)
+<br>
 
----
 [**SymPy**](https://github.com/sympy/sympy) is a Python library for symbolic mathematics. It aims to become a full-featured computer algebra system (CAS) while keeping the code as simple as possible in order to be comprehensible and easily extensible. SymPy is written entirely in Python.
-
-![sympy](http://www.sympy.org/static/images/logo.png)
 
 ## T
 
 [**TensorFlow** ](https://github.com/tensorflow/tensorflow) —  an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) that flow between them. This flexible architecture lets you deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device without rewriting code. TensorFlow also includes TensorBoard, a data visualization toolkit.
 
-Supported: *Python 2/3*
+<br>
 
-<a href="https://github.com/tensorflow/tensorflow">
-    <p align="center">
-      <img src="https://cdn-images-1.medium.com/max/720/0*dNVUpWFLoysACE9z." alt="TenserFlow">
-    </p>
-</a>
-
----
 [**Theano**](https://github.com/Theano/Theano) —  a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.
 
-Supported: *Python 2/3*
+<br>
 
-![theano](https://cdn-images-1.medium.com/max/720/0*b-nP6iz23vKIVqys.png)
-
----
 [**tqdm**](https://github.com/tqdm/tqdm) - a fast, extensible progress bar for Python and CLI 
 
 ```
@@ -1019,10 +806,6 @@ Output:
 ## U
 
 [**uvloop**](https://github.com/MagicStack/uvloop) is a fast, drop-in replacement of the built-in asyncio event loop. uvloop is implemented in Cython and uses libuv under the hood.
-
-Supported: *Python 2/3*
-
-![ubloop](https://github.com/MagicStack/uvloop/raw/master/performance.png)
 
 ## W
 
