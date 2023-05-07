@@ -2,7 +2,8 @@
 
 [**http**](https://github.com/elm/http) - Make HTTP requests in Elm. Talk to servers.
 
----
+<br>
+
 [**elm-test**](https://github.com/elm-explorations/test) - unit and fuzz tests for your Elm code, in Elm.
 
 Here are three example tests:
