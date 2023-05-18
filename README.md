@@ -1,8 +1,6 @@
-<b>A.W.E.S.O.M. O</b> is an extensive list of interesting open source projects written in various languages.
+[![awesomo](https://github.com/lk-geimfari/awesomo/assets/15812620/48c05000-9898-4603-882d-a143399f18cc)](https://github.com/lk-geimfari/awesomo)
 
-
-
-If you are interested in [Open Source](https://en.wikipedia.org/wiki/Open-source_software) and are considering to join the community of Open Source developers, then here you might find a project that will suit you.
+If you're interested in Open Source and thinking about joining the community of developers, you might find a suitable project here.
 
 # Languages
 
