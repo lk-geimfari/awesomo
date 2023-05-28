@@ -10,6 +10,9 @@ Use Airflow to author workflows as directed acyclic graphs (DAGs) of tasks. The 
 
 [**albumentations**](https://github.com/albumentations-team/albumentations) is a fast image augmentation library and an easy-to-use wrapper around other libraries.
 
+
+[**augly**](https://github.com/facebookresearch/AugLy) is a data augmentations library for audio, image, text, and video. 
+
 <br>
 
 [**asciinema**](https://github.com/asciinema/asciinema) is a terminal session recorder and the best companion of asciinema.org
