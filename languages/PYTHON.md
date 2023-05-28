@@ -792,6 +792,9 @@ Supported: *Python 2/3*
 [**Theano**](https://github.com/Theano/Theano) —  a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.
 
 <br>
+[**Tinygrad**](https://github.com/geohot/tinygrad) —  an open source python package for deep learning models due to its extreme simplicity, it aims to be the easiest framework to add new accelerators to, with support for both inference and training.
+
+<br>
 
 [**tqdm**](https://github.com/tqdm/tqdm) - a fast, extensible progress bar for Python and CLI 
 
