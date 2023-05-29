@@ -18,6 +18,11 @@ Traditionally, devices are connected clients to stream data to the cloud or fog 
 
 [**Blender**](https://github.com/blender/blender) is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline-modeling, rigging, animation, simulation, rendering, compositing, motion tracking and video editing.
 
+<br>
+
+[**Boost**](https://github.com/boostorg) is a large collection of generic C++ libraries.
+
+
 ## C
 
 
@@ -37,6 +42,11 @@ Dear ImGui is designed to enable fast iterations and to empower programmers to c
 <br>
 
 [**Defold**](https://github.com/defold/defold) is a free to use, source available, game engine with a developer-friendly license. Defold is owned and developed by the Defold Foundation.
+
+<br>
+
+[**Dlib**](https://github.com/davisking/dlib) A toolkit for making real world machine learning and data analysis applications in C++
+
 
 ## E
 
