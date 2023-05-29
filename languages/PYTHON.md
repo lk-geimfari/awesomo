@@ -10,6 +10,9 @@ Use Airflow to author workflows as directed acyclic graphs (DAGs) of tasks. The 
 
 [**albumentations**](https://github.com/albumentations-team/albumentations) is a fast image augmentation library and an easy-to-use wrapper around other libraries.
 
+
+[**augly**](https://github.com/facebookresearch/AugLy) is a data augmentations library for audio, image, text, and video. 
+
 <br>
 
 [**asciinema**](https://github.com/asciinema/asciinema) is a terminal session recorder and the best companion of asciinema.org
@@ -455,6 +458,8 @@ Odoo have a large community around the world and have a good documentation
 Odoo. Open Source Apps To Grow Your Business. 
 Site: https://www.odoo.com
 
+[**Open pilot**](https://github.com/commaai/openpilot) openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models. 
+
 
 ## P
 
@@ -787,6 +792,9 @@ Supported: *Python 2/3*
 <br>
 
 [**Theano**](https://github.com/Theano/Theano) —  a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.
+
+<br>
+[**Tinygrad**](https://github.com/geohot/tinygrad) —  an open source python package for deep learning models due to its extreme simplicity, it aims to be the easiest framework to add new accelerators to, with support for both inference and training.
 
 <br>
 
