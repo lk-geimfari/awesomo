@@ -81,6 +81,9 @@ The goal of Lithium is to prove that this is feasible.
 
 [**MXNet**](https://github.com/dmlc/mxnet) is a deep learning framework designed for both efficiency and flexibility. It allows you to mix the flavours of symbolic programming and imperative programming to maximize efficiency and productivity. In its core, a dynamic dependency scheduler that automatically parallelizes both symbolic and imperative operations on the fly. A graph optimization layer on top of that makes symbolic execution fast and memory efficient. The library is portable and lightweight, and it scales to multiple GPUs and multiple machines.
 
+[**MySQL++**](http://www.tangentsoft.net/mysql++)- A C++ wrapper for MySQL's C API
+
+
 ## O
 
 [**Ogre3D**](https://www.ogre3d.org/) is one of the most popular open-source graphics rendering engines, and has been used in a large number of production projects, in such diverse areas as games, simulators, educational software, interactive art, scientific visualisation, and others.
