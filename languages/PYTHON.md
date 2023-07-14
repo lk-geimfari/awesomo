@@ -832,3 +832,8 @@ $ flake8 your_package/
 
 Full list of violations available [at the documentation](https://wemake-python-styleguide.readthedocs.io/en/latest/_pages/violations/index.html).
 
+## Z
+
+[**Zulip** ](https://github.com/zulip/zulip) - It is an open-source team collaboration tool with unique topic-based threading that combines the best of email and chat to make remote work productive and delightful. Fortune 500 companies, leading open source projects, and thousands of other organizations use Zulip every day. Zulip is the only modern team chat app that is designed for both live and asynchronous conversations.
+
+It is mostly  written in `Python` with few other languages coming into play. This is one of the best open-source project to begin contributions with.
