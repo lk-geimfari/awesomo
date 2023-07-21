@@ -16,8 +16,6 @@ Angular is a development platform for building mobile and desktop web applicatio
 
 Angular Material brings high-quality UI components built with Angular 2 and TypeScript, following the Material Design spec. These components will serve as an example of how to write Angular code following best practices.
 
-[Check out the available components](https://material.angular.io/components)
-
 <br>
 
 [**Amplication**](https://github.com/amplication/amplication) - Open-source low code tool that builds Node.js applications in few clicks.
