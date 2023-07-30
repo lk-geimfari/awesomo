@@ -126,7 +126,7 @@ Supported: *Python 2/3*
 
 <br>
 
-[ColossalAI](https://github.com/hpcaitech/ColossalAI) -  Making large AI models cheaper, faster and more accessible .
+[**ColossalAI**](https://github.com/hpcaitech/ColossalAI) -  Making large AI models cheaper, faster and more accessible .
 
 ## D
 
@@ -274,7 +274,7 @@ Kivy is written in Python and Cython, based on OpenGL ES 2, supports various inp
 
 ## L
 
-[litestar](https://github.com/litestar-org/litestar) is a light, flexible and extensible ASGI API framework.
+[**litestar**](https://github.com/litestar-org/litestar) is a light, flexible and extensible ASGI API framework.
 
 <br>
 
@@ -569,7 +569,7 @@ optparse.py:544:21: W601 .has_key() is deprecated, use 'in'
 
 <br>
 
-[pydantic](https://github.com/pydantic/pydantic) is the most widely used data validation library for Python.
+[**pydantic**](https://github.com/pydantic/pydantic) is the most widely used data validation library for Python.
 
 Fast and extensible, Pydantic plays nicely with your linters/IDE/brain. Define how data should be in pure, canonical Python 3.7+; validate it with Pydantic.
 
