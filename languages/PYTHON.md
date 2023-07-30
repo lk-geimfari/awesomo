@@ -123,6 +123,11 @@ Supported: *Python 2/3*
 
 [**compose** ](https://github.com/docker/compose) —  a tool for defining and running multi-container Docker applications. With Compose, you use a Compose file to configure your application’s services. Then, using a single command, you create and start all the services from your configuration.
 
+
+<br>
+
+[ColossalAI](https://github.com/hpcaitech/ColossalAI) -  Making large AI models cheaper, faster and more accessible .
+
 ## D
 
 [**Django**](https://github.com/django/django) is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
@@ -268,6 +273,10 @@ Here a small example of a Jinja template:
 Kivy is written in Python and Cython, based on OpenGL ES 2, supports various input devices and has an extensive widget library. With the same codebase, you can target Windows, OS X, Linux, Android and iOS. All Kivy widgets are built with multitouch support.
 
 ## L
+
+[litestar](https://github.com/litestar-org/litestar) is a light, flexible and extensible ASGI API framework.
+
+<br>
 
 [**Locust**](https://github.com/locustio/locust) is an easy-to-use, distributed, user load testing tool. It is intended for load-testing web sites (or other systems) and figuring out how many concurrent users a system can handle.
 
@@ -558,6 +567,11 @@ optparse.py:472:29: E221 multiple spaces before operator
 optparse.py:544:21: W601 .has_key() is deprecated, use 'in'
 ```
 
+<br>
+
+[pydantic](https://github.com/pydantic/pydantic) is the most widely used data validation library for Python.
+
+Fast and extensible, Pydantic plays nicely with your linters/IDE/brain. Define how data should be in pure, canonical Python 3.7+; validate it with Pydantic.
 
 <br>
 
