@@ -104,6 +104,33 @@ This small Compojure application demonstrates creating a Ring handler from two r
 
 <br>
 
+## E
+
+[Emmy](https://github.com/mentat-collective/emmy) is a Clojure(Script) implementation of the scmutils system for math and physics investigations in the Clojure and ClojureScript languages. Emmy provides facilities for
+
+- [symbolic
+  computation](https://cljdoc.org/d/org.mentat/emmy/CURRENT/doc/data-types/symbolic-expressions),
+  including state of the art TeX rendering and [expression
+  simplification](https://cljdoc.org/d/org.mentat/emmy/CURRENT/doc/simplification)
+- [automatic](https://cljdoc.org/d/org.mentat/emmy/CURRENT/doc/calculus/automatic-differentiation),
+  [numerical](https://cljdoc.org/d/org.mentat/emmy/CURRENT/doc/numerical-methods/numerical-derivative)
+  and
+  [symbolic](https://cljdoc.org/d/org.mentat/emmy/CURRENT/doc/calculus/automatic-differentiation)
+  differentiation
+- [numerical integration and
+  optimization](https://cljdoc.org/d/org.mentat/emmy/CURRENT/doc/numerical-methods)
+- investigations in [differential
+  geometry](https://cljdoc.org/d/org.mentat/emmy/CURRENT/doc/textbooks/functional-differential-geometry)
+  and [Lagrangian and Hamiltonian
+  mechanics](https://cljdoc.org/d/org.mentat/emmy/CURRENT/doc/textbooks/structure-and-interpretation-of-classical-mechanics)
+
+And implementations of many different [mathematical
+objects](https://cljdoc.org/d/org.mentat/emmy/CURRENT/doc/data-types), all built
+on a tower of [generic, extensible mathematical
+operations](https://cljdoc.org/d/org.mentat/emmy/CURRENT/doc/basics/generics).
+
+<br>
+
 ## H
 
 ---
