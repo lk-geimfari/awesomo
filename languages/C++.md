@@ -119,9 +119,7 @@ actor Main
 
 [**Robomongo**](https://github.com/paralect/robomongo) is a shell-centric cross-platform MongoDB management tool. Unlike most other MongoDB admin UI tools, Robomongo embeds the actual mongo shell in a tabbed interface with access to a shell command line as well as GUI interaction.
 
-## S
 
-[**SDL**](https://www.libsdl.org/) (Simple DirectMedia Layer) is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software, emulators, and popular games including Valve's award winning catalog and many Humble Bundle games. Officially supports Windows, Mac OS X, Linux, iOS, and Android. Support for other platforms may be found in the source code. SDL 2.0 is distributed under the zlib license. This license allows you to use SDL freely in any software.
 
 ## T
 

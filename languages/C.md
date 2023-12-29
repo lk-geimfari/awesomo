@@ -82,4 +82,8 @@ It derives from the old Numeric code base and can be used as a replacement for N
 
 ## S
 
+[**SDL**](https://www.libsdl.org/) (Simple DirectMedia Layer) is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software, emulators, and popular games including Valve's award winning catalog and many Humble Bundle games. Officially supports Windows, Mac OS X, Linux, iOS, and Android. Support for other platforms may be found in the source code. SDL 2.0 is distributed under the zlib license. This license allows you to use SDL freely in any software.
+
+<br>
+
 [**Skynet**](https://github.com/cloudwu/skynet) is a lightweight online game framework, and it can be used in many other fields.
