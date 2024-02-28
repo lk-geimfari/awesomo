@@ -83,3 +83,7 @@ It derives from the old Numeric code base and can be used as a replacement for N
 ## S
 
 [**Skynet**](https://github.com/cloudwu/skynet) is a lightweight online game framework, and it can be used in many other fields.
+
+---
+
+[**StringZilla**](https://github.com/ashvardanian/stringzilla) is a fast string processing library using SIMD Assembly instructions on Arm Neon and x86 AVX2 & AVX-512-capable chips to accelerate search, sorting, grouping, hashing, edit distances, and even alignment scores. It's implemented mostly in C, and has bindings to C++, Python, Rust, and Swift, among other languages.
