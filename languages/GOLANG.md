@@ -8,6 +8,10 @@
 
 HTML output is currently supported, along with Smartypants extensions. An experimental LaTeX output engine is also included.
 
+<br>
+
+[**Bifrost by Maxim AI**](https://github.com/maximhq/bifrost) - [Bifrost](https://www.getmaxim.ai/bifrost/) is a high-performance LLM gateway that connects 1000+ models through a single API interface with extremely high throughput. 
+
 ## C 
 
 [**Caddy**](https://github.com/mholt/caddy) — a general-purpose web server for Windows, Mac, Linux, BSD, and Android. It is a capable but easier alternative to other popular web servers.
