@@ -1,2 +1,2 @@
 *.md linguist-detectable=true
-CONTRIBUTING.md linguist-detectable=false
+CONTRIBUTING.md linguist-documentation=true
