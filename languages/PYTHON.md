@@ -130,6 +130,11 @@ Supported: *Python 2/3*
 
 ## D
 
+
+[**DeepAlpha**](https://github.com/stefanoviana/deepalpha) is an AI-powered crypto trading bot with 70.9% walk-forward validated accuracy. Uses XGBoost + LightGBM ensemble with 72 engineered features. Supports Bybit and Binance exchanges via CCXT. MIT licensed.
+
+<br>
+
 [**Django**](https://github.com/django/django) is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
 
 <br>
