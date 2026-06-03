@@ -157,6 +157,10 @@ Since Evennia is entirely programmed using Python, the tools used by professiona
 
 ## F
 
+[**FunASR**](https://github.com/modelscope/FunASR) — An industrial-grade open-source speech recognition toolkit supporting streaming ASR, voice activity detection, punctuation restoration, and speaker diarization across 50+ languages. Features SenseVoice for ultra-fast multi-task speech understanding (~70ms for 10s audio).
+
+<br>
+
 [**FastAPI** ](https://github.com/tiangolo/fastapi) —  FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
 
 <br>
