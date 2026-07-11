@@ -6,6 +6,10 @@ MIT-licensed no-code businsess automation tool like Zapier that can be hosted on
 
 <br>
 
+[**AI Language Partner**](https://github.com/duct-tape2/ai-language-partner) — Local-first Japanese speaking practice for Korean learners, with pre-authored dialogue banks, local STT/TTS paths, and browser-only first contributions.
+
+<br>
+
 [**Angular**](https://github.com/angular/angular)  —  The successor to AngularJS.
 
 Angular is a development platform for building mobile and desktop web applications.
