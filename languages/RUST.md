@@ -180,6 +180,12 @@ fn main() {
 
 ## M
 
+[**MoonProxy**](https://github.com/MoonProxyHQ/moonproxy-desktop) is a cross-platform GUI desktop client for FRP (Fast Reverse Proxy), built with Tauri v2 + Rust + Vue 3.
+
+MIT-licensed desktop application that exposes local services to the public internet with one click. Supports macOS (Apple Silicon + Intel) and Windows x64. Bundles frpc binary via Tauri sidecar mechanism — no separate frp installation needed.
+
+<br>
+
 [**Mio**](https://github.com/carllerche/mio) is a lightweight I/O library for Rust with a focus on adding as little overhead as possible over the OS abstractions.
 
 ## N
