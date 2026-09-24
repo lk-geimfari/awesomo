@@ -81,6 +81,10 @@ fn main() {
 }
 ```
 
+<br>
+
+[**CookCLI**](https://github.com/cooklang/CookCLI) is a command-line tool for managing recipes written in Cooklang markup language. It includes a recipe viewer, shopping list generator, web server with a beautiful UI, and various utilities for working with recipe collections.
+
 ## D
 
 [**Deno**](https://github.com/denoland/deno) is a simple, modern and secure runtime for JavaScript, TypeScript, and WebAssembly that uses V8 and is built in Rust.
