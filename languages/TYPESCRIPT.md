@@ -88,6 +88,13 @@ tinyhttp is a modern Express-like web framework written in TypeScript and compil
 
 Nowadays most of the JavaScript applications, both backend or frontend, are filled with a lot of `node_modules` bloat. While modern Node.js versions support almost all latest JavaScript features, frameworks still pull garbage dependencies like `array-flatten`, even though it has been added to Node in 2018. tinyhttp tries to solve this problem by not relying on any polyfills and targeting the latest stable ECMAScript standard (ES2019 is supported by Node 12 LTS). Moreover, the framework targets both CommonJS legacy modules and modern standard ESM modules which you can use in both LTS and modern versions of Node with no extra setup required.
 
+<br>
+
+[**Telemetry Tracker**](https://github.com/Telemetry-Tracker/telemetry-tracker) — Open-source, self-hostable error tracker for side projects and small teams.
+
+Telemetry Tracker groups errors with source map symbolication and alerts, and also records events, sessions and Web Vitals. It is MIT-licensed, can be self-hosted with a Fastify API, Next.js dashboard and PostgreSQL, and has an optional free hosted plan. SDKs cover Next.js, React, Vue, Nuxt, React Native, Node and NestJS.
+
+
 ## V
 
 [**Visual Studio Code**](https://github.com/Microsoft/vscode) - Open source code editor.
