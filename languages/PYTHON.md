@@ -245,6 +245,11 @@ See [hypothesis.works](http://hypothesis.works) for articles, tips, and testimon
 
 [**imgclsmob**](https://github.com/osmr/imgclsmob) is a repository that contains implementations of many pretrained image classification models and more. Supports many popular ML frameworks like TensorFlow, PyTorch, MXNet, etc.  
 
+<br>
+
+- [**ioe**](https://github.com/zhtyyx/ioe) - A self-hosted Django retail store application for product records, inventory movements, sales checkout, and membership management.
+
+
 ## J
 
 [**Jinja2**](https://github.com/pallets/jinja) is a template engine written in pure Python. It provides a Django inspired non-XML syntax but supports inline expressions and an optional sandboxed environment.
