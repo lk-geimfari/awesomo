@@ -24,6 +24,12 @@ Amplication is an open‑source development tool. It helps professional Node.js 
 
 Amplication auto-generates backend apps built with TypeScript and Node.js, and a client built with React.
 
+## C
+
+[**Cate**](https://github.com/0-AI-UG/cate) - An infinite zoomable canvas for coding, built with Electron, React and TypeScript.
+
+Cate is an open source desktop IDE on an infinite canvas. Instead of stacking windows and tabs, you spread Monaco editors, xterm.js terminals, embedded browsers, document previews, and AI agent panels across zoomable space. Panels can float, dock into tabs and splits, or detach into separate OS windows, and the layout persists per project folder. Runs on macOS, Windows and Linux. MIT licensed.
+
 ## I
 
 [**Ionic**](https://github.com/driftyco/ionic)  —  A complete mobile toolkit, built for web developers.
