@@ -243,6 +243,12 @@ See [hypothesis.works](http://hypothesis.works) for articles, tips, and testimon
 
 ## I
 
+- [**InvoiceFlowAI**](https://github.com/EthanYoQ/Invoice-Downloader) - Open-source desktop invoice organizer that collects email invoices, applies OCR and exports an Excel summary for human review.
+
+It supports QQ and 163 mailboxes and local PDF, OFD and XML invoices, helping users prepare invoice files and summaries for reimbursement.
+
+<br>
+
 [**imgclsmob**](https://github.com/osmr/imgclsmob) is a repository that contains implementations of many pretrained image classification models and more. Supports many popular ML frameworks like TensorFlow, PyTorch, MXNet, etc.  
 
 ## J
