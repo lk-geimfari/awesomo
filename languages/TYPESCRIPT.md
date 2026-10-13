@@ -1,5 +1,11 @@
 ## A
 
+- [**AI Novel Writer**](https://github.com/EthanYoQ/AI-Novel-Writer) - Open-source desktop workspace for planning, drafting, reviewing and revising long-form fiction with user-configured AI models.
+
+Authors keep characters, worldbuilding, chapter plans and revisions in one project. Windows and macOS builds support local Ollama or configured online providers.
+
+<br>
+
 [**Activepieces**](https://github.com/activepieces/activepieces)  —  No-code business automation tool written in Typescript and Angualr.
 
 MIT-licensed no-code businsess automation tool like Zapier that can be hosted on your machine to keep your data on prem.
