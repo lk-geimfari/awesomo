@@ -271,4 +271,3 @@ To render a file we can call `render-file` instead:
 ;; Specter
 (transform [MAP-VALS ALL MAP-VALS even?] inc data)
 ```
-
