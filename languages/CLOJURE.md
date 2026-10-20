@@ -1,6 +1,6 @@
 ## 4
 
-[**4clojure**](https://github.com/4clojure/4clojure) is an interactive problem website for learning Clojure
+[**4clojure**](https://github.com/4clojure/4clojure) is an interactive problem website for learning Clojure (Now Discontinued)
 
 ## A
 
