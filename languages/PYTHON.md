@@ -177,6 +177,11 @@ Since Evennia is entirely programmed using Python, the tools used by professiona
 
 Flask offers suggestions, but doesn't enforce any dependencies or project layout. It is up to the developer to choose the tools and libraries they want to use. There are many extensions provided by the community that make adding new functionality easy.
 
+<br>
+
+[**Fellow**](https://github.com/ManuelZierl/fellow) is a command-line AI assistant built by developers, for developers. Unlike most AI tools that stop at suggesting code, Fellow goes a step further: It executes tasks on your behalf. It reasons step-by-step, chooses commands from a plugin system, and edits files, generates content, or writes tests — autonomously.
+
+
 ## G
 
 [**Glances**](https://github.com/nicolargo/glances) is a cross-platform curses-based system monitoring tool written in Python.
