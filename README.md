@@ -1,5 +1,10 @@
 [![awesomo](https://github.com/lk-geimfari/awesomo/assets/15812620/48c05000-9898-4603-882d-a143399f18cc)](https://github.com/lk-geimfari/awesomo)
 
+> [!WARNING]
+> **This project is no longer maintained and is preserved for archival purposes only.**
+>
+> With the rise of LLMs, curated lists like this have become largely obsolete. No further updates or support are planned.
+
 If you're interested in Open Source and thinking about joining the community of developers, you might find a suitable project here.
 
 # Languages
