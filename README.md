@@ -1,9 +1,15 @@
 [![awesomo](https://github.com/lk-geimfari/awesomo/assets/15812620/48c05000-9898-4603-882d-a143399f18cc)](https://github.com/lk-geimfari/awesomo)
 
 > [!WARNING]
-> **This project is no longer maintained and is preserved for archival purposes only.**
+> **This project is officially extinct.**
 >
-> With the rise of LLMs, curated lists like this have become largely obsolete. No further updates or support are planned.
+> Once upon a time, humans manually collected links to interesting open-source projects. Then LLMs showed up and made the whole concept of curated lists about as relevant as a floppy disk at a cloud computing conference.
+>
+> This repository is now a digital fossil, preserved for archaeological purposes only. No updates, no maintenance, no pull requests.
+>
+> **The irony?** We used to reject dead projects as *mammoth's shit*. Now the entire repository is one giant pile of it.
+>
+> Rest in peace, `awesomo`. You were awesome before AI made everyone an expert at everything.
 
 If you're interested in Open Source and thinking about joining the community of developers, you might find a suitable project here.
 
