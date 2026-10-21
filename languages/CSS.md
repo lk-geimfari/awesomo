@@ -6,7 +6,7 @@
 
 ## B
 
-[**Bootstrap**](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+[**Bootstrap**](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first projects on the web.
 
 <br>
 
@@ -36,7 +36,7 @@
 
 ## S
 
-[**Semantic UI**](https://semantic-ui.com/) — Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML.
+[**Semantic UI**](https://semantic-ui.com/) — is a modern development framework that helps developers create beautiful, responsive, and user-friendly web interfaces. It uses simple, human-readable HTML along with intuitive CSS classes to simplify the design process.
 
 ## T
 
