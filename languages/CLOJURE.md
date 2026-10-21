@@ -1,6 +1,6 @@
 ## 4
 
-[**4clojure**](https://github.com/4clojure/4clojure) is an interactive problem website for learning Clojure
+[**4clojure**](https://github.com/4clojure/4clojure) is an interactive problem website for learning Clojure (Now Discontinued)
 
 ## A
 
@@ -271,4 +271,3 @@ To render a file we can call `render-file` instead:
 ;; Specter
 (transform [MAP-VALS ALL MAP-VALS even?] inc data)
 ```
-

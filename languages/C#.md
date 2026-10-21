@@ -12,13 +12,13 @@
 
 <br>
 
-[**AutoMapper**](https://github.com/AutoMapper/AutoMapper) is a convention-based object-object mapper in .NET.
+[**AutoMapper**](https://github.com/AutoMapper/AutoMapper) is a convention-based object-to-object mapper in .NET.
 
 <br>
 
 [**Avalonia**](https://github.com/AvaloniaUI/Avalonia/) is a cross-platform XAML-based UI 
 framework providing a flexible styling system and supporting a wide range of Operating Systems 
-such as Windows via .NET Framework and .NET Core, Linux via Xorg, macOS. Avalonia is ready 
+such as Windows via .NET Framework and .NET Core, Linux via Xorg and macOS. Avalonia is ready 
 for General-Purpose Desktop App Development. However, there may be some bugs and breaking 
 changes as we continue along into this project's development.
 
@@ -37,17 +37,16 @@ that runs in the browser with WebAssembly.
 [**BotBuilder**](https://github.com/Microsoft/BotBuilder) is one of three main components of the 
 Microsoft Bot Framework. The Microsoft Bot Framework provides just what you need to build and 
 connect intelligent bots that interact naturally wherever your users are talking, 
-from text/SMS to Skype, Slack, Office 365 mail and other popular services.
+from text/SMS to Skype, Slack, Office 365 mail and other popular texting services.
 
 <br>
 
-[**BuildTools**](https://github.com/aspnet/BuildTools) - Utilities used in the build system for 
-projects that are used with ASP.NET Core and Entity Framework Core.
+[**BuildTools**](https://github.com/aspnet/BuildTools) - is a collection of utilities and supporting tools designed to facilitate and streamline the build process for projects that use ASP.NET Core and Entity Framework Core. These tools help automate various build-related tasks, simplify development workflows, and ensure consistency across different projects. By providing reusable components and build system utilities, BuildTools helps developers manage project dependencies, maintain a reliable build environment, and improve the overall efficiency of the development process.
 
 ## C
 
 [**Cake**](https://github.com/cake-build/cake) (C# Make) is a build automation system with a C# DSL
-to do things like compiling code, copy files/folders, running unit tests, compress files and build
+to do things like compiling code, copying files/folders, running unit tests, compressing files and building
 NuGet packages.
 
 <br>

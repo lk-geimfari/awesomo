@@ -105,7 +105,7 @@ actor Main
 
 <br>
 
-[**Proxygen**](https://github.com/facebook/proxygen). This project comprises the core C++ HTTP abstractions used at Facebook. Internally, it is used as the basis for building many HTTP servers, proxies, and clients. This release focuses on the common HTTP abstractions and our simple HTTPServer framework. Future releases will provide simple client APIs as well. The framework supports HTTP/1.1, SPDY/3, SPDY/3.1, and HTTP/2. The goal is to provide a simple, performant, and modern C++ HTTP library.
+[**Proxygen**](https://github.com/facebook/proxygen). This project comprises of the core C++ HTTP abstractions used at Facebook. Internally, it is used as the basis for building many HTTP servers, proxies, and clients. This release focuses on the common HTTP abstractions and our simple HTTPServer framework. Future releases will provide simple client APIs as well. The framework supports HTTP/1.1, SPDY/3, SPDY/3.1, and HTTP/2. The goal is to provide a simple, performant, and modern C++ HTTP library.
 
 ## R
 
@@ -121,7 +121,7 @@ actor Main
 
 ## S
 
-[**SDL**](https://www.libsdl.org/) (Simple DirectMedia Layer) is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software, emulators, and popular games including Valve's award winning catalog and many Humble Bundle games. Officially supports Windows, Mac OS X, Linux, iOS, and Android. Support for other platforms may be found in the source code. SDL 2.0 is distributed under the zlib license. This license allows you to use SDL freely in any software.
+[**SDL**](https://www.libsdl.org/) (Simple DirectMedia Layer) is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software, emulators, and popular games including Valve's award winning catalog and many Humble Bundle games. Officially supports Windows, MacOS X, Linux, iOS, and Android. Support for other platforms may be found in the source code. SDL 2.0 is distributed under the zlib license. This license allows you to use SDL freely in any software.
 
 ## T
 
