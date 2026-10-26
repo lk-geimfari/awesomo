@@ -9,7 +9,7 @@
 >
 > **The irony?** We used to reject dead projects as *mammoth's shit*. Now the entire repository is one giant pile of it.
 >
-> Rest in peace, `awesomo`. You were awesome before AI made everyone an expert at everything.
+> Rest in peace, `awesomo`.
 
 If you're interested in Open Source and thinking about joining the community of developers, you might find a suitable project here.
 
